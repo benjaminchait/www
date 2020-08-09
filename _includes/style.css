@@ -49,6 +49,10 @@ h2, .page-title {
 	float: left;
 }
 
+.posts {
+	margin: 0 1em;
+}
+
 .entry-date {
 	float: left;
 	/*font: 100 1em/1.2 "museo-sans-1", "museo-sans-2", sans-serif;*/
