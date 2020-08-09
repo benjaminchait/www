@@ -8,7 +8,7 @@ date: 2017-2-31 23:00:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2017/12/four-years-west
+permalink: /archives/four-years-west
 ---
 This year started so incredible: my work was going well, Sarah began her Physician Assistant program in the summer and we purchased our first house. Everything was feeling really, really good.
 

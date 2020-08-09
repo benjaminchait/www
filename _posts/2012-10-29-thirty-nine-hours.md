@@ -8,7 +8,7 @@ date: 2012-10-29 06:10:41
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/10/thirty-nine-hours
+permalink: /archives/thirty-nine-hours
 ---
 Some 39 hours following our initial flight from DEN to SEA, [Sarah][1] and I arrived in Bangkok, Thailand approximately 12:30 am local time.
 

@@ -8,7 +8,7 @@ date: 2013-03-19 12:03:36
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/03/singapore
+permalink: /archives/singapore
 ---
 The adventure started before landing. A friend of mine put me in touch with Kenny, a Scottish expat living and working in the city-state. He graciously offered a place at which to crash—incredibly helpful as Singapore is possibly the most expensive city in Asia—while simultaneously crafting nicknames for Sarah and myself; already I was excited for what was shaping-up to be a distinct and eclectic week.
 

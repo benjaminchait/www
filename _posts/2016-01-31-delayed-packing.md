@@ -8,7 +8,7 @@ date: 2016-01-31 07:01:43
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2016/01/delayed-packing
+permalink: /archives/delayed-packing
 ---
 This time last week, I sat in my childhood bedroom. Clothes and other goods ready to be packed, strewn across the floor and over the bed. But instead of packing in any reasonable manner, I spent the evening reflecting.
 

@@ -8,7 +8,7 @@ date: 2013-04-25 11:04:39
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/04/phnom-penh
+permalink: /archives/phnom-penh
 ---
 Sadness.
 

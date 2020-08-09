@@ -8,7 +8,7 @@ date: 2013-04-11 11:04:01
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/04/southern-thailand
+permalink: /archives/southern-thailand
 ---
 Ao Nang provided some of the more peaceful days found thus far on this trip. Days spent reading in hammocks or playing on beaches in the warm Andaman Sea gave a chance to regain bearings. Lovely sunsets and street food reminded me how simple moments can be almost magical. Dinner parties with fellow travelers gave way to incredible stories, from a German family of six venturing around-the-world for a year to others visiting Thailand for only a week. Fireflies and geckos surrounded our bungalow as we went to sleep.
 

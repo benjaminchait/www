@@ -8,7 +8,7 @@ date: 2013-04-29 04:04:06
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/04/going-solo
+permalink: /archives/going-solo
 ---
 Six months ago I set out traveling with a fantastic girl; yesterday we parted ways as I boarded a plane, alone, for Nepal.
 

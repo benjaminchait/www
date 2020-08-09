@@ -8,7 +8,7 @@ date: 2013-02-10 09:02:02
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/02/north-island
+permalink: /archives/north-island
 ---
 Chasing summer in New Zealand includes both plenty of mountains and moments at the water; my past two weeks spent exploring the North Island gave chance for a slower pace when compared to the previous five weeks of travel. Beginning in Auckland and working toward Wellington saw incredible changes in landscape and experiences.
 

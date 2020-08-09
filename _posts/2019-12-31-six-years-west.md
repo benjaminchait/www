@@ -8,7 +8,7 @@ date: 2019-12-31 22:01:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2019/12/six-years-west
+permalink: /archives/six-years-west
 ---
 Every morning I wake up and look outside my bedroom window at a view that still amazes me.
 

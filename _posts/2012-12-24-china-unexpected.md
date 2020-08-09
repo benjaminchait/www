@@ -8,7 +8,7 @@ date: 2012-12-24 09:12:13
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/12/china-unexpected
+permalink: /archives/china-unexpected
 ---
 This is the story of getting stranded in China. Not quite the airport layover I expected when purchasing tickets from Hong Kong to Tokyo by way of Dalian. (I should note that—as I write about this adventure—I arrived safely in Japan yesterday.)
 

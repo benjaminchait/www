@@ -8,7 +8,7 @@ date: 2012-11-10 09:11:18
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/11/chiang-mai
+permalink: /archives/chiang-mai
 ---
 Getting to Chiang Mai was no easy feat: our scheduled 12-hour train ride took a full 17 hours to arrive. And while the countryside was enjoyable throughout the day, the early nightfall provided little sightseeing for the later part of the trip. Arriving at a hostel around 2 am, we were immediately asleep.
 

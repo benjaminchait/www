@@ -8,7 +8,7 @@ date: 2016-12-31 07:12:37
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2016/12/three-years-west
+permalink: /archives/three-years-west
 ---
 The sun came out after a rainy morning, one last warm glow in 2016. Not quite cold, though not quite the warm California weather we were expecting. Rather, hoping.&nbsp;
 

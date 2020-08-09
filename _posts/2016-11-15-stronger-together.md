@@ -8,7 +8,7 @@ date: 2016-11-15 10:11:07
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2016/11/stronger-together
+permalink: /archives/stronger-together
 ---
 I still have hope.&nbsp;
 

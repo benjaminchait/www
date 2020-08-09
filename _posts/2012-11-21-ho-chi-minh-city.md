@@ -8,7 +8,7 @@ date: 2012-11-21 01:11:27
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/11/ho-chi-minh-city
+permalink: /archives/ho-chi-minh-city
 ---
 Crossing streets in Vietnam is dangerous as I was warned. Whereas Thailand had some suggestions for driving, Vietnam&#8217;s roadways are an entirely new challenge. Cars only somewhat follow direction from streetlights and motorbikes break every rule in the book. It&#8217;s not even when crossing streets; motorbikes routinely drive along the sidewalk to themselves avoid the traffic. And the alley in which our hostel is located—barely wide enough for two people standing side-by-side—has little &#8220;honks&#8221; of scooters trying to pass you. And yet in all the chaos, I am full of wonder and more than a little amazement.
 

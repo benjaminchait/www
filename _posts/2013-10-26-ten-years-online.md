@@ -8,7 +8,7 @@ date: 2013-10-26 12:10:28
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/10/ten-years-online
+permalink: /archives/ten-years-online
 ---
 Ten years ago, I registered my first domain name: benjaminchait.net.
 

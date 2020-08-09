@@ -8,7 +8,7 @@ date: 2013-08-17 10:08:03
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/08/culture-shock-reversed
+permalink: /archives/culture-shock-reversed
 ---
 The hardest part of travel is returning home.
 

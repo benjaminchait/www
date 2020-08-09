@@ -8,7 +8,7 @@ date: 2012-12-15 02:12:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/12/passports
+permalink: /archives/passports
 ---
 I have my passport back, finally. For most of the past four weeks I&#8217;ve only seen it intermittently. Not a single night has passed during which I&#8217;ve held it, physically. But that&#8217;s normal in Vietnam.
 

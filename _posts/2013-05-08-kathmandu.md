@@ -8,7 +8,7 @@ date: 2013-05-08 03:05:28
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/05/kathmandu
+permalink: /archives/kathmandu
 ---
 My taxi shuttered across unpaved streets, dodging potholes, rickshaws, people and the occasional roaming cow; I thought it a miracle the raggedy car itself had not yet fallen apart. The city is dirty, crowded, horns blaring at deafening levels. I struggled with the immense cultural differences, the overall chaos. Crossing streets, riding buses, even the dogs barking at night—all of it exhausting.
 

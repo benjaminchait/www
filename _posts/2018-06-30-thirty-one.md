@@ -8,7 +8,7 @@ date: 2018-06-30 21:00:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2018/06/thirty-one
+permalink: /archives/thirty-one
 ---
 I’m not sure where to begin with this past year. This past year has been a blur, including some of the highest highs and the lowest lows. This time one year ago, I felt everything was falling together just right; a few weeks later, and everything was falling apart.
 

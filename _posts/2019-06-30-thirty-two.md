@@ -8,7 +8,7 @@ date: 2019-06-30 21:51:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2019/06/thirty-two
+permalink: /archives/thirty-two
 ---
 I’m happy.
 

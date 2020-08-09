@@ -8,7 +8,7 @@ date: 2012-10-05 05:10:27
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/10/leaving-apple
+permalink: /archives/leaving-apple
 ---
 Few words can convey my feelings as I reflect upon my time with Apple. I have been afforded unparalleled opportunities, worked with amazing people and have myself grown as a result.
 

@@ -8,7 +8,7 @@ date: 2016-04-16 07:04:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2016/04/wonderland
+permalink: /archives/wonderland
 ---
 Building community is important to me. Whether we live together in a neighborhood, the same city, within a single state, in a country or merely on this same earth &#8212; our lives are connected. We (hopefully) spend our daytime hours working alongside like-minded individuals toward a common goal.
 

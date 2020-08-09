@@ -8,7 +8,7 @@ date: 2018-12-31 16:00:00
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2018/12/five-years-west
+permalink: /archives/five-years-west
 ---
 This year wasn’t what I expected.
 

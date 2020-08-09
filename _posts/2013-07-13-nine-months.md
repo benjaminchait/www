@@ -8,7 +8,7 @@ date: 2013-07-13 05:07:22
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/07/nine-months
+permalink: /archives/nine-months
 ---
 Just shy of nine months abroad, I find myself back in Boulder. In many ways, the reality of being home has yet to sink in; the past few weeks have been a blur. Landing Thursday in Philadelphia and visiting friends for a night; New Jersey for a second evening; and one final flight to arrive in Denver.
 

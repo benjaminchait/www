@@ -8,7 +8,7 @@ date: 2013-12-31 07:12:45
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2013/12/moving-west
+permalink: /archives/moving-west
 ---
 Just like the “Oregon Trail” game, I followed the American Dream to move west and continue my adventures in Portland, Oregon.
 

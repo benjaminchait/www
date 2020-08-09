@@ -8,7 +8,7 @@ date: 2016-10-18 09:10:45
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2016/10/summer-recap
+permalink: /archives/summer-recap
 ---
 Since May: Portland; Columbus; road trip back to Portland (including stopovers in St Louis, Boulder and Boise); Salt Lake City (well, Snowbird); Portland; Boulder; Portland; Denver; and back to Portland.
 

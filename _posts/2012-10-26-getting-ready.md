@@ -8,7 +8,7 @@ date: 2012-10-26 06:10:12
 tags: [ ]
 categories:
     - uncategorized
-permalink: /2012/10/getting-ready
+permalink: /archives/getting-ready
 ---
 How does one prepare to jump on a plane and travel abroad for an indefinite period of time?
 
