@@ -3,7 +3,7 @@ layout: default
 pagination:
   enabled: true
 title: Archive
-permalink: /archive/
+permalink: /archives/
 ---
 
 <ul class="posts">
