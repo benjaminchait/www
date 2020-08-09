@@ -22,7 +22,7 @@ Moving to a new city is challenging. Part of it is overwhelming, the constant le
 
 ![][6]
 
-<!-- ![][7] -->
+![][7]
 
 The Pacific coast is amazing for adventures. An hour west and you reach the Oregon coast, a perfect weekend getaway with friends. To the north, Seattle is a quick trip, with Vancouver only a bit farther. East of Portland lie the Gorge and Hood River, for hikes and quiet escapes. Some distance further, the town of Bend and its many breweries. And short flights south bring us to San Francisco and Los Angeles and Southern California, to visit family and find some sun in the rainy winter months.
 
@@ -46,12 +46,12 @@ Excited for the next two.
  [2]: https://benjaminchait.net/2014/12/one-year-west
  [3]: /wp-content/uploads/2015/12/1451610782.jpg
  [4]: /wp-content/uploads/2015/12/1451610806.jpg
- [5]: /wp-content/uploads/2015/12/1451610833.jpg
- [6]: /wp-content/uploads/2015/12/1451610852.jpg
- [7]: /wp-content/uploads/2015/12/1451610871.jpg
- [8]: /wp-content/uploads/2015/12/1451610886.jpg
- [9]: /wp-content/uploads/2015/12/1451610900.jpg
- [10]: /wp-content/uploads/2015/12/1451610916.jpg
- [11]: /wp-content/uploads/2015/12/1451610931.jpg
- [12]: /wp-content/uploads/2015/12/1451610944.jpg
- [13]: /wp-content/uploads/2015/12/1451610979.jpg
+ [5]: /wp-content/uploads/2015/12/1451610852.jpg
+ [6]: /wp-content/uploads/2015/12/1451610871.jpg
+ [7]: /wp-content/uploads/2015/12/1451610886.jpg
+ [8]: /wp-content/uploads/2015/12/1451610900.jpg
+ [9]: /wp-content/uploads/2015/12/1451610916.jpg
+ [10]: /wp-content/uploads/2015/12/1451610931.jpg
+ [11]: /wp-content/uploads/2015/12/1451610944.jpg
+ [12]: /wp-content/uploads/2015/12/1451610979.jpg
+ [13]: /wp-content/uploads/2015/12/1451610993.jpg
