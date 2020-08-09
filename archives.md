@@ -11,9 +11,8 @@ permalink: /archives/
       <a href="{% if post.external %}{{ post.external }}{% else %}{{ post.url }}{% endif %}">
         <div>
           <span class="title">{{ post.title }}</span>
-          <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
         </div>
-      </a>
+      </a> <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>
