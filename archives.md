@@ -9,9 +9,7 @@ permalink: /archives/
   {% for post in site.posts %}
     <li>
       <a href="{% if post.external %}{{ post.external }}{% else %}{{ post.url }}{% endif %}">
-        <div>
-          <span class="title">{{ post.title }}</span>
-        </div>
+        <span class="title">{{ post.title }}</span>
       </a> <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
     </li>
   {% endfor %}
