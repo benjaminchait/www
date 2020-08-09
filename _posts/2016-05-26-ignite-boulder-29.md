@@ -21,6 +21,6 @@ Was it my best talk ever? Probably not. And yes, I was a bit anxious about stand
 ![][4]
 
  [1]: http://igniteboulder.com/ignite-boulder-29
- [2]: /2012/12/china-unexpected
+ [2]: /archives/china-unexpected
  [3]: https://www.youtube.com/embed/AvVo5bFIQ3U
  [4]: /wp-content/uploads/2016/05/img_4365.jpg

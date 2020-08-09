@@ -42,8 +42,8 @@ This time last year, I had my Trek commuting bike stolen. It sucked. But it’s 
 
 Excited for the next two.
 
- [1]: https://benjaminchait.net/2013/12/moving-west
- [2]: https://benjaminchait.net/2014/12/one-year-west
+ [1]: /archives/moving-west
+ [2]: /archives/one-year-west
  [3]: /wp-content/uploads/2015/12/1451610782.jpg
  [4]: /wp-content/uploads/2015/12/1451610806.jpg
  [5]: /wp-content/uploads/2015/12/1451610852.jpg
