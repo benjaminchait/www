@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 👨‍💻
 pagination:
   enabled: true
 ---
