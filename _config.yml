@@ -18,6 +18,7 @@ assets:
     - _assets/js
     - _assets/images
     - _assets/img(old)
+    - _assets/wp-content
 
 pagination:
   enabled: true
