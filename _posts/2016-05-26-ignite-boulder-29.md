@@ -14,14 +14,13 @@ About a month ago, I was asked if I would talk at [Ignite Boulder 29][1]. Though
 
 And in short, I did.
 
-
-
 ([YouTube video][3])
 
 Was it my best talk ever? Probably not. And yes, I was a bit anxious about standing in front of a packed room at the Boulder Theater. But I recognize something, following that evening: folks want you to succeed. And that’s a fantastic audience to have.
 
-
+![][4]
 
  [1]: http://igniteboulder.com/ignite-boulder-29
  [2]: /2012/12/china-unexpected
  [3]: https://www.youtube.com/embed/AvVo5bFIQ3U
+ [4]: /wp-content/uploads/2016/05/img_4365.jpg
