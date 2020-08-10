@@ -2,7 +2,7 @@
 layout: default
 pagination:
   enabled: true
-title: Archive
+title: Archives
 permalink: /archives/
 ---
 <ul class="posts">
