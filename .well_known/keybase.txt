@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/benjaminchait
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benjaminchait.net
+  * I am benjaminchait (https://keybase.io/benjaminchait) on keybase.
+  * I have a public key with fingerprint 1431 F3C3 CF69 A266 BD51  2A29 E28B 1F1D 22D2 1E2A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017721e0a860ab94b674fc85c01ab36b3447ff91e582bac9c57f7fa7406b5934280a",
+      "fingerprint": "1431f3c3cf69a266bd512a29e28b1f1d22d21e2a",
+      "host": "keybase.io",
+      "key_id": "e28b1f1d22d21e2a",
+      "kid": "01017721e0a860ab94b674fc85c01ab36b3447ff91e582bac9c57f7fa7406b5934280a",
+      "uid": "c93cdfecb1dd07b8a65e5c386f885000",
+      "username": "benjaminchait"
+    },
+    "merkle_root": {
+      "ctime": 1597120848,
+      "hash_meta": "fe6a5a6c606111f5be58e4d2fc8f0456cc2f9fd47397e7f3236289ddcb563905",
+      "seqno": 17245640
+    },
+    "revoke": {
+      "sig_ids": [
+        "e95cc217b4f0e23e2827bf1cfefa7727ce0ac1dfd10e49233f5ddfd3d43eb9790f"
+      ]
+    },
+    "service": {
+      "hostname": "benjaminchait.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1597120848,
+  "expire_in": 157680000,
+  "prev": "34cf720743d06bc0e7004203eed591e0210345003f6868636721dfdb597c4840",
+  "seqno": 151,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK3AnicrVNLaB5VGP1jozaB2KgLNfjAIWqVEO/7zqRRKFSqrY+YIjY2dbjPZJr8
+M78zk7QlDYpCMBJQi1A31hQXMShV/NVWs1CS4ANtLS11URKrXbQatW5MrYjRO0HB
+RZZyF5c7c77zne+ce2cbVpXqaz6MrmxqKj1ysOaL6acHSiG6uWPIk4ne7bUNeX1m
+eTP92mR52Bdpr80DEEDOETRA+AwIGRDJOLHKpwpAITGTmBBubQAN9ZEUKlCUW24F
+J4BJGmCCfCC8Fs9GcY9JK2kU544WEgwtVlhZFgjEmNQUIoECg3wJLdQIadcTFYW9
+SVZUOHFSZKY1Stw3dwiX5a2A/591DyzTqQArbY2SUGvApS8YNVRhn1nfpwCAApiZ
+NBZl49DSxDtEOYpVr4hyb7jFK5u0r9+EaZLkhcMqjwocpAGHCPjEd1OKrDcsm1y4
+cmuYoIIpBhiE0FLpJBqikVNvAaFMKWQDqwnHATfcYoQZ8gOtlaQMB4A6MZl5Ik5c
+B44cngAnITWDSZ8pumdRjzMv89q2eSagjgxySSwwCDs3EZcWKmucERxx5exTUFsN
+gSEBwthS7U5YE2xkwANgve3DRbd0MFLL5EVaK7nQGpvc6aqkSZ6opN/97s3zStZW
+uJPvrhT4nUaG/zCFMoq1uzCuYtCkWZTEbhaHXME4s6sSpSaMCgTlzHdhgKKPGXSU
+mCjLEeAEa5eqAoYDQBDAxmjqkgcIAkxcftgy3y3M3I1x87n8uSI+Af9xkkInVPQ4
+UudfLPKB1HjD0x9315Zq6kuXXXpJ8ZRK9XWN/z6wB+Tlf950sHqs2l4/tmH1HWcv
+0jvfeXHDT/HoJ7b15MbTRybS0mRnuJB2V+GNbO/5Mu5+/Lpw6qoPaj99bvODZGF8
+66OrBxqap24dOwTV/KbK/O17ajY2Xv/d1sfO/Dr5V1ft4uHWu95+aWDEO3/28zNr
+w1/Wl9dvqZv9/uV9FzrGn5w7ff89O6uHzjXN7Hv3qTXPXrN/du3E1UO/rZt+c6nr
+1ZFTcxd+OLDuePPUFTNHG2v/OAHeVx+ZZ8Zb9n+lH/rs5MiPdNfikdvyhvmZzle2
+b6oeHzt63y1bRl9r+Pq9b4/VzY2WD5+gk0tLr69qX/zyra41O8Z/f/7njj03nLq7
+c/qF9r30YvO2uYlvzi288fC1m+/9G+T/hXM=
+=OEEQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benjaminchait
+
+==================================================================
