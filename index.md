@@ -27,6 +27,6 @@ Read some words: <a href="/archives/">Journal</a>
 
 Elsewhere (on the internet)<br/><br/>
 
-[Twitter](https://twitter.com/benjaminchait) × [Instagram](https://instagram.com/benjaminchait) × [Facebook](https://facebook.com/benjaminchait) × [LinkedIn](https://linkedin.com/in/benjaminchait) × [Github](https://github.com/benjaminchait)<br/><br/>
+[Twitter](https://twitter.com/benjaminchait) × [Instagram](https://instagram.com/benjaminchait) × [Facebook](https://facebook.com/benjaminchait) × [LinkedIn](https://linkedin.com/in/benjaminchait) × [GitHub](https://github.com/benjaminchait)<br/><br/>
 
 [Newsletter](http://eepurl.com/dLC0nw)
