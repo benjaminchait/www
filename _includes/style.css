@@ -42,3 +42,12 @@ img {
 header, footer {
 	margin: 2em 0;
 }
+
+footer li {
+  float: left;
+}
+
+footer li a {
+  display: block;
+  padding: 0 2em 0 0;
+}
