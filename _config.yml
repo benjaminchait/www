@@ -15,7 +15,6 @@ plugins: [jekyll-redirect-from]
 assets:
   sources:
     - _assets/css
-    - _assets/js
     - _assets/images
     - _assets/img(old)
 
