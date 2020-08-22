@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.5.1"
+gem 'jekyll', '3.8.6'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -21,8 +21,30 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-redirect-from"
-   gem 'jekyll-assets'
+   gem 'jekyll-assets', '~> 3.0.12'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+###
+
+#other possibilities
+# source 'https://rubygems.org'
+# 
+# ruby '2.6.5'
+# 
+# gem 'rake'
+# gem 'jekyll', '3.8.6'
+# 
+# # assets management
+# gem 'jekyll-assets', '~> 3.0.12'
+# gem 'uglifier'
+# gem "sprockets", "~> 3.7"
+# 
+# # other plugins
+# gem 'jekyll-sitemap'
+# gem 'jekyll-feed'
+# 
+# # testing
+# gem 'html-proofer'
