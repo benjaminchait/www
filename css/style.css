@@ -43,12 +43,12 @@ header, footer {
 	margin: 2em 0;
 }
 
-footer li {
+header li, footer li {
   list-style-type: none;
   float: left;
 }
 
-footer li a {
+header li a, footer li a {
   display: block;
   padding: 0 2em 0 0;
 }
