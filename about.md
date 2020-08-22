@@ -4,7 +4,7 @@ title: About
 pagination: false
 enabled: true
 ---
-<h3>Adventurer × 🗺 × ☕️ × 🐶 × 🚲 × ⛰ × he/him</h3>
+<h3>Adventurer × 🗺 × ☕️ × 🐶 × 🚲 × ⛰ × he/him</h3><br/><br/>
 
 👋 hi hello, I’m a **product manager** based in SF currently building [One](https://onefinance.com/).<br/><br/>
 
