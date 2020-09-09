@@ -1,9 +1,10 @@
-title: Benjamin Chait
+title: >
+  Benjamin Chait
 email: benjamin@chait.co
 description: >
   Personal site of Benjamin Chait.
 # baseurl: "https://benjaminchait.net"
-# url: "https://benjaminchait.net"
+url: "https://benjaminchait.net"
 twitter_username: benjaminchait
 github_username: benjaminchait
 # permalink: /:title/
