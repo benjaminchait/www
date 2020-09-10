@@ -4,7 +4,7 @@ title: Slowing down
 published: true
 author: benjaminchait
 comments: false
-date: 2012-12-03 07:12:16
+date: 2012-12-03 07:12:16 -0700
 tags: [ ]
 categories:
     - uncategorized

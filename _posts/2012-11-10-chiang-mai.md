@@ -4,7 +4,7 @@ title: Chiang Mai
 published: true
 author: benjaminchait
 comments: false
-date: 2012-11-10 09:11:18
+date: 2012-11-10 09:11:18 -0700
 tags: [ ]
 categories:
     - uncategorized

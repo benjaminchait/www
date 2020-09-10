@@ -4,7 +4,7 @@ title: Leaving Apple
 published: true
 author: benjaminchait
 comments: false
-date: 2012-10-05 05:10:27
+date: 2012-10-05 05:10:27 -0700
 tags: [ ]
 categories:
     - uncategorized

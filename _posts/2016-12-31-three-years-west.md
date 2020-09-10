@@ -4,7 +4,7 @@ title: Three years west
 published: true
 author: benjaminchait
 comments: false
-date: 2016-12-31 07:12:37
+date: 2016-12-31 07:12:37 -0700
 tags: [ ]
 categories:
     - uncategorized

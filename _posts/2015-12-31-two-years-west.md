@@ -4,7 +4,7 @@ title: Two years west
 published: true
 author: benjaminchait
 comments: false
-date: 2015-12-31 05:12:40
+date: 2015-12-31 05:12:40 -0700
 tags: [ ]
 categories:
     - uncategorized

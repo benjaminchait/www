@@ -4,7 +4,7 @@ title: Hiroshima
 published: true
 author: benjaminchait
 comments: false
-date: 2013-01-07 11:01:13
+date: 2013-01-07 11:01:13 -0700
 tags: [ ]
 categories:
     - uncategorized

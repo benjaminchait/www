@@ -4,7 +4,7 @@ title: Thirty-nine hours
 published: true
 author: benjaminchait
 comments: false
-date: 2012-10-29 06:10:41
+date: 2012-10-29 06:10:41 -0700
 tags: [ ]
 categories:
     - uncategorized

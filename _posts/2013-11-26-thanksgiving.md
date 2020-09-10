@@ -4,7 +4,7 @@ title: Thanksgiving
 published: true
 author: benjaminchait
 comments: false
-date: 2013-11-26 03:11:58
+date: 2013-11-26 03:11:58 -0700
 tags: [ ]
 categories:
     - uncategorized

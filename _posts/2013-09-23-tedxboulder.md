@@ -4,7 +4,7 @@ title: TEDxBoulder
 published: true
 author: benjaminchait
 comments: false
-date: 2013-09-23 04:09:10
+date: 2013-09-23 04:09:10 -0700
 tags: [ ]
 categories:
     - uncategorized

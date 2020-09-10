@@ -4,7 +4,7 @@ title: Starting 2016 in Santa Barbara
 published: true
 author: benjaminchait
 comments: false
-date: 2016-01-10 09:01:46
+date: 2016-01-10 09:01:46 -0700
 tags: [ ]
 categories:
     - uncategorized

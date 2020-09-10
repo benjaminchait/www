@@ -4,7 +4,7 @@ title: South Island
 published: true
 author: benjaminchait
 comments: false
-date: 2013-03-04 10:03:20
+date: 2013-03-04 10:03:20 -0700
 tags: [ ]
 categories:
     - uncategorized
