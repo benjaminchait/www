@@ -4,7 +4,7 @@ title: Kuala Lumpur
 published: true
 author: benjaminchait
 comments: false
-date: 2013-03-23 10:03:37
+date: 2013-03-23 10:03:37 -0700
 tags: [ ]
 categories:
     - uncategorized

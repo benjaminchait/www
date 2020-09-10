@@ -4,7 +4,7 @@ title: Getting ready
 published: true
 author: benjaminchait
 comments: false
-date: 2012-10-26 06:10:12
+date: 2012-10-26 06:10:12 -0700
 tags: [ ]
 categories:
     - uncategorized

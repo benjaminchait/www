@@ -4,7 +4,7 @@ title: Bangkok, for Songkran
 published: true
 author: benjaminchait
 comments: true
-date: 2013-04-19 09:04:37
+date: 2013-04-19 09:04:37 -0700
 tags: [ ]
 categories:
     - uncategorized

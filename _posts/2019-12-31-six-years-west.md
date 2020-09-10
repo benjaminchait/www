@@ -4,7 +4,7 @@ title: Six years west
 published: true
 author: benjaminchait
 comments: false
-date: 2019-12-31 22:01:00
+date: 2019-12-31 22:01:00 -0700
 tags: [ ]
 categories:
     - uncategorized

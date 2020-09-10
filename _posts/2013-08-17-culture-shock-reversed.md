@@ -4,7 +4,7 @@ title: Culture shock, reversed
 published: true
 author: benjaminchait
 comments: false
-date: 2013-08-17 10:08:03
+date: 2013-08-17 10:08:03 -0700
 tags: [ ]
 categories:
     - uncategorized

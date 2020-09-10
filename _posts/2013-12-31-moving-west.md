@@ -4,7 +4,7 @@ title: Moving west
 published: true
 author: benjaminchait
 comments: false
-date: 2013-12-31 07:12:45
+date: 2013-12-31 07:12:45 -0700
 tags: [ ]
 categories:
     - uncategorized

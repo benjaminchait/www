@@ -4,7 +4,7 @@ title: One year west
 published: true
 author: benjaminchait
 comments: false
-date: 2014-12-31 08:12:27
+date: 2014-12-31 08:12:27 -0700
 tags: [ ]
 categories:
     - uncategorized

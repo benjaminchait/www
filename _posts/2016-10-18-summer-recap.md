@@ -4,7 +4,7 @@ title: Summer recap
 published: true
 author: benjaminchait
 comments: false
-date: 2016-10-18 09:10:45
+date: 2016-10-18 09:10:45 -0700
 tags: [ ]
 categories:
     - uncategorized

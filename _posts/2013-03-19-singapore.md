@@ -4,7 +4,7 @@ title: Singapore
 published: true
 author: benjaminchait
 comments: false
-date: 2013-03-19 12:03:36
+date: 2013-03-19 12:03:36 -0700
 tags: [ ]
 categories:
     - uncategorized

@@ -4,7 +4,7 @@ title: Southern Thailand
 published: true
 author: benjaminchait
 comments: true
-date: 2013-04-11 11:04:01
+date: 2013-04-11 11:04:01 -0700
 tags: [ ]
 categories:
     - uncategorized

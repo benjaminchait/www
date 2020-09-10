@@ -4,7 +4,7 @@ title: North Island
 published: true
 author: benjaminchait
 comments: false
-date: 2013-02-10 09:02:02
+date: 2013-02-10 09:02:02 -0700
 tags: [ ]
 categories:
     - uncategorized

@@ -4,7 +4,7 @@ title: Thirty-two
 published: true
 author: benjaminchait
 comments: false
-date: 2019-06-30 21:51:00
+date: 2019-06-30 21:51:00 -0700
 tags: [ ]
 categories:
     - uncategorized

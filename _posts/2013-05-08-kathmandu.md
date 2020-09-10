@@ -4,7 +4,7 @@ title: Kathmandu
 published: true
 author: benjaminchait
 comments: false
-date: 2013-05-08 03:05:28
+date: 2013-05-08 03:05:28 -0700
 tags: [ ]
 categories:
     - uncategorized

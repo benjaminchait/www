@@ -4,7 +4,7 @@ title: Going solo
 published: true
 author: benjaminchait
 comments: false
-date: 2013-04-29 04:04:06
+date: 2013-04-29 04:04:06 -0700
 tags: [ ]
 categories:
     - uncategorized

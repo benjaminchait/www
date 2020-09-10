@@ -4,7 +4,7 @@ title: Ha Long Bay
 published: true
 author: benjaminchait
 comments: false
-date: 2012-12-14 11:12:25
+date: 2012-12-14 11:12:25 -0700
 tags: [ ]
 categories:
     - uncategorized

@@ -4,7 +4,7 @@ title: Ho Chi Minh City
 published: true
 author: benjaminchait
 comments: false
-date: 2012-11-21 01:11:27
+date: 2012-11-21 01:11:27 -0700
 tags: [ ]
 categories:
     - uncategorized

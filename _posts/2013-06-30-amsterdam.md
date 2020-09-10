@@ -4,7 +4,7 @@ title: Amsterdam
 published: true
 author: benjaminchait
 comments: true
-date: 2013-06-30 05:06:59
+date: 2013-06-30 05:06:59 -0700
 tags: [ ]
 categories:
     - uncategorized
