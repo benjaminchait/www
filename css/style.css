@@ -29,26 +29,26 @@ body {
 }
 
 #wrapper {
-	margin: 0;
-	padding: 2em 2em 5em 2em;
-	max-width: 640px;
+  margin: 0;
+  padding: 2em 2em 5em 2em;
+  max-width: 640px;
 }
 
 img {
-	width: 100%;
-	max-width: 600px;
+  width: 100%;
+  max-width: 600px;
 }
 
 header, footer {
-	margin: 2em 0;
+  margin: 2em 0;
 }
 
 header .mark {
-	float: left;
+  float: left;
 }
 
 header nav {
-	float: right;
+  float: right;
 }
 
 header li, footer li {
@@ -69,4 +69,8 @@ footer li a {
 .posts {
   list-style-type: none;
   padding: 0 2em 0 0;
+}
+
+.entry-content {
+  padding: 0 0 2em 0;
 }
