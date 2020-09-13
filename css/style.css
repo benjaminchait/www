@@ -58,7 +58,7 @@ header li, footer li {
 
 header li a, footer li a {
   display: block;
-  padding: 0 2em 0 0;
+  padding: 0 0 0 2em;
 }
 
 .posts {
