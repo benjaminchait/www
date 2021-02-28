@@ -6,9 +6,11 @@ enabled: true
 ---
 <h3>Adventurer × 🗺 × ☕️ × 🐶 × 🚲 × ⛰ × he/him</h3><br/><br/>
 
-👋 hi hello, I’m a **product manager** based in SF currently building [One](https://onefinance.com/).<br/><br/>
+👋 hi hello.
 
-🌲 I lived in PDX and helped grow [Simple](https://simple.com/).<br/><br/>
+ by day I'm a product manager and have worked at some fun places: [Chime](https://chime.com/), [One](https://onefinance.com/), [Simple](https://simple.com/), [Apple](https://apple.com/).<br/><br/>
+
+🌲 born in Boulder, Colorado, I've lived in DC, PDX and now SF.<br/><br/>
 
 ✈️ ask me about my backpacking trip around the world!<br/><br/>
 
