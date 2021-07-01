@@ -10,7 +10,7 @@ categories:
     - uncategorized
 permalink: /archives/thirty-four
 ---
-This birthday marks a change: As of this past weekend, I’ve moved out of SF and am en route toward a new home base (though trekking through the west for a bit for fun).
+This birthday marks a change: As of this past weekend, Lyra and I have moved out of SF and are en route toward a new home base (though trekking through the mountain west first for a bit for fun).
 
 Looking back at the past year, I’ve learned a lot: What I care about, how I want to work, who matters in my life. And while I’m sad to be leaving the west coast, I’m ever-excited for what adventures and experiences might come next—and grateful for those family and friends who have been part of this past year.
 
