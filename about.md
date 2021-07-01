@@ -10,7 +10,7 @@ enabled: true
 
 💻 by day I'm a product manager and have worked at some fun places: [Chime](https://chime.com/), [One](https://onefinance.com/), [Simple](https://simple.com/), [Apple](https://apple.com/).<br/><br/>
 
-🌲 born in Boulder, Colorado, I've lived in DC, PDX and now SF.<br/><br/>
+🌲 born in Boulder, Colorado, I've lived in DC, PDX and SF.<br/><br/>
 
 ✈️ ask me about my backpacking trip around the world!<br/><br/>
 
