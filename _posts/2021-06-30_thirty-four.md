@@ -4,7 +4,10 @@ title: Thirty-four
 published: true
 author: benjaminchait
 comments: false
-date: 2021-06-30 18:20:00 -0700
+date: 2021-06-30 21:22:00 -0600
+tags: [ ]
+categories:
+    - uncategorized
 permalink: /archives/thirty-four
 ---
 This birthday marks a change: As of this past weekend, I’ve moved out of SF and am en route toward a new home base (though trekking through the west for a bit for fun).
