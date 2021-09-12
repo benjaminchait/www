@@ -6,8 +6,8 @@ pagination:
 ---
 I’m a product manager and a writer with an interest using technology to help build better habits, with a particular focus on financial wellness. I’ve helped build and scale tech companies, and recently moved to Chicago with my best friend Lyra.<br/><br/>
 
-<img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding-right: 20px;" />
-<img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding-right: 19px;" />
+<img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding-right: 10px;" />
+<img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding-right: 10px;" />
 <img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
 
 👋 hi hello.<br/><br/>
