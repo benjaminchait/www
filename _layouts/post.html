@@ -16,12 +16,12 @@ pagination:
   </div>
 </article>
 
-<div class="PageNavigation">
+<div class="post-navigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">← previous post ({{page.previous.title}})</a>
+    <a class="post-prev" href="{{page.previous.url}}">← previous post ({{page.previous.title}})</a>
   {% endif %}
-  {% if page.previous.url and page.next.url %}&nbsp;×&nbsp;{% endif %}
+  {% if page.previous.url and page.next.url %}<br />{% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">next post ({{page.next.title}}) →</a>
+    <a class="post-next" href="{{page.next.url}}">next post ({{page.next.title}}) →</a>
   {% endif %}
 </div>
