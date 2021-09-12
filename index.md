@@ -20,7 +20,7 @@ pagination:
 
 ✈️ ask me about my backpacking trip around the world!<br/><br/>
 
-🐶 my pup <a href="https://lyra.dog">Lyra</a> is my bff.<br/><br/>
+🐶 my pup <a href="http://lyra.dog">Lyra</a> is my bff.<br/><br/>
 
 ☕️ let’s grab coffee?<br/><br/>
 
