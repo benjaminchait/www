@@ -15,9 +15,29 @@ adobe color: "color theme_IMG_4217"
 
 #F2AC57
 #D9863D
-#26190D
+#024873
 #8C5F37
 #F2F2F2
+*/
+
+/*
+adobe color: Yosemite
+
+#B0C6D9
+#DCE8F2 -- background
+#024873 -- text
+#93A603 -- active
+#7C8C03 -- link
+*/
+
+/*
+adobe color: Yosemite (dark)
+
+#024873
+#024959 -- link
+#172601 -- background
+#465902
+#7C8C03 -- active
 */
 
 /* reset */
@@ -27,8 +47,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 /* structure */
 
 body {
-	background: #f2f2f2;
-	color: #26190d;
+	background: #024873;
+	color: #024873;
 /*	font: 300 1em/1.5em "adelle-1","adelle-2", Georgia, "Times New Roman", Times, serif, sans-serif;*/
 	text-rendering: optimizeLegibility;
 }
@@ -91,21 +111,21 @@ h1 {
 }
 
 a:link {
-  color: #26190d;
+  color: #93A603;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #26190d;
+  color: #93A603;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #f2ac57;
+  color: #7C8C03;
   text-decoration: underline;
 }
 
 a:active {
-  color: #f2ac57;
+  color: #7C8C03;
   text-decoration: underline;
 }
