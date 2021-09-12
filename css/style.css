@@ -59,6 +59,7 @@ header li, footer li {
 header li a {
   display: block;
   padding: 0 0 0 2em;
+  text-decoration: none;
 }
 
 footer li a {
