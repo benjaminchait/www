@@ -14,10 +14,10 @@ Tags: benjamin chait
 adobe color: "color theme_IMG_4217"
 
 #F2AC57
-#D9863D
-#26190D
+#D9863D -- active
+#26190D -- text
 #8C5F37
-#F2F2F2
+#F2F2F2 -- background
 */
 
 /*
@@ -48,7 +48,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 
 body {
 	background: #f2f2f2;
-	color: #172601;
+	color: #26190D;
 /*	font: 300 1em/1.5em "adelle-1","adelle-2", Georgia, "Times New Roman", Times, serif, sans-serif;*/
 	text-rendering: optimizeLegibility;
 }
@@ -111,21 +111,21 @@ h1 {
 }
 
 a:link {
-  color: #172601;
+  color: #26190D;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #172601;
+  color: #26190D;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #172601;
+  color: #D9863D;
   text-decoration: none;
 }
 
 a:active {
-  color: #172601;
+  color: #D9863D;
   text-decoration: none;
 }
