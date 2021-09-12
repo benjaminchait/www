@@ -17,7 +17,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 /* structure */
 
 body {
-	background: #fff;
+	background: #fffafa;
 	color: #333;
 /*	font: 300 1em/1.5em "adelle-1","adelle-2", Georgia, "Times New Roman", Times, serif, sans-serif;*/
 	text-rendering: optimizeLegibility;
@@ -77,4 +77,24 @@ footer li a {
 
 h1 {
   font-weight: bold;
+}
+
+a:link {
+  color: #333;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #333;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #fecf6a;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #fecf6a;
+  text-decoration: underline;
 }
