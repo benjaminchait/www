@@ -8,7 +8,7 @@ pagination:
 
 <img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding-right: 10px;" />
 <img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding-right: 10px;" />
-<img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px; padding-bottom: 20px;" />
+<img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
 
 <br /><br />
 
