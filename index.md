@@ -4,12 +4,24 @@ title: 👨‍💻
 pagination:
   enabled: true
 ---
-<h1>Hi, I'm Benjamin Chait—a coffee-drinking builder of {products | teams | companies} who loves adventuring outdoors with my pup Lyra.</h1>
+I’m a product manager and a writer with an interest using technology to help build better habits, with a particular focus on financial wellness. I’ve helped build and scale tech companies, and recently moved to Chicago with my bff <a href="https://lyra.dog">Lyra</a>.<br/><br/>
 
-<br/><br/>
+👋 hi hello.<br/><br/>
+
+💻 by day I'm a product manager and have worked at some fun places: [Chime](https://chime.com/), [One](https://onefinance.com/), [Simple](https://simple.com/), [Apple](https://apple.com/).<br/><br/>
+
+🌲 born in Boulder, Colorado, I've lived in DC, PDX and SF.<br/><br/>
+
+✈️ ask me about my backpacking trip around the world!<br/><br/>
+
+🐶 my pup Lyra is my bff.<br/><br/>
+
+☕️ let’s grab coffee?<br/><br/>
+
+💌 sign up for my [newsletter](http://eepurl.com/dLC0nw)<br /><br />
+
+×<br /><br />
+
+[Twitter](https://twitter.com/benjaminchait) × [Instagram](https://instagram.com/benjaminchait) × [Facebook](https://facebook.com/benjaminchait) × [LinkedIn](https://linkedin.com/in/benjaminchait) × [GitHub](https://github.com/benjaminchait)<br/><br/>
 
 Always be kind.
-
-<br/><br/>
-
-🚧 As you might notice, this is a Work In Progress. Please pardon the dust!<br/><br/>

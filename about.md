@@ -2,7 +2,7 @@
 layout: home
 title: About
 pagination: false
-enabled: true
+enabled: false
 ---
 <h3>Adventurer × 🗺 × ☕️ × 🐶 × 🚲 × ⛰ × he/him</h3><br/><br/>
 
