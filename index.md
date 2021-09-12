@@ -4,7 +4,13 @@ title: 👨‍💻
 pagination:
   enabled: true
 ---
-I’m a product manager and a writer with an interest using technology to help build better habits, with a particular focus on financial wellness. I’ve helped build and scale tech companies, and recently moved to Chicago with my bff <a href="https://lyra.dog">Lyra</a>.<br/><br/>
+I’m a product manager and a writer with an interest using technology to help build better habits, with a particular focus on financial wellness. I’ve helped build and scale tech companies, and recently moved to Chicago with my best friend Lyra.<br/><br/>
+
+×<br /><br />
+
+<img src="img/lyra-and-benjamin/IMG_2713.jpeg" width=200px />
+<img src="img/lyra-and-benjamin/IMG_2715.jpeg" width=200px />
+<img src="img/lyra-and-benjamin/IMG_2716.jpeg" width=200px />
 
 ×<br /><br />
 
@@ -16,7 +22,7 @@ I’m a product manager and a writer with an interest using technology to help b
 
 ✈️ ask me about my backpacking trip around the world!<br/><br/>
 
-🐶 my pup Lyra is my bff.<br/><br/>
+🐶 my pup <a href="https://lyra.dog">Lyra</a> is my bff.<br/><br/>
 
 ☕️ let’s grab coffee?<br/><br/>
 
