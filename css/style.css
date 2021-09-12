@@ -15,7 +15,7 @@ adobe color: "color theme_IMG_4217"
 
 #F2AC57
 #D9863D
-#024873
+#26190D
 #8C5F37
 #F2F2F2
 */
@@ -25,9 +25,9 @@ adobe color: Yosemite
 
 #B0C6D9
 #DCE8F2 -- background
-#024873 -- text
+#024873 -- link
 #93A603 -- active
-#7C8C03 -- link
+#7C8C03
 */
 
 /*
@@ -47,7 +47,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 /* structure */
 
 body {
-	background: #024873;
+	background: #DCE8F2;
 	color: #024873;
 /*	font: 300 1em/1.5em "adelle-1","adelle-2", Georgia, "Times New Roman", Times, serif, sans-serif;*/
 	text-rendering: optimizeLegibility;
@@ -111,12 +111,12 @@ h1 {
 }
 
 a:link {
-  color: #93A603;
+  color: #B0C6D9;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #93A603;
+  color: #B0C6D9;
   text-decoration: underline;
 }
 
