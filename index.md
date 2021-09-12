@@ -8,9 +8,9 @@ I’m a product manager and a writer with an interest using technology to help b
 
 ×<br /><br />
 
-<img src="img/lyra-and-benjamin/IMG_2713.jpeg" width=200px />
-<img src="img/lyra-and-benjamin/IMG_2715.jpeg" width=200px />
-<img src="img/lyra-and-benjamin/IMG_2716.jpeg" width=200px />
+<img src="img/lyra-and-benjamin/IMG_2713.jpeg" width="200" />
+<img src="img/lyra-and-benjamin/IMG_2715.jpeg" width="200" />
+<img src="img/lyra-and-benjamin/IMG_2716.jpeg" width="200" />
 
 ×<br /><br />
 
