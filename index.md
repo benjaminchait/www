@@ -6,13 +6,9 @@ pagination:
 ---
 I’m a product manager and a writer with an interest using technology to help build better habits, with a particular focus on financial wellness. I’ve helped build and scale tech companies, and recently moved to Chicago with my best friend Lyra.<br/><br/>
 
-×<br /><br />
-
-<img src="img/lyra-and-benjamin/IMG_2713.jpeg" width="200" />
-<img src="img/lyra-and-benjamin/IMG_2715.jpeg" width="200" />
-<img src="img/lyra-and-benjamin/IMG_2716.jpeg" width="200" />
-
-×<br /><br />
+<img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding-right: 20px;" />
+<img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding-right: 20px;" />
+<img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
 
 👋 hi hello.<br/><br/>
 
@@ -32,6 +28,6 @@ I’m a product manager and a writer with an interest using technology to help b
 
 [Twitter](https://twitter.com/benjaminchait) × [Instagram](https://instagram.com/benjaminchait) × [Facebook](https://facebook.com/benjaminchait) × [LinkedIn](https://linkedin.com/in/benjaminchait) × [GitHub](https://github.com/benjaminchait)<br/><br/>
 
-×<br /><br />
+<br /><br /><br /><br />
 
 Always be kind.
