@@ -22,12 +22,18 @@ I’m a product manager and a writer with an interest using technology to help b
 
 ☕️ let’s grab coffee?<br/><br/>
 
-💌 sign up for my [newsletter](http://eepurl.com/dLC0nw)<br /><br />
+💌 sign up for my [newsletter](http://eepurl.com/dLC0nw)!<br /><br />
 
-×<br /><br />
+🐦 [twitter](https://twitter.com/benjaminchait)<br /><br />
 
-[Twitter](https://twitter.com/benjaminchait) × [Instagram](https://instagram.com/benjaminchait) × [Facebook](https://facebook.com/benjaminchait) × [LinkedIn](https://linkedin.com/in/benjaminchait) × [GitHub](https://github.com/benjaminchait)<br/><br/>
+📷 [instagram](https://instagram.com/benjaminchait)<br /><br />
+
+👯‍♀️ [facebook](https://facebook.com/benjaminchait)<br /><br />
+
+👔 [linkedin](https://linkedin.com/in/benjaminchait)<br /><br />
+
+👾 [github](https://github.com/benjaminchait)<br/><br/>
 
 <br /><br /><br /><br />
 
-Always be kind.
+❤️ always be kind.
