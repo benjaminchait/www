@@ -14,7 +14,7 @@ pagination:
 
 👋 hi hello.<br/><br/>
 
-💻 by day I'm a product manager and have worked at some fun places: [Chime](https://chime.com/), [One](https://onefinance.com/), [Simple](https://simple.com/), [Apple](https://apple.com/).<br/><br/>
+💻 by day I'm a product manager and have worked at some fun places: [Chime](https://chime.com/), [One](https://onefinance.com/), [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), [Apple](https://apple.com/).<br/><br/>
 
 🌲 born in Boulder, Colorado, I've lived in DC, PDX and SF.<br/><br/>
 
