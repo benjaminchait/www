@@ -1,4 +1,5 @@
 <footer>
+{% if page.title != "👨‍💻" %}
   <nav>
     <ul>
       <li><a href="{{ "/" | relative_url }}">Home</a></li>
@@ -9,4 +10,5 @@
       <li><a href="{{ "/archives" | relative_url }}">Archives</a></li> -->
     </ul>
   </nav>
+{% endif %}
 </footer>
