@@ -48,7 +48,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 
 body {
 	background: #DCE8F2;
-	color: #024873;
+	color: #172601;
 /*	font: 300 1em/1.5em "adelle-1","adelle-2", Georgia, "Times New Roman", Times, serif, sans-serif;*/
 	text-rendering: optimizeLegibility;
 }
@@ -111,21 +111,21 @@ h1 {
 }
 
 a:link {
-  color: #B0C6D9;
+  color: #172601;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #B0C6D9;
+  color: #172601;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #7C8C03;
+  color: #B0C6D9;
   text-decoration: underline;
 }
 
 a:active {
-  color: #7C8C03;
+  color: #B0C6D9;
   text-decoration: underline;
 }
