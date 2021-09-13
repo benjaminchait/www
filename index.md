@@ -14,7 +14,7 @@ pagination:
 
 👋 hi hello.<br/><br/>
 
-💻 I love to help teams scale and build digital experiences, and I'm grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br/><br/>
+💻 I love to help teams build delightful experiences, and I'm grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br/><br/>
 
 🌲 born in Boulder, Colorado, I've lived in DC, PDX and SF.<br/><br/>
 
