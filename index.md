@@ -6,9 +6,9 @@ pagination:
 ---
 <h1 style="font-weight: normal; font-size: 110%;">I’m a product manager and a writer with an interest using technology to help people create better habits, with a particular focus on financial wellness. I help build and scale tech companies, and recently moved to Chicago with my best friend Lyra.</h1><br /><br />
 
-<img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding-right: 20px; margin: 0;" />
-<img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding-right: 20px; margin: 0;" />
-<img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px; margin: 0;" />
+<img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px; padding: 0 20px 0 0; margin: 0;" />
+<img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px; padding: 0 20px 0 0; margin: 0;" />
+<img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px; padding: 0; margin: 0;" />
 
 <br /><br />
 
