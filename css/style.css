@@ -79,7 +79,7 @@ footer li a {
 
 .posts {
   list-style-type: none;
-  padding: 0 2em 0 0;
+  padding: 0 0 1em 0;
 }
 
 .entry-content p {
