@@ -79,6 +79,10 @@ footer li a {
 
 .posts {
   list-style-type: none;
+  padding: 0;
+}
+
+.posts li {
   padding: 0 0 1em 0;
 }
 
