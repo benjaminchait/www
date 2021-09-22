@@ -24,7 +24,7 @@ pagination:
 
 ☕️ let’s grab coffee?<br/><br/>
 
-💌 sign up for my [newsletter](http://eepurl.com/dLC0nw)!<br /><br />
+💌 sign up for my [newsletter](http://buttondown.email/benjaminchait)!<br /><br />
 
 🐦 follow some silly [twitter](https://twitter.com/benjaminchait) words.<br /><br />
 
