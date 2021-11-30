@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TEDxBoulder
-published: true
+published: false
 author: benjaminchait
 comments: false
 date: 2013-09-23 04:09:10 -0700
