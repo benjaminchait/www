@@ -24,7 +24,7 @@ pagination:
 
 🐶 my pup <a href="http://lyra.dog">Lyra</a> is my bff.<br/><br/>
 
-☕️ let’s grab coffee?<br/><br/>
+☕️ let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait)?<br/><br/>
 
 💌 sign up for my [newsletter](https://benjaminchait.substack.com/subscribe)!<br /><br />
 
