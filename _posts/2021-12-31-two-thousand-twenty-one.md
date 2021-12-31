@@ -10,7 +10,9 @@ categories:
     - uncategorized
 permalink: /archives/two-thousand-twenty-one
 ---
+My year ends quite different than it started. 
 
+This summer, we moved to Chicago (Hyde Park, specifically). En route, a trip through Boulder and my very first visit to Yellowstone. I left my SF-based job, and am taking some time before deciding what adventure I tackle next. And we’re exploring a new part of the country, while continuing to navigate life and see friends and everything else during a pandemic.
 
 ![][1]
 ![][2]
