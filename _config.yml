@@ -28,3 +28,7 @@ pagination:
 
 include:
   - _redirects
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
