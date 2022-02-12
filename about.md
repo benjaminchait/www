@@ -19,7 +19,7 @@ permalink: /about
 
 🐶 my pup <a href="http://lyra.dog">Lyra</a> is my bff.<br />
 
-☕️ let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait)?<br />
+☕️ let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br />
 
 💌 sign up for my [newsletter](https://benjaminchait.substack.com/subscribe)!<br />
 
