@@ -3,16 +3,16 @@ layout: default
 ---
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 <h1>{{ page.title | escape }}</h1>
-{{ content }}
 <p class="muted small">First published on {{ page.date | date: "%-d %B %Y" }}</p>
+{{ content }}
 
-<p class="muted small">
+<p class="not-muted small">
   {% if page.previous.url %}
-	<a class="muted" href="{{page.previous.url}}">← {{page.previous.title}}</a>
+	<a class="not-muted" href="{{page.previous.url}}">← {{page.previous.title}}</a>
   {% endif %}
   {% if page.previous.url and page.next.url %} / {% endif %}
   {% if page.next.url %}
-	<a class="muted" href="{{page.next.url}}">{{page.next.title}} →</a>
+	<a class="not-muted" href="{{page.next.url}}">{{page.next.title}} →</a>
   {% endif %}
 </p>
 
