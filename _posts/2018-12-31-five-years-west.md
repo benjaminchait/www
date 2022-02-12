@@ -15,15 +15,12 @@ This year wasn’t what I expected.
 The first part of this year was rebuilding. Lyra joined the family, the basement was fixed.
 
 ![][1]
-
 ![][2]
-
 ![][3]
 
 The second part of this year was personal. Tough conversations, and decisions which still feel raw.
 
 ![][4]
-
 ![][5]
 
 The last part of the year has been sorting: what next?

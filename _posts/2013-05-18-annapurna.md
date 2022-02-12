@@ -18,12 +18,10 @@ It was obvious as we departed that I had overpacked. “At least,” I thought t
 
 Teahouse treks are far more developed than I imagined. Lodges exist every hour or two on major routes supplying food, drink and rest; they also eliminate the need to carry most supplies as a simple, private room with a bed is cheap and one can purchase warm meals at any stop. These lodges also provided great opportunities to meet other trekkers; my first night I encountered Darius and Melanie, from Germany, and we and our guides agreed to trek together since we had the same timeline and route.
 
-
 ![Ghondruk sunrise][1] 
 ![Machhapuchhre from Ghondruk][2] 
 
 Waking at sunrise the next morning, I both enjoyed the incredible views and realized these would be long, full days spent traversing hillsides and following small paths between mountain villages. In addition to their towering height, the Himalayas also contain an incredible diversity, especially in the lower regions. Truly stunning landscapes and forests surrounded the first few days of the trek, terraced mountainsides and small villages of Nepali living one, two, even three days from the nearest road. Donkey caravans carry supplies to our second-night’s village of Sinuwa at which point no animals were allowed; locals would then carry everything from food to petroleum canisters as far as base camp some ten or more hours away. Even children often walked two or more hours from a home village to the nearest school—then a return trip in the evening. I was absolutely stunned, partly by the people but also the landscapes. Each day, nature returned with mists rolling through the valley below; I loved standing above the clouds. And not only was it beautiful. Being relatively far from cities, having powered down my phone and with no wifi to be found, I took this opportunity to disconnect. Entirely. Which may have been one of the best parts, one week with me present and quiet, without interruptions. Only my mind and those around me to occupy the days. Part of it was psychological; I had to keep pushing myself and my limits. Our third night spent at 3,200 meters in Deurali was the coldest, wind gusting through the poorly-insulated doorway. I began to tire, hauling my load day after day, step after step.
-
 
 ![Annapurna valley, hillside][3] 
 ![Annapurna valley, looking north][4] 
@@ -34,12 +32,10 @@ We reached our highest point Sunday after an aggressive pace climbing some 3,000
 
 Rising before 5 am to witness sunrise in the valley, Monday morning was frigid. We had a few simple goals: enjoy the views, eat a quick breakfast and begin the long trek down. Though the clouds were less than cooperative, I managed a few lovely moments surrounded in all directions by Hiunchuli, Annapurna South, Annapurna I, Gangapurna, Annapurna III and Machhapuchhre. I pushed myself to explore base camp, even though I still felt sick—when else would I be able to see this? Still cold, I forced myself to finish my soup and tea. A few more photographs and our group grabbed our gear, departing ABC.
 
-
 ![Annapurna Base Camp stupa][7] 
 ![Machhapuchhre from base camp lodge][8] 
 
 Our descent was nearly twice the pace of our ascent though we did our best to enjoy our remaining time in the Himalayas. Again, I found myself looking straight at the ground in front of me to avoid tripping; Gavi constantly reminded me to look around at the awesome views—glaciers, peaks, even wildlife. I was simply happy to return to warmer (and safer) climates down valley. After we had dropped below 3,000 meters, I fast-realized just how much the altitude had been impacting me—what I thought was a minor headache was anything but—and was both glad and lucky to have made it down this far safely. Though walking fast, our group of five managed a comfortable pace as we walked through many of the same areas we had passed a few days prior. After Chhomrong, we split from our upward route and headed toward Jhinu for an easier descent (relatively fewer hills) and the opportunity to visit the local hot springs. By Wednesday, we could once again see Nayapul, goodbyes as I climbed onto the local bus. A few hours later and I was back in my Pokhara guest house.
-
 
 ![Namaste to ABC, sign upon arrival][9] 
 ![Have a fantastic trekking, sign upon departure][10] 

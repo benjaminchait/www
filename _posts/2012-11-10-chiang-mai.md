@@ -14,7 +14,6 @@ Getting to Chiang Mai was no easy feat: our scheduled 12-hour train ride took a 
 
 Much of the week has been enjoying cafés and good food.
 
-
 ![Chiang Mai kitten][1]
 ![Chiang Mai elephants][2]
 
@@ -22,13 +21,11 @@ Watching the election abroad was unique; west coast polls closed at a pleasant 1
 
 Highlight of the week—and trip thus far—was playing with tigers. The tiger cubs (aged three to six months) were the best if not the sleepiest.
 
-
 ![Sarah and tiger cub][3]
 ![Tiger cub 1][4]
 ![Tiger cub 2][5]
 
 That said, standing next to a full-size (two-year old) tiger was slightly daunting. Incredible creatures, I&#8217;m slightly amused by the waiver one needs sign acknowledging one is stepping into a cage next to a very large, potentially deadly animal.
-
 
 ![Tiger teeth][6]
 ![Tiger chewing][7]
@@ -36,7 +33,6 @@ That said, standing next to a full-size (two-year old) tiger was slightly daunti
 ![Sarah reviewing photos][9]
 
 The quieter atmosphere of this city along with the incredible street food provided a contrast to our first week in Bangkok; I would very much put Chiang Mai atop my list next time I find myself traveling to this region.
-
 
 ![Chiang Mai street market][10]
 

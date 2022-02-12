@@ -14,11 +14,9 @@ Crossing streets in Vietnam is dangerous as I was warned. Whereas Thailand had s
 
 Curiously, it took less time and effort to enter this country than it did to depart my previous one. Regardless, the airport itself was almost nothing more than gates, immigration and baggage claim; the arrivals waiting area was outside beyond the air-conditioned terminal. A quick cab to our hostel—my first chance to witness driving here—and the trip from Bangkok was over in less than two hours.
 
-
 ![Hostel bikes][1]
 
 I sense Vietnam reconciling its identity. While officially known as Ho Chi Minh City, it is commonly referred to as Saigon, its former name. English is prevalent, adorning street signs and restaurant menus; many places also list items in French. Prices appear in both US dollars and Vietnamese dong. Children shout &#8220;hello&#8221; to foreigners. American brands dot the landscape. Bakeries specializing in French pastries fall between local shops. Yet for all the foreign influences, Vietnamese culture remains ever-present. People crowd markets filled with goods and foods. Small alleyways reveal families and shops hidden just off the main streets. Pho (noodle soup) appears on every menu. Bánh mì (sandwiches) can be bought from nearly any street vendor. Coffee is served thick and with more than a few teaspoons of sugar.
-
 
 ![Food crossing street][2]
 ![Pham Ngu Lao street][3]

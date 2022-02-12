@@ -28,7 +28,6 @@ Awake some five hours later, we hailed a taxi to the airport. Again, English fai
 
 I&#8217;ll be avoiding China moving forward. But at least I have the stamp in my passport?
 
-
 ![China stay permit][1]
 
  [1]: /wp-content/uploads/media/img/2012/12/china-unexpected/IMG_5834.JPG

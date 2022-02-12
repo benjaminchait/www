@@ -14,7 +14,6 @@ My taxi shuttered across unpaved streets, dodging potholes, rickshaws, people an
 
 I landed alone in Kathmandu, tired from travel and goodbyes. But I never quite recovered.
 
-
 ![Kathmandu morning][1]
 ![Kathmandu first light][2]
 ![Kathmandu sunrise][3]

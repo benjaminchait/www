@@ -14,11 +14,9 @@ Some 39 hours following our initial flight from DEN to SEA, [Sarah][1] and I arr
 
 We were incredibly fortunate to have a place to crash in Seattle with college friends; enjoying a 16-hour layover in the Pacific Northwest with good food, some rain and a kitten.
 
-
 ![Seattle kitten][2]
 
 Flying from Seattle to Beijing was fascinating as we circumnavigated northbound flying over Alaska and Russia; though 12 hours on a plane is exhausting.
-
 
 ![Alaskan mountains][3]
 

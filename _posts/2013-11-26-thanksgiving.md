@@ -16,6 +16,6 @@ Just a week ago, I was driving along an empty mountain road on Colorado’s fron
 
 Memories are beautiful and complex and tragic. While old memories are fast becoming fleeting, I aspire to leave a few new ones.
 
-I sometimes find myself wishing that growing up were less challenging. This is a part of life; I’m struggling with acceptance. I never expected visiting my grandmother would be this challenging. Family frequently suggested I make this trip; it took far too long, but I&#8217;m glad I made it.
+I sometimes find myself wishing that growing up were less challenging. This is a part of life; I’m struggling with acceptance. I never expected visiting my grandmother would be this challenging. Family frequently suggested I make this trip; it took far too long, but I’m glad I made it.
 
 I have so very much for which to be thankful. More than anything, I am thankful to have such an amazingly supportive family. I am fortunate to have returned safely from travels. And to share this journey with an incredible partner, Sarah.

@@ -21,7 +21,6 @@ The days are long. This city is, for lack of a better word, hard. (Maybe all cit
 It’s all a lot, but we’re settling in. The first couple of weeks were staying in a temporary spot; and the pup and I moved into our own spot in November. We’re living in (or perhaps it’s on?) Russian Hill. The first week had me sleeping on a couch; then I got a bed, but didn’t have anything for the kitchen. Last week was adding some lamps; next week I want to sort a bookshelf. And I’m grateful that Lyra is adjusting, and seems to be falling into a routine in our new urban spot. It’s a process. But it’s what I wanted.
 
 ![][3]
-
 ![][4]
 
 I won’t lie: I’ve wondered more than once, why did I move here? I love the Pacific Northwest, and miss it. The wide open spaces, the pace of life, the lack of sales tax…and yet, SF gives me new opportunities, mostly important the opportunity to start over. And it’s still the west coast.

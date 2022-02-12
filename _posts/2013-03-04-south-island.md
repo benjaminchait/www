@@ -14,18 +14,15 @@ Gorgeous landscapes, what one expects when hearing of New Zealand’s untouched 
 
 A quick hop from Wellington via airplane and we arrived in Christchurch, a city rebuilding. Though I knew about the 2010 and 2011 earthquakes, I was unprepared to arrive in the still-devastated city. It is truly incredible to witness how much was destroyed, how far the city has come and what work remains. Fences continue to restrict access to the five-or-so square blocks of the CBD; the &#8220;Red Zone&#8221; remains a place solely for workers as they remove the remaining structures and lay the stage for future building. In outlying neighborhoods, entire streets exist with meter-wide cracks separating motorways from the adjacent footpaths; elsewhere the roads themselves oscillate up and down in a mimicry of the earth&#8217;s destructive waves. Yet even with all the sadness and loss, the largest city on the South Island is full of hope at the second anniversary of the second quake; and progress continues. Re:START is the &#8220;container mall&#8221; with a fascinating twist on architecture—shipping containers stacked and turned into modern buildings. Gap Filler brings unique, creative projects to occupy otherwise vacant spaces, adding a positive dynamic to the ever-changing city. And the city&#8217;s plans for rebuilding are enviable—Christchurch is presented an opportunity to begin anew and truly create a modern, world-class city. I am in awe of the community&#8217;s resilience.
 
-
 ![Christchurch Cathedral][1]
 ![Medway St Bridge, remnant from Christchurch earthquakes][2]
 
 Driving south along the eastern coast, Dunedin was our next stop. Known as the “student town” it is home to the country’s largest university and came with a beach view and friendly, gracious locals. Exploring the Maori history in the local museum and wandering through nature reserves along the Otago Peninsula occupied our two days. Running barefoot along the beach, watching waves blow in from the Pacific and sharing stories of growing up in New Zealand, I began truly envying the Kiwi lifestyle.
 
-
 ![Tunnel Beach crashing waves][3]
 ![Tunnel Beach view][4]
 
 Venturing through the Catlins on our way toward our next destination was my favorite part of New Zealand. Occupying much of the southeastern coast, this national park is full of diversity yet far enough away that few other travelers venture here. Winding coastal roads provided gorgeous views of the Pacific; exploring landscapes like the Cathedral Caves had me awestruck; Curio Bay&#8217;s petrified forest was a gorgeous mix of crashing waves and fossilized wood; and a walk to Slope Point marks the furthest south I have ever stood in my life, wind blowing water against the shoreline in a place both far from everything and intensely gorgeous. What makes me more appreciative, this drive almost did not happen; we took the indirect route entirely upon the advice of locals, adding several hours to trek about the coast rather than drive straight across the island. Even Slope Point was uncertain as we missed the turnoff at first, then upon reaching the carpark had a lack of motivation to trek another 20 minutes by foot. Yet I am fortunate to have continued adventuring across unsealed gravel roads and hiking through gusty wind—this was one of those unexpected moments which I can hardly describe in words.
-
 
 ![Petrified forest in Curio Bay][5]
 ![Petrified forest in Curio Bay, long shot][6]

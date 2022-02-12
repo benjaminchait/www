@@ -26,13 +26,11 @@ My narrator describes Cambodia’s struggle to rebuild, the goal of sharing Choe
 
 Headphones off, I remove my shoes and walk into the memorial stupa. Music plays faintly. Incense and flowers surround the entrance. And then I see the stacks of bones, seventeen levels of remnants excavated. Upon finding this killing field, archaeologists exhumed 86 of the 129 graves; they stopped to preserve the remaining ones. I realize I don’t know how one ought pay respect. I try to pay attention to all the remains, looking at all the details while still completely silent. I feel numb.
 
-
 ![Choeung Ek, memorial stupa][1]
 
 Humanity’s past is fraught with tragedy.
 
 Leaving Choeung Ek, I visit Tuol Sleng Prison. Known as S-21, most victims were first brought here before Choeung Ek. A regime terrified of the West, of intellectuals, tortured its victims in a high school. Here, too, most visitors are silent. The classrooms, used as prison cells, now act as a museum to document what happened. I walk slowly past the walls full of images of the victims; those brought here were documented by the Khmer Rouge through a photographs and a biography. I read about the victims. Whole families were taken. Countless faces stare out at me. Many of the victims themselves were a part of the Khmer Rouge, recruited as teenagers—as children—to brutally murder their own countrymen for a paranoid regime. How could so many lives be destroyed? I take a break every few rooms, story after story weighing on me. Then I continue to walk, to read. These stories are all that remain. I feel numb.
-
 
 ![Tuol Sleng Prison][2]
 

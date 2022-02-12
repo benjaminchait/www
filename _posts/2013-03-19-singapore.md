@@ -16,7 +16,6 @@ After navigating from the airport into the CBD via MRT (the local metro) we snag
 
 Activities followed, nonstop. Enjoying hawker centres, open-air stalls of street food, made for some fantastic—and inexpensive—meals while pleasantly reminding me of Southeast Asia&#8217;s diversity. Chinatown and Little India showcased some of Singapore&#8217;s more prevalent populations; contrasting those locations to Sentosa, an entire island made from reclaimed land and home to various high-priced attractions, made clear the income disparity. A day combining the Singapore Zoo and Night Safari allowed exploring exotic animals, including walks beside lemurs, fruit bats and orang utans. My favorite attraction was a morning visit to Gardens by the Bay, a combination of outdoor parks with two cooled conservatories including open greenery and flora from various regions across the globe. Our final evening in town included celebrating St Patrick&#8217;s; Boat Quay was transformed into a street celebration. It became clear that, whenever we were with expats, activity and mischief ensued.
 
-
 ![Singapore Zoo lemur][1]
 ![Pinnacle@Duxton view][2]
 

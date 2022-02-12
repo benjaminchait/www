@@ -16,7 +16,6 @@ Slowly, pieces are falling together. Plenty of coffee, good microbrews and excep
 
 Looking back at 2013 and everything which has come before, I am astonished and so incredibly excited for what comes next.
 
-
 ![Portland, Oregon][1]
 ![Branch][2]
 ![Coffee][3]

@@ -14,7 +14,7 @@ About a month ago, I was asked if I would talk at [Ignite Boulder 29][1]. Though
 
 And in short, I did.
 
-([YouTube video][3])
+([🎥 YouTube video][3])
 
 Was it my best talk ever? Probably not. And yes, I was a bit anxious about standing in front of a packed room at the Boulder Theater. But I recognize something, following that evening: folks want you to succeed. And that’s a fantastic audience to have.
 

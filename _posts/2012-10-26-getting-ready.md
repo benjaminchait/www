@@ -16,7 +16,6 @@ Checklists. Lots of checklists.
 
 Preparing for an adventure like this is akin to a full-time job, perhaps even more stressful. Gear, tickets, visas and insurance just took time and some planning. Some tasks, like voting, were as simple as receiving my ballot in the mail, marking a few boxes and returning it. Other tasks, like vaccinations, took multiple visits and far more needles than I typically enjoy. Selling my old camera and car required more time and energy but are thankfully with new owners. Finding my delightful kitten Milo a new home was and remains an emotional heartbreak; I adore that little orange fluffball. And finally, packing my remaining belongings into boxes in the basement of my parent’s house. Simple, right?
 
-
 ![Milo][1]
 ![Backpack: everything I have for this trip][2]
 
