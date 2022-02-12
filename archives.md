@@ -1,9 +1,7 @@
 ---
-layout: default
-pagination:
-  enabled: true
+layout: page
 title: Archives
-permalink: /archives/
+permalink: /archives
 ---
 <ul class="posts">
   {% for post in site.posts %}
