@@ -4,16 +4,16 @@ layout: default
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 <h1>{{ page.title | escape }}</h1>
 {{ content }}
-<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
+<p class="muted small">First published on {{ post.date | date: "%-d %B %Y" }}</p>
 
-<div class="post-navigation">
+<p class="muted small">
   {% if page.previous.url %}
-	<a class="post-prev" href="{{page.previous.url}}">← {{page.previous.title}}</a>
+	<a class="post-prev-new" href="{{page.previous.url}}">← {{page.previous.title}}</a>
   {% endif %}
   {% if page.previous.url and page.next.url %}<br /><!-- &nbsp;×&nbsp;//-->{% endif %}
   {% if page.next.url %}
-	<a class="post-next" href="{{page.next.url}}">→ {{page.next.title}}</a>
+	<a class="post-next-new" href="{{page.next.url}}">→ {{page.next.title}}</a>
   {% endif %}
-</div>
+</p>
 
 {%- include footer.html -%}
