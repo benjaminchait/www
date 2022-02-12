@@ -9,8 +9,6 @@ permalink: /about
   <img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
 </div>
 
-<br />
-
 👋 hi hello.<br />
 
 💻 I love to help teams build delightful experiences, and I'm grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br />
@@ -34,7 +32,5 @@ permalink: /about
 👔 make me a "connection" on [linkedin](https://linkedin.com/in/benjaminchait).<br />
 
 👾 idk but [github](https://github.com/benjaminchait).<br />
-
-<br />
 
 ❤️ always be kind.
