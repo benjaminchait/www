@@ -3,7 +3,7 @@ layout: default
 ---
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 <h1>{{ page.title | escape }}</h1>
-<p class="muted small">First published on {{ page.date | date: "%-d %B %Y" }}</p>
+<p class="muted small">{{ page.date | date: "%-d %B %Y" }}</p>
 {{ content }}
 
 <p class="not-muted small">
