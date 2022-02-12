@@ -13,7 +13,7 @@ permalink: /about
 
 💻 I love to help teams build delightful experiences, and I'm grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br />
 
-🌲 born in Boulder, Colorado, I've lived in DC, PDX and SF.<br />
+🏔 born in Boulder, Colorado, I've lived in 🏛 DC, 🌲 PDX and 🌁 SF before 🍕 Chicago.<br />
 
 ✈️ ask me about my backpacking trip around the world!<br />
 
