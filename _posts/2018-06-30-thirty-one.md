@@ -29,15 +29,10 @@ I’m learning how focus my energy, and how to spend my time on me. I’m learni
 After a year of challenges, and unexpected lessons, I’m focused on the future.
 
 ![][1]
-
 ![][2]
-
 ![][3]
-
 ![][4]
-
 ![][5]
-
 ![][6]
 
  [1]: /wp-content/uploads/2018/07/IMG_0814.jpg
