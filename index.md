@@ -8,4 +8,4 @@ pagination:
 
 <p>Currently, I’m consulting and am open to new work. You can learn more <a href="/about">about me</a> and I’d be delighted to chat!</p>
 
-<img src="img/IMG_0534.jpeg" style="border-radius: 50%;" />
+<img src="img/IMG_0534.jpeg" style="width: 50%; border-radius: 50%;" />
