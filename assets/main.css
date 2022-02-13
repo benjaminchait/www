@@ -68,8 +68,8 @@ hr {
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #fafafa; // #222;
-    background: #222; // #fafafa; 
+    color: #fafafa;
+    background: #222;
   }
   
   a {
@@ -77,11 +77,11 @@ hr {
   }
   
   h1, h2, strong {
-    color: #fafafa; // #111;
+    color: #fafafa;
   }
   
   hr {
-    border-top: 1px solid #222; // #eee
+    border-top: 1px solid #222;
   }
   
   img {
