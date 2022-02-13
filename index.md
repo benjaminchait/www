@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Benjamin Chait
 pagination:
   enabled: true
 ---
