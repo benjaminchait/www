@@ -4,7 +4,7 @@ title: Benjamin Chait
 pagination:
   enabled: true
 ---
-<img src="img/IMG_0534.jpeg" style="float: left; width: 9rem; border-radius: 50%; margin: 0 0.5em 0.5em 0;" />
+<img src="img/IMG_0534.jpeg" style="float: left; width: 9rem; border-radius: 50%; margin: 0 1em 1em 0;" />
 
 <p>I’m a product manager and a writer with an interest using technology to help people create better habits, with a particular focus on financial wellness. I help build and scale tech organizations, and recently moved to Chicago with my best friend Lyra.</p>
 
