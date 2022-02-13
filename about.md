@@ -15,7 +15,7 @@ permalink: /about
 
 🏡 I’ve lived all over: 🏔 Boulder, 🏛 DC, 🌲 PDX, 🌁 SF, 🍕 Chicago.<br />
 
-✈️ ask me about my backpacking trip around the world!<br />
+✈️ ask me about my <a href="/archives/two-weeks">backpacking trip</a> around the world!<br />
 
 🐶 my pup <a href="http://lyra.dog">Lyra</a> is my bff.<br />
 
