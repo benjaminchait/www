@@ -3,10 +3,10 @@ layout: page
 title: About
 permalink: /about
 ---
-<div style="width: 100%; margin: auto;">
-  <img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 200px;" />
-  <img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 200px;" />
-  <img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
+<div style="width: 100%;">
+  <img src="img/lyra-and-benjamin/IMG_2713.jpeg" style="width: 32%; max-width: 200px;" />
+  <img src="img/lyra-and-benjamin/IMG_2715.jpeg" style="width: 32%; max-width: 200px;" />
+  <img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 32%; max-width: 200px;" />
 </div>
 
 👋 hi hello, I’m Benjamin (he/him).<br />
