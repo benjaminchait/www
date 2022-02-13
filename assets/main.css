@@ -65,3 +65,26 @@ hr {
 .small {
   font-size: .8em; 
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fafafa;
+    background: #222;
+  }
+  
+  a {
+    color: #0074D9;
+  }
+  
+  h1, h2, strong {
+    color: #fafafa;
+  }
+  
+  hr {
+    border-top: 1px solid #222;
+  }
+  
+  img {
+    filter: brightness(.8) contrast(1.2);
+  }
+}
