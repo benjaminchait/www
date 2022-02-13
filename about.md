@@ -9,11 +9,11 @@ permalink: /about
   <img src="img/lyra-and-benjamin/IMG_2716.jpeg" style="width: 200px;" />
 </div>
 
-👋 hi hello.<br />
+👋 hi hello, I’m Benjamin (he/him).<br />
 
-💻 I love to help teams build delightful experiences, and I'm grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br />
+💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 💚 [Chime](https://chime.com/), 🟡 [One](https://onefinance.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br />
 
-🏔 born in Boulder, Colorado, I've lived in: 🏛 DC, 🌲 PDX, 🌁 SF, and now 🍕 Chicago.<br />
+🏡 I’ve lived all over: 🏔 Boulder, 🏛 DC, 🌲 PDX, 🌁 SF, 🍕 Chicago.<br />
 
 ✈️ ask me about my backpacking trip around the world!<br />
 
@@ -27,9 +27,9 @@ permalink: /about
 
 📷 enjoy my [instagram](https://instagram.com/benjaminchait) ✨ stories ✨.<br />
 
-👯‍♀️ we can be "friends" on [facebook](https://facebook.com/benjaminchait)!<br />
+👯‍♀️ we can be “friends” on [facebook](https://facebook.com/benjaminchait)!<br />
 
-👔 make me a "connection" on [linkedin](https://linkedin.com/in/benjaminchait).<br />
+👔 make me a “connection” on [linkedin](https://linkedin.com/in/benjaminchait).<br />
 
 👾 idk but [github](https://github.com/benjaminchait).<br />
 
