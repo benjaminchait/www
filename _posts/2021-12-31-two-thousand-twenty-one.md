@@ -2,13 +2,9 @@
 layout: post
 title: Two thousand twenty one
 published: true
-author: benjaminchait
-comments: false
 date: 2021-12-31 21:00:00 -0600
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/two-thousand-twenty-one
+ogimage: /img/blog/211231_two-thousand-twenty-one/IMG_5156.jpeg
 ---
 My year ends quite different than it started. 
 
