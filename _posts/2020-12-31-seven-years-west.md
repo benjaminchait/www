@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Seven years west
+description: 2020 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2020-12-31 19:22:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/seven-years-west
+ogimage: /img/blog/201231_seven-years-west/IMG_2705.jpeg
 ---
 Where does one begin?
 

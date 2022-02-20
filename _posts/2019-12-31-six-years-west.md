@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Six years west
+description: 2019 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2019-12-31 22:01:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/six-years-west
+ogimage: /wp-content/uploads/2019/12/IMG_1882.jpeg
 ---
 Every morning I wake up and look outside my bedroom window at a view that still amazes me.
 
