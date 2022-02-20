@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Thirty-three
+description: 33rd birthday
 published: true
-author: benjaminchait
-comments: false
 date: 2020-06-30 09:00:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/thirty-three
 ---
 It’s never too late to start over.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Two thousand twenty one
+description: Recap of 2021
 published: true
 date: 2021-12-31 21:00:00 -0600
 permalink: /archives/two-thousand-twenty-one
