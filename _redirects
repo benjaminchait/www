@@ -7,3 +7,7 @@
 /2017/09/kippa     /archives/kippa
 /2017/12/four-years-west  /archives/four-years-west
 /2017/06/thirty    /archives/thirty
+
+# Plausible Analytics https://plausible.io/docs/proxy/guides/netlify
+/js/pa-script.js https://plausible.io/js/plausible.js 200
+/api/pa-event https://plausible.io/api/event 200
