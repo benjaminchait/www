@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lyra
+permalink: /lyra
 ---
 <center>
 <h1>🐶 woof, I’m a dog named Lyra</h1>
