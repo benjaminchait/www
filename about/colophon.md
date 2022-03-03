@@ -3,7 +3,7 @@ layout: page
 title: Colophon
 permalink: /about/colophon
 ---
-🏗 This site is a [Jekyll](https://jekyllrb.com)-based, statically generated site. A [Netlify](https://www.netlify.com) build pipeline automatically publishes from the source repository. The domain name is registered via [Google Domains](https://domains.google).
+🏗 This site is a [Jekyll](https://jekyllrb.com)-based, statically generated site. A [Netlify](https://www.netlify.com) build pipeline automatically publishes from the [source repository](https://github.com/benjaminchait/www). The domain name is registered via [Google Domains](https://domains.google).
 
 🎨 The CSS and layouts were mine, then were updated based heavily on [Clio](https://github.com/danromero/clio), and have continued receiving modifications (such as dark mode support).
 
