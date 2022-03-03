@@ -3,10 +3,6 @@ layout: page
 title: Uses
 permalink: /about/uses
 ---
-<h1>Uses</h1>
-
-Tools
-
 Here is a non-exhaustive list some products and tools that I currently use, as of March 2022:
 
 Tech
