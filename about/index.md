@@ -33,4 +33,6 @@ permalink: /about
 
 👾 idk but [github](https://github.com/benjaminchait).<br />
 
+🖋 [colophon](/about/colophon).<br />
+
 ❤️ always be kind.
