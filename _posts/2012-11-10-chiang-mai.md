@@ -22,7 +22,7 @@ Highlight of the week—and trip thus far—was playing with tigers. The tiger c
 ![Tiger cub 1][4]
 ![Tiger cub 2][5]
 
-That said, standing next to a full-size (two-year old) tiger was slightly daunting. Incredible creatures, I&#8217;m slightly amused by the waiver one needs sign acknowledging one is stepping into a cage next to a very large, potentially deadly animal.
+That said, standing next to a full-size (two-year old) tiger was slightly daunting. Incredible creatures, I’m slightly amused by the waiver one needs sign acknowledging one is stepping into a cage next to a very large, potentially deadly animal.
 
 ![Tiger teeth][6]
 ![Tiger chewing][7]

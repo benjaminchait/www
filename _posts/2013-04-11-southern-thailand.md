@@ -12,12 +12,12 @@ Ao Nang provided some of the more peaceful days found thus far on this trip. Day
 ![Ao Nang sunset][1]
 ![Street food][2]
 
-We went on an elephant trek! Climbing the wooden stairs in the early morning sunlight, I paused as I reached the top before stepping out. Our 42-year-old elephant stood some 2.5 meters tall, waiting patiently alongside the boarding platform as Sarah and I shuffled onto the creature&#8217;s back. Before either of us were settled, our guide nudged our elephant forward as we began our trek. As suggested by our guide, we took turns sitting forward, just along the elephant&#8217;s neck—where the grace and elegance of such gigantic animals was apparent as we climbed hills and crossed rivers.
+We went on an elephant trek! Climbing the wooden stairs in the early morning sunlight, I paused as I reached the top before stepping out. Our 42-year-old elephant stood some 2.5 meters tall, waiting patiently alongside the boarding platform as Sarah and I shuffled onto the creature’s back. Before either of us were settled, our guide nudged our elephant forward as we began our trek. As suggested by our guide, we took turns sitting forward, just along the elephant’s neck—where the grace and elegance of such gigantic animals was apparent as we climbed hills and crossed rivers.
 
 ![Elephant, while riding][3]
 ![Elephant, from ground][4]
 
-Venturing yet further south, Koh Lanta&#8217;s white beaches were picturesque. If ever I imagined traveling to Southeast Asia, enjoying food and drink alongside the water was exactly what I hoped. Running barefoot as the evening tide returned was relaxing and made better only while watching the sun set into the Indian Ocean.
+Venturing yet further south, Koh Lanta’s white beaches were picturesque. If ever I imagined traveling to Southeast Asia, enjoying food and drink alongside the water was exactly what I hoped. Running barefoot as the evening tide returned was relaxing and made better only while watching the sun set into the Indian Ocean.
 
 A ferry to the island chain Koh Phi Phi brought adventures while getting away from everything else. Without motor vehicles, walking was the primary form of transportation; nothing was more than ten minutes away by foot or a longtail boat to some hidden beach. I can hardly describe the stunning clarity of the water with astounding colors everywhere I looked. Sea kayaking to Monkey Beach brought us close to some fun, little creatures—though they were far smarter than I had imagined, even a little nasty! This was a true getaway spot and two nights was not nearly enough.
 

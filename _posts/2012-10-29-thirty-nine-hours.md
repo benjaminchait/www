@@ -17,7 +17,7 @@ Flying from Seattle to Beijing was fascinating as we circumnavigated northbound 
 
 ![Alaskan mountains][3]
 
-A three-hour layover in Beijing was spent passing China customs and immigration and getting lost searching for the international checkin counter. Following that was a final flight, this one five hours in length landing in Bangkok just past midnight. A taxi ride to a family friend&#8217;s home and our travels were concluded 2 am.
+A three-hour layover in Beijing was spent passing China customs and immigration and getting lost searching for the international checkin counter. Following that was a final flight, this one five hours in length landing in Bangkok just past midnight. A taxi ride to a family friend’s home and our travels were concluded 2 am.
 
 Made it.
 

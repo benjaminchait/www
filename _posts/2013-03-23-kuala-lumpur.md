@@ -7,7 +7,7 @@ date: 2013-03-23 10:03:37 -0700
 permalink: /archives/kuala-lumpur
 ogimage: /wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03808.jpg
 ---
-Walking through the door, everyone already seated at the restaurant looked up, staring. As we shuffled to our table in the back of the room, an uncomfortable feeling arose: I was one of two foreigners in the establishment, the other sitting beside me for dinner. Thankfully we had a friend guiding us. But next came the more surprising part; dinner was traditionally enjoyed with merely one&#8217;s hands.
+Walking through the door, everyone already seated at the restaurant looked up, staring. As we shuffled to our table in the back of the room, an uncomfortable feeling arose: I was one of two foreigners in the establishment, the other sitting beside me for dinner. Thankfully we had a friend guiding us. But next came the more surprising part; dinner was traditionally enjoyed with merely one’s hands.
 
 Eating became our way to explore Kuala Lumpur.
 

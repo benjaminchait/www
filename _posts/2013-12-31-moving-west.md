@@ -9,7 +9,7 @@ ogimage: /wp-content/uploads/media/img/2013/12/moving-west/IMG_0599.JPG
 ---
 Just like the “Oregon Trail” game, I followed the American Dream to move west and continue my adventures in Portland, Oregon.
 
-Slowly, pieces are falling together. Plenty of coffee, good microbrews and exceptional food trucks (make time pass fast). And—without exception—lovely people. Already many days spent beside the window, rainy fog on the other side. A new place I&#8217;m only just beginning to explore.
+Slowly, pieces are falling together. Plenty of coffee, good microbrews and exceptional food trucks (make time pass fast). And—without exception—lovely people. Already many days spent beside the window, rainy fog on the other side. A new place I’m only just beginning to explore.
 
 Looking back at 2013 and everything which has come before, I am astonished and so incredibly excited for what comes next.
 
