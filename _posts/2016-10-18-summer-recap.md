@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Summer recap
+description: Summer 2016
 published: true
-author: benjaminchait
-comments: false
 date: 2016-10-18 09:10:45 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/summer-recap
+ogimage: /wp-content/uploads/2016/10/IMG_6164.jpg
 ---
 Since May: Portland; Columbus; road trip back to Portland (including stopovers in St Louis, Boulder and Boise); Salt Lake City (well, Snowbird); Portland; Boulder; Portland; Denver; and back to Portland.
 

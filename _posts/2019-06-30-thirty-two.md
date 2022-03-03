@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Thirty-two
+description: My thirty-second birthday
 published: true
-author: benjaminchait
-comments: false
 date: 2019-06-30 21:51:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/thirty-two
 ---
 I’m happy.

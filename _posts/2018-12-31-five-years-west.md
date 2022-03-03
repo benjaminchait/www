@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Five years west
+descripion: 2018 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2018-12-31 16:00:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/five-years-west
+ogimage: /wp-content/uploads/2018/12/IMG_1535.jpeg
 ---
 This year wasn’t what I expected.
 

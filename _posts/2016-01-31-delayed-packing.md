@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Delayed packing
+description: On visiting--and leaving--my hometown.
 published: true
-author: benjaminchait
-comments: false
 date: 2016-01-31 07:01:43 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/delayed-packing
+ogimage: /wp-content/uploads/2016/01/IMG_1260.jpg
 ---
 This time last week, I sat in my childhood bedroom. Clothes and other goods ready to be packed, strewn across the floor and over the bed. But instead of packing in any reasonable manner, I spent the evening reflecting.
 

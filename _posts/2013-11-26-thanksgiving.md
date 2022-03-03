@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Thanksgiving
+description: On time with family
 published: true
-author: benjaminchait
-comments: false
 date: 2013-11-26 03:11:58 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/thanksgiving
 ---
 I’m sitting with my grandmother. It’s on me for not visiting during the past two years, but I’m here now. She asks about my future plans; listens as I describe stories from abroad; and shares her love and excitement for my next adventures.

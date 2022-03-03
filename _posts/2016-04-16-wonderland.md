@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Wonderland
+description: TEDxPortland 2016
 published: false
-author: benjaminchait
-comments: false
 date: 2016-04-16 07:04:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/wonderland
+ogimage: /wp-content/uploads/2016/04/IMG_3235.jpg
 ---
 Building community is important to me. Whether we live together in a neighborhood, the same city, within a single state, in a country or merely on this same earth &#8212; our lives are connected. We (hopefully) spend our daytime hours working alongside like-minded individuals toward a common goal.
 

@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Two years west
+description: 2015 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2015-12-31 05:12:40 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/two-years-west
+ogimage: /wp-content/uploads/2015/12/1451610900.jpg
 ---
 Portland has been home for two years, and in that time I’ve [hardly][1] [written][2]. So here’s a recap.
 

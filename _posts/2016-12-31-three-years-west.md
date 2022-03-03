@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Three years west
+description: 2016 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2016-12-31 07:12:37 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/three-years-west
+ogimage: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2048.jpeg
 ---
 The sun came out after a rainy morning, one last warm glow in 2016. Not quite cold, though not quite the warm California weather we were expecting. Rather, hoping.&nbsp;
 

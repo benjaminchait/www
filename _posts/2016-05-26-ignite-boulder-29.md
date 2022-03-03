@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Ignite Boulder 29
+description: My Ignite Boulder talk!
 published: true
-author: benjaminchait
-comments: false
 date: 2016-05-26 01:05:37 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/ignite-boulder-29
+ogimage: /wp-content/uploads/2016/05/img_4365.jpg
 ---
 About a month ago, I was asked if I would talk at [Ignite Boulder 29][1]. Though I supported it for some seven years as an organizer, I had never once been on stage to present a five-minute “spark” (what we call a talk). So I said yes, expecting I would have plenty of time to prepare and share something interesting. Five weeks later, and I was struggling with a topic; Sunday night before the Thursday event I scrapped my previous ideas and furiously set to work creating some visuals to share [a travel story][2] and some thoughts. This was a small test of my own limits, all the meanwhile reminding myself that I could do this.
 

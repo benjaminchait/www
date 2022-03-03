@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Starting 2016 in Santa Barbara
+description: A sunny way to bring in the new year
 published: true
-author: benjaminchait
 date: 2016-01-10 09:01:46 -0700
 permalink: /archives/starting-2016-in-santa-barbara
 ogimage: /wp-content/uploads/2016/01/IMG_1149.jpg

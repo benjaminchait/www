@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Moving west
+description: Moving to PDX
 published: true
-author: benjaminchait
-comments: false
 date: 2013-12-31 07:12:45 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/moving-west
+ogimage: /wp-content/uploads/media/img/2013/12/moving-west/IMG_0599.JPG
 ---
 Just like the “Oregon Trail” game, I followed the American Dream to move west and continue my adventures in Portland, Oregon.
 

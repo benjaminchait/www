@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Thirty-one
+desciption: My thirty-first birthday
 published: true
-author: benjaminchait
-comments: false
 date: 2018-06-30 21:00:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/thirty-one
+ogimage: /wp-content/uploads/2018/07/IMG_0814.jpg
 ---
 I’m not sure where to begin with this past year. This past year has been a blur, including some of the highest highs and the lowest lows. This time one year ago, I felt everything was falling together just right; a few weeks later, and everything was falling apart.
 

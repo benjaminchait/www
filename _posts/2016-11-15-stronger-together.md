@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Stronger together
+description: I still have hope.
 published: true
-author: benjaminchait
-comments: false
 date: 2016-11-15 10:11:07 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/stronger-together
 ---
 I still have hope.

@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Four years west
+description: 2017 recap
 published: true
-author: benjaminchait
-comments: false
 date: 2017-12-31 23:00:00 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/four-years-west
 ---
 This year started so incredible: my work was going well, Sarah began her Physician Assistant program in the summer and we purchased our first house. Everything was feeling really, really good.

@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Ten years, online
+description: Reminiscing about publishing on the web
 published: false
-author: benjaminchait
-comments: false
 date: 2013-10-26 12:10:28 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/ten-years-online
 ---
 Ten years ago, I registered my first domain name: benjaminchait.net.
