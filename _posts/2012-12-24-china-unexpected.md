@@ -1,14 +1,11 @@
 ---
 layout: post
 title: China, unexpected
+description: A letter to my parents
 published: true
-author: benjaminchait
-comments: false
 date: 2012-12-24 09:12:13 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/china-unexpected
+ogimage: /wp-content/uploads/media/img/2012/12/china-unexpected/IMG_5834.JPG
 ---
 This is the story of getting stranded in China. Not quite the airport layover I expected when purchasing tickets from Hong Kong to Tokyo by way of Dalian. (I should note that—as I write about this adventure—I arrived safely in Japan yesterday.)
 

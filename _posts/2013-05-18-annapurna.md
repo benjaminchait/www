@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Annapurna
+description: Trekking Annapurna Base Camp
 published: true
-author: benjaminchait
-comments: false
 date: 2013-05-18 05:05:38 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/annapurna
+ogimage: /wp-content/uploads/media/img/2013/05-wp/20130520-222046.jpg
 ---
 Each step—most no more than a feeble shuffling forward of my feet—and I am that much closer to my goal. The sun bears down upon me as I sweat, still wearing layer upon layer because it requires too much energy to remove them and the weather is too unpredictable. I sleep in everything I am currently wearing except my outermost rain jacket which I have now for its wind protection. My local guide, nicknamed Gavi, is fifty meters ahead but visible with his bright orange pants. Speckled in the distance are a few other trekkers who had an early start this morning; my group began at a leisurely 8:30 am and now, some four-and-a-half hours later, we can see our goal: Annapurna Base Camp. The air is thin and I am exhausted from a maddeningly-fast, four-day ascent to 4,130 meters. I pause for a photo as I pass the sign welcoming me to ABC—annoyed the sign is still some twenty meters from the lodges. Still, five minutes later and I climb the final steps, breathe a sigh of relief and stow my gear in my unheated room quickly so I can join everyone in the warmer common area. The ascent is only half the journey.
 

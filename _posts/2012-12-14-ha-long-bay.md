@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Ha Long Bay
+description: Quiet, but mighty
 published: true
-author: benjaminchait
-comments: false
 date: 2012-12-14 11:12:25 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/ha-long-bay
+ogimage: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01256.jpg
 ---
 Departing Hanoi via minibus brought us to the coastal city of Ha Long. Here we had some of our most authentic Vietnamese food: street cafés with no menus, ordering food entirely through the few native words we had thus far learned. And yet, the city itself felt abandoned and forgotten—empty hotels outnumbered those welcoming guests, relatively few foreigners walking along the streets except at night once the tours returned. The quietness of the city provided a unique moment with a young family as we visited their seaside café. A four-year-old boy played with a crab holding a string attached to its pincer; laughter mixed with moments of terror as it edged near to him.
 

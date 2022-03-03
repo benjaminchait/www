@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Kathmandu
+description: 🇳🇵
 published: true
-author: benjaminchait
-comments: false
 date: 2013-05-08 03:05:28 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/kathmandu
+ogimage: /wp-content/uploads/media/img/2013/05-wp/20130518-130357.jpg
 ---
 My taxi shuttered across unpaved streets, dodging potholes, rickshaws, people and the occasional roaming cow; I thought it a miracle the raggedy car itself had not yet fallen apart. The city is dirty, crowded, horns blaring at deafening levels. I struggled with the immense cultural differences, the overall chaos. Crossing streets, riding buses, even the dogs barking at night—all of it exhausting.
 

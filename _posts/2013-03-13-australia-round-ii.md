@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Australia, round ii
+description: Down under, again
 published: true
-author: benjaminchait
-comments: false
 date: 2013-03-13 05:03:05 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/australia-round-ii
+ogimage: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03595.jpg
 ---
 Flying across the Tasman returning to Melbourne meant a few delightful days of friends, food and exploration. A quick escape to Great Ocean Road, Australia’s equivalent to the Pacific Coast Highway, provided stunning drives through killer landscapes. Watching sunset at the Twelve Apostles, seeing koalas in the bush and enjoying sunny beaches felt just like a vacation.
 

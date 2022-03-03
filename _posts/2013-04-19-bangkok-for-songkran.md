@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Bangkok, for Songkran
+description: Thailand's new year celebration
 published: true
-author: benjaminchait
-comments: true
 date: 2013-04-19 09:04:37 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/bangkok-for-songkran
+ogimage: /wp-content/uploads/media/img/2013/04-wp/20130419-230510.jpg
 ---
 Exploring Bangkok during Songkran, Thailand’s new year celebration, meant wandering the streets during a nationwide water fight. Without a doubt, the past week was one of my favorites thus far traveling—people of all ages, locals and foreigners together, just playing on the streets. I also reconnected with [Raquel][1], an old college friend who is herself traveling. I’m always amazed to be a world apart yet still find friends from home; joining them in water fights along random Bangkok streets made for a better a reunion.
 

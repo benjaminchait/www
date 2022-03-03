@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Getting ready
+description: Checklists
 published: true
-author: benjaminchait
-comments: false
 date: 2012-10-26 06:10:12 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/getting-ready
+ogimage: /wp-content/uploads/media/img/2012/10/getting-ready/IMG_5344.JPG
 ---
 How does one prepare to jump on a plane and travel abroad for an indefinite period of time?
 

@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Hiroshima
+description: History, Hiroshima
 published: true
-author: benjaminchait
-comments: false
 date: 2013-01-07 11:01:13 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/hiroshima
+ogimage: /wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg
 ---
 Heading south via Shinkansen we arrived in Hiroshima. The magnitude of its history is tremendous; as humans we created unimaginable destruction. I found myself speechless walking through Peace Park and visiting the Hiroshima Peace Memorial Museum. And yet, in this city which witnessed the incomprehensible, there exists a constant refrain of forgiveness and hope, of looking toward the future.
 

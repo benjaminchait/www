@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Phnom Penh
+description: Sadness
 published: true
-author: benjaminchait
-comments: false
 date: 2013-04-25 11:04:39 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/phnom-penh
+ogimage: /wp-content/uploads/media/img/2013/04-wp/20130425-235356.jpg
 ---
 Sadness.
 

@@ -1,14 +1,11 @@
 ---
 layout: post
 title: South Island
+description: New Zealand’s untouched backcountry
 published: true
-author: benjaminchait
-comments: false
 date: 2013-03-04 10:03:20 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/south-island
+ogimage: /wp-content/uploads/media/img/2013/03/south-island/DSC03353.jpg
 ---
 Gorgeous landscapes, what one expects when hearing of New Zealand’s untouched backcountry. Glaciers, mountains and water all together. And sheep. Lots of sheep. The past two-and-some weeks were a whirlwind of adventures exploring about the South Island. By the end, our rental car had gained some 2,821 kilometers, with plenty of stories and incredible experiences—enough to make my entire trip worthwhile.
 

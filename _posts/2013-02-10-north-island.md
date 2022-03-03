@@ -1,14 +1,11 @@
 ---
 layout: post
 title: North Island
+description: 🇳🇿
 published: true
-author: benjaminchait
-comments: false
 date: 2013-02-10 09:02:02 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/north-island
+ogimage: /wp-content/uploads/media/img/2013/02/north-island/DSC03007.jpg
 ---
 Chasing summer in New Zealand includes both plenty of mountains and moments at the water; my past two weeks spent exploring the North Island gave chance for a slower pace when compared to the previous five weeks of travel. Beginning in Auckland and working toward Wellington saw incredible changes in landscape and experiences.
 

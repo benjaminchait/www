@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Slowing down
+description: Learning to live on-the-go
 published: true
-author: benjaminchait
-comments: false
 date: 2012-12-03 07:12:16 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/slowing-down
 ---
 Over five weeks into this adventure and just now beginning to feel like I’m comfortable living on-the-go. Week one was pure adrenaline, full of excitement. Weeks two and three were vacation-like, exploring and jumping place-to-place. Week four was rough, perhaps the first time I fully realized not every moment is fun and &#8220;adventuresome&#8221;—a way important learning moment. Last week was better; starting to understand my own expectations and begin recognizing disappointment. Right now I feel more balanced and have an eagerness for each day.

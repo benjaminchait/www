@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Melbourne
+description: Melbourne
 published: true
-author: benjaminchait
-comments: false
 date: 2013-01-23 12:01:11 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/melbourne
+ogimage: /wp-content/uploads/media/img/2013/01/melbourne/DSC02834.jpg
 ---
 Visiting Melbourne is defined by what I saw and did just as much as by what remains for next time. Amazing coffee was everywhere, lanes (alleyways) full of cafés hidden throughout the CBD. Exploring the Botanic Gardens and Queen Victoria Market highlighted the city’s culture and history. An evening trip to Fitzroy made new friends. And a day at the Australian Open included front-row seats watching the Williams sisters. Melbourne, I hope to return soon.
 

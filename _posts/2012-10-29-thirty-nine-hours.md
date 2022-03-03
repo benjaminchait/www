@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Thirty-nine hours
+description: Beginning the adventure
 published: true
-author: benjaminchait
-comments: false
 date: 2012-10-29 06:10:41 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/thirty-nine-hours
+ogimage: /wp-content/uploads/media/img/2012/10/thirty-nine-hours/IMG_5366.JPG
 ---
 Some 39 hours following our initial flight from DEN to SEA, [Sarah][1] and I arrived in Bangkok, Thailand approximately 12:30 am local time.
 

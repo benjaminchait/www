@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Singapore
+description: 🇸🇬
 published: true
-author: benjaminchait
-comments: false
 date: 2013-03-19 12:03:36 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/singapore
+ogimage: /wp-content/uploads/media/img/2013/03/singapore/DSC03785.jpg
 ---
 The adventure started before landing. A friend of mine put me in touch with Kenny, a Scottish expat living and working in the city-state. He graciously offered a place at which to crash—incredibly helpful as Singapore is possibly the most expensive city in Asia—while simultaneously crafting nicknames for Sarah and myself; already I was excited for what was shaping-up to be a distinct and eclectic week.
 

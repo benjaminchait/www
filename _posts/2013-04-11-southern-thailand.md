@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Southern Thailand
+description: Beach life
 published: true
-author: benjaminchait
-comments: true
 date: 2013-04-11 11:04:01 -0700
-tags: [ ]
-categories:
-    - uncategorized
 permalink: /archives/southern-thailand
+ogimage: /wp-content/uploads/media/img/2013/03/southern-thailand/DSC04100.jpg
 ---
 Ao Nang provided some of the more peaceful days found thus far on this trip. Days spent reading in hammocks or playing on beaches in the warm Andaman Sea gave a chance to regain bearings. Lovely sunsets and street food reminded me how simple moments can be almost magical. Dinner parties with fellow travelers gave way to incredible stories, from a German family of six venturing around-the-world for a year to others visiting Thailand for only a week. Fireflies and geckos surrounded our bungalow as we went to sleep.
 
