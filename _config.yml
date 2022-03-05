@@ -14,11 +14,11 @@ timezone: America/Los_Angeles
 
 plugins: [jekyll-redirect-from]
 
-assets:
-  sources:
-    - _assets/css
-    - _assets/images
-    - _assets/img(old)
+# assets:
+#   sources:
+#     - _assets/css
+#     - _assets/images
+#     - _assets/img(old)
 
 pagination:
   enabled: true
