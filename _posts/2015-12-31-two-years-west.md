@@ -34,14 +34,14 @@ Excited for the next two.
 
 [1]: /archives/moving-west
 [2]: /archives/one-year-west
-[3]: /img/posts/2015-12-31-two-years-west/1451610782.jpg
-[4]: /img/posts/2015-12-31-two-years-west/1451610806.jpg
-[5]: /img/posts/2015-12-31-two-years-west/1451610852.jpg
-[6]: /img/posts/2015-12-31-two-years-west/1451610871.jpg
-[7]: /img/posts/2015-12-31-two-years-west/1451610886.jpg
-[8]: /img/posts/2015-12-31-two-years-west/1451610900.jpg
-[9]: /img/posts/2015-12-31-two-years-west/1451610916.jpg
-[10]: /img/posts/2015-12-31-two-years-west/1451610931.jpg
-[11]: /img/posts/2015-12-31-two-years-west/1451610944.jpg
-[12]: /img/posts/2015-12-31-two-years-west/1451610979.jpg
-[13]: /img/posts/2015-12-31-two-years-west/1451610993.jpg
+[3]: /img/posts/2015-12-31-two-years-west/IMG_0675.jpeg
+[4]: /img/posts/2015-12-31-two-years-west/IMG_0701.jpeg
+[5]: /img/posts/2015-12-31-two-years-west/IMG_1566.jpeg
+[6]: /img/posts/2015-12-31-two-years-west/IMG_1620.jpeg
+[7]: /img/posts/2015-12-31-two-years-west/IMG_2385.jpeg
+[8]: /img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
+[9]: /img/posts/2015-12-31-two-years-west/IMG_0075.jpeg
+[10]: /img/posts/2015-12-31-two-years-west/IMG_3084.jpeg
+[11]: /img/posts/2015-12-31-two-years-west/8116220C-284B-4248-A850-57D4041BF4E4.jpeg
+[12]: /img/posts/2015-12-31-two-years-west/IMG_0458.jpeg
+[13]: /img/posts/2015-12-31-two-years-west/IMG_0908.jpeg
