@@ -15,7 +15,7 @@ And in short, I did.
 
 Was it my best talk ever? Probably not. And yes, I was a bit anxious about standing in front of a packed room at the Boulder Theater. But I recognize something, following that evening: folks want you to succeed. And that’s a fantastic audience to have.
 
-![Benjamin on stage][4]
+![Stage selfie][4]
 
 [1]: http://igniteboulder.com/ignite-boulder-29
 [2]: /archives/china-unexpected
