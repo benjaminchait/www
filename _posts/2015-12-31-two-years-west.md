@@ -5,7 +5,7 @@ description: 2015 recap
 published: true
 date: 2015-12-31 05:12:40 -0700
 permalink: /archives/two-years-west
-ogimage: /img/posts/2015-12-31-two-years-west/1451610900.jpg
+ogimage: /img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 ---
 Portland has been home for two years, and in that time I’ve [hardly][1] [written][2]. So here’s a recap.
 
