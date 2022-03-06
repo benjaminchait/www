@@ -5,7 +5,7 @@ description: On visiting--and leaving--my hometown.
 published: true
 date: 2016-01-31 07:01:43 -0700
 permalink: /archives/delayed-packing
-ogimage: /img/posts/2016-01-31-delayed-packing/IMG_1260.jpg
+ogimage: /img/posts/2016-01-31-delayed-packing/IMG_1260.jpeg
 ---
 This time last week, I sat in my childhood bedroom. Clothes and other goods ready to be packed, strewn across the floor and over the bed. But instead of packing in any reasonable manner, I spent the evening reflecting.
 
@@ -28,10 +28,10 @@ A lot has changed since I last called this place my home. Over the past few year
 ![Dusky sky 1][6]
 ![Dusky sky 2][7]
 
-[1]: /img/posts/2016-01-31-delayed-packing/IMG_1223.jpg
-[2]: /img/posts/2016-01-31-delayed-packing/IMG_1260.jpg
-[3]: /img/posts/2016-01-31-delayed-packing/IMG_1693.jpg
-[4]: /img/posts/2016-01-31-delayed-packing/IMG_1364.jpg
-[5]: /img/posts/2016-01-31-delayed-packing/IMG_1692.jpg
-[6]: /img/posts/2016-01-31-delayed-packing/IMG_1383.jpg
-[7]: /img/posts/2016-01-31-delayed-packing/IMG_1436.jpg
+[1]: /img/posts/2016-01-31-delayed-packing/IMG_1223.jpeg
+[2]: /img/posts/2016-01-31-delayed-packing/IMG_1260.jpeg
+[3]: /img/posts/2016-01-31-delayed-packing/IMG_1693.jpeg
+[4]: /img/posts/2016-01-31-delayed-packing/IMG_1364.jpeg
+[5]: /img/posts/2016-01-31-delayed-packing/IMG_1692.jpeg
+[6]: /img/posts/2016-01-31-delayed-packing/IMG_1383.jpeg
+[7]: /img/posts/2016-01-31-delayed-packing/IMG_1436.jpeg

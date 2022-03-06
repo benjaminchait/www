@@ -5,7 +5,7 @@ desciption: My thirty-first birthday
 published: true
 date: 2018-06-30 21:00:00 -0700
 permalink: /archives/thirty-one
-ogimage: /img/posts/2018-06-30-thirty-one/IMG_0814.jpg
+ogimage: /img/posts/2018-06-30-thirty-one/IMG_0814.jpeg
 ---
 I’m not sure where to begin with this past year. This past year has been a blur, including some of the highest highs and the lowest lows. This time one year ago, I felt everything was falling together just right; a few weeks later, and everything was falling apart.
 
@@ -32,9 +32,9 @@ After a year of challenges, and unexpected lessons, I’m focused on the future.
 ![Sarah][5]
 ![Mount Hood][6]
 
-[1]: /img/posts/2018-06-30-thirty-one/IMG_0814.jpg
-[2]: /img/posts/2018-06-30-thirty-one/016BA0D7-4AA1-4B89-9AF6-3C5D375A2E0E.jpg
-[3]: /img/posts/2018-06-30-thirty-one/369D5EB8-0306-4C4E-A8D6-A682CA6C2866.jpg
-[4]: /img/posts/2018-06-30-thirty-one/2C27F380-96E4-40C4-91CF-6F4A11E3B7A3.jpg
-[5]: /img/posts/2018-06-30-thirty-one/CE83A09C-04B3-4853-9809-AE9C9006F4A3.jpg
-[6]: /img/posts/2018-06-30-thirty-one/3311FD05-13A8-48AD-88AE-C87B5E58F4F9.jpg
+[1]: /img/posts/2018-06-30-thirty-one/IMG_0814.jpeg
+[2]: /img/posts/2018-06-30-thirty-one/016BA0D7-4AA1-4B89-9AF6-3C5D375A2E0E.jpeg
+[3]: /img/posts/2018-06-30-thirty-one/369D5EB8-0306-4C4E-A8D6-A682CA6C2866.jpeg
+[4]: /img/posts/2018-06-30-thirty-one/2C27F380-96E4-40C4-91CF-6F4A11E3B7A3.jpeg
+[5]: /img/posts/2018-06-30-thirty-one/CE83A09C-04B3-4853-9809-AE9C9006F4A3.jpeg
+[6]: /img/posts/2018-06-30-thirty-one/3311FD05-13A8-48AD-88AE-C87B5E58F4F9.jpeg
