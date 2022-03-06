@@ -5,7 +5,7 @@ description: 2016 recap
 published: true
 date: 2016-12-31 07:12:37 -0700
 permalink: /archives/three-years-west
-ogimage: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2048.jpeg
+ogimage: /img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
 ---
 The sun came out after a rainy morning, one last warm glow in 2016. Not quite cold, though not quite the warm California weather we were expecting. Rather, hoping.&nbsp;
 
@@ -23,10 +23,10 @@ I’m not quite sure what 2017 will look like. I’m more anxious today than I w
 ![][6]
 ![][7]
 
- [1]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2021.jpeg
- [2]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2030.jpeg
- [3]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2038.jpeg
- [4]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2048.jpeg
- [5]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2046%2055.jpeg
- [6]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2047%2002.jpeg
- [7]: /wp-content/uploads/media/img/2016-ipad/Photo%20Dec%2031,%2016%2047%2007.jpeg
+[1]: /img/posts/2016-12-31-three-years-west/IMG_2596.jpeg
+[2]: /img/posts/2016-12-31-three-years-west/IMG_4085.jpeg
+[3]: /img/posts/2016-12-31-three-years-west/IMG_6486.jpeg
+[4]: /img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
+[5]: /img/posts/2016-12-31-three-years-west/IMG_1578.jpeg
+[6]: /img/posts/2016-12-31-three-years-west/797F2EF4-29B0-4A1D-92EF-220AF742A2DA.jpeg
+[7]: /img/posts/2016-12-31-three-years-west/AE0DB426-20D5-48E9-B808-D1B61BA8D127.jpeg
