@@ -5,7 +5,7 @@ description: 🇳🇵
 published: true
 date: 2013-05-08 03:05:28 -0700
 permalink: /archives/kathmandu
-ogimage: /wp-content/uploads/media/img/2013/05-wp/20130518-130357.jpg
+ogimage: /img/posts/2013-05-08-kathmandu/IMG_0282.jpeg
 ---
 My taxi shuttered across unpaved streets, dodging potholes, rickshaws, people and the occasional roaming cow; I thought it a miracle the raggedy car itself had not yet fallen apart. The city is dirty, crowded, horns blaring at deafening levels. I struggled with the immense cultural differences, the overall chaos. Crossing streets, riding buses, even the dogs barking at night—all of it exhausting.
 
@@ -23,6 +23,6 @@ This was my first home stay; full of new experiences, learning opportunities. My
 
 After a week, it was time to make my way to Pokhara—where I am as I write this. I saw far more than I expected in Kathmandu, found more challenges and honestly grew more than I imagined when I arrived.
 
- [1]: /wp-content/uploads/media/img/2013/05-wp/20130518-130357.jpg
- [2]: /wp-content/uploads/media/img/2013/05-wp/20130518-130406.jpg
- [3]: /wp-content/uploads/media/img/2013/05-wp/20130518-130414.jpg
+[1]: /img/posts/2013-05-08-kathmandu/IMG_0282.jpeg
+[2]: /img/posts/2013-05-08-kathmandu/IMG_0283.jpeg
+[3]: /img/posts/2013-05-08-kathmandu/IMG_0284.jpeg
