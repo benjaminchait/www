@@ -2,11 +2,11 @@
 
 ## Built by [Benjamin Chait](https://github.com/benjaminchait)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a0fb88e-0850-488a-836f-db212ed26790/deploy-status)](https://app.netlify.com/sites/benjaminchait-www/deploys)
+
 ### Basics
 
 **www** is a [Jekyll](https://jekyllrb.com/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](http://netlify.com). You can learn more using [their lovely documentation](https://www.netlifycms.org/docs/jekyll/) or by sending me a note to ask a question.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9a0fb88e-0850-488a-836f-db212ed26790/deploy-status)](https://app.netlify.com/sites/benjaminchait-www/deploys)
 
 ### Principles
 
@@ -17,3 +17,10 @@ Writing a few words about my general approach. These are not set in stone, but s
 * **Speed is usability:** Even with modern devices, bandwidth and processing impact the experience. This might be more critical to developing/pushing updates; but would be evident if serving original, high-resolution photos (rather than those which are optimized for this layout).
 * **Build scaleable workflows:** Images are currently sized at 1280px (which is 640px @ 2x for high-res "retina" devices); but are typically sourced from much larger source files. When possible, ensure a scalable workflow to generate and replace those images in the future.
 * **Work in public:** Personal websites have changed a lot over the years; share how this is built, offer guidance and support, and help others to participate in the web.
+
+### History
+
+* 2003: Registered my full name as a dot net URL, hosted on Media Temple. Went through a number of iterations: hand-crafted HTML pages, a bespoke CMS running a very simple SQL database (which I later accidentally "dropped" resulting in me learning the value of backups), and eventually running WordPress.
+* 2013: Spun-up an instance with Digital Ocean, continued on WordPress.
+* 2020: Migrated to a statically-generated site powered by Netlify, though most content was just copied from the `wp-content` downloaded from my DO instance.
+* 2022: _Finally_ cleaned-up the directory structure and properly updated all the images and content.
