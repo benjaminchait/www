@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+ogimage: /img/about/IMG_2713.jpeg
 ---
 <div style="width: 100%;"><center>
   <img src="/img/about/IMG_2713.jpeg" style="width: 32%; max-width: 200px;" />
