@@ -5,7 +5,7 @@ description: 🇸🇬
 published: true
 date: 2013-03-19 12:03:36 -0700
 permalink: /archives/singapore
-ogimage: /wp-content/uploads/media/img/2013/03/singapore/DSC03785.jpg
+ogimage: /img/posts/2013-03-19-singapore/DSC03785.jpeg
 ---
 The adventure started before landing. A friend of mine put me in touch with Kenny, a Scottish expat living and working in the city-state. He graciously offered a place at which to crash—incredibly helpful as Singapore is possibly the most expensive city in Asia—while simultaneously crafting nicknames for Sarah and myself; already I was excited for what was shaping-up to be a distinct and eclectic week.
 
@@ -18,5 +18,5 @@ Activities followed, nonstop. Enjoying hawker centres, open-air stalls of street
 
 In many ways the city lived up to its reputation of strict laws and overbearing moments: alcohol was incredibly expensive; an Orwellian sense of being watched was ever-present; armed military soldiers walked openly through the weekend’s street celebrations. Yet it never posed trouble—in fact, the city’s culture yielded a safe, immaculately clean and modern experience on the southern tip of the Malay Peninsula. Singapore showcased a character and energy reminiscent of my time in Hong Kong; it’s a mix of so much culture and has a confused, multi-faceted history. But that makes it unique.
 
- [1]: /wp-content/uploads/media/img/2013/03/singapore/DSC03747.jpg
- [2]: /wp-content/uploads/media/img/2013/03/singapore/DSC03785.jpg
+[1]: /img/posts/2013-03-19-singapore/DSC03747.jpeg
+[2]: /img/posts/2013-03-19-singapore/DSC03785.jpeg
