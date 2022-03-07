@@ -5,7 +5,7 @@ description: 34th birthday 🎂
 published: true
 date: 2021-06-30 19:22:00 -0600
 permalink: /archives/thirty-four
-ogimage: /img/posts/2021-06-30-thirty-four/IMG_3208.jpeg
+ogimage: /assets/img/posts/2021-06-30-thirty-four/IMG_3208.jpeg
 ---
 This birthday marks a change: As of this past weekend, Lyra and I have moved out of SF and are en route toward a new home base (though trekking through the mountain west first for a bit for fun).
 
@@ -27,18 +27,18 @@ Looking back at the past year, I’ve learned a lot: What I care about, how I wa
 ![Empty apartment 4][14]
 ![Benjamin leaving an empty SF apartment][15]
 
-[1]: /img/posts/2021-06-30-thirty-four/IMG_3208.jpeg
-[2]: /img/posts/2021-06-30-thirty-four/IMG_3419.jpeg
-[3]: /img/posts/2021-06-30-thirty-four/IMG_3520.jpeg
-[4]: /img/posts/2021-06-30-thirty-four/IMG_3584.jpeg
-[5]: /img/posts/2021-06-30-thirty-four/IMG_3728.jpeg
-[6]: /img/posts/2021-06-30-thirty-four/IMG_4068.jpeg
-[7]: /img/posts/2021-06-30-thirty-four/IMG_4673.jpeg
-[8]: /img/posts/2021-06-30-thirty-four/IMG_4695.jpeg
-[9]: /img/posts/2021-06-30-thirty-four/IMG_4867.jpeg
-[10]: /img/posts/2021-06-30-thirty-four/IMG_4921.jpeg
-[11]: /img/posts/2021-06-30-thirty-four/IMG_4989.jpeg
-[12]: /img/posts/2021-06-30-thirty-four/IMG_4990.jpeg
-[13]: /img/posts/2021-06-30-thirty-four/IMG_4993.jpeg
-[14]: /img/posts/2021-06-30-thirty-four/IMG_4994.jpeg
-[15]: /img/posts/2021-06-30-thirty-four/IMG_5001.jpeg
+[1]: /assets/img/posts/2021-06-30-thirty-four/IMG_3208.jpeg
+[2]: /assets/img/posts/2021-06-30-thirty-four/IMG_3419.jpeg
+[3]: /assets/img/posts/2021-06-30-thirty-four/IMG_3520.jpeg
+[4]: /assets/img/posts/2021-06-30-thirty-four/IMG_3584.jpeg
+[5]: /assets/img/posts/2021-06-30-thirty-four/IMG_3728.jpeg
+[6]: /assets/img/posts/2021-06-30-thirty-four/IMG_4068.jpeg
+[7]: /assets/img/posts/2021-06-30-thirty-four/IMG_4673.jpeg
+[8]: /assets/img/posts/2021-06-30-thirty-four/IMG_4695.jpeg
+[9]: /assets/img/posts/2021-06-30-thirty-four/IMG_4867.jpeg
+[10]: /assets/img/posts/2021-06-30-thirty-four/IMG_4921.jpeg
+[11]: /assets/img/posts/2021-06-30-thirty-four/IMG_4989.jpeg
+[12]: /assets/img/posts/2021-06-30-thirty-four/IMG_4990.jpeg
+[13]: /assets/img/posts/2021-06-30-thirty-four/IMG_4993.jpeg
+[14]: /assets/img/posts/2021-06-30-thirty-four/IMG_4994.jpeg
+[15]: /assets/img/posts/2021-06-30-thirty-four/IMG_5001.jpeg

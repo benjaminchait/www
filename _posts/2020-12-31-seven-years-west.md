@@ -5,7 +5,7 @@ description: 2020 recap
 published: true
 date: 2020-12-31 19:22:00 -0700
 permalink: /archives/seven-years-west
-ogimage: /img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
+ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
 ---
 Where does one begin?
 
@@ -38,27 +38,27 @@ While this year has been hard, it’s also been pretty magical for me and the pu
 ![Mossy trees][23]
 ![Trees and light][24]
 
-[1]: /img/posts/2020-12-31-seven-years-west/IMG_1908.jpeg
-[2]: /img/posts/2020-12-31-seven-years-west/IMG_2024.jpeg
-[3]: /img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
-[4]: /img/posts/2020-12-31-seven-years-west/IMG_0669.jpeg
-[5]: /img/posts/2020-12-31-seven-years-west/IMG_3217.jpeg
-[6]: /img/posts/2020-12-31-seven-years-west/IMG_5459.jpeg
-[7]: /img/posts/2020-12-31-seven-years-west/IMG_5473.jpeg
-[8]: /img/posts/2020-12-31-seven-years-west/IMG_5664.jpeg
-[9]: /img/posts/2020-12-31-seven-years-west/IMG_5884.jpeg
-[10]: /img/posts/2020-12-31-seven-years-west/IMG_6123.jpeg
-[11]: /img/posts/2020-12-31-seven-years-west/IMG_6171.jpeg
-[12]: /img/posts/2020-12-31-seven-years-west/IMG_6223.jpeg
-[13]: /img/posts/2020-12-31-seven-years-west/IMG_6986.jpeg
-[14]: /img/posts/2020-12-31-seven-years-west/IMG_0048.jpeg
-[15]: /img/posts/2020-12-31-seven-years-west/IMG_0207.jpeg
-[16]: /img/posts/2020-12-31-seven-years-west/IMG_0324.jpeg
-[17]: /img/posts/2020-12-31-seven-years-west/IMG_0958.jpeg
-[18]: /img/posts/2020-12-31-seven-years-west/IMG_0149.jpeg
-[19]: /img/posts/2020-12-31-seven-years-west/IMG_0482.jpeg
-[20]: /img/posts/2020-12-31-seven-years-west/IMG_0494.jpeg
-[21]: /img/posts/2020-12-31-seven-years-west/IMG_0764.jpeg
-[22]: /img/posts/2020-12-31-seven-years-west/IMG_1413.jpeg
-[23]: /img/posts/2020-12-31-seven-years-west/IMG_1738.jpeg
-[24]: /img/posts/2020-12-31-seven-years-west/IMG_1766.jpeg
+[1]: /assets/img/posts/2020-12-31-seven-years-west/IMG_1908.jpeg
+[2]: /assets/img/posts/2020-12-31-seven-years-west/IMG_2024.jpeg
+[3]: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
+[4]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0669.jpeg
+[5]: /assets/img/posts/2020-12-31-seven-years-west/IMG_3217.jpeg
+[6]: /assets/img/posts/2020-12-31-seven-years-west/IMG_5459.jpeg
+[7]: /assets/img/posts/2020-12-31-seven-years-west/IMG_5473.jpeg
+[8]: /assets/img/posts/2020-12-31-seven-years-west/IMG_5664.jpeg
+[9]: /assets/img/posts/2020-12-31-seven-years-west/IMG_5884.jpeg
+[10]: /assets/img/posts/2020-12-31-seven-years-west/IMG_6123.jpeg
+[11]: /assets/img/posts/2020-12-31-seven-years-west/IMG_6171.jpeg
+[12]: /assets/img/posts/2020-12-31-seven-years-west/IMG_6223.jpeg
+[13]: /assets/img/posts/2020-12-31-seven-years-west/IMG_6986.jpeg
+[14]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0048.jpeg
+[15]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0207.jpeg
+[16]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0324.jpeg
+[17]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0958.jpeg
+[18]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0149.jpeg
+[19]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0482.jpeg
+[20]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0494.jpeg
+[21]: /assets/img/posts/2020-12-31-seven-years-west/IMG_0764.jpeg
+[22]: /assets/img/posts/2020-12-31-seven-years-west/IMG_1413.jpeg
+[23]: /assets/img/posts/2020-12-31-seven-years-west/IMG_1738.jpeg
+[24]: /assets/img/posts/2020-12-31-seven-years-west/IMG_1766.jpeg

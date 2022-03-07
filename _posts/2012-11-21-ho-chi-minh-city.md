@@ -5,7 +5,7 @@ description: Learning how to cross the street
 published: true
 date: 2012-11-21 01:11:27 -0700
 permalink: /archives/ho-chi-minh-city
-ogimage: /img/posts/2012-11-21-ho-chi-minh-city/DSC00711.jpeg
+ogimage: /assets/img/posts/2012-11-21-ho-chi-minh-city/DSC00711.jpeg
 ---
 Crossing streets in Vietnam is dangerous as I was warned. Whereas Thailand had some suggestions for driving, Vietnam’s roadways are an entirely new challenge. Cars only somewhat follow direction from streetlights and motorbikes break every rule in the book. It’s not even when crossing streets; motorbikes routinely drive along the sidewalk to themselves avoid the traffic. And the alley in which our hostel is located—barely wide enough for two people standing side-by-side—has little “honks” of scooters trying to pass you. And yet in all the chaos, I am full of wonder and more than a little amazement.
 
@@ -20,6 +20,6 @@ I sense Vietnam reconciling its identity. While officially known as Ho Chi Minh 
 
 Tonight is an overnight train north to reach Hoi An by way of Da Nang.
 
-[1]: /img/posts/2012-11-21-ho-chi-minh-city/DSC00670.jpeg
-[2]: /img/posts/2012-11-21-ho-chi-minh-city/DSC00711.jpeg
-[3]: /img/posts/2012-11-21-ho-chi-minh-city/DSC00714.jpeg
+[1]: /assets/img/posts/2012-11-21-ho-chi-minh-city/DSC00670.jpeg
+[2]: /assets/img/posts/2012-11-21-ho-chi-minh-city/DSC00711.jpeg
+[3]: /assets/img/posts/2012-11-21-ho-chi-minh-city/DSC00714.jpeg

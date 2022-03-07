@@ -5,7 +5,7 @@ description: 🇳🇿
 published: true
 date: 2013-02-10 09:02:02 -0700
 permalink: /archives/north-island
-ogimage: /img/posts/2013-02-10-north-island/DSC03007.jpeg
+ogimage: /assets/img/posts/2013-02-10-north-island/DSC03007.jpeg
 ---
 Chasing summer in New Zealand includes both plenty of mountains and moments at the water; my past two weeks spent exploring the North Island gave chance for a slower pace when compared to the previous five weeks of travel. Beginning in Auckland and working toward Wellington saw incredible changes in landscape and experiences.
 
@@ -36,13 +36,13 @@ We found ourselves with no shortage of activities upon arriving in the capital c
 
 Admittedly, hearing news of the Solomon Island earthquake during our last day in Wellington was a humbling reminder of the dangers which exist along the ring of fire and we are fortunate New Zealand had no impact from a tsunami. These landscapes are incredible, relatively untouched and young on a geologic timeline; created by forces of nature of a scale and power that is in many cases unimaginable.
 
-[1]: /img/posts/2013-02-10-north-island/DSC02991.jpeg
-[2]: /img/posts/2013-02-10-north-island/DSC03007.jpeg
-[3]: /img/posts/2013-02-10-north-island/DSC03059.jpeg
-[4]: /img/posts/2013-02-10-north-island/DSC03074.jpeg
-[5]: /img/posts/2013-02-10-north-island/DSC03111.jpeg
-[6]: /img/posts/2013-02-10-north-island/DSC03134.jpeg
-[7]: /img/posts/2013-02-10-north-island/DSC03152.jpeg
-[8]: /img/posts/2013-02-10-north-island/DSC03157.jpeg
-[9]: /img/posts/2013-02-10-north-island/DSC03177.jpeg
-[10]: /img/posts/2013-02-10-north-island/DSC03197.jpeg
+[1]: /assets/img/posts/2013-02-10-north-island/DSC02991.jpeg
+[2]: /assets/img/posts/2013-02-10-north-island/DSC03007.jpeg
+[3]: /assets/img/posts/2013-02-10-north-island/DSC03059.jpeg
+[4]: /assets/img/posts/2013-02-10-north-island/DSC03074.jpeg
+[5]: /assets/img/posts/2013-02-10-north-island/DSC03111.jpeg
+[6]: /assets/img/posts/2013-02-10-north-island/DSC03134.jpeg
+[7]: /assets/img/posts/2013-02-10-north-island/DSC03152.jpeg
+[8]: /assets/img/posts/2013-02-10-north-island/DSC03157.jpeg
+[9]: /assets/img/posts/2013-02-10-north-island/DSC03177.jpeg
+[10]: /assets/img/posts/2013-02-10-north-island/DSC03197.jpeg

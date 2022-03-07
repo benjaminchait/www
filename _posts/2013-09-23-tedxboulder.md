@@ -5,7 +5,7 @@ description: Producing TEDxBoulder 2013
 published: false
 date: 2013-09-23 04:09:10 -0700
 permalink: /archives/tedxboulder
-ogimage: /img/posts/2013-09-23-tedxboulder/IMG_8497.jpeg
+ogimage: /assets/img/posts/2013-09-23-tedxboulder/IMG_8497.jpeg
 ---
 I had the great opportunity to work with some incredible folks in the Boulder community these past few weeks to produce TEDxBoulder 2013.
 
@@ -15,4 +15,4 @@ Waking up Saturday morning, I was already exhausted; putting together any live e
 
 Some four hours, three musical acts and fourteen talks later, we finished. And even with technical challenges, I think the evening was great. I am constantly impressed by people in our community and what they do every single day.
 
-[1]: /img/posts/2013-09-23-tedxboulder/IMG_8497.jpeg
+[1]: /assets/img/posts/2013-09-23-tedxboulder/IMG_8497.jpeg

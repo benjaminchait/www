@@ -5,7 +5,7 @@ description: 2015 recap
 published: true
 date: 2015-12-31 05:12:40 -0700
 permalink: /archives/two-years-west
-ogimage: /img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
+ogimage: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 ---
 Portland has been home for two years, and in that time I’ve [hardly][1] [written][2]. So here’s a recap.
 
@@ -34,14 +34,14 @@ Excited for the next two.
 
 [1]: /archives/moving-west
 [2]: /archives/one-year-west
-[3]: /img/posts/2015-12-31-two-years-west/IMG_0675.jpeg
-[4]: /img/posts/2015-12-31-two-years-west/IMG_0701.jpeg
-[5]: /img/posts/2015-12-31-two-years-west/IMG_1566.jpeg
-[6]: /img/posts/2015-12-31-two-years-west/IMG_1620.jpeg
-[7]: /img/posts/2015-12-31-two-years-west/IMG_2385.jpeg
-[8]: /img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
-[9]: /img/posts/2015-12-31-two-years-west/IMG_0075.jpeg
-[10]: /img/posts/2015-12-31-two-years-west/IMG_3084.jpeg
-[11]: /img/posts/2015-12-31-two-years-west/8116220C-284B-4248-A850-57D4041BF4E4.jpeg
-[12]: /img/posts/2015-12-31-two-years-west/IMG_0458.jpeg
-[13]: /img/posts/2015-12-31-two-years-west/IMG_0908.jpeg
+[3]: /assets/img/posts/2015-12-31-two-years-west/IMG_0675.jpeg
+[4]: /assets/img/posts/2015-12-31-two-years-west/IMG_0701.jpeg
+[5]: /assets/img/posts/2015-12-31-two-years-west/IMG_1566.jpeg
+[6]: /assets/img/posts/2015-12-31-two-years-west/IMG_1620.jpeg
+[7]: /assets/img/posts/2015-12-31-two-years-west/IMG_2385.jpeg
+[8]: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
+[9]: /assets/img/posts/2015-12-31-two-years-west/IMG_0075.jpeg
+[10]: /assets/img/posts/2015-12-31-two-years-west/IMG_3084.jpeg
+[11]: /assets/img/posts/2015-12-31-two-years-west/8116220C-284B-4248-A850-57D4041BF4E4.jpeg
+[12]: /assets/img/posts/2015-12-31-two-years-west/IMG_0458.jpeg
+[13]: /assets/img/posts/2015-12-31-two-years-west/IMG_0908.jpeg

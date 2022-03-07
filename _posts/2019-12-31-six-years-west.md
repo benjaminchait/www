@@ -5,7 +5,7 @@ description: 2019 recap
 published: true
 date: 2019-12-31 22:01:00 -0700
 permalink: /archives/six-years-west
-ogimage: /img/posts/2019-12-31-six-years-west/IMG_1882.jpeg
+ogimage: /assets/img/posts/2019-12-31-six-years-west/IMG_1882.jpeg
 ---
 Every morning I wake up and look outside my bedroom window at a view that still amazes me.
 
@@ -32,10 +32,10 @@ I can’t say that SF is forever, but this is perfect for now.
 
 ![Benjamin and Lyra][7]
 
-[1]: /img/posts/2019-12-31-six-years-west/IMG_1457.jpeg
-[2]: /img/posts/2019-12-31-six-years-west/IMG_1761.jpeg
-[3]: /img/posts/2019-12-31-six-years-west/IMG_1545.jpeg
-[4]: /img/posts/2019-12-31-six-years-west/IMG_1719.jpeg
-[5]: /img/posts/2019-12-31-six-years-west/IMG_0856.jpeg
-[6]: /img/posts/2019-12-31-six-years-west/IMG_1768.jpeg
-[7]: /img/posts/2019-12-31-six-years-west/IMG_1882.jpeg
+[1]: /assets/img/posts/2019-12-31-six-years-west/IMG_1457.jpeg
+[2]: /assets/img/posts/2019-12-31-six-years-west/IMG_1761.jpeg
+[3]: /assets/img/posts/2019-12-31-six-years-west/IMG_1545.jpeg
+[4]: /assets/img/posts/2019-12-31-six-years-west/IMG_1719.jpeg
+[5]: /assets/img/posts/2019-12-31-six-years-west/IMG_0856.jpeg
+[6]: /assets/img/posts/2019-12-31-six-years-west/IMG_1768.jpeg
+[7]: /assets/img/posts/2019-12-31-six-years-west/IMG_1882.jpeg

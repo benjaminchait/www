@@ -5,7 +5,7 @@ description: Sadness
 published: true
 date: 2013-04-25 11:04:39 -0700
 permalink: /archives/phnom-penh
-ogimage: /img/posts/2013-04-25-phnom-penh/IMG_0270.jpeg
+ogimage: /assets/img/posts/2013-04-25-phnom-penh/IMG_0270.jpeg
 ---
 Sadness.
 
@@ -31,5 +31,5 @@ Leaving Choeung Ek, I visit Tuol Sleng Prison. Known as S-21, most victims were 
 
 ![Tuol Sleng Prison][2]
 
-[1]: /img/posts/2013-04-25-phnom-penh/IMG_0270.jpeg
-[2]: /img/posts/2013-04-25-phnom-penh/IMG_0271.jpeg
+[1]: /assets/img/posts/2013-04-25-phnom-penh/IMG_0270.jpeg
+[2]: /assets/img/posts/2013-04-25-phnom-penh/IMG_0271.jpeg

@@ -5,7 +5,7 @@ description: A sunny way to bring in the new year
 published: true
 date: 2016-01-10 09:01:46 -0700
 permalink: /archives/starting-2016-in-santa-barbara
-ogimage: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1149.jpeg
+ogimage: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1149.jpeg
 ---
 With Sarah’s family in Santa Barbara for the holiday, a quick flight and ocean escape made for a fun and sunny way to bring in the new year. Days full of coffee and wine, great food, enjoying films and the beach, enjoying books, and spending time with delightful people.
 
@@ -20,13 +20,13 @@ With Sarah’s family in Santa Barbara for the holiday, a quick flight and ocean
 ![Sarah, Grace, Benjamin][9]
 ![Benjamin, Keatley, Grace and Sarah in the Venice Canals][10]
 
-[1]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1147.jpeg
-[2]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1148.jpeg
-[3]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1149.jpeg
-[4]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1150.jpeg
-[5]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1151.jpeg
-[6]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_0923.jpeg
-[7]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1012.jpeg
-[8]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1020.jpeg
-[9]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1152.jpeg
-[10]: /img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1045.jpeg
+[1]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1147.jpeg
+[2]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1148.jpeg
+[3]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1149.jpeg
+[4]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1150.jpeg
+[5]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1151.jpeg
+[6]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_0923.jpeg
+[7]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1012.jpeg
+[8]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1020.jpeg
+[9]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1152.jpeg
+[10]: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1045.jpeg

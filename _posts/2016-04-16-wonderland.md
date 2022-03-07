@@ -5,7 +5,7 @@ description: TEDxPortland 2016
 published: false
 date: 2016-04-16 07:04:00 -0700
 permalink: /archives/wonderland
-ogimage: /img/posts/2016-04-16-wonderland/IMG_3235.jpg
+ogimage: /assets/img/posts/2016-04-16-wonderland/IMG_3235.jpg
 ---
 Building community is important to me. Whether we live together in a neighborhood, the same city, within a single state, in a country or merely on this same earth &#8212; our lives are connected. We (hopefully) spend our daytime hours working alongside like-minded individuals toward a common goal.
 
@@ -15,4 +15,4 @@ When moving to Portland, I sought out to build a new community and group of frie
 
 Today, the city and region are changing fast. Growth is exciting, and brings with it new challenges. I’m here to participate, and to build a better place.
 
-[1]: /img/posts/2016-04-16-wonderland/IMG_3235.jpg
+[1]: /assets/img/posts/2016-04-16-wonderland/IMG_3235.jpg

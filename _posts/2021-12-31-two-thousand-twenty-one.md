@@ -5,7 +5,7 @@ description: Recap of 2021
 published: true
 date: 2021-12-31 21:00:00 -0600
 permalink: /archives/two-thousand-twenty-one
-ogimage: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
+ogimage: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
 ---
 My year ends quite different than it started. 
 
@@ -33,24 +33,24 @@ This summer, we moved to Chicago (Hyde Park, specifically). En route, a trip thr
 ![Pictured Rocks National Lakeshore, wide angle][20]
 ![Colors and foliage at Pictured Rocks National Lakeshore][21]
 
-[1]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
-[2]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5239.jpeg
-[3]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5347.jpeg
-[4]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5476.jpeg
-[5]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5536.jpeg
-[6]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5553.jpeg
-[7]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5589.jpeg
-[8]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5685.jpeg
-[9]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5765.jpeg
-[10]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5801.jpeg
-[11]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5816.jpeg
-[12]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5839.jpeg
-[13]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5871.jpeg
-[14]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_5932.jpeg
-[15]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_6127.jpeg
-[16]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_6137.jpeg
-[17]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_6182.jpeg
-[18]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_7712.jpeg
-[19]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_7723.jpeg
-[20]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_7728.jpeg
-[21]: /img/posts/2021-12-31-two-thousand-twenty-one/IMG_7743.jpeg
+[1]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
+[2]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5239.jpeg
+[3]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5347.jpeg
+[4]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5476.jpeg
+[5]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5536.jpeg
+[6]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5553.jpeg
+[7]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5589.jpeg
+[8]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5685.jpeg
+[9]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5765.jpeg
+[10]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5801.jpeg
+[11]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5816.jpeg
+[12]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5839.jpeg
+[13]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5871.jpeg
+[14]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5932.jpeg
+[15]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_6127.jpeg
+[16]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_6137.jpeg
+[17]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_6182.jpeg
+[18]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_7712.jpeg
+[19]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_7723.jpeg
+[20]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_7728.jpeg
+[21]: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_7743.jpeg

@@ -5,7 +5,7 @@ descripion: 2018 recap
 published: true
 date: 2018-12-31 16:00:00 -0700
 permalink: /archives/five-years-west
-ogimage: /img/posts/2018-12-31-five-years-west/IMG_1535.jpeg
+ogimage: /assets/img/posts/2018-12-31-five-years-west/IMG_1535.jpeg
 ---
 This year wasn’t what I expected.
 
@@ -26,9 +26,9 @@ I’m exhausted. But I’m optimistic, and looking toward the future.
 
 ![Benjamin][6]
 
-[1]: /img/posts/2018-12-31-five-years-west/9D3A2BA4-211F-41CE-8817-DA4B3EF88C5F.jpeg
-[2]: /img/posts/2018-12-31-five-years-west/C015A510-C4C4-480E-B032-C09857755232.jpeg
-[3]: /img/posts/2018-12-31-five-years-west/E2A3E426-D0FB-4616-ACC2-3F861504AED3.jpeg
-[4]: /img/posts/2018-12-31-five-years-west/F237C682-F5DE-4249-AEC6-2A5B64556BB0.jpeg
-[5]: /img/posts/2018-12-31-five-years-west/IMG_1535.jpeg
-[6]: /img/posts/2018-12-31-five-years-west/IMG_3530.jpeg
+[1]: /assets/img/posts/2018-12-31-five-years-west/9D3A2BA4-211F-41CE-8817-DA4B3EF88C5F.jpeg
+[2]: /assets/img/posts/2018-12-31-five-years-west/C015A510-C4C4-480E-B032-C09857755232.jpeg
+[3]: /assets/img/posts/2018-12-31-five-years-west/E2A3E426-D0FB-4616-ACC2-3F861504AED3.jpeg
+[4]: /assets/img/posts/2018-12-31-five-years-west/F237C682-F5DE-4249-AEC6-2A5B64556BB0.jpeg
+[5]: /assets/img/posts/2018-12-31-five-years-west/IMG_1535.jpeg
+[6]: /assets/img/posts/2018-12-31-five-years-west/IMG_3530.jpeg

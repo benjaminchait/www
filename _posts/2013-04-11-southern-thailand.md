@@ -5,7 +5,7 @@ description: Beach life
 published: true
 date: 2013-04-11 11:04:01 -0700
 permalink: /archives/southern-thailand
-ogimage: /img/posts/2013-04-11-southern-thailand/DSC04100.jpeg
+ogimage: /assets/img/posts/2013-04-11-southern-thailand/DSC04100.jpeg
 ---
 Ao Nang provided some of the more peaceful days found thus far on this trip. Days spent reading in hammocks or playing on beaches in the warm Andaman Sea gave a chance to regain bearings. Lovely sunsets and street food reminded me how simple moments can be almost magical. Dinner parties with fellow travelers gave way to incredible stories, from a German family of six venturing around-the-world for a year to others visiting Thailand for only a week. Fireflies and geckos surrounded our bungalow as we went to sleep.
 
@@ -26,9 +26,9 @@ A ferry to the island chain Koh Phi Phi brought adventures while getting away fr
 
 Traveling is a constant balance of seeking adventures and slowing down.
 
-[1]: /img/posts/2013-04-11-southern-thailand/DSC03863.jpeg
-[2]: /img/posts/2013-04-11-southern-thailand/DSC03881.jpeg
-[3]: /img/posts/2013-04-11-southern-thailand/DSC03926.jpeg
-[4]: /img/posts/2013-04-11-southern-thailand/DSC04001.jpeg
-[5]: /img/posts/2013-04-11-southern-thailand/DSC04068.jpeg
-[6]: /img/posts/2013-04-11-southern-thailand/DSC04100.jpeg
+[1]: /assets/img/posts/2013-04-11-southern-thailand/DSC03863.jpeg
+[2]: /assets/img/posts/2013-04-11-southern-thailand/DSC03881.jpeg
+[3]: /assets/img/posts/2013-04-11-southern-thailand/DSC03926.jpeg
+[4]: /assets/img/posts/2013-04-11-southern-thailand/DSC04001.jpeg
+[5]: /assets/img/posts/2013-04-11-southern-thailand/DSC04068.jpeg
+[6]: /assets/img/posts/2013-04-11-southern-thailand/DSC04100.jpeg

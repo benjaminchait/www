@@ -5,7 +5,7 @@ description: 2016 recap
 published: true
 date: 2016-12-31 07:12:37 -0700
 permalink: /archives/three-years-west
-ogimage: /img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
+ogimage: /assets/img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
 ---
 The sun came out after a rainy morning, one last warm glow in 2016. Not quite cold, though not quite the warm California weather we were expecting. Rather, hoping.&nbsp;
 
@@ -23,10 +23,10 @@ I’m not quite sure what 2017 will look like. I’m more anxious today than I w
 ![][6]
 ![][7]
 
-[1]: /img/posts/2016-12-31-three-years-west/IMG_2596.jpeg
-[2]: /img/posts/2016-12-31-three-years-west/IMG_4085.jpeg
-[3]: /img/posts/2016-12-31-three-years-west/IMG_6486.jpeg
-[4]: /img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
-[5]: /img/posts/2016-12-31-three-years-west/IMG_1578.jpeg
-[6]: /img/posts/2016-12-31-three-years-west/797F2EF4-29B0-4A1D-92EF-220AF742A2DA.jpeg
-[7]: /img/posts/2016-12-31-three-years-west/AE0DB426-20D5-48E9-B808-D1B61BA8D127.jpeg
+[1]: /assets/img/posts/2016-12-31-three-years-west/IMG_2596.jpeg
+[2]: /assets/img/posts/2016-12-31-three-years-west/IMG_4085.jpeg
+[3]: /assets/img/posts/2016-12-31-three-years-west/IMG_6486.jpeg
+[4]: /assets/img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
+[5]: /assets/img/posts/2016-12-31-three-years-west/IMG_1578.jpeg
+[6]: /assets/img/posts/2016-12-31-three-years-west/797F2EF4-29B0-4A1D-92EF-220AF742A2DA.jpeg
+[7]: /assets/img/posts/2016-12-31-three-years-west/AE0DB426-20D5-48E9-B808-D1B61BA8D127.jpeg

@@ -5,7 +5,7 @@ description: Moving to PDX
 published: true
 date: 2013-12-31 07:12:45 -0700
 permalink: /archives/moving-west
-ogimage: /img/posts/2013-12-31-moving-west/IMG_0599.jpeg
+ogimage: /assets/img/posts/2013-12-31-moving-west/IMG_0599.jpeg
 ---
 Just like the “Oregon Trail” game, I followed the American Dream to move west and continue my adventures in Portland, Oregon.
 
@@ -17,6 +17,6 @@ Looking back at 2013 and everything which has come before, I am astonished and s
 ![Branch][2]
 ![Coffee][3]
 
-[1]: /img/posts/2013-12-31-moving-west/IMG_0599.jpeg
-[2]: /img/posts/2013-12-31-moving-west/IMG_0628.jpeg
-[3]: /img/posts/2013-12-31-moving-west/IMG_0635.jpeg
+[1]: /assets/img/posts/2013-12-31-moving-west/IMG_0599.jpeg
+[2]: /assets/img/posts/2013-12-31-moving-west/IMG_0628.jpeg
+[3]: /assets/img/posts/2013-12-31-moving-west/IMG_0635.jpeg

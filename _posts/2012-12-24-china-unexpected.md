@@ -5,7 +5,7 @@ description: A letter to my parents
 published: true
 date: 2012-12-24 09:12:13 -0700
 permalink: /archives/china-unexpected
-ogimage: /img/posts/2012-12-24-china-unexpected/IMG_5834.jpeg
+ogimage: /assets/img/posts/2012-12-24-china-unexpected/IMG_5834.jpeg
 ---
 This is the story of getting stranded in China. Not quite the airport layover I expected when purchasing tickets from Hong Kong to Tokyo by way of Dalian. (I should note that—as I write about this adventure—I arrived safely in Japan yesterday.)
 
@@ -27,4 +27,4 @@ I’ll be avoiding China moving forward. But at least I have the stamp in my pas
 
 ![China stay permit][1]
 
-[1]: /img/posts/2012-12-24-china-unexpected/IMG_5834.jpeg
+[1]: /assets/img/posts/2012-12-24-china-unexpected/IMG_5834.jpeg

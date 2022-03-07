@@ -5,7 +5,7 @@ description: Beginning the adventure
 published: true
 date: 2012-10-29 06:10:41 -0700
 permalink: /archives/thirty-nine-hours
-ogimage: /img/posts/2012-10-29-thirty-nine-hours/IMG_5366.jpeg
+ogimage: /assets/img/posts/2012-10-29-thirty-nine-hours/IMG_5366.jpeg
 ---
 Some 39 hours following our initial flight from DEN to SEA, [Sarah][1] and I arrived in Bangkok, Thailand approximately 12:30 am local time.
 
@@ -22,5 +22,5 @@ A three-hour layover in Beijing was spent passing China customs and immigration 
 Made it.
 
 [1]: http://smeilen.com
-[2]: /img/posts/2012-10-29-thirty-nine-hours/IMG_5353.jpeg
-[3]: /img/posts/2012-10-29-thirty-nine-hours/IMG_5366.jpeg
+[2]: /assets/img/posts/2012-10-29-thirty-nine-hours/IMG_5353.jpeg
+[3]: /assets/img/posts/2012-10-29-thirty-nine-hours/IMG_5366.jpeg

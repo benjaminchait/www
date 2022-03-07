@@ -5,7 +5,7 @@ description: New Zealand’s untouched backcountry
 published: true
 date: 2013-03-04 10:03:20 -0700
 permalink: /archives/south-island
-ogimage: /img/posts/2013-03-04-south-island/DSC03353.jpeg
+ogimage: /assets/img/posts/2013-03-04-south-island/DSC03353.jpeg
 ---
 Gorgeous landscapes, what one expects when hearing of New Zealand’s untouched backcountry. Glaciers, mountains and water all together. And sheep. Lots of sheep. The past two-and-some weeks were a whirlwind of adventures exploring about the South Island. By the end, our rental car had gained some 2,821 kilometers, with plenty of stories and incredible experiences—enough to make my entire trip worthwhile.
 
@@ -58,21 +58,21 @@ Returning to Christchurch meant the end of our motor adventure and an internatio
 
 Already thinking about my next trek to New Zealand, I realize how fast the world is changing. The morning we left Aoraki / Mount Cook we made a trek to the Tasman Glacier. Arriving at the lookout, we learned a large piece of the glacier had only a short time before broken away and was now drifting in the lake below; alone and quiet, we stood watching as a Department of Conservation (DOC) boat motored across the lake, becoming smaller and smaller until it was a mere speck in the distance alongside a mountain of floating ice. I find myself without the words to describe the tremendous changes I have already seen with my own eyes. And if I should find myself in New Zealand again, I very much hope to embark upon a multi-day tramp (“hike”) with a stay in some of the DOC’s huts; the resources which exist in New Zealand’s high country are impressive, providing the means for any skill level to truly get away and explore the wild. It truly is a lovely, pristine South Pacific landscape.
 
-[1]: /img/posts/2013-03-04-south-island/DSC03208.jpeg
-[2]: /img/posts/2013-03-04-south-island/DSC03217.jpeg
-[3]: /img/posts/2013-03-04-south-island/DSC03260.jpeg
-[4]: /img/posts/2013-03-04-south-island/DSC03263.jpeg
-[5]: /img/posts/2013-03-04-south-island/DSC03344.jpeg
-[6]: /img/posts/2013-03-04-south-island/DSC03348.jpeg
-[7]: /img/posts/2013-03-04-south-island/DSC03353.jpeg
-[8]: /img/posts/2013-03-04-south-island/DSC03372.jpeg
-[9]: /img/posts/2013-03-04-south-island/DSC03386.jpeg
-[10]: /img/posts/2013-03-04-south-island/DSC03426.jpeg
-[11]: /img/posts/2013-03-04-south-island/DSC03464.jpeg
-[12]: /img/posts/2013-03-04-south-island/DSC03480.jpeg
-[13]: /img/posts/2013-03-04-south-island/DSC03494.jpeg
-[14]: /img/posts/2013-03-04-south-island/DSC03510.jpeg
-[15]: /img/posts/2013-03-04-south-island/DSC03523.jpeg
-[16]: /img/posts/2013-03-04-south-island/DSC03525.jpeg
-[17]: /img/posts/2013-03-04-south-island/DSC03544.jpeg
-[18]: /img/posts/2013-03-04-south-island/DSC03549.jpeg
+[1]: /assets/img/posts/2013-03-04-south-island/DSC03208.jpeg
+[2]: /assets/img/posts/2013-03-04-south-island/DSC03217.jpeg
+[3]: /assets/img/posts/2013-03-04-south-island/DSC03260.jpeg
+[4]: /assets/img/posts/2013-03-04-south-island/DSC03263.jpeg
+[5]: /assets/img/posts/2013-03-04-south-island/DSC03344.jpeg
+[6]: /assets/img/posts/2013-03-04-south-island/DSC03348.jpeg
+[7]: /assets/img/posts/2013-03-04-south-island/DSC03353.jpeg
+[8]: /assets/img/posts/2013-03-04-south-island/DSC03372.jpeg
+[9]: /assets/img/posts/2013-03-04-south-island/DSC03386.jpeg
+[10]: /assets/img/posts/2013-03-04-south-island/DSC03426.jpeg
+[11]: /assets/img/posts/2013-03-04-south-island/DSC03464.jpeg
+[12]: /assets/img/posts/2013-03-04-south-island/DSC03480.jpeg
+[13]: /assets/img/posts/2013-03-04-south-island/DSC03494.jpeg
+[14]: /assets/img/posts/2013-03-04-south-island/DSC03510.jpeg
+[15]: /assets/img/posts/2013-03-04-south-island/DSC03523.jpeg
+[16]: /assets/img/posts/2013-03-04-south-island/DSC03525.jpeg
+[17]: /assets/img/posts/2013-03-04-south-island/DSC03544.jpeg
+[18]: /assets/img/posts/2013-03-04-south-island/DSC03549.jpeg
