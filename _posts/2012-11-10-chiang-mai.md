@@ -5,7 +5,7 @@ description: Starting to explore
 published: true
 date: 2012-11-10 09:11:18 -0700
 permalink: /archives/chiang-mai
-ogimage: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00370.jpg
+ogimage: /img/posts/2012-11-10-chiang-mai/DSC00370.jpeg
 ---
 Getting to Chiang Mai was no easy feat: our scheduled 12-hour train ride took a full 17 hours to arrive. And while the countryside was enjoyable throughout the day, the early nightfall provided little sightseeing for the later part of the trip. Arriving at a hostel around 2 am, we were immediately asleep.
 
@@ -35,13 +35,13 @@ The quieter atmosphere of this city along with the incredible street food provid
 
 This morning we awoke and had a three-hour minibus ride to the town of Pai—after 762 curves in the road we arrived in this small tourist town some 80 kilometers from the northern border of Thailand where we plan stay for our final week in the country.
 
- [1]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00295.jpg
- [2]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00317.jpg
- [3]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00362.jpg
- [4]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00370.jpg
- [5]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00447.jpg
- [6]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00609.jpg
- [7]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00610.jpg
- [8]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00616.jpg
- [9]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00620.jpg
- [10]: /wp-content/uploads/media/img/2012/11/chiang-mai/DSC00622.jpg
+[1]: /img/posts/2012-11-10-chiang-mai/DSC00295.jpeg
+[2]: /img/posts/2012-11-10-chiang-mai/DSC00317.jpeg
+[3]: /img/posts/2012-11-10-chiang-mai/DSC00362.jpeg
+[4]: /img/posts/2012-11-10-chiang-mai/DSC00370.jpeg
+[5]: /img/posts/2012-11-10-chiang-mai/DSC00447.jpeg
+[6]: /img/posts/2012-11-10-chiang-mai/DSC00609.jpeg
+[7]: /img/posts/2012-11-10-chiang-mai/DSC00610.jpeg
+[8]: /img/posts/2012-11-10-chiang-mai/DSC00616.jpeg
+[9]: /img/posts/2012-11-10-chiang-mai/DSC00620.jpeg
+[10]: /img/posts/2012-11-10-chiang-mai/DSC00622.jpeg
