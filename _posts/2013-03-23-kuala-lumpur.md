@@ -5,7 +5,7 @@ description: 🇲🇾
 published: true
 date: 2013-03-23 10:03:37 -0700
 permalink: /archives/kuala-lumpur
-ogimage: /wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03808.jpg
+ogimage: /img/posts/2013-03-23-kuala-lumpur/DSC03808.jpeg
 ---
 Walking through the door, everyone already seated at the restaurant looked up, staring. As we shuffled to our table in the back of the room, an uncomfortable feeling arose: I was one of two foreigners in the establishment, the other sitting beside me for dinner. Thankfully we had a friend guiding us. But next came the more surprising part; dinner was traditionally enjoyed with merely one’s hands.
 
@@ -21,5 +21,5 @@ Yet herein lies some of the tension as we were told that no self-respecting Mala
 
 Experiencing the different varieties available was impossible in just four days; but having had a taste, I cannot wait to return to Malaysia.
 
- [1]: /wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03799.jpg
- [2]: /wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03808.jpg
+[1]: /img/posts/2013-03-23-kuala-lumpur/DSC03799.jpeg
+[2]: /img/posts/2013-03-23-kuala-lumpur/DSC03808.jpeg

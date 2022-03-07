@@ -5,7 +5,7 @@ description: Trekking Annapurna Base Camp
 published: true
 date: 2013-05-18 05:05:38 -0700
 permalink: /archives/annapurna
-ogimage: /wp-content/uploads/media/img/2013/05-wp/20130520-222046.jpg
+ogimage: /img/posts/2013-05-18-annapurna/IMG_0287.jpeg
 ---
 Each step—most no more than a feeble shuffling forward of my feet—and I am that much closer to my goal. The sun bears down upon me as I sweat, still wearing layer upon layer because it requires too much energy to remove them and the weather is too unpredictable. I sleep in everything I am currently wearing except my outermost rain jacket which I have now for its wind protection. My local guide, nicknamed Gavi, is fifty meters ahead but visible with his bright orange pants. Speckled in the distance are a few other trekkers who had an early start this morning; my group began at a leisurely 8:30 am and now, some four-and-a-half hours later, we can see our goal: Annapurna Base Camp. The air is thin and I am exhausted from a maddeningly-fast, four-day ascent to 4,130 meters. I pause for a photo as I pass the sign welcoming me to ABC—annoyed the sign is still some twenty meters from the lodges. Still, five minutes later and I climb the final steps, breathe a sigh of relief and stow my gear in my unheated room quickly so I can join everyone in the warmer common area. The ascent is only half the journey.
 
@@ -39,13 +39,13 @@ Our descent was nearly twice the pace of our ascent though we did our best to en
 
 My week in the Himalayas was full of challenges, new experiences; I have achieved one of my dreams. In some sense, trekking was far more challenging than I imagined. Spending time above 3,000 meters is trying on anyone, much less full days of hiking while carrying a full pack. Part of me wonders why I ever though it might be easy; yet another opportunity for me to learn. Nothing easy is worth doing. If anything, I look back upon my experience and find myself thankful for Gavi, my new friends and all those whom I encountered on the trail. I am both exhausted and fulfilled.
 
- [1]: /wp-content/uploads/media/img/2013/05-wp/20130520-221307.jpg
- [2]: /wp-content/uploads/media/img/2013/05-wp/20130520-221343.jpg
- [3]: /wp-content/uploads/media/img/2013/05-wp/20130520-221416.jpg
- [4]: /wp-content/uploads/media/img/2013/05-wp/20130520-221532.jpg
- [5]: /wp-content/uploads/media/img/2013/05-wp/20130520-221643.jpg
- [6]: /wp-content/uploads/media/img/2013/05-wp/20130520-221929.jpg
- [7]: /wp-content/uploads/media/img/2013/05-wp/20130520-222046.jpg
- [8]: /wp-content/uploads/media/img/2013/05-wp/20130520-222204.jpg
- [9]: /wp-content/uploads/media/img/2013/05-wp/20130520-222412.jpg
- [10]: /wp-content/uploads/media/img/2013/05-wp/20130520-222552.jpg
+[1]: /img/posts/2013-05-18-annapurna/IMG_0285.jpeg
+[2]: /img/posts/2013-05-18-annapurna/IMG_0287.jpeg
+[3]: /img/posts/2013-05-18-annapurna/IMG_0288.jpeg
+[4]: /img/posts/2013-05-18-annapurna/IMG_0289.jpeg
+[5]: /img/posts/2013-05-18-annapurna/IMG_0290.jpeg
+[6]: /img/posts/2013-05-18-annapurna/IMG_0291.jpeg
+[7]: /img/posts/2013-05-18-annapurna/IMG_0292.jpeg
+[8]: /img/posts/2013-05-18-annapurna/IMG_0293.jpeg
+[9]: /img/posts/2013-05-18-annapurna/IMG_0294.jpeg
+[10]: /img/posts/2013-05-18-annapurna/IMG_0297.jpeg

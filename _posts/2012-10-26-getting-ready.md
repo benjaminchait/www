@@ -5,7 +5,7 @@ description: Checklists
 published: true
 date: 2012-10-26 06:10:12 -0700
 permalink: /archives/getting-ready
-ogimage: /wp-content/uploads/media/img/2012/10/getting-ready/IMG_5344.JPG
+ogimage: /img/posts/2012-10-26-getting-ready/IMG_5344.jpeg
 ---
 How does one prepare to jump on a plane and travel abroad for an indefinite period of time?
 
@@ -22,5 +22,5 @@ These past few weeks were a blur of people and emotions. The morning following m
 
 Here goes nothing.
 
- [1]: /wp-content/uploads/media/img/2012/10/getting-ready/IMG_5305.JPG
- [2]: /wp-content/uploads/media/img/2012/10/getting-ready/IMG_5344.JPG
+[1]: /img/posts/2012-10-26-getting-ready/IMG_5305.jpeg
+[2]: /img/posts/2012-10-26-getting-ready/IMG_5344.jpeg

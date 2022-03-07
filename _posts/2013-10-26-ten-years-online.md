@@ -12,4 +12,4 @@ I never imagined the value it might have. Some years earlier, I had published my
 
 A lot has changed in the that time. But I’m even more excited about what the next ten years might bring.
 
- [1]: /archives/nine-months
+[1]: /archives/nine-months

@@ -5,7 +5,7 @@ description: Down under, again
 published: true
 date: 2013-03-13 05:03:05 -0700
 permalink: /archives/australia-round-ii
-ogimage: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03595.jpg
+ogimage: /img/posts/2013-03-13-australia-round-ii/DSC03595.jpeg
 ---
 Flying across the Tasman returning to Melbourne meant a few delightful days of friends, food and exploration. A quick escape to Great Ocean Road, Australia’s equivalent to the Pacific Coast Highway, provided stunning drives through killer landscapes. Watching sunset at the Twelve Apostles, seeing koalas in the bush and enjoying sunny beaches felt just like a vacation.
 
@@ -19,7 +19,7 @@ A short hop north to Gold Coast gave way to expansive beaches from Surfers Parad
 
 Oceania is far from just about everywhere; departing is bittersweet.
 
- [1]: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03567.jpg
- [2]: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03595.jpg
- [3]: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03670.jpg
- [4]: /wp-content/uploads/media/img/2013/03/australia-round-ii/DSC03674.jpg
+[1]: /img/posts/2013-03-13-australia-round-ii/DSC03567.jpeg
+[2]: /img/posts/2013-03-13-australia-round-ii/DSC03595.jpeg
+[3]: /img/posts/2013-03-13-australia-round-ii/DSC03670.jpeg
+[4]: /img/posts/2013-03-13-australia-round-ii/DSC03674.jpeg

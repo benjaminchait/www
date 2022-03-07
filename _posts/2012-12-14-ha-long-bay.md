@@ -5,7 +5,7 @@ description: Quiet, but mighty
 published: true
 date: 2012-12-14 11:12:25 -0700
 permalink: /archives/ha-long-bay
-ogimage: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01256.jpg
+ogimage: /img/posts/2012-12-14-ha-long-bay/DSC01256.jpeg
 ---
 Departing Hanoi via minibus brought us to the coastal city of Ha Long. Here we had some of our most authentic Vietnamese food: street cafés with no menus, ordering food entirely through the few native words we had thus far learned. And yet, the city itself felt abandoned and forgotten—empty hotels outnumbered those welcoming guests, relatively few foreigners walking along the streets except at night once the tours returned. The quietness of the city provided a unique moment with a young family as we visited their seaside café. A four-year-old boy played with a crab holding a string attached to its pincer; laughter mixed with moments of terror as it edged near to him.
 
@@ -26,13 +26,13 @@ The last few days were spent in Cat Ba, a remote town on the edge of its namesak
 ![Cat Ba National Park][9]
 ![Cat Ba National Park peak][10]
 
- [1]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg
- [2]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01232.jpg
- [3]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01236.jpg
- [4]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01256.jpg
- [5]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01261.jpg
- [6]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg
- [7]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01303.jpg
- [8]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01337.jpg
- [9]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01343.jpg
- [10]: /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01350.jpg
+[1]: /img/posts/2012-12-14-ha-long-bay/DSC01120.jpeg
+[2]: /img/posts/2012-12-14-ha-long-bay/DSC01232.jpeg
+[3]: /img/posts/2012-12-14-ha-long-bay/DSC01236.jpeg
+[4]: /img/posts/2012-12-14-ha-long-bay/DSC01256.jpeg
+[5]: /img/posts/2012-12-14-ha-long-bay/DSC01261.jpeg
+[6]: /img/posts/2012-12-14-ha-long-bay/DSC01265.jpeg
+[7]: /img/posts/2012-12-14-ha-long-bay/DSC01303.jpeg
+[8]: /img/posts/2012-12-14-ha-long-bay/DSC01337.jpeg
+[9]: /img/posts/2012-12-14-ha-long-bay/DSC01343.jpeg
+[10]: /img/posts/2012-12-14-ha-long-bay/DSC01350.jpeg
