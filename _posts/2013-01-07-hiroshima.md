@@ -5,7 +5,7 @@ description: History, Hiroshima
 published: true
 date: 2013-01-07 11:01:13 -0700
 permalink: /archives/hiroshima
-ogimage: /wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg
+ogimage: /img/posts/2013-01-07-hiroshima/DSC02030.jpeg
 ---
 Heading south via Shinkansen we arrived in Hiroshima. The magnitude of its history is tremendous; as humans we created unimaginable destruction. I found myself speechless walking through Peace Park and visiting the Hiroshima Peace Memorial Museum. And yet, in this city which witnessed the incomprehensible, there exists a constant refrain of forgiveness and hope, of looking toward the future.
 
@@ -17,7 +17,7 @@ Yesterday’s day-trip to Hakata via Shinkansen included my favorite bowl of ram
 ![Ramen in Hakata][3]
 ![Itsukushima Shinto Shrine torii][4]
 
- [1]: /wp-content/uploads/media/img/2013/01/hiroshima/DSC01972.jpg
- [2]: /wp-content/uploads/media/img/2013/01/hiroshima/DSC01976.jpg
- [3]: /wp-content/uploads/media/img/2013/01/hiroshima/DSC01985.jpg
- [4]: /wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg
+[1]: /img/posts/2013-01-07-hiroshima/DSC01972.jpeg
+[2]: /img/posts/2013-01-07-hiroshima/DSC01976.jpeg
+[3]: /img/posts/2013-01-07-hiroshima/DSC01985.jpeg
+[4]: /img/posts/2013-01-07-hiroshima/DSC02030.jpeg
