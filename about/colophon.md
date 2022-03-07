@@ -12,3 +12,5 @@ permalink: /about/colophon
 📷 All content and imagery is mine.
 
 👋 Feel free [to say hi](/about) with questions, I’m always happy and eager to help if I can!
+
+🚀 This site was last published at {{ "now" | date: "%-d %B %Y %H:%M" }} Pacific Time.
