@@ -19,4 +19,4 @@ I enjoyed Bangkok far more this visit than when starting last fall. Perhaps know
 
 [1]: http://www.globaltumbleweed.com/
 [2]: /img/posts/2013-04-19-bangkok-for-songkran/IMG_0247.jpeg
-[3]: /img/posts/2013-04-19-bangkok-for-songkran/DSC04119.jpeg
+[3]: /img/posts/2013-04-19-bangkok-for-songkran/IMG_0248.jpeg
