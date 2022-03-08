@@ -1,8 +1,6 @@
 ---
 layout: home
 title: Benjamin Chait
-pagination:
-  enabled: true
 ---
 <img src="/assets/img/IMG_0534.jpeg" style="float: left; width: 9rem; border-radius: 50%; margin: 0 1em 1em 0;" />
 
