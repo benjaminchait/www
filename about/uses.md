@@ -6,10 +6,10 @@ permalink: /about/uses
 Here is a non-exhaustive list some products and tools that I currently use, as of March 2022:
 
 Tech
-* iPhone 13 Pro Max
-* Apple Watch Series 5
-* iPad Pro 11” 2020
-* iMac 24”
+* iPhone 13 Pro Max / 256 gig in silver
+* Apple Watch Series 5 / 44mm in silver aluminum
+* iPad Pro 11” 2020 / WiFi in silver
+* iMac 24” / yellow
 * AirPods and AirPods Pro
 
 Apps
@@ -22,7 +22,7 @@ Apps
 * Reeder and Feedbin
 * Mela
 * Deliveries
-* 
+* Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait))
 
 Coffee
 * Fellow EKG
