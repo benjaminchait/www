@@ -10,7 +10,7 @@ title: Benjamin Chait
 
 <div style="clear: both;">&nbsp;</div>
 
-<!-- indui auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
+<!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
 <link href="https://github.com/benjaminchait" rel="me">
 <!-- end indie auth -->
