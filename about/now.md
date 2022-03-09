@@ -11,4 +11,4 @@ _Updated 8 March 2022 from Hyde Park, Chicago, IL, USA._
 
 ---
 
-_This is a [now page](https://nownownow.com/about) by Derek Sivers._
+_This is a [now page](https://nownownow.com/about) inspired by [Derek Sivers](https://sive.rs)._
