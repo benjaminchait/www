@@ -42,4 +42,6 @@ ogimage: /assets/img/about/IMG_2713.jpeg
     <img class="webring-banner__image" src="https://robot-friend-ring.netlify.app/assets/images/robotbill-painting-small.jpg" alt="'Robotbill' by Jakob Vala" style="height: 1em;" />&nbsp;This site is part of the <a href="https://robot-friend-ring.netlify.app">Robot Friends</a> webring. (<a href="https://robot-friend-ring.netlify.app/prev">Previous</a> / <a href="https://robot-friend-ring.netlify.app/random">Random</a> / <a href="https://robot-friend-ring.netlify.app/next">Next</a>)
 </div>
 
+🪄 <a href="https://xn--sr8hvo.ws/%F0%9F%9A%AE%F0%9F%90%9C%F0%9F%8E%A9/previous">←</a> An IndieWeb Webring 🕸💍 <a href="https://xn--sr8hvo.ws/%F0%9F%9A%AE%F0%9F%90%9C%F0%9F%8E%A9/next">→</a><br />
+
 ❤️ always be kind.
