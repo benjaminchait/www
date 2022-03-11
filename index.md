@@ -10,6 +10,17 @@ title: Benjamin Chait
 
 <div style="clear: both;">&nbsp;</div>
 
+<div id="map_outdoors" style="width: 600px; height: 300px; margin: 20px;"></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYmVuamFtaW5jaGFpdCIsImEiOiJjbDBsbzMyd2UwM3Z0M2NxMXM5cWNwNjZ6In0.QJ4_7OYM5QpBM_faDTmD8A';
+const map_outdoors = new mapboxgl.Map({
+  container: 'map_outdoors', // container ID
+  style: 'mapbox://styles/mapbox/outdoors-v11', // style URL
+  center: [-87.596532, 41.795068], // starting position [lng, lat]
+  zoom: 13 // starting zoom
+});
+</script>
+
 <!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
 <link href="https://github.com/benjaminchait" rel="me">
