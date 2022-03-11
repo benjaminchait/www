@@ -8,19 +8,6 @@ title: Benjamin Chait
 
 <p>Currently, I’m consulting and am open to new work. My superpower is helping small teams build the habits and rituals which lead to sustainable, impactful product development. You can learn more <a href="/about">about me</a> and I’d be delighted to chat!</p>
 
-<script src='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js'></script>
-<link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet' />
-<div id="map_outdoors" style="width: 640px; height: 320px;"></div>
-<script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiYmVuamFtaW5jaGFpdCIsImEiOiJjbDBsbzMyd2UwM3Z0M2NxMXM5cWNwNjZ6In0.QJ4_7OYM5QpBM_faDTmD8A';
-const map_outdoors = new mapboxgl.Map({
-  container: 'map_outdoors', // container ID
-  style: 'mapbox://styles/mapbox/outdoors-v11', // style URL
-  center: [-87.596532, 41.795068], // starting position [lng, lat]
-  zoom: 13 // starting zoom
-});
-</script>
-
 <!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
 <link href="https://github.com/benjaminchait" rel="me">
