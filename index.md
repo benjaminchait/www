@@ -10,6 +10,8 @@ title: Benjamin Chait
 
 <div style="clear: both;">&nbsp;</div>
 
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet' />
 <div id="map_outdoors" style="width: 600px; height: 300px; margin: 20px;"></div>
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiYmVuamFtaW5jaGFpdCIsImEiOiJjbDBsbzMyd2UwM3Z0M2NxMXM5cWNwNjZ6In0.QJ4_7OYM5QpBM_faDTmD8A';
