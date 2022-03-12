@@ -5,7 +5,7 @@ description: Recap of 2021
 published: true
 date: 2021-12-31 21:00:00 -0600
 permalink: /archives/two-thousand-twenty-one
-ogimage: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156-twitter.jpeg
+ogimage: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
 ---
 My year ends quite different than it started. 
 
