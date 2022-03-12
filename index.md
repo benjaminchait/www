@@ -8,6 +8,8 @@ title: Benjamin Chait
 
 <p>Currently, I’m consulting and am open to new work. My superpower is helping small teams build the habits and rituals which lead to sustainable, impactful product development. You can learn more <a href="/about">about me</a> and I’d be delighted to chat!</p>
 
+<p>And for periodic updates, <a href="https://buttondown.email/benjaminchait">subscribe to my newsletter</a>.</p>
+
 <!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
 <link href="https://github.com/benjaminchait" rel="me">
