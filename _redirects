@@ -8,6 +8,9 @@
 /2017/12/four-years-west  /archives/four-years-west
 /2017/06/thirty    /archives/thirty
 
+# The following allows me to serve "newsletter" assets through a separate git repository https://github.com/benjaminchait/newsletter, published to benjaminchait-newsletter.netlify.app
+/assets/newsletter/	https://benjaminchait-newsletter.netlify.app/assets/
+
 # Plausible Analytics https://plausible.io/docs/proxy/guides/netlify
 # /js/script.js https://plausible.io/js/plausible.js 200
 # /api/event https://plausible.io/api/event 200
