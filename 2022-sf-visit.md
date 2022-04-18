@@ -2,6 +2,7 @@
 title: SF visit
 layout: default
 permalink: /2022-sf-visit
+ogimage: /assets/img/posts/2020-12-31-seven-years-west/img_1413.jpeg
 ---
 # SF visit
 
