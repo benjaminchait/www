@@ -17,3 +17,5 @@ ogimage: /assets/img/posts/2020-12-31-seven-years-west/img_1413.jpeg
   * You can also tell us where you want to meet, and we can exchange text messages or whatnot to coordinate.
   * We expect stops near Glen Park for breakfast; the Inner Sunset (or Golden Gate Park) for lunch; and Lands End for a beverage.
 * Weather could change these plans, so keep an eye out for updates (and/or just keep in touch with one of us).
+
+![Screenshot of last trip](9CF6F672-EB86-4C2E-A73F-AE4350235A54.jpeg)
