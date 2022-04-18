@@ -13,5 +13,6 @@ permalink: /2022-sf-visit
 
 * You can join for as little or as much as you want!
 * The morning-of, we can share our iPhone location (using [Find My](https://support.apple.com/en-us/HT210514)) so you can follow-along and join whenever makes the most sense for you.
+  * You can also tell us where you want to meet, and we can exchange text messages or whatnot to coordinate.
   * We expect stops near Glen Park for breakfast; the Inner Sunset (or Golden Gate Park) for lunch; and Lands End for a beverage.
 * Weather could change these plans, so keep an eye out for updates (and/or just keep in touch with one of us).
