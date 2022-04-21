@@ -6,7 +6,7 @@ ogimage: /assets/img/posts/2020-12-31-seven-years-west/img_1413.jpeg
 ---
 # SF visit
 
-_last updated 18 april 2022_
+_last updated 21 april 2022_
 
 **When**: Sunday, 1 May 2022
 
