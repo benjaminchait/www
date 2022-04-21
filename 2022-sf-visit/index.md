@@ -31,3 +31,16 @@ We hope you join us!
 This map shows our path last trip:
 
 ![Screenshot of last trip](/2022-sf-visit/9CF6F672-EB86-4C2E-A73F-AE4350235A54.jpeg)
+
+---
+
+And here are some photos from our December 2020 trek:
+
+![](/2022-sf-visit/IMG_1391.jpeg)
+![](/2022-sf-visit/IMG_1475.jpeg)
+![](/2022-sf-visit/IMG_1479.jpeg)
+![](/2022-sf-visit/IMG_1484.jpeg)
+![](/2022-sf-visit/IMG_1486.jpeg)
+![](/2022-sf-visit/IMG_1488.jpeg)
+![](/2022-sf-visit/IMG_1522.jpeg)
+![](/2022-sf-visit/IMG_1535.jpeg)
