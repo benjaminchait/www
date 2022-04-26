@@ -3,11 +3,11 @@ layout: page
 title: Now
 permalink: /about/now
 ---
-🏝 I am currently enjoying a _personal sabbatical_ and getting to explore and enjoy a new home base (👋 hello Chicago!) while considering what I want for my next adventure.
+🏝 I am currently enjoying a _personal sabbatical_ and getting to explore and enjoy a new home base (👋 hello Chicago!) before starting my next adventure.
 
-👨‍💻 I’m accepting a limited number of consulting roles, primarily focused on early-stage organizations exploring digital product development. If that sounds like something we might chat about, [let’s grab a virtual coffee](https://calendly.com/benjaminchait/30min)?
+🖋 Right now, I’m spending most of my time reading and writing, for fun!
 
-_Updated 8 March 2022 from Hyde Park, Chicago, IL, USA._
+_Updated 26 April 2022 from Hyde Park, Chicago, IL, USA._
 
 ---
 
