@@ -6,7 +6,7 @@ title: Benjamin Chait
 
 <p>Hey there, I’m Benjamin. I build and scale tech organizations, and empower teams to deliver meaningful outcomes.</p>
 
-<p>I’ve built products loved by millions, helped create a digital bank providing better access to credit, and developed platforms to enable new capabilities. While much of my work has focused on boosting financial well-being in consumer fintech, I’m broadly interested in how we use technology to improve everyday lives.</p>
+<p>I’ve built products loved by millions, helped create a digital bank providing better access to credit, and developed platforms to enable new capabilities. While much of my work has focused on improving financial well-being, I’m broadly interested in how we use technology to improve everyday lives.</p>
 
 <p>For periodic updates, <a href="https://buttondown.email/benjaminchait">subscribe to my newsletter</a>.</p>
 
