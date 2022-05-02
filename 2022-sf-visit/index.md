@@ -3,6 +3,7 @@ title: SF visit on Sunday, 1 May 2022
 layout: default
 permalink: /2022-sf-visit
 ogimage: /assets/img/posts/2020-12-31-seven-years-west/img_1413.jpeg
+published: false
 ---
 # SF visit
 
