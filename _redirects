@@ -3,6 +3,9 @@
 # Redirects from what the browser requests to what we serve
 /feed              /feed.xml
 
+# Redirect from a canonical URL to an email service
+/newsletter https://buttondown.email/benjaminchait
+
 # Redirects from old email newsletters (as of 1 January 2022 these are on Substack, but the "Letters from PDX" bits)
 /2017/09/kippa     /archives/kippa
 /2017/12/four-years-west  /archives/four-years-west
