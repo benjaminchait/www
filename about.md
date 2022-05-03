@@ -22,7 +22,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 ☕️ let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br />
 
-💌 sign up for my [newsletter](https://buttondown.email/benjaminchait)!<br />
+💌 sign up for my [newsletter](/newsletter)!<br />
 
 🐦 follow some silly [twitter](https://twitter.com/benjaminchait) words.<br />
 
