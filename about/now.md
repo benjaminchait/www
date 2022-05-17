@@ -3,11 +3,11 @@ layout: page
 title: Now
 permalink: /about/now
 ---
-🏝 I am currently enjoying a _personal sabbatical_ and getting to explore and enjoy a new home base (👋 hello Chicago!) before starting my next adventure.
+Back at it, but with a new challenge: I am supporting [Login.gov](https://login.gov) as a **product manager**, my first formal adventure in civic tech!
 
-🖋 Right now, I’m spending most of my time reading and writing, for fun!
+Still exploring Hyde Park (Chicago, IL) and still reading books and spending time with friends.
 
-_Updated 26 April 2022 from Hyde Park, Chicago, IL, USA._
+_Updated 16 May 2022 from Hyde Park, Chicago, IL, USA._
 
 ---
 
