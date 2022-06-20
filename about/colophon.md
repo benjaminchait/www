@@ -7,8 +7,6 @@ permalink: /about/colophon
 
 🎨 The CSS and layouts were mine originally; then were updated based heavily on [Clio](https://github.com/danromero/clio); and have continued receiving my own modifications (such as dark mode support).
 
-📈 Basic analytics are captured using [Plausible](https://plausible.io/). They’re simple, and I believe they maintain a nice balance between providing some traffic insights to me; while not tracking personally identifiable details of yours across the internet.
-
 📷 All content and imagery is mine.
 
 👋 Feel free [to say hi](/about) with questions, I’m always happy and eager to help if I can!
