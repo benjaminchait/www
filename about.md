@@ -34,7 +34,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 👾 idk but [github](https://github.com/benjaminchait).<br />
 
-🙃 what i am [doing now](/about/now).<br />
+👨‍💻 what i am [doing now](/about/now).<br />
 
 🖋 a [colophon](/about/colophon) about this site.<br />
 
