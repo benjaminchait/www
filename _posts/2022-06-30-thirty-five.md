@@ -18,27 +18,16 @@ We’ve been living in a dream, a floor-to-ceiling glass-windowed apartment on t
 But in an odd twist, I tested positive for COVID yesterday evening. The night before my birthday. It somewhat throws a wrench in the next few weeks, but I’m trying to take everything day by day. Small steps.
 
 ![Lake Michigan][1]
-
 ![Lyra][2]
-
 ![Benjamin on a hike][3]
-
 ![Lake Michigan][4]
-
 ![Lyra by the lake][5]
-
 ![Parents and Lyra][6]
-
 ![Benjamin and Cara][7]
-
 ![San Francisco Bay][8]
-
 ![California departure][9]
-
 ![Benjamin and Veela][10]
-
 ![Chicago skyline][11]
-
 ![Selfie at Cloud Gate][12]
 
 [1]: /assets/img/posts/2022-06-30-thirty-five/IMG_6198.jpeg

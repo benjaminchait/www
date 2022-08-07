@@ -12,9 +12,7 @@ A European vacation, a wedding in Tuscany, and adventuring in new places.
 A night in Rome to start. Gelato and pizza.
 
 ![Rome][1]
-
 ![Borghese gardens][2]
-
 ![Waiting for pizza and friends][3]
 
 Florence for a day, seeing art and drinking wine.
@@ -24,67 +22,44 @@ Florence for a day, seeing art and drinking wine.
 Tuscany for a few days, with family and friends.
 
 ![Il Verreno room view][5]
-
 ![Il Verreno trees][6]
-
 ![Il Verreno wedding welcome signage][7]
-
 ![Tuscany sunrise][8]
 
 A day trip to the Cinque Terra. (It was a bit of a drive, but well worth it.)
 
 ![Manarola harbor][9]
-
 ![Manarola][10]
-
 ![Vernazza][11]
-
 ![Vernazza colors][12]
-
 ![Gelato in Vernazza][13]
-
 ![Il Verreno dusk][14]
-
 ![Brothers][15]
 
 Bologna and Modena.
 
 ![Osteria dell'Orsa][16]
-
 ![Parmigiano Reggiano][17]
-
 ![Modena][18]
 
 Como and Milano. Seeing an old friend.
 
 ![Bill and Benjamin][19]
-
 ![Como][20]
-
 ![Bicycling][21]
-
 ![Vineyard break][22]
-
 ![Benjamin and Benthai][23]
 
 Athens. The Acropolis. So much history. And a final few days with my parents.
 
 ![Acropolis][24]
-
 ![Acropolis view][25]
-
 ![Ruins][26]
-
 ![Kerameikos][27]
-
 ![Acropolis hill][28]
-
 ![Olives][29]
-
 ![Diporto][30]
-
 ![Mary, Bill and Benjamin][31]
-
 ![Motorcycle cat][32]
 
 [1]: /assets/img/posts/2022-06-23-italy-and-greece/IMG_1711.jpeg
