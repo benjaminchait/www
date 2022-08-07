@@ -7,8 +7,6 @@ date: 2022-06-30 20:00:00 -0600
 permalink: /archives/thirty-five
 ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_1462.jpeg
 ---
-Thirty-five
-
 What a year.
 
 Making a new home in a new place. Ending a job, and starting a new one. (Enjoying a round on the ‘professional leisure circuit,’ aka a sabbatical, in-between.) Reading more books, taking more walks with Lyra. Waking without alarms, getting bored and exploring.
