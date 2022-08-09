@@ -8,6 +8,10 @@
 
 **www** is a [Jekyll](https://jekyllrb.com/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](http://netlify.com). You can learn more using [their lovely documentation](https://www.netlifycms.org/docs/jekyll/) or by sending me a note to ask a question.
 
+##### Newsletter
+
+In my [_redirects](https://github.com/benjaminchait/www/blob/0fe01edc508cb4386a4368fcdbe970f5e4076c91/_redirects#L15) config, I link this repository with https://github.com/benjaminchait/newsletter for serving media when sent via email.
+
 ### Principles
 
 Writing a few words about my general approach. These are not set in stone, but some guiding principles in how this site is designed and meant to work...
