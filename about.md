@@ -24,7 +24,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 💌 sign up for my [newsletter](/newsletter)!<br />
 
-🦣 follow some silly [twitter](https://xoxo.zone/@benjaminchait) words.<br />
+🦣 follow some silly [mastodon](https://xoxo.zone/@benjaminchait) words.<br />
 
 📷 enjoy my [instagram](https://instagram.com/benjaminchait) ✨ stories ✨.<br />
 
