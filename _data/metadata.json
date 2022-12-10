@@ -1,0 +1,17 @@
+{
+  "title": "Benjamin Chait",
+  "url": "https://benjaminchait.net/",
+  "language": "en",
+  "description": "Personal site of Benjamin Chait.",
+  "feed": {
+    "subtitle": "Personal site of Benjamin Chait.",
+    "filename": "feed.xml",
+    "path": "/feed.xml",
+    "id": "https://benjaminchait.net"
+  },
+  "author": {
+    "name": "Benjamin Chait",
+    "email": "hello+www@benjaminchait.net",
+    "url": "https://benjaminchait.net/"
+  }
+}
