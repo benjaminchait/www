@@ -24,8 +24,8 @@ We had a local guide who also served as the captain or pilot of our little boat,
 
 “Come quick!” he finally yelled, and, with only the light of our headlamps, we ran up the trail until we arrived at a tree that Patrick stared at intently. His spotlight shown brightly, we could barely make out the eyes and tail of this special creature. But after a few moments, our little critter came climbing along some of the branches (some 15 meters above our heads!) where we could get a better view. Mission accomplished, and it wasn’t even 8 pm!
 
-![Aye-aye sighting][1]
-![Patrick, our guide, does a little celebratory dance after finding the aye-aye][2]
+<a href="https://benjaminchait-net.s3.amazonaws.com/IMG_2609.mov">![Aye-aye sighting][1]</a>
+<a href="https://benjaminchait-net.s3.amazonaws.com/IMG_2646.mov">![Patrick, our guide, does a little celebratory dance after finding the aye-aye][2]</a>
 
 But as is the case with climbing a mountain, the summit is only half-way; in our case, we still had a decent trek back, plus a boat ride, all in the black of night. And of course, the boat ride wasn’t as smooth as anticipated. After Patrick changed either the fuel line or the motor he was using (the boat had two) we got a sustained, if somewhat suspenseful hum of the diesel engine. It was enough to sputter along and move us against the river, toward the direction of the town (and our hotel). The night sky lit up constantly, a brilliant rainforest thunderstorm blocking view of the stars (and causing more than a little anxiety for us travelers). After a few more amusing-in-hindsight-moments—like taking a wrong path and having our two local Malagasy friends debating whether to turn back (we did!), or the rain starting to fall with us totally exposed in the water, or the two or three times we ran aground on the sand due to low tides (each time, one of the locals jumped out and pushed the boat free)—and we found ourselves back at our hotel. Some fellow hotel guests congratulated us on the sighting, we had some beer, and promptly went to bed.
 
@@ -86,7 +86,7 @@ Returning to Tana, we socialized! We saw friends and their families, and walked 
 ![Selfie with a lemur, part iii][50]
 ![Chameleon at night][51]
 ![Cara and friends][52]
-![Coco the parrot at Hotel Sakamanga sitting on my shoulder, photo courtesy of Cara Brook][53]
+![Coco the parrot at Hotel Sakamanga sitting on my shoulder, photo courtesy of Cara Brook][62]
 ![Selfie with Coco the parrot at Hotel Sakamanga][53]
 
 ## Part 3: Morondava and Kirindy
