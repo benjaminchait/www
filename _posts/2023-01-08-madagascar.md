@@ -2,7 +2,7 @@
 layout: post
 title: Madagascar
 description: 
-published: false
+published: true
 date: 2023-01-02 11:23:00 +0200
 location: Chicago, Illinois, United States
 permalink: /archives/madagascar
