@@ -6,7 +6,7 @@ published: true
 date: 2023-01-02 11:23:00 +0200
 location: Chicago, Illinois, United States
 permalink: /archives/madagascar
-ogimage: /assets/img/posts/2023-01-02-madagascar/IMG_2877.jpeg
+ogimage: /assets/img/posts/2023-01-02-madagascar/IMG_4125.jpeg
 ---
 ## Part 1: Masoala
 
