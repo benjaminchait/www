@@ -14,7 +14,7 @@ The engine choked and sputtered, and quickly gave out. With it, the night was ne
 
 A few hours early, as the sun set on Christmas day, we had been sitting in a hotel in Maroantsetra, Madagascar, talking about nature and the many endemic animals. The first part of a two-week trip involved a flight from Antananarivo—locally known as “Tana,” the capital of the island country which lay in the central highlands, home to a single-runway international airport—to the north-eastern coast. Tucked away in the Antongil Bay just off the Indian Ocean lie rainforests, beaches, and an incredible array of wildlife. But, in its current state of affairs, the “road” to Maroantsetra can take five days to reach from the capital city, if it’s even passable at all (my partner’s only visit by car involved makeshift bridges, and more than one instance of rafting across the various rivers). After landing in Tana and flying on the once-per-week commercial flight to Maroantsetra, we’d taken a boat to an eco-lodge somewhere out along the bay’s coastline, far from civilization. And we got to the rainforest.
 
-Masoala National Park is full of life. We’d taken a day to explore some of the local islands (Nosy Mangabe and Nosy Haramy) before heading down the coast; that gave us views of wild *pteropus rufus* fruit bats (the “Madagascar flying fox”!), a number of lemur varieties, an immense range of reptiles and insects, and even a *fossa*!
+Masoala National Park is full of life. We’d taken a day to explore some of the local islands (Nosy Mangabe and Nosy Roa) before heading down the coast; that gave us views of wild *pteropus rufus* fruit bats (the “Madagascar flying fox”!), a number of lemur varieties, an immense range of reptiles and insects, and even a *fossa*!
 
 A few days on the coast provided an incredible escape: Treks into the rainforest, sea kayaking and snorkeling along some local reefs, some quiet canoe trips through mango groves, and plenty of night walks.
 
@@ -56,9 +56,9 @@ But as is the case with climbing a mountain, the summit is only half-way; in our
 ![The rainforest][27]
 ![Another leaf-tail gecko (such good hiding!)][28]
 ![More lemurs!][29]
-![Bearded pygmy chameleon][30]
-![Another reptile][31]
-![And yet another reptile][32]
+![Brookesia chameleon][30]
+![Another chameleon][31]
+![And yet another chameleon][32]
 ![The helmeted vanga, seen through binoculars][33]
 ![Sunset on the water][34]
 ![Pascal, our guide, rowing a canoe][35]
