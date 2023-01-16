@@ -17,3 +17,7 @@
 # Plausible Analytics https://plausible.io/docs/proxy/guides/netlify
 # /js/script.js https://plausible.io/js/plausible.js 200
 # /api/event https://plausible.io/api/event 200
+
+# redirects due to 404 logs
+
+/wp-content/uploads/media/img/2013/05-wp/20130528-230133.jpg  /assets/img/posts/2013-05-28-budapest/img_0322.jpeg
