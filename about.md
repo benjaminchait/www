@@ -12,7 +12,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 👋 hi hello, I’m Benjamin (he/him).<br />
 
-💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov), 💚 [Chime](https://chime.com/), 🟡 [One](https://one.app/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 📱 [Apple](https://apple.com/).<br />
+💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 📱 [Apple](https://apple.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 🟡 [One](https://one.app/), 💚 [Chime](https://chime.com/), 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov).<br />
 
 🏡 I’ve lived all over: 🏔 Boulder, 🏛 DC, 🌲 PDX, 🌁 SF, 🍕 Chicago.<br />
 
