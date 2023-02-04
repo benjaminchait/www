@@ -28,3 +28,4 @@ pagination:
 
 include:
   - _redirects
+  - .well-known
