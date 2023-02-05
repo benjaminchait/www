@@ -12,7 +12,9 @@ timezone: America/Los_Angeles
 
 # google_analytics:
 
-plugins: [jekyll-redirect-from]
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 # assets:
 #   sources:
