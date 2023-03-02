@@ -15,8 +15,8 @@
 /assets/buttondown/*	https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
 # Plausible Analytics https://plausible.io/docs/proxy/guides/netlify
-# /js/script.js https://plausible.io/js/plausible.js 200
-# /api/event https://plausible.io/api/event 200
+/pio/js/script.js https://plausible.io/js/script.js 200
+/pio/api/event https://plausible.io/api/event 200
 
 # redirects due to 404 logs
 /index.php	/

@@ -9,6 +9,8 @@ permalink: /about/colophon
 
 📷 All content and imagery is mine.
 
+📊 Analytics are handled through [Plausible](https://plausible.io); which feels like the best balance between user privacy and understanding what content is being viewed.
+
 👋 Feel free [to say hi](/about) with questions, I’m always happy and eager to help if I can!
 
 🚀 This site was last published at {{ "now" | date: "%-d %B %Y %H:%M" }} Pacific Time.
