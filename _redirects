@@ -26,7 +26,9 @@
 /sitemap.txt	/sitemap.xml
 
 # redirects due to 404 logs, blog posts
+/2013/06/florence	/archives/florence
 /2013/06/rome	/archives/rome
+/wp-content/uploads/2015/12/1451610886.jpg	/assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg	/assets/img/posts/2012-12-14-ha-long-bay/dsc01120.jpeg
 /wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg	/assets/img/posts/2012-12-14-ha-long-bay/dsc01265.jpeg
 /wp-content/uploads/media/img/2012/12/hong-kong/DSC01518.jpg	/assets/img/posts/2012-12-23-hong-kong/dsc01518.jpeg
