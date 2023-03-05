@@ -3,30 +3,13 @@ title: >
 email: hello+www@benjaminchait.net
 description: >
   Personal site of Benjamin Chait.
-# baseurl: "https://benjaminchait.net"
 url: "https://benjaminchait.net"
 twitter_username: benjaminchait
 github_username: benjaminchait
-# permalink: /:title/
 timezone: America/Los_Angeles
 
-# google_analytics:
-
 plugins:
-  - jekyll-redirect-from
   - jekyll-sitemap
-
-# assets:
-#   sources:
-#     - _assets/css
-#     - _assets/images
-#     - _assets/img(old)
-
-pagination:
-  enabled: true
-  per_page: 10
-  sort_field: 'date'
-  sort_reverse: true
 
 include:
   - _redirects
