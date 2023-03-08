@@ -3,6 +3,7 @@ layout: default
 title: Lyra
 permalink: /lyra
 ogimage: /assets/img/lyra/2590D3D5-41B0-40B5-A31F-B80C1CC913D9.jpeg
+sitemap: false
 ---
 <center>
 <h1>🐶 woof, I’m a dog named Lyra</h1>

@@ -2,6 +2,7 @@
 layout: page
 title: Uses
 permalink: /about/uses
+sitemap: false
 ---
 Here is a non-exhaustive list some products and tools that I currently use, as of March 2022:
 
