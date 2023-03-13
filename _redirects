@@ -18,6 +18,9 @@
 /2017/12/four-years-west  /archives/four-years-west
 /2017/06/thirty    /archives/thirty
 
+# redirect lyra.dog to separate site
+/lyra/*		https://lyra.dog/:splat
+
 # redirects due to 404 logs
 /index.php	/
 /favicon.ico	/assets/img/favicon_io/favicon.ico
