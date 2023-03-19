@@ -27,7 +27,7 @@
 /img/favicon_io/android-chrome-512x512.png	/assets/img/favicon_io/android-chrome-512x512.png
 /sitemap	/sitemap.xml
 /sitemap.txt	/sitemap.xml
-/about.html /about
+/about.html /about	200!
 
 # redirects due to 404 logs, blog posts
 /2013/06/florence	/archives/florence
