@@ -5,6 +5,10 @@ permalink: /resources/product-management
 ---
 These are some miscellaneous resources related to the discipline of ✨ product management ✨ that I find interesting or helpful.
 
+## My personal templates
+
+[github.com/benjaminchait/at-work](https://github.com/benjaminchait/at-work/blob/main/how-to-benjamin.md#templates) includes links to my current templates for things like a 1-pager, a "product requirements doc", and more
+
 ## Books
 
 * *[Badass: Making Users Awesome](https://www.oreilly.com/library/view/badass-making-users/9781491919057/)* by Kathy Sierra.
