@@ -13,21 +13,17 @@
 # Redirect from a canonical URL to an email service
 /newsletter https://buttondown.email/benjaminchait
 
-# Redirects from old email newsletters (as of 1 January 2022 these are on Substack, but the "Letters from PDX" bits)
-/2017/09/kippa     /archives/kippa
-/2017/12/four-years-west  /archives/four-years-west
-/2017/06/thirty    /archives/thirty
-
 # redirect lyra.dog to separate site
 /lyra/*		https://lyra.dog/:splat
 
 # redirects due to 404 logs
-/index.php	/
+/about.html /about	301!
 /favicon.ico	/assets/img/favicon_io/favicon.ico
 /img/favicon_io/android-chrome-512x512.png	/assets/img/favicon_io/android-chrome-512x512.png
+/index.php	/
+/resources	/
 /sitemap	/sitemap.xml
 /sitemap.txt	/sitemap.xml
-/about.html /about	301!
 
 # redirects due to 404 logs, blog posts
 /2013/06/florence	/archives/florence
@@ -50,3 +46,8 @@
 /wp-content/uploads/media/img/2013/06-wp/20130618-002653.jpg	/assets/img/posts/2013-06-14-rome/dsc05194.jpeg
 /wp-content/uploads/media/img/2013/06-wp/20130624-003943.jpg	/assets/img/posts/2013-06-20-venice/img_0343.jpeg
 /wp-content/uploads/media/img/2013/07/london/IMG_0385.JPG	/assets/img/posts/2013-07-09-london/img_0385.jpeg
+
+# Redirects from old email newsletters (as of 1 January 2022 these are on Substack, but the "Letters from PDX" bits)
+/2017/09/kippa     /archives/kippa
+/2017/12/four-years-west  /archives/four-years-west
+/2017/06/thirty    /archives/thirty
