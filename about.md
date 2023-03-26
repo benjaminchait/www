@@ -32,7 +32,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 👔 make me a “connection” on [linkedin](https://linkedin.com/in/benjaminchait).<br />
 
-🧰 some [product management](/resources/product-management) resources.<br />
+🧰 some [product management](https://github.com/benjaminchait/at-work/blob/main/product-management-resources.md) resources.<br />
 
 👾 idk but [github](https://github.com/benjaminchait).<br />
 
