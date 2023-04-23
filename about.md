@@ -26,6 +26,8 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🦣 follow some silly [mastodon](https://xoxo.zone/@benjaminchait) words.<br />
 
+🌀 follow using [bluesky](https://bsky.app/profile/benjaminchait.net).<br />
+
 📷 enjoy my [instagram](https://instagram.com/benjaminchait) ✨ stories ✨.<br />
 
 👯‍♀️ we can be “friends” on [facebook](https://facebook.com/benjaminchait)!<br />
