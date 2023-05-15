@@ -2,7 +2,7 @@
 layout: page
 title: Archives
 permalink: /archives
-published: false
+published: true
 ---
 <ul class="posts">
   {% for post in site.posts %}
