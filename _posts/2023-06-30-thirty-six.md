@@ -26,7 +26,7 @@ This past year has also brought a few reminders about what really matters. Going
 ![Lyra and Veela][11]
 ![Parents and Lyra][12]
 ![Lyra][13]
-![Benjamin and Lyra][14]L
+![Benjamin and Lyra][14]
 
 [1]: /assets/img/posts/2023-06-30-thirty-six/IMG_3672.jpeg
 [2]: /assets/img/posts/2023-06-30-thirty-six/IMG_3813.jpeg
