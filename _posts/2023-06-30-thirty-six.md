@@ -19,23 +19,23 @@ This past year has also brought a few reminders about what really matters. Going
 ![A new tree we planted in our yard][4]
 ![Benjamin in a red panda outfit for Halloween][5]
 ![Benjamin and Cara in Madagascar][6]
-![Lyra 👅][7]
-![Lyra in the snow][8]
+![Lyra in the snow][7]
+![Lyra 👅][8]
 ![Lake Michigan colors][9]
 ![Our “family” on the couch][10]
 ![Lyra and Veela][11]
 ![Parents and Lyra][12]
 ![Lyra][13]
-![Benjamin and Lyra][14]
+![Benjamin and Lyra][14]L
 
 [1]: /assets/img/posts/2023-06-30-thirty-six/IMG_3672.jpeg
 [2]: /assets/img/posts/2023-06-30-thirty-six/IMG_3813.jpeg
 [3]: /assets/img/posts/2023-06-30-thirty-six/IMG_0079.jpeg
 [4]: /assets/img/posts/2023-06-30-thirty-six/IMG_0399.jpeg
 [5]: /assets/img/posts/2023-06-30-thirty-six/IMG_0637.jpeg
-[6]: /assets/img/posts/2023-06-30-thirty-six/IMG_3238.jpeg
-[7]: /assets/img/posts/2023-06-30-thirty-six/IMG_3311.jpeg
-[8]: /assets/img/posts/2023-06-30-thirty-six/IMG_0919.jpeg
+[6]: /assets/img/posts/2023-06-30-thirty-six/IMG_2446.jpeg
+[7]: /assets/img/posts/2023-06-30-thirty-six/IMG_3238.jpeg
+[8]: /assets/img/posts/2023-06-30-thirty-six/IMG_3311.jpeg
 [9]: /assets/img/posts/2023-06-30-thirty-six/IMG_3683.jpeg
 [10]: /assets/img/posts/2023-06-30-thirty-six/IMG_3877.jpeg
 [11]: /assets/img/posts/2023-06-30-thirty-six/IMG_3897.jpeg
