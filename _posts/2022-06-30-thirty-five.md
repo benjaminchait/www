@@ -5,7 +5,7 @@ description: A birthday in a new place
 published: true
 date: 2022-06-30 20:00:00 -0500
 permalink: /archives/thirty-five
-ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_3048.jpeg
+ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_1462.jpeg
 ---
 What a year.
 
@@ -19,12 +19,12 @@ But in an odd twist, I tested positive for COVID yesterday evening. The night be
 ![Lyra][2]
 ![Benjamin on a hike][3]
 ![Lake Michigan][4]
-![Lyra by the lake][5]
-![Parents and Lyra][6]
-![Benjamin and Cara][7]
-![San Francisco Bay][8]
-![California departure][9]
-![Benjamin and Veela][10]
+![Lyra by the icy lake][5]
+![Lyra by the lake][6]
+![Benjamin and Veela][7]
+![Benjamin and Cara][8]
+![San Francisco Bay][9]
+![California departure][10]
 ![Chicago skyline][11]
 ![Selfie at Cloud Gate][12]
 
