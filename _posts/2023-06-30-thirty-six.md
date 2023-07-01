@@ -5,7 +5,7 @@ description: Another year around the sun
 published: true
 date: 2023-06-30 19:00:00 -0600
 permalink: /archives/thirty-six
-ogimage: /assets/img/posts/2023-06-30-thirty-six/IMG_4886.jpeg
+ogimage: /assets/img/posts/2023-06-30-thirty-six/IMG_3683.jpeg
 ---
 I’m thinking about this past year. Time flies, and the world changes. I’ve grown.
 
