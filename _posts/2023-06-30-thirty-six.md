@@ -15,17 +15,18 @@ This past year has also brought a few reminders about what really matters. Going
 
 ![Lyra with Lake Michigan and the Chicago skyline behind her][1]
 ![Cara and Benjamin on bikes with the Chicago skyline and river behind them][2]
-![Veela sticking out her tongue][3]
+![Veela 👅][3]
 ![A new tree we planted in our yard][4]
 ![Benjamin in a red panda outfit for Halloween][5]
 ![Benjamin and Cara in Madagascar][6]
-![Lyra in the snow][7]
-![Lake Michigan colors][8]
-![Our “family” on the couch][9]
-![Lyra and Veela][10]
-![Parents and Lyra][10]
-![Lyra][12]
-![Benjamin and Lyra][13]
+![Lyra 👅][7]
+![Lyra in the snow][8]
+![Lake Michigan colors][9]
+![Our “family” on the couch][10]
+![Lyra and Veela][11]
+![Parents and Lyra][12]
+![Lyra][13]
+![Benjamin and Lyra][14]
 
 [1]: /assets/img/posts/2023-06-30-thirty-six/IMG_3672.jpeg
 [2]: /assets/img/posts/2023-06-30-thirty-six/IMG_3813.jpeg
@@ -33,10 +34,11 @@ This past year has also brought a few reminders about what really matters. Going
 [4]: /assets/img/posts/2023-06-30-thirty-six/IMG_0399.jpeg
 [5]: /assets/img/posts/2023-06-30-thirty-six/IMG_0637.jpeg
 [6]: /assets/img/posts/2023-06-30-thirty-six/IMG_3238.jpeg
-[7]: /assets/img/posts/2023-06-30-thirty-six/IMG_0919.jpeg
-[8]: /assets/img/posts/2023-06-30-thirty-six/IMG_3683.jpeg
-[9]: /assets/img/posts/2023-06-30-thirty-six/IMG_3877.jpeg
-[10]: /assets/img/posts/2023-06-30-thirty-six/IMG_3897.jpeg
-[11]: /assets/img/posts/2023-06-30-thirty-six/IMG_4104.jpeg
-[12]: /assets/img/posts/2023-06-30-thirty-six/IMG_4863.jpeg
-[13]: /assets/img/posts/2023-06-30-thirty-six/IMG_4886.jpeg
+[7]: /assets/img/posts/2023-06-30-thirty-six/IMG_3311.jpeg
+[8]: /assets/img/posts/2023-06-30-thirty-six/IMG_0919.jpeg
+[9]: /assets/img/posts/2023-06-30-thirty-six/IMG_3683.jpeg
+[10]: /assets/img/posts/2023-06-30-thirty-six/IMG_3877.jpeg
+[11]: /assets/img/posts/2023-06-30-thirty-six/IMG_3897.jpeg
+[12]: /assets/img/posts/2023-06-30-thirty-six/IMG_4104.jpeg
+[13]: /assets/img/posts/2023-06-30-thirty-six/IMG_4863.jpeg
+[14]: /assets/img/posts/2023-06-30-thirty-six/IMG_4886.jpeg
