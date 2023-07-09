@@ -24,6 +24,8 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 📫 sign up for my [newsletter](/newsletter)!<br />
 
+🧵 read my [threads](https://www.threads.net/@benjaminchait)!<br />
+
 🦣 follow some silly [mastodon](https://xoxo.zone/@benjaminchait) words.<br />
 
 🦋 follow using [bluesky](https://bsky.app/profile/benjamincha.it).<br />
