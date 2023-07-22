@@ -14,7 +14,7 @@ published: true
     {% assign date = currentdate %}
   {% endif %}
     <li>
-      <a href="{% if post.external %}{{ post.external }}{% else %}{{ post.url }}{% endif %}"><span class="title">{{ post.title }}</span></a>
+      <a href="{% if post.external %}{{ post.external }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
     </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
