@@ -4,6 +4,7 @@ title: Archives
 permalink: /archives
 published: true
 ---
+
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
