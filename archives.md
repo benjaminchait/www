@@ -4,9 +4,7 @@ title: Archives
 permalink: /archives
 published: true
 ---
-
-## archives-by-year
-
+{% raw %}
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
@@ -20,3 +18,4 @@ published: true
     </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
+{% endraw %}
