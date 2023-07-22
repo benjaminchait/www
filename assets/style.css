@@ -57,20 +57,20 @@ hr {
   border-top: 1px solid #eee; 
 }
 
-#posts {
+.posts {
   display: inline;
   list-style: none;
 }
 
-#posts li {
+.posts li {
   display: inline;
 }
 
-#posts li:after {
+.posts li:after {
   content: ", ";
 }
 
-#posts li:last-child:after {
+.posts li:last-child:after {
     content: "";
 }
 
