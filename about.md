@@ -18,7 +18,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 ✈️ ask me about my <a href="/archives/two-weeks">backpacking trip</a> around the world!<br />
 
-🐶 my pup <a href="https://lyra.dog">Lyra</a> is my bff. i’m also grateful for [Kippa](/archives/kippa), and miss her dearly.<br />
+🐶 my pup [Lyra](/about/lyra) is my bff. i’m also grateful for [Kippa](/archives/kippa), and miss her dearly.<br />
 
 ☕️ let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br />
 
