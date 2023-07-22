@@ -4,11 +4,11 @@ title: Archives
 permalink: /archives
 published: true
 ---
-{% raw %}
+<div class="markdownfix">
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
+    {% unless forloop.first %}</ul>{% endunless %}{% raw %}
     <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
     <ul class="posts">
     {% assign date = currentdate %}
@@ -18,4 +18,4 @@ published: true
     </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
-{% endraw %}
+</div>
