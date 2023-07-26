@@ -14,7 +14,7 @@
 /newsletter https://buttondown.email/benjaminchait
 
 # redirect lyra.dog to separate site
-/lyra/*	/about/lyra/:splat
+/lyra	/about/lyra
 
 # redirects due to 404 logs
 /about.html /about	301!
