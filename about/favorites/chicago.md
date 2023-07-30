@@ -2,6 +2,7 @@
 layout: page
 title: Chicago favorites
 permalink: /about/favorites/chicago
+ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_3022.jpeg
 ---
 _Last updated 30 July 2023._
 

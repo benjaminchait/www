@@ -2,6 +2,7 @@
 layout: page
 title: Boulder favorites
 permalink: /about/favorites/boulder
+ogimage: /assets/img/posts/2023-07-09-betty-lake/IMG_5054.jpeg
 ---
 _Last updated 30 July 2023._
 

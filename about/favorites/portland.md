@@ -2,6 +2,7 @@
 layout: page
 title: Portland favorites
 permalink: /about/favorites/portland
+ogimage: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 ---
 _Last updated 30 July 2023._
 
@@ -18,5 +19,5 @@ _Last updated 30 July 2023._
 - 🍻 drinks at the Florida Room
 - 🍻 beer at Breakside Brewing
 - ⚽️ see a Timbers game
-- 🏞️ explore the Columbia River Gorge
+- 🏞️ explore the Columbia River Gorge and be sure to see Multnomah Falls
 - 🍷 go wine tasting in (??)
