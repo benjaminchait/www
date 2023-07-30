@@ -1,24 +1,22 @@
 ---
 layout: page
-title: San Francisco favorites
-permalink: /about/favorites/san-francisco
+title: Portland favorites
+permalink: /about/favorites/portland
 ---
 _Last updated 30 July 2023._
 
-- ☕️ Wrecking Ball Coffee on Union
-- ☕️ Sightglass Coffee on Divisiderio
-- Get the best breakfast sandwich at Devil’s Teeth Baking Company; and then grab a 🧋 snowy plover from Andytown Coffee
-- 🌯 breakfast burrito at Beacon Coffee on Columbus
-- 🍕 Fiorella on Polk
-- 🍕 Little Star Pizza on Divisiderio
-- 🥗 (vegetarian spot on Union)
-- 🍷 Biale
-- 🚲 bike the Golden Gate Bridge and grab ☕️ coffee in Sausalito
-- 🌲 explore the Presidio
-- 🚶‍♂️ walk the (SF urban trail)
-- 🥾 hike in the Marin Headlands, or drive to Point Reyes National Seashore
-- ⛰️ hike around Mount Tam, or Mount Diablo
-- 🥾 explore some of the trails in the East Bay, like the Berkeley Fire Trails or (?? Regional Park)
-- ⛴️ take a ferry to Angel Island
-- 🏞️ visit Yosemite National Park
-- 🌲 find a redwood tree in Muir National Woods
+- 🍩 Pip’s Original Donuts
+- 🍩 Blue Star Donuts
+- 🍕 Dove Vivi
+- 🍕 (pizza spot in NE)
+- 🍕 (pizza spot on Hawthorne)
+- 🐓 (thai place on killingsworth)
+- 🐓 Nong’s Kho Man Ghai
+- 🍜 Afuri
+- 🍜 (ramen spot in SE)
+- 🍜 (ramen spot near PSU in SW)
+- 🍻 drinks at the Florida Room
+- 🍻 beer at Breakside Brewing
+- ⚽️ see a Timbers game
+- 🏞️ explore the Columbia River Gorge
+- 🍷 go wine tasting in (??)
