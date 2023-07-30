@@ -14,7 +14,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 📱 [Apple](https://apple.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 🟡 [One](https://one.app/), 💚 [Chime](https://chime.com/), 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov).<br />
 
-🏡 I’ve lived all over: 🏔 Boulder, 🏛 DC, 🌲 PDX, 🌁 SF, 🍕 Chicago.<br />
+🏡 I’ve lived all over: 🏔 [Boulder](/about/favorites/boulder), 🏛 DC, 🌲 [PDX](/about/favorites/portland), 🌁 [SF](/about/favorites/san-francisco), 🍕 [Chicago](/about/favorites/chicago).<br />
 
 ✈️ ask me about my <a href="/archives/two-weeks">backpacking trip</a> around the world!<br />
 
