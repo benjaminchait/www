@@ -24,27 +24,25 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 📫 sign up for my [newsletter](/newsletter)!<br />
 
-🧵 read my [threads](https://www.threads.net/@benjaminchait)!<br />
-
-🦣 follow some silly [mastodon](https://xoxo.zone/@benjaminchait) words.<br />
-
-🦋 follow using [bluesky](https://bsky.app/profile/benjamincha.it).<br />
-
-📷 enjoy my [instagram](https://instagram.com/benjaminchait) ✨ stories ✨.<br />
-
-👯‍♀️ we can be “friends” on [facebook](https://facebook.com/benjaminchait)!<br />
-
-👔 make me a “connection” on [linkedin](https://linkedin.com/in/benjaminchait).<br />
-
-🎧 let’s be music-sharing friends on [apple music](https://music.apple.com/profile/benjaminchait).<br />
-
 🧰 some [product management](https://github.com/benjaminchait/at-work/blob/main/product-management-resources.md) resources.<br />
-
-👾 idk but [github](https://github.com/benjaminchait).<br />
 
 👨‍💻 what i am [doing now](/about/now).<br />
 
 🖋 a [colophon](/about/colophon) about this site.<br />
+
+<hr />
+
+🗺️ elsewhere, you can find me at...<br />
+🎧 Apple Music: [@benjaminchait](https://music.apple.com/profile/benjaminchait)<br />
+🦋 Bluesky: [@benjamincha.it](https://bsky.app/profile/benjamincha.it)<br />
+👯‍♀️ Facebook: [@benjaminchait](https://facebook.com/benjaminchait)<br />
+👾 GitHub: [@benjaminchait](https://github.com/benjaminchait)<br />
+📷 Instagram: [@benjaminchait](https://instagram.com/benjaminchait)<br />
+👔 LinkedIn: [@benjaminchait](https://linkedin.com/in/benjaminchait)<br />
+🦣 Mastodon: [@benjaminchait@xoxo.zone](https://xoxo.zone/@benjaminchait)<br />
+🧵 Threads: [@benjaminchait](https://www.threads.net/@benjaminchait)<br />
+
+<hr />
 
 🤖 This site is part of the <a href="https://robot-friend-ring.netlify.app">Robot Friends</a> webring. (<a href="https://robot-friend-ring.netlify.app/prev">Previous</a> / <a href="https://robot-friend-ring.netlify.app/random">Random</a> / <a href="https://robot-friend-ring.netlify.app/next">Next</a>)<br />
 
