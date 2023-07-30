@@ -11,11 +11,14 @@ _Last updated 30 July 2023._
 - 🍝 dinner at [Ascione Bistro](https://maps.apple.com/?address=1500%20E%2055th%20St,%20Chicago,%20IL%20%2060615,%20United%20States&auid=10674875566085671605&ll=41.795348,-87.588721&lsp=9902&q=Ascione%20Bistro)
 - 💦 enjoy [Promontory Point](https://maps.apple.com/?address=5491%20S.%20Jean-Baptiste%20Pointe%20DuSable%20Lake%20Shore%20Drive,%20Chicago,%20IL%2060615,%20United%20States&auid=3043761696410100050&ll=41.795928,-87.577525&lsp=9902&q=Promontory%20Point) with a picnic or beverage. Or, use it as a starting point to 🚲 bike the Lake Front Trail ([southern end](https://maps.apple.com/?address=Chicago,%20IL%2060611,%20United%20States&auid=4186466711766065665&ll=41.766320,-87.562720&lsp=9902&q=Lakefront%20Trail), [northern end](https://maps.apple.com/?address=Chicago,%20IL%2060611,%20United%20States&auid=7709229080613504211&ll=41.986591,-87.653997&lsp=9902&q=Lakefront%20Trail)).
 - 🐌 [Snail Thai](https://maps.apple.com/?address=1649%20E%2055th%20St,%20Chicago,%20IL%2060615,%20United%20States&auid=465845548283048612&ll=41.795092,-87.584779&lsp=9902&q=The%20Snail%20Thai%20Cuisine) is our favorite Thai restaurant around. They’re super fast for take away, and everything is delicious.
+- 🏛️ [Museum of Science and Industry](https://maps.apple.com/?address=5700%20S%20DuSable%20Lake%20Shore%20Drive,%20Chicago,%20IL%2060637,%20United%20States&auid=3147873044780092380&ll=41.790513,-87.582922&lsp=9902&q=Museum%20of%20Science%20and%20Industry,%20Chicago)
+- 🏛️ [Institute for the Study of Ancient Cultures](https://maps.apple.com/?address=1155%20E%2058th%20St,%20Chicago,%20IL%20%2060637,%20United%20States&auid=13845425828580820919&ll=41.789409,-87.597449&lsp=9902&q=Institute%20for%20the%20Study%20of%20Ancient%20Cultures)
 
 ### West Loop
 - 🍜 ramen (in west loop)
 - 🐐 Calabra (goat restaurant for tapas in west loop)
-- ☕️ Sawadee coffee
+- Time Out Fulton Market
+- ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
 
 ### Loop
 - 🍷 wine on the river
