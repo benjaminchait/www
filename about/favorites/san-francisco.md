@@ -12,7 +12,7 @@ _Last updated 30 July 2023._
 - 🌯 breakfast burrito at Beacon Coffee on Columbus
 - 🍕 Fiorella on Polk
 - 🍕 Little Star Pizza on Divisiderio
-- 🥗 (vegetarian spot on Union)
+- 🥗 Wildseed on Union
 - 🍷 Biale
 - 🚲 bike the Golden Gate Bridge and grab ☕️ coffee in Sausalito
 - 🌲 explore the Presidio
