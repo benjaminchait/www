@@ -6,13 +6,14 @@ ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
 ---
 _Last updated 11 August 2023._
 
-- ☕️ Wrecking Ball Coffee on Union
-- ☕️ Sightglass Coffee on Divisiderio
-- Get the best breakfast sandwich at Devil’s Teeth Baking Company; and then grab a 🧋 snowy plover from Andytown Coffee
-- 🌯 breakfast burrito at Beacon Coffee on Columbus
-- 🍕 Fiorella on Polk
+- ☕️ [Wrecking Ball Coffee](https://maps.apple.com/?address=2271%20Union%20St,%20San%20Francisco,%20CA%20%2094123,%20United%20States&auid=15797632476955295124&ll=37.796755,-122.436643&lsp=9902&q=Wrecking%20Ball%20Coffee%20Roasters) on Union
+- ☕️ [Saint Frank Coffee](https://maps.apple.com/?address=2340%20Polk%20St,%20San%20Francisco,%20CA%2094109,%20United%20States&auid=5105107099428073594&ll=37.798357,-122.422119&lsp=9902&q=Saint%20Frank%20Coffee) on Polk
+- ☕️ [Sightglass Coffee](https://maps.apple.com/?address=301%20Divisadero%20St,%20San%20Francisco,%20CA%20%2094117,%20United%20States&auid=11327320202390494766&ll=37.772303,-122.437528&lsp=9902&q=Sightglass%20Coffee) on Divisiderio
+- Get the best breakfast sandwich at [Devil’s Teeth Baking Company](https://maps.apple.com/?address=3876%20Noriega%20St,%20San%20Francisco,%20CA%2094122,%20United%20States&auid=17922246749675822168&ll=37.753179,-122.504951&lsp=9902&q=Devil%E2%80%99s%20Teeth%20Baking%20Co.); and then grab a 🧋 snowy plover from [Andytown Coffee](https://maps.apple.com/?address=3655%20Lawton%20St,%20San%20Francisco,%20CA%20%2094122,%20United%20States&auid=13782962688710535021&ll=37.756661,-122.502226&lsp=9902&q=Andytown%20Coffee%20Roasters); and then wander [Ocean Beach](https://maps.apple.com/?address=San%20Francisco,%20CA%2094132,%20United%20States&auid=9113434404634483650&ll=37.756483,-122.510626&lsp=9902&q=Ocean%20Beach) or [Fort Funston](https://maps.apple.com/?address=Skyline%20Blvd,%20San%20Francisco,%20CA%2094132,%20United%20States&auid=18127498724970457636&ll=37.713829,-122.503889&lsp=9902&q=Fort%20Funston)
+- 🌯 breakfast burrito at [Beacon Coffee](https://maps.apple.com/?address=805%20Columbus%20Ave,%20San%20Francisco,%20CA%20%2094133,%20United%20States&auid=464328432053712248&ll=37.802235,-122.413327&lsp=9902&q=Beacon%20Coffee%20%26%20Pantry) on Columbus
+- 🍕 [Fiorella](https://maps.apple.com/?address=2238%20Polk%20St,%20San%20Francisco,%20CA%20%2094109,%20United%20States&auid=6440428275071146082&ll=37.797497,-122.421845&lsp=9902&q=Fiorella) on Polk
 - 🍕 Little Star Pizza on Divisiderio
-- 🥗 Wildseed on Union
+- 🥗 [Wildseed](https://maps.apple.com/?address=2000%20Union%20St,%20San%20Francisco,%20CA%20%2094123,%20United%20States&auid=15478624536576708337&ll=37.797617,-122.432439&lsp=9902&q=Wildseed) on Union
 - 🍷 Biale
 - 🚲 bike the Golden Gate Bridge and grab ☕️ coffee in Sausalito
 - 🌲 explore the Presidio
