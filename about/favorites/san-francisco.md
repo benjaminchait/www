@@ -6,6 +6,8 @@ ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
 ---
 _Last updated 11 August 2023._
 
+I lived here from 2019 to 2021.
+
 - ☕️ [Wrecking Ball Coffee](https://maps.apple.com/?address=2271%20Union%20St,%20San%20Francisco,%20CA%20%2094123,%20United%20States&auid=15797632476955295124&ll=37.796755,-122.436643&lsp=9902&q=Wrecking%20Ball%20Coffee%20Roasters) on Union
 - ☕️ [Saint Frank Coffee](https://maps.apple.com/?address=2340%20Polk%20St,%20San%20Francisco,%20CA%2094109,%20United%20States&auid=5105107099428073594&ll=37.798357,-122.422119&lsp=9902&q=Saint%20Frank%20Coffee) on Polk
 - ☕️ [Sightglass Coffee](https://maps.apple.com/?address=301%20Divisadero%20St,%20San%20Francisco,%20CA%20%2094117,%20United%20States&auid=11327320202390494766&ll=37.772303,-122.437528&lsp=9902&q=Sightglass%20Coffee) on Divisiderio

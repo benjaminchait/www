@@ -4,7 +4,9 @@ title: Boulder favorites
 permalink: /about/favorites/boulder
 ogimage: /assets/img/posts/2023-07-09-betty-lake/IMG_5054.jpeg
 ---
-_Last updated 30 July 2023._
+_Last updated 11 August 2023._
+
+I was born and raised in Boulder, Colorado; this is my hometown! And while I have not lived here in years, I visit family and friends often.
 
 - ☕️ coffee at [Boxcar Coffee Roasters](https://maps.apple.com/?address=1825%20Pearl%20St,%20Boulder,%20CO%20%2080302,%20United%20States&auid=8835420102125326547&ll=40.019823,-105.271473&lsp=9902&q=Boxcar%20Coffee%20Roasters)
 - 🥖 sandwich and 🍷 wine at [Cured](https://maps.apple.com/?address=1825%20Pearl%20St,%20Boulder,%20CO%2080302,%20United%20States&auid=870276438487933239&ll=40.019842,-105.271425&lsp=9902&q=Cured)

@@ -4,8 +4,13 @@ title: Portland favorites
 permalink: /about/favorites/portland
 ogimage: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 ---
-_Last updated 30 July 2023._
+_Last updated 11 August 2023._
 
+I lived here from 2013 to 2019.
+
+- ☕️ Heart Coffee
+- ☕️ Barista
+- ☕️ Woodlawn Coffee
 - 🍩 Pip’s Original Donuts
 - 🍩 Blue Star Donuts
 - 🍕 Dove Vivi
