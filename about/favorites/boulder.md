@@ -4,7 +4,7 @@ title: Boulder favorites
 permalink: /about/favorites/boulder
 ogimage: /assets/img/posts/2023-07-09-betty-lake/IMG_5054.jpeg
 ---
-_Last updated 11 August 2023._
+_Last updated 26 August 2023._
 
 I was born and raised in Boulder, Colorado; this is my hometown! And while I have not lived here in years, I visit family and friends often.
 
@@ -18,7 +18,7 @@ I was born and raised in Boulder, Colorado; this is my hometown! And while I hav
 - 🌮 enjoy some margaritas at [The Rio](https://maps.apple.com/?address=1101%20Walnut%20St,%20Boulder,%20CO%20%2080302,%20United%20States&auid=7232455307254972357&ll=40.016777,-105.280824&lsp=9902&q=Rio%20Grande%20Mexican%20Restaurant)
 - 🍣 sushi at [Hapa](https://maps.apple.com/?address=1117%20Pearl%20Street,%20Boulder,%20CO%2080302,%20United%20States&auid=14715943169855714467&ll=40.017865,-105.280919&lsp=9902&q=Hapa%20Sushi%20Grill%20and%20Sake%20Bar)
 - 🍻 drinks at the [Mountain Sun](https://maps.apple.com/?address=1535%20Pearl%20St,%20Boulder,%20CO%20%2080302,%20United%20States&auid=14474637385343172249&ll=40.019019,-105.275209&lsp=9902&q=Mountain%20Sun%20Pub%20%26%20Brewery)
-- 🍻 craft brews at [Upslope](https://maps.apple.com/?address=1501%20Lee%20Hill%20Rd,%20Boulder,%20CO%20%2080304,%20United%20States&auid=17332624768728670828&ll=40.062901,-105.279240&lsp=9902&q=Upslope%20Brewing%20Company), [Sanitas](https://maps.apple.com/?address=3550%20Frontier%20Ave,%20Boulder,%20CO%20%2080301,%20United%20States&auid=2361003309779870754&ll=40.022100,-105.248319&lsp=9902&q=Sanitas), or [Avery](https://maps.apple.com/?address=4910%20Nautilus%20Ct%20N,%20Boulder,%20CO%20%2080301,%20United%20States&auid=16656827806794431938&ll=40.062524,-105.204736&lsp=9902&q=Avery%20Brewing%20Co) (which happens to have food and a brewery tour).
+- 🍻 craft brews at [Upslope](https://maps.apple.com/?address=1501%20Lee%20Hill%20Rd,%20Boulder,%20CO%20%2080304,%20United%20States&auid=17332624768728670828&ll=40.062901,-105.279240&lsp=9902&q=Upslope%20Brewing%20Company), [Sanitas](https://maps.apple.com/?address=3550%20Frontier%20Ave,%20Boulder,%20CO%20%2080301,%20United%20States&auid=2361003309779870754&ll=40.022100,-105.248319&lsp=9902&q=Sanitas), or [Avery](https://maps.apple.com/?address=4910%20Nautilus%20Ct%20N,%20Boulder,%20CO%20%2080301,%20United%20States&auid=16656827806794431938&ll=40.062524,-105.204736&lsp=9902&q=Avery%20Brewing%20Co) (as a bonus, Avery happens to have food and a brewery tour).
 - 👨‍🎤 see a show at the [Boulder Theatre](https://maps.apple.com/?address=2032%2014th%20St,%20Boulder,%20CO%20%2080302,%20United%20States&auid=4387618948551568433&ll=40.019131,-105.277195&lsp=9902&q=Boulder%20Theater)
 <!-- - 🍸 cocktails at The Kitchen Upstairs -->
 - 🥾 hike at [Chautauqua](https://maps.apple.com/?address=900%20Baseline%20Rd,%20Boulder,%20CO%20%2080302,%20United%20States&auid=3328881260573032957&ll=39.998886,-105.281031&lsp=9902&q=Chautauqua%20Park), or some of the many miles of Open Space & Mountain Parks trails
