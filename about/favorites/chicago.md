@@ -39,3 +39,5 @@ _Last updated 27 August 2023._
 - 🌳 visit the [Morten Arboretum](https://maps.apple.com/?address=4100%20Illinois%20Route%2053,%20Lisle,%20IL%2060532,%20United%20States&auid=862481568325447181&ll=41.814266,-88.070843&lsp=9902&q=Morton%20Arboretum&t=m) (bonus points for 🐶 “tails on the trails” days)
 - 🌻 visit the [Chicago Botanic Garden](https://maps.apple.com/?address=1000%20Lake%20Cook%20Road,%20Glencoe,%20IL%2060022,%20United%20States&auid=12175092430782721818&ll=42.148968,-87.789667&lsp=9902&q=Chicago%20Botanic%20Garden&t=m)
 - 🥾 walk around the [Palos Forest Preserve](https://maps.apple.com/?address=9600%E2%80%939610%20Wolf%20Rd,%20Willow%20Springs,%20IL%20%2060480,%20United%20States&auid=2940417056827028692&ll=41.714355,-87.895142&lsp=9902&q=Palos%20Trail%20System&t=m)
+
+_Other favorites:_ [Boulder](/about/favorites/boulder) / [DC](/about/favorites/washington-dc) / [PDX](/about/favorites/portland) / [SF](/about/favorites/san-francisco)

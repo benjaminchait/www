@@ -22,3 +22,7 @@ I was born and raised in Boulder, Colorado; this is my hometown! And while I hav
 - 👨‍🎤 see a show at the [Boulder Theatre](https://maps.apple.com/?address=2032%2014th%20St,%20Boulder,%20CO%20%2080302,%20United%20States&auid=4387618948551568433&ll=40.019131,-105.277195&lsp=9902&q=Boulder%20Theater)
 <!-- - 🍸 cocktails at The Kitchen Upstairs -->
 - 🥾 hike at [Chautauqua](https://maps.apple.com/?address=900%20Baseline%20Rd,%20Boulder,%20CO%20%2080302,%20United%20States&auid=3328881260573032957&ll=39.998886,-105.281031&lsp=9902&q=Chautauqua%20Park), or some of the many miles of Open Space & Mountain Parks trails
+
+<!-- _Other favorites:_ [Boulder](/about/favorites/boulder) / [DC](/about/favorites/washington-dc) / [PDX](/about/favorites/portland) / [SF](/about/favorites/san-francisco) / [Chicago](/about/favorites/chicago) -->
+
+_Other favorites:_ [DC](/about/favorites/washington-dc) / [PDX](/about/favorites/portland) / [SF](/about/favorites/san-francisco) / [Chicago](/about/favorites/chicago)

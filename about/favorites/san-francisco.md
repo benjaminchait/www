@@ -26,3 +26,5 @@ I lived here from 2019 to 2021.
 - ⛴️ take a ferry to [Angel Island State Park](https://maps.apple.com/?address=Sausalito%20CA%2094965,%20United%20States&auid=9090821029790562848&ll=37.862126,-122.430456&lsp=9902&q=Angel%20Island%20State%20Park)
 - 🏞️ visit [Yosemite National Park](https://maps.apple.com/?address=Yosemite%20National%20Park,%20Yosemite%20National%20Park,%20CA%20%2095389,%20United%20States&auid=9954189438040369796&ll=37.934074,-119.464982&lsp=9902&q=Yosemite%20National%20Park)
 - 🌲 find a redwood tree in [Muir Woods](https://maps.apple.com/?address=1%20Muir%20Woods%20Rd,%20Mill%20Valley,%20CA%20%2094941,%20United%20States&auid=10409377109732512353&ll=37.895921,-122.579699&lsp=9902&q=Muir%20Woods%20National%20Monument) or in [Redwood Regional Park](https://maps.apple.com/?address=7867%20Redwood%20Rd,%20Oakland,%20CA%2094619,%20United%20States&auid=16850622716877148972&ll=37.814242,-122.165616&lsp=9902&q=Reinhardt%20Redwood%20Regional%20Park)
+
+_Other favorites:_ [Boulder](/about/favorites/boulder) / [DC](/about/favorites/washington-dc) / [PDX](/about/favorites/portland) / [Chicago](/about/favorites/chicago)
