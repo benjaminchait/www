@@ -2,7 +2,7 @@
 layout: page
 title: San Francisco favorites
 permalink: /about/favorites/san-francisco
-ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
+ogimage: /assets/img/about/favorites/san-francisco/IMG_2705.jpeg
 ---
 _Last updated 27 August 2023._
 

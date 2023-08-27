@@ -2,7 +2,7 @@
 layout: page
 title: Portland favorites
 permalink: /about/favorites/portland
-ogimage: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
+ogimage: /assets/img/about/favorites/portland/IMG_0074.jpeg
 ---
 _Last updated 27 August 2023._
 
