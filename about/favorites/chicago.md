@@ -4,7 +4,7 @@ title: Chicago favorites
 permalink: /about/favorites/chicago
 ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_3022.jpeg
 ---
-_Last updated 30 July 2023._
+_Last updated 26 August 2023._
 
 ### Hyde Park
 - 🥐 breakfast at [Plein Air Cafe](https://maps.apple.com/?address=5751%20S%20Woodlawn%20Ave,%20Chicago,%20IL%20%2060637,%20United%20States&auid=17317106175298295220&ll=41.790073,-87.595961&lsp=9902&q=Plein%20Air%20Cafe%20%26%20Eatery)
@@ -16,7 +16,7 @@ _Last updated 30 July 2023._
 - 🏛️ [Institute for the Study of Ancient Cultures](https://maps.apple.com/?address=1155%20E%2058th%20St,%20Chicago,%20IL%20%2060637,%20United%20States&auid=13845425828580820919&ll=41.789409,-87.597449&lsp=9902&q=Institute%20for%20the%20Study%20of%20Ancient%20Cultures)
 
 ### West Loop
-- 🍜 ramen (in west loop)
+- 🍜 [Kinton Ramen](https://maps.apple.com/?address=163%20N%20Sangamon%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4906119005532631732&ll=41.884928,-87.650711&lsp=9902&q=Kinton%20Ramen&t=m)
 - 🐐 [Cabra](https://maps.apple.com/?address=200%20N%20Green%20St,%20Chicago,%20IL%2060607,%20United%20States&auid=10449723616408104591&ll=41.885881,-87.649108&lsp=9902&q=Cabra&t=m)
 - [Time Out Fulton Market](https://maps.apple.com/?address=916%20W%20Fulton%20Market,%20Chicago,%20IL%2060607,%20United%20States&auid=15044358521693904204&ll=41.886920,-87.650530&lsp=9902&q=Time%20Out%20Market&t=m)
 - ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
