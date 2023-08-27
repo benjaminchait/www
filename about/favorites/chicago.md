@@ -22,12 +22,11 @@ _Last updated 26 August 2023._
 - ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
 
 ### Loop
-- 🍷 wine on the river
-- ⛴️ take an architectural boat tour
-- 🚶‍♂️ walking tours
-- 🐬 Shedd Aquarium
-- 🏛️ Field Museum
-- ⚽️ at Soldier Field
+- visit the [Chicago Riverwalk](https://maps.apple.com/?address=2%20N%20La%20Salle%20St,%20Floor%202,%20Chicago,%20IL%2060602,%20United%20States&auid=17426554822183736752&ll=41.887272,-87.627236&lsp=9902&q=Chicago%20Riverwalk&t=m) to enjoy 🍷 some beverages and snacks, or as a starting point to ⛴️ take an architectural boat tour and learn about the city and its history
+- join a free 🚶‍♂️ walking tour from the [Chicago Cultural Center](https://maps.apple.com/?address=78%20E%20Washington%20St,%20Chicago,%20IL%20%2060602,%20United%20States&auid=6067168364543969049&ll=41.883576,-87.624948&lsp=9902&q=Chicago%20Cultural%20Center&t=m)
+- 🐬 [Shedd Aquarium](https://maps.apple.com/?address=1200%20S%20Dusable%20Lake%20Shore%20Dr,%20Chicago,%20IL%2060605,%20United%20States&auid=6135812639410860302&ll=41.867579,-87.613606&lsp=9902&q=Shedd%20Aquarium&t=m)
+- explore the 🏛️ [Field Museum](https://maps.apple.com/?address=1400%20S%20Dusable%20Lake%20Shore%20Dr,%20Chicago,%20IL%2060605,%20United%20States&auid=2027249941338592107&ll=41.866109,-87.617029&lsp=9902&q=Field%20Museum&t=m) and find 🦖 “Sue”
+- watch the ⚽️ Chicago Red Stars at [Soldier Field](https://maps.apple.com/?address=1410%20Special%20Olympics%20Drive,%20Chicago,%20IL%2060605,%20United%20States&auid=4074683490398741478&ll=41.862306,-87.616686&lsp=9902&q=Soldier%20Field&t=m)
 
 ### Beyond
 - 🥐 pastries and 🥖 baguettes or sourdough bread at [Floriole](https://maps.apple.com/?address=1220%20W%20Webster%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=10466231550611170415&ll=41.921849,-87.659204&lsp=9902&q=Floriole)
