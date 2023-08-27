@@ -17,8 +17,8 @@ _Last updated 30 July 2023._
 
 ### West Loop
 - 🍜 ramen (in west loop)
-- 🐐 Calabra (goat restaurant for tapas in west loop)
-- Time Out Fulton Market
+- 🐐 [Cabra](https://maps.apple.com/?address=200%20N%20Green%20St,%20Chicago,%20IL%2060607,%20United%20States&auid=10449723616408104591&ll=41.885881,-87.649108&lsp=9902&q=Cabra&t=m)
+- [Time Out Fulton Market](https://maps.apple.com/?address=916%20W%20Fulton%20Market,%20Chicago,%20IL%2060607,%20United%20States&auid=15044358521693904204&ll=41.886920,-87.650530&lsp=9902&q=Time%20Out%20Market&t=m)
 - ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
 
 ### Loop
@@ -31,9 +31,8 @@ _Last updated 30 July 2023._
 
 ### Beyond
 - 🥐 pastries and 🥖 baguettes or sourdough bread at [Floriole](https://maps.apple.com/?address=1220%20W%20Webster%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=10466231550611170415&ll=41.921849,-87.659204&lsp=9902&q=Floriole)
-- ⚾️ watch the White Sox play (at Guaranteed Rate Field) or the Cubs (at Wrigley Field)
-- 🛶 canoeing in the Skokie Lagoons
-- 🌳 visit the Morten Arboretum (bonus points for “tails on the trails” days)
-- 🌻 visit the Chicago Botanic Garden
-- 🥾 walk around the Palos Forest Preserve (??)
-- Naperville
+- ⚾️ watch the White Sox play (at [Guaranteed Rate Field](https://maps.apple.com/?address=333%20W%2035th%20St,%20Chicago,%20IL%2060616,%20United%20States&auid=1582473545085192272&ll=41.829811,-87.633577&lsp=9902&q=Guaranteed%20Rate%20Field&t=m)) or the Cubs (at [Wrigley Field](https://maps.apple.com/?address=1060%20W%20Addison%20St,%20Chicago,%20IL%20%2060613,%20United%20States&auid=16246086688498290818&ll=41.948224,-87.655460&lsp=9902&q=Wrigley%20Field&t=m))
+- 🛶 canoeing in the [Skokie Lagoons](https://maps.apple.com/?address=788%E2%80%93794%20N%20Forest%20Way%20Dr,%20Northbrook,%20IL%20%2060062,%20United%20States&auid=17802024203799305960&ll=42.128866,-87.774922&lsp=9902&q=Skokie%20Lagoons&t=m)
+- 🌳 visit the [Morten Arboretum](https://maps.apple.com/?address=4100%20Illinois%20Route%2053,%20Lisle,%20IL%2060532,%20United%20States&auid=862481568325447181&ll=41.814266,-88.070843&lsp=9902&q=Morton%20Arboretum&t=m) (bonus points for 🐶 “tails on the trails” days)
+- 🌻 visit the [Chicago Botanic Garden](https://maps.apple.com/?address=1000%20Lake%20Cook%20Road,%20Glencoe,%20IL%2060022,%20United%20States&auid=12175092430782721818&ll=42.148968,-87.789667&lsp=9902&q=Chicago%20Botanic%20Garden&t=m)
+- 🥾 walk around the [Palos Forest Preserve](https://maps.apple.com/?address=9600%E2%80%939610%20Wolf%20Rd,%20Willow%20Springs,%20IL%20%2060480,%20United%20States&auid=2940417056827028692&ll=41.714355,-87.895142&lsp=9902&q=Palos%20Trail%20System&t=m)
