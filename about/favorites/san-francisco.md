@@ -4,6 +4,8 @@ title: San Francisco favorites
 permalink: /about/favorites/san-francisco
 ogimage: /assets/img/about/favorites/san-francisco/IMG_2705.jpeg
 ---
+<img src="/assets/img/about/favorites/san-francisco/IMG_2705.jpeg" alt="San Francisco sunset" />
+
 _Last updated 27 August 2023._
 
 I lived here from 2019 to 2021.

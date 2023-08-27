@@ -4,6 +4,8 @@ title: Washington DC favorites
 permalink: /about/favorites/washington-dc
 ogimage: /assets/img/about/favorites/washington-dc/IMG_9037.jpeg
 ---
+<img src="/assets/img/about/favorites/washington-dc/IMG_9037.jpeg" alt="Tidal Basin" />
+
 _Last updated 27 August 2023._
 
 I lived here from 2005 to 2007.

@@ -4,6 +4,8 @@ title: Boulder favorites
 permalink: /about/favorites/boulder
 ogimage: /assets/img/about/favorites/boulder/IMG_0253.jpeg
 ---
+<img src="/assets/img/about/favorites/boulder/IMG_0253.jpeg" alt="Boulder" />
+
 _Last updated 26 August 2023._
 
 I was born and raised in Boulder, Colorado; this is my hometown! And while I have not lived here in years, I visit family and friends often.

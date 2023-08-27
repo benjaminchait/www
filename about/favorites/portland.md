@@ -4,6 +4,8 @@ title: Portland favorites
 permalink: /about/favorites/portland
 ogimage: /assets/img/about/favorites/portland/IMG_0074.jpeg
 ---
+<img src="/assets/img/about/favorites/portland/IMG_0074.jpeg" alt="Multnomah Falls" />
+
 _Last updated 27 August 2023._
 
 I lived here from 2013 to 2019, and loved so many little spots.
