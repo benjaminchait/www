@@ -4,7 +4,7 @@ title: San Francisco favorites
 permalink: /about/favorites/san-francisco
 ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
 ---
-_Last updated 11 August 2023._
+_Last updated 26 August 2023._
 
 I lived here from 2019 to 2021.
 
@@ -16,7 +16,7 @@ I lived here from 2019 to 2021.
 - 🍕 [Fiorella](https://maps.apple.com/?address=2238%20Polk%20St,%20San%20Francisco,%20CA%20%2094109,%20United%20States&auid=6440428275071146082&ll=37.797497,-122.421845&lsp=9902&q=Fiorella) on Polk
 - 🍕 Little Star Pizza on Divisiderio
 - 🥗 [Wildseed](https://maps.apple.com/?address=2000%20Union%20St,%20San%20Francisco,%20CA%20%2094123,%20United%20States&auid=15478624536576708337&ll=37.797617,-122.432439&lsp=9902&q=Wildseed) on Union
-- 🍷 Biale
+- 🍷 wine tasting at [Biale](https://maps.apple.com/?address=4038%20Big%20Ranch%20Rd,%20Napa,%20CA%20%2094558,%20United%20States&auid=7692615653725857920&ll=38.350658,-122.300987&lsp=9902&q=Biale%20Vineyards&t=m) - make sure you have a reservation, and get a “Black Chicken”
 - 🚲 bike the Golden Gate Bridge and grab ☕️ coffee in Sausalito
 - 🌲 explore the Presidio
 - 🚶‍♂️ walk the [Crosstown Trail](https://crosstowntrail.org) ([Candlestick Park](https://maps.apple.com/?address=San%20Francisco,%20CA%2094124,%20United%20States&auid=16502586621750172044&ll=37.709403,-122.381301&lsp=9902&q=San%20Francisco%20Crosstown%20Trail) to [Lands End](https://maps.apple.com/?address=Outer%20Richmond,%20San%20Francisco,%20CA,%20United%20States&auid=13171097645209421073&ll=37.780664,-122.511959&lsp=9902&q=Crosstown%20Trail))
