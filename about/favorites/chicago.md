@@ -29,6 +29,7 @@ _Last updated 26 August 2023._
 - watch the ⚽️ Chicago Red Stars at [Soldier Field](https://maps.apple.com/?address=1410%20Special%20Olympics%20Drive,%20Chicago,%20IL%2060605,%20United%20States&auid=4074683490398741478&ll=41.862306,-87.616686&lsp=9902&q=Soldier%20Field&t=m)
 
 ### Beyond
+- 🍕 pizza at [Spacca Napoli](https://maps.apple.com/?address=1769%20W%20Sunnyside%20Ave,%20Chicago,%20IL%20%2060640,%20United%20States&auid=6915981325229687812&ll=41.963220,-87.673636&lsp=9902&q=Spacca%20Napoli%20Pizzeria&t=m)
 - 🥐 pastries and 🥖 baguettes or sourdough bread at [Floriole](https://maps.apple.com/?address=1220%20W%20Webster%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=10466231550611170415&ll=41.921849,-87.659204&lsp=9902&q=Floriole)
 - ⚾️ watch the White Sox play (at [Guaranteed Rate Field](https://maps.apple.com/?address=333%20W%2035th%20St,%20Chicago,%20IL%2060616,%20United%20States&auid=1582473545085192272&ll=41.829811,-87.633577&lsp=9902&q=Guaranteed%20Rate%20Field&t=m)) or the Cubs (at [Wrigley Field](https://maps.apple.com/?address=1060%20W%20Addison%20St,%20Chicago,%20IL%20%2060613,%20United%20States&auid=16246086688498290818&ll=41.948224,-87.655460&lsp=9902&q=Wrigley%20Field&t=m))
 - 🛶 canoeing in the [Skokie Lagoons](https://maps.apple.com/?address=788%E2%80%93794%20N%20Forest%20Way%20Dr,%20Northbrook,%20IL%20%2060062,%20United%20States&auid=17802024203799305960&ll=42.128866,-87.774922&lsp=9902&q=Skokie%20Lagoons&t=m)
