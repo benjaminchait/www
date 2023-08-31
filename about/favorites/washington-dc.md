@@ -6,7 +6,7 @@ ogimage: /assets/img/about/favorites/washington-dc/IMG_9037.jpeg
 ---
 <img src="/assets/img/about/favorites/washington-dc/IMG_9037.jpeg" alt="Tidal Basin" />
 
-_Last updated 29 August 2023._
+_Last updated 30 August 2023._
 
 I lived here from 2005 to 2007.
 
@@ -16,5 +16,6 @@ I lived here from 2005 to 2007.
 - 🧆 [Lebanese Taverna](https://maps.apple.com/?address=2641%20Connecticut%20Ave%20NW,%20Washington,%20DC%20%2020008,%20United%20States&auid=1250203707456030900&ll=38.924741,-77.051864&lsp=9902&q=Lebanese%20Taverna&t=m) was a favorite dinner spot
 - 🖼️ [National Gallery of Art](https://maps.apple.com/?address=6th%20and%20Constitution%20Ave%20NW,%20Washington,%20DC%2020565,%20United%20States&auid=13728623576604910836&ll=38.891267,-77.019921&lsp=9902&q=National%20Gallery%20of%20Art&t=m)
 - 🌸 [National Botanic Gardens](https://maps.apple.com/?address=100%20Maryland%20Ave%20SW,%20Washington,%20DC%2020001,%20United%20States&auid=4205651879865536699&ll=38.887943,-77.013570&lsp=9902&q=United%20States%20Botanic%20Garden&t=m)
+- 🍺 [Churchkey](https://maps.apple.com/?address=1337%2014th%20St%20NW,%20Washington,%20DC%20%2020005,%20United%20States&auid=3265738944467316287&ll=38.908493,-77.031647&lsp=9902&q=Churchkey&t=m)
 
 _Other favorites:_ [Boulder](/about/favorites/boulder) / [PDX](/about/favorites/portland) / [SF](/about/favorites/san-francisco) / [Chicago](/about/favorites/chicago)
