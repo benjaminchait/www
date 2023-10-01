@@ -10,7 +10,7 @@ ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D
   <img src="/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg" alt="Chicago sunrise approach, photo 3 of 3" style="width: 32%; max-width: 200px;" />
 </center></div>
 
-_Last updated 27 August 2023._
+_Last updated 1 October 2023._
 
 ### Hyde Park
 - 🥐 breakfast at [Plein Air Cafe](https://maps.apple.com/?address=5751%20S%20Woodlawn%20Ave,%20Chicago,%20IL%20%2060637,%20United%20States&auid=17317106175298295220&ll=41.790073,-87.595961&lsp=9902&q=Plein%20Air%20Cafe%20%26%20Eatery)
