@@ -10,9 +10,10 @@ Tech
 * iPhone 15 Pro Max (256 gig in white titanium)
 * Apple Watch Series 8 (45mm in silver aluminum)
 * iPad Pro 11” 2020 (WiFi in silver)
-* 13” MacBook Air (midnight) w/ a Studio Display
+* 13” MacBook Air (midnight) w/ Studio Display
 * AirPods Pro v2
 * Amazon Kindle (2022)
+* Synology DS220j
 
 Apps
 * ONE
@@ -28,9 +29,7 @@ Coffee
 * Chemex
 
 Dog
-* Ruffwear Front Range Harness
-* Ruffwear Front Range Leash
-* Ruffwear Front Range Collar
+* Ruffwear Front Range Harness, Leash and Collar
 
 Home
 * HomePod and HomePods mini
