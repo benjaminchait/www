@@ -4,25 +4,22 @@ title: Uses
 permalink: /about/uses
 sitemap: false
 ---
-Here is a non-exhaustive list some products and tools that I currently use, as of March 2022:
+Here is a non-exhaustive list some products and tools that I currently use, as of October 2023:
 
 Tech
-* iPhone 13 Pro Max / 256 gig in silver
-* Apple Watch Series 5 / 44mm in silver aluminum
-* iPad Pro 11” 2020 / WiFi in silver
-* iMac 24” / yellow
-* AirPods and AirPods Pro
+* iPhone 15 Pro Max (256 gig in white titanium)
+* Apple Watch Series 8 (45mm in silver aluminum)
+* iPad Pro 11” 2020 (WiFi in silver)
+* 13” MacBook Air (midnight) w/ a Studio Display
+* AirPods Pro v2
+* Amazon Kindle (2022)
 
 Apps
-* One
-* Copilot
+* ONE
 * Things
-* Halide
-* Cash.app (@benjaminchait)
 * Instapaper
-* Reeder and Feedbin
-* Mela
-* Deliveries
+* Reeder (sync'd via Feedbin)
+* Flighty.app
 * Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait))
 
 Coffee
@@ -30,14 +27,17 @@ Coffee
 * Fellow Ode
 * Chemex
 
+Dog
+* Ruffwear Front Range Harness
+* Ruffwear Front Range Leash
+* Ruffwear Front Range Collar
+
 Home
 * HomePod and HomePods mini
 * Hue smart lights
 * Artifox desk
 
-About
+Outside
 * Tesla Model 3
 * Mission Workshop Rhake VX
-
-Camping
 * Osprey Atmos 65
