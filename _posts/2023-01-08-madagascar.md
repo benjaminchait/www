@@ -3,10 +3,10 @@ layout: post
 title: Madagascar
 description: 
 published: true
-date: 2023-01-02 11:23:00 +0200
+date: 2023-01-08 11:23:00 -0500
 location: Chicago, Illinois, United States
 permalink: /archives/madagascar
-ogimage: /assets/img/posts/2023-01-02-madagascar/IMG_2877.jpeg
+ogimage: /assets/img/posts/2023-01-08-madagascar/IMG_2877.jpeg
 ---
 ## Part 1: Masoala
 
@@ -122,69 +122,65 @@ My visit felt short, perhaps due to the lengthy travel required to get to Madaga
 
 *‌Tratry ny taona*, happy new year!
 
-[1]: /assets/img/posts/2023-01-02-madagascar/IMG_2609.jpeg
-[2]: /assets/img/posts/2023-01-02-madagascar/IMG_2646.jpeg
-
-[3]: /assets/img/posts/2023-01-02-madagascar/IMG_1316.jpeg
-[4]: /assets/img/posts/2023-01-02-madagascar/IMG_1347.jpeg
-[5]: /assets/img/posts/2023-01-02-madagascar/IMG_1373.jpeg
-[6]: /assets/img/posts/2023-01-02-madagascar/IMG_1426.jpeg
-[7]: /assets/img/posts/2023-01-02-madagascar/IMG_1491.jpeg
-[8]: /assets/img/posts/2023-01-02-madagascar/IMG_1536.jpeg
-[9]: /assets/img/posts/2023-01-02-madagascar/IMG_1547.jpeg
-[10]: /assets/img/posts/2023-01-02-madagascar/IMG_1554.jpeg
-[11]: /assets/img/posts/2023-01-02-madagascar/IMG_1569.jpeg
-[12]: /assets/img/posts/2023-01-02-madagascar/IMG_1584.jpeg
-[13]: /assets/img/posts/2023-01-02-madagascar/IMG_1654.jpeg
-[14]: /assets/img/posts/2023-01-02-madagascar/IMG_1707.jpeg
-[15]: /assets/img/posts/2023-01-02-madagascar/IMG_1713.jpeg
-[16]: /assets/img/posts/2023-01-02-madagascar/IMG_1730.jpeg
-[17]: /assets/img/posts/2023-01-02-madagascar/IMG_1790.jpeg
-[18]: /assets/img/posts/2023-01-02-madagascar/IMG_1829.jpeg
-[19]: /assets/img/posts/2023-01-02-madagascar/IMG_1873.jpeg
-[20]: /assets/img/posts/2023-01-02-madagascar/IMG_1886.jpeg
-[21]: /assets/img/posts/2023-01-02-madagascar/IMG_1889.jpeg
-[22]: /assets/img/posts/2023-01-02-madagascar/IMG_1893.jpeg
-[23]: /assets/img/posts/2023-01-02-madagascar/IMG_1934.jpeg
-[24]: /assets/img/posts/2023-01-02-madagascar/IMG_1939.jpeg
-[25]: /assets/img/posts/2023-01-02-madagascar/IMG_1980.jpeg
-[26]: /assets/img/posts/2023-01-02-madagascar/IMG_1982.jpeg
-[27]: /assets/img/posts/2023-01-02-madagascar/IMG_2038.jpeg
-[28]: /assets/img/posts/2023-01-02-madagascar/IMG_2050.jpeg
-[29]: /assets/img/posts/2023-01-02-madagascar/IMG_2140.jpeg
-[30]: /assets/img/posts/2023-01-02-madagascar/IMG_2153.jpeg
-[31]: /assets/img/posts/2023-01-02-madagascar/IMG_2203.jpeg
-[32]: /assets/img/posts/2023-01-02-madagascar/IMG_2212.jpeg
-[33]: /assets/img/posts/2023-01-02-madagascar/IMG_2300.jpeg
-[34]: /assets/img/posts/2023-01-02-madagascar/IMG_2336.jpeg
-[35]: /assets/img/posts/2023-01-02-madagascar/IMG_2406.jpeg
-[36]: /assets/img/posts/2023-01-02-madagascar/IMG_2470.jpeg
-[37]: /assets/img/posts/2023-01-02-madagascar/IMG_2546.jpeg
-[38]: /assets/img/posts/2023-01-02-madagascar/IMG_2556.jpeg
-[39]: /assets/img/posts/2023-01-02-madagascar/IMG_2573.jpeg
-[40]: /assets/img/posts/2023-01-02-madagascar/IMG_2580.jpeg
-
-[41]: /assets/img/posts/2023-01-02-madagascar/IMG_2677.jpeg
-[42]: /assets/img/posts/2023-01-02-madagascar/IMG_2682.jpeg
-[43]: /assets/img/posts/2023-01-02-madagascar/IMG_2690.jpeg
-[44]: /assets/img/posts/2023-01-02-madagascar/IMG_2700.jpeg
-[45]: /assets/img/posts/2023-01-02-madagascar/IMG_2739.jpeg
-[46]: /assets/img/posts/2023-01-02-madagascar/IMG_2741.jpeg
-[47]: /assets/img/posts/2023-01-02-madagascar/IMG_2759.jpeg
-[48]: /assets/img/posts/2023-01-02-madagascar/IMG_2774.jpeg
-[49]: /assets/img/posts/2023-01-02-madagascar/IMG_2775.jpeg
-[50]: /assets/img/posts/2023-01-02-madagascar/IMG_2776.jpeg
-[51]: /assets/img/posts/2023-01-02-madagascar/IMG_2779.jpeg
-[52]: /assets/img/posts/2023-01-02-madagascar/IMG_2841.jpeg
-[53]: /assets/img/posts/2023-01-02-madagascar/IMG_2853.jpeg
-
-[54]: /assets/img/posts/2023-01-02-madagascar/IMG_2867.jpeg
-[55]: /assets/img/posts/2023-01-02-madagascar/IMG_2873.jpeg
-[56]: /assets/img/posts/2023-01-02-madagascar/IMG_2877.jpeg
-[57]: /assets/img/posts/2023-01-02-madagascar/IMG_2936.jpeg
-[58]: /assets/img/posts/2023-01-02-madagascar/IMG_2997.jpeg
-[59]: /assets/img/posts/2023-01-02-madagascar/IMG_3018.jpeg
-[60]: /assets/img/posts/2023-01-02-madagascar/IMG_3024.jpeg
-[61]: /assets/img/posts/2023-01-02-madagascar/IMG_3067.jpeg
-
-[62]: /assets/img/posts/2023-01-02-madagascar/IMG_4125.jpeg
+[1]: /assets/img/posts/2023-01-08-madagascar/IMG_2609.jpeg
+[2]: /assets/img/posts/2023-01-08-madagascar/IMG_2646.jpeg
+[3]: /assets/img/posts/2023-01-08-madagascar/IMG_1316.jpeg
+[4]: /assets/img/posts/2023-01-08-madagascar/IMG_1347.jpeg
+[5]: /assets/img/posts/2023-01-08-madagascar/IMG_1373.jpeg
+[6]: /assets/img/posts/2023-01-08-madagascar/IMG_1426.jpeg
+[7]: /assets/img/posts/2023-01-08-madagascar/IMG_1491.jpeg
+[8]: /assets/img/posts/2023-01-08-madagascar/IMG_1536.jpeg
+[9]: /assets/img/posts/2023-01-08-madagascar/IMG_1547.jpeg
+[10]: /assets/img/posts/2023-01-08-madagascar/IMG_1554.jpeg
+[11]: /assets/img/posts/2023-01-08-madagascar/IMG_1569.jpeg
+[12]: /assets/img/posts/2023-01-08-madagascar/IMG_1584.jpeg
+[13]: /assets/img/posts/2023-01-08-madagascar/IMG_1654.jpeg
+[14]: /assets/img/posts/2023-01-08-madagascar/IMG_1707.jpeg
+[15]: /assets/img/posts/2023-01-08-madagascar/IMG_1713.jpeg
+[16]: /assets/img/posts/2023-01-08-madagascar/IMG_1730.jpeg
+[17]: /assets/img/posts/2023-01-08-madagascar/IMG_1790.jpeg
+[18]: /assets/img/posts/2023-01-08-madagascar/IMG_1829.jpeg
+[19]: /assets/img/posts/2023-01-08-madagascar/IMG_1873.jpeg
+[20]: /assets/img/posts/2023-01-08-madagascar/IMG_1886.jpeg
+[21]: /assets/img/posts/2023-01-08-madagascar/IMG_1889.jpeg
+[22]: /assets/img/posts/2023-01-08-madagascar/IMG_1893.jpeg
+[23]: /assets/img/posts/2023-01-08-madagascar/IMG_1934.jpeg
+[24]: /assets/img/posts/2023-01-08-madagascar/IMG_1939.jpeg
+[25]: /assets/img/posts/2023-01-08-madagascar/IMG_1980.jpeg
+[26]: /assets/img/posts/2023-01-08-madagascar/IMG_1982.jpeg
+[27]: /assets/img/posts/2023-01-08-madagascar/IMG_2038.jpeg
+[28]: /assets/img/posts/2023-01-08-madagascar/IMG_2050.jpeg
+[29]: /assets/img/posts/2023-01-08-madagascar/IMG_2140.jpeg
+[30]: /assets/img/posts/2023-01-08-madagascar/IMG_2153.jpeg
+[31]: /assets/img/posts/2023-01-08-madagascar/IMG_2203.jpeg
+[32]: /assets/img/posts/2023-01-08-madagascar/IMG_2212.jpeg
+[33]: /assets/img/posts/2023-01-08-madagascar/IMG_2300.jpeg
+[34]: /assets/img/posts/2023-01-08-madagascar/IMG_2336.jpeg
+[35]: /assets/img/posts/2023-01-08-madagascar/IMG_2406.jpeg
+[36]: /assets/img/posts/2023-01-08-madagascar/IMG_2470.jpeg
+[37]: /assets/img/posts/2023-01-08-madagascar/IMG_2546.jpeg
+[38]: /assets/img/posts/2023-01-08-madagascar/IMG_2556.jpeg
+[39]: /assets/img/posts/2023-01-08-madagascar/IMG_2573.jpeg
+[40]: /assets/img/posts/2023-01-08-madagascar/IMG_2580.jpeg
+[41]: /assets/img/posts/2023-01-08-madagascar/IMG_2677.jpeg
+[42]: /assets/img/posts/2023-01-08-madagascar/IMG_2682.jpeg
+[43]: /assets/img/posts/2023-01-08-madagascar/IMG_2690.jpeg
+[44]: /assets/img/posts/2023-01-08-madagascar/IMG_2700.jpeg
+[45]: /assets/img/posts/2023-01-08-madagascar/IMG_2739.jpeg
+[46]: /assets/img/posts/2023-01-08-madagascar/IMG_2741.jpeg
+[47]: /assets/img/posts/2023-01-08-madagascar/IMG_2759.jpeg
+[48]: /assets/img/posts/2023-01-08-madagascar/IMG_2774.jpeg
+[49]: /assets/img/posts/2023-01-08-madagascar/IMG_2775.jpeg
+[50]: /assets/img/posts/2023-01-08-madagascar/IMG_2776.jpeg
+[51]: /assets/img/posts/2023-01-08-madagascar/IMG_2779.jpeg
+[52]: /assets/img/posts/2023-01-08-madagascar/IMG_2841.jpeg
+[53]: /assets/img/posts/2023-01-08-madagascar/IMG_2853.jpeg
+[54]: /assets/img/posts/2023-01-08-madagascar/IMG_2867.jpeg
+[55]: /assets/img/posts/2023-01-08-madagascar/IMG_2873.jpeg
+[56]: /assets/img/posts/2023-01-08-madagascar/IMG_2877.jpeg
+[57]: /assets/img/posts/2023-01-08-madagascar/IMG_2936.jpeg
+[58]: /assets/img/posts/2023-01-08-madagascar/IMG_2997.jpeg
+[59]: /assets/img/posts/2023-01-08-madagascar/IMG_3018.jpeg
+[60]: /assets/img/posts/2023-01-08-madagascar/IMG_3024.jpeg
+[61]: /assets/img/posts/2023-01-08-madagascar/IMG_3067.jpeg
+[62]: /assets/img/posts/2023-01-08-madagascar/IMG_4125.jpeg
