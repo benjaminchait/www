@@ -34,7 +34,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🗺️ elsewhere, you can find me at...<br />
 🎧 Apple Music: [@benjaminchait](https://music.apple.com/profile/benjaminchait)<br />
-🦋 Bluesky: [@benjamincha.it](https://bsky.app/profile/benjamincha.it)<br />
+🦋 Bluesky: [@benjaminchait.bsky.social](https://bsky.app/profile/benjaminchait.bsky.social)<br />
 👯‍♀️ Facebook: [@benjaminchait](https://facebook.com/benjaminchait)<br />
 👾 GitHub: [@benjaminchait](https://github.com/benjaminchait)<br />
 📷 Instagram: [@benjaminchait](https://instagram.com/benjaminchait)<br />
