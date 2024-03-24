@@ -39,7 +39,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 👾 GitHub: [@benjaminchait](https://github.com/benjaminchait)<br />
 📷 Instagram: [@benjaminchait](https://instagram.com/benjaminchait)<br />
 👔 LinkedIn: [@benjaminchait](https://linkedin.com/in/benjaminchait)<br />
-🦣 Mastodon: [@benjaminchait@xoxo.zone](https://xoxo.zone/@benjaminchait)<br />
+🦣 Mastodon: [@benjaminchait@mastodon.social](https://mastodon.social/@benjaminchait)<br />
 🧵 Threads: [@benjaminchait](https://www.threads.net/@benjaminchait)<br />
 
 <hr />
