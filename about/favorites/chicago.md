@@ -23,7 +23,7 @@ _Last updated 28 April 2024._
 
 ### West Loop
 - 🍸 [The Aviary](https://maps.apple.com/?address=955%20W%20Fulton%20Market,%20Chicago,%20IL%20%2060607,%20United%20States&auid=7150727231679659581&ll=41.886482,-87.651982&lsp=9902&q=The%20Aviary)
-- 🪶 [Roister](https://maps.apple.com/?address=951%20W%20Fulton%20Market,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4409570904384129369&ll=41.886599,-87.651810&lsp=9902&q=Roister)
+- 🪶 [Roister](https://maps.apple.com/?address=951%20W%20Fulton%20Market,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4409570904384129369&ll=41.886599,-87.651810&lsp=9902&q=Roister) has a delicous 🍗 chicken
 - [Time Out Fulton Market](https://maps.apple.com/?address=916%20W%20Fulton%20Market,%20Chicago,%20IL%2060607,%20United%20States&auid=15044358521693904204&ll=41.886920,-87.650530&lsp=9902&q=Time%20Out%20Market)
 - ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
 - 🍜 [Kinton Ramen](https://maps.apple.com/?address=163%20N%20Sangamon%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4906119005532631732&ll=41.884928,-87.650711&lsp=9902&q=Kinton%20Ramen)
