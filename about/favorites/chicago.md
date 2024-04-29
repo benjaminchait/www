@@ -10,7 +10,7 @@ ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D
   <img src="/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg" alt="Chicago sunrise approach, photo 3 of 3" style="width: 32%; max-width: 200px;" />
 </center></div>
 
-_Last updated 21 April 2024._
+_Last updated 28 April 2024._
 
 ### Hyde Park
 - 🥐 breakfast at [Plein Air Cafe](https://maps.apple.com/?address=5751%20S%20Woodlawn%20Ave,%20Chicago,%20IL%20%2060637,%20United%20States&auid=17317106175298295220&ll=41.790073,-87.595961&lsp=9902&q=Plein%20Air%20Cafe%20%26%20Eatery)
@@ -43,6 +43,7 @@ _Last updated 21 April 2024._
 - 🦁 the [Lincoln Park Zoo](https://maps.apple.com/?address=2001%20N.%20Clark%20St,%20Chicago,%20IL%2060614,%20United%20States&auid=12760104372783582348&ll=41.920896,-87.633004&lsp=9902&q=Lincoln%20Park%20Zoo) is free to visit, and has some amazing wildlife
 
 ### Beyond
+- 🦆 dinner at [The Duck Inn](https://maps.apple.com/?address=2701%20S%20Eleanor%20St,%20Chicago,%20IL%20%2060608,%20United%20States&auid=6304733646105153415&ll=41.844401,-87.660154&lsp=9902&q=Duck%20Inn) and obviously get the rotisserie duck
 - ⚾️ watch the White Sox play (at [Guaranteed Rate Field](https://maps.apple.com/?address=333%20W%2035th%20St,%20Chicago,%20IL%2060616,%20United%20States&auid=1582473545085192272&ll=41.829811,-87.633577&lsp=9902&q=Guaranteed%20Rate%20Field)) or the Cubs (at [Wrigley Field](https://maps.apple.com/?address=1060%20W%20Addison%20St,%20Chicago,%20IL%20%2060613,%20United%20States&auid=16246086688498290818&ll=41.948224,-87.655460&lsp=9902&q=Wrigley%20Field))
 - 🛶 canoeing in the [Skokie Lagoons](https://maps.apple.com/?address=788%E2%80%93794%20N%20Forest%20Way%20Dr,%20Northbrook,%20IL%20%2060062,%20United%20States&auid=17802024203799305960&ll=42.128866,-87.774922&lsp=9902&q=Skokie%20Lagoons)
 - 🌳 visit the [Morten Arboretum](https://maps.apple.com/?address=4100%20Illinois%20Route%2053,%20Lisle,%20IL%2060532,%20United%20States&auid=862481568325447181&ll=41.817844,-88.065416&lsp=9902&q=The%20Morton%20Arboretum) (bonus points for 🐶 “tails on the trails” days)
