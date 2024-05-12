@@ -1,5 +1,20 @@
 # netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 
+
+
+
+### temporary
+/about/lyra	/archives/fuck-cancer # add a redirect for lyra dot dog
+
+### end temporary
+
+
+
+
+
+
+
+
 # The following allows me to serve "newsletter" assets through a separate git repository https://github.com/benjaminchait/newsletter, published to benjaminchait-newsletter.netlify.app ~> instructions from https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
 /assets/buttondown/*	https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
