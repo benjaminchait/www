@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fuck cancer
-description: Fuck cancer
+description: An update on Lyra
 published: true
 date: 2024-05-11 21:10:00 -0500
 location: Chicago, Illinois, United States of America
