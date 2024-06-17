@@ -1,8 +1,20 @@
 User-Agent: *
 Disallow: 
 
+User-agent: Applebot-Extended
+Disallow: /
+
 User-agent: ChatGPT-User
 Disallow: /
 
+User-agent: ClaudeBot
+Disallow: /
+
 User-agent: GPTBot
+Disallow: /
+
+User-agent: Googlebot-Extended
+Disallow: /
+
+User-Agent: PerplexityBot
 Disallow: /
