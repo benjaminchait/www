@@ -2,7 +2,7 @@
 layout: post
 title: Thirty-seven
 description: Reflecting after a hard few months
-published: false
+published: true
 date: 2024-06-30 21:37:00 -0500
 location: Chicago, Illinois, United States of America
 permalink: /archives/thirty-seven
