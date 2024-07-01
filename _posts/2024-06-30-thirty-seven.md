@@ -11,9 +11,9 @@ permalink: /archives/thirty-seven
 I feel like you’re meant to celebrate on your birthday, but the past few weeks have been full of heartbreak. I’m still healing, and taking it day-by-day.
 
 A few thoughts about what matters to me, right now -
-# Find joy in everyday moments.
-# Cultivate experiences and create memories; say yes whenever possible.
-# Do your best, every single day. 
-# Leave this place better than you found it.
-# Share stories.
-# Be kind.
+1. Find joy in everyday moments.
+2. Cultivate experiences and create memories; say yes whenever possible.
+3. Do your best, every single day. 
+4. Leave this place better than you found it.
+5. Share stories.
+6. Be kind.
