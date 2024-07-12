@@ -25,6 +25,7 @@
 /now      /about/now
 /sitemap	/sitemap.xml
 /sitemap.txt	/sitemap.xml
+/archives/favorites/chicago  /about/favorites/chicago
 
 # redirects due to 404 logs, blog posts
 /2013/06/florence	/archives/florence
