@@ -32,15 +32,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 <hr />
 
-🗺️ elsewhere, you can find me at...<br />
-🎧 Apple Music: [@benjaminchait](https://music.apple.com/profile/benjaminchait)<br />
-🦋 Bluesky: [@benjaminchait.bsky.social](https://bsky.app/profile/benjaminchait.bsky.social)<br />
-👯‍♀️ Facebook: [@benjaminchait](https://facebook.com/benjaminchait)<br />
-👾 GitHub: [@benjaminchait](https://github.com/benjaminchait)<br />
-📷 Instagram: [@benjaminchait](https://instagram.com/benjaminchait)<br />
-👔 LinkedIn: [@benjaminchait](https://linkedin.com/in/benjaminchait)<br />
-🦣 Mastodon: [@benjaminchait@mastodon.social](https://mastodon.social/@benjaminchait)<br />
-🧵 Threads: [@benjaminchait](https://www.threads.net/@benjaminchait)<br />
+🗺️ you can find me elsewhere at: 🎧 Apple Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait)) • 🦋 Bluesky ([@benjaminchait.bsky.social](https://bsky.app/profile/benjaminchait.bsky.social)) • 👯‍♀️ Facebook ([@benjaminchait](https://facebook.com/benjaminchait)) • 👾 GitHub ([@benjaminchait](https://github.com/benjaminchait)) • 📷 Instagram ([@benjaminchait](https://instagram.com/benjaminchait)) • 👔 LinkedIn ([@benjaminchait](https://linkedin.com/in/benjaminchait)) • 🦣 Mastodon ([@benjaminchait@mastodon.social](https://mastodon.social/@benjaminchait)) • 🧵 Threads ([@benjaminchait](https://www.threads.net/@benjaminchait))
 
 <hr />
 
