@@ -11,7 +11,7 @@
 /feed              /feed.xml
 
 # Redirect from a canonical URL to an email service
-/newsletter https://buttondown.email/benjaminchait
+/newsletter https://buttondown.com/benjaminchait
 
 # redirect lyra.dog to separate site
 /lyra					/archives/lyra
