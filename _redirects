@@ -29,6 +29,7 @@
 /photos/2008/spring/  /
 
 # redirects due to 404 logs, blog posts
+/2012/09/two-weeks  /archives/two-weeks
 /2013/01/melbourne  /archives/melbourne
 /2013/03/australia-round-ii  /archives/australia-round-ii
 /2013/04/siem-reap  /archives/siem-reap
