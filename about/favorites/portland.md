@@ -10,7 +10,7 @@ _Last updated 26 August 2024._
 
 I lived here from 2013 to 2019, and loved so many little spots.
 
-- ☕️ Portland is a town with many coffee choices, but my favorite will always be [Heart Coffee](https://maps.apple.com/?address=2211%20E%20Burnside%20St,%20Portland,%20OR%2097214,%20United%20States&auid=9079577799699969003&ll=45.523004,-122.643193&lsp=9902&q=Heart) on East Burnside. I lived near this spot for many years, and while they no longer roast beans here, it still has a special place in my heart.
+- ☕️ Portland is a town with many coffee options, but my favorite will always be [Heart Coffee](https://maps.apple.com/?address=2211%20E%20Burnside%20St,%20Portland,%20OR%2097214,%20United%20States&auid=9079577799699969003&ll=45.523004,-122.643193&lsp=9902&q=Heart) on East Burnside. I lived near this spot for many years, and while they no longer roast beans here, it still has a special place in my heart.
 - ☕️ [Barista](https://maps.apple.com/?address=823%20NW%2023rd%20Ave,%20Portland,%20OR%2097210,%20United%20States&auid=11237019928319126106&ll=45.528774,-122.698830&lsp=9902&q=Barista)
 - ☕️ [Woodlawn Coffee](https://maps.apple.com/?address=808%20NE%20Dekum%20St,%20Portland,%20OR%20%2097211,%20United%20States&auid=11270584199129585823&ll=45.571594,-122.657145&lsp=9902&q=Woodlawn%20Coffee%20and%20Pastry)
 - 🍩 The best donuts in town are [Blue Star Donuts](https://maps.apple.com/?address=3325%20SE%20Division%20St,%20Unit%201,%20Portland,%20OR%20%2097202,%20United%20States&auid=11204161612495146037&ll=45.504885,-122.631127&lsp=9902&q=Blue%20Star%20Donuts). As a bonus, as of 2024 they had a spot in the PDX airport (airside) if you needed a fix before your flight. (Or a gift for whomever was at your destination...)
