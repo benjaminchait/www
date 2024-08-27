@@ -8,7 +8,7 @@ title: Benjamin Chait
 
 <p>I’ve built products loved by millions, helped create a digital bank providing better access to credit, and developed platforms to enable new capabilities. While much of my work has focused on improving financial well-being, I’m broadly interested in how we use technology to improve everyday lives.</p>
 
-<p>For periodic updates, <a href="https://buttondown.email/benjaminchait">subscribe to my newsletter</a>.</p>
+<p>For periodic updates, <a href="https://buttondown.email/benjaminchait">subscribe to my newsletter</a> or <a href="/feed">via RSS</a>.</p>
 
 <!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
