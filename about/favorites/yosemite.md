@@ -26,7 +26,7 @@ Yosemite National Park is a special place. It’s one of the most unique landsca
 <!--
 ### Yosemite wilderness
 * 🏞️ Ohmstead Point
-* 💦 Lake Tenaya
+* 💦 Tenaya Lake
 * 💦 Young Lakes
 
 * 💦 Chilnuana Falls
