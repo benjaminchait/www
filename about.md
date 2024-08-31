@@ -20,7 +20,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🐶 My pup [Lyra](/archives/lyra) was my bff. I’m also grateful for [Kippa](/archives/kippa), and miss her dearly.<br />
 
-☕️ Let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br />
+<!-- ☕️ Let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br /> -->
 
 📫 Sign up for my [newsletter](/newsletter)!<br />
 
