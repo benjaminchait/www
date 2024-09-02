@@ -16,6 +16,8 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🏡 I’ve lived all over and have my “favorite” spots in 🏔 [Boulder](/about/favorites/boulder), 🏛 [DC](/about/favorites/washington-dc), 🌲 [PDX](/about/favorites/portland), 🌁 [SF](/about/favorites/san-francisco), 🍕 [Chicago](/about/favorites/chicago); as well as some memorable spots from places I have visited frequently like 🏞️ [Yosemite](/about/favorites/yosemite).<br />
 
+💬 Say hi via email (or iMessages) using: <a href="mailto:hello@benjaminchait.net">hello@benjaminchait.net</a>.<br />
+
 ✈️ Ask me about my <a href="/archives/two-weeks">backpacking trip</a> around the world!<br />
 
 🐶 My pup [Lyra](/archives/lyra) was my bff. I’m also grateful for [Kippa](/archives/kippa), and miss her dearly.<br />
@@ -26,13 +28,13 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🧰 Some [product management](https://github.com/benjaminchait/at-work/blob/main/product-management-resources.md) resources.<br />
 
-👨‍💻 My [now](/about/now) page.<br />
+👨‍💻 My [“now”](/about/now) page.<br />
 
 🖋 A [colophon](/about/colophon) about this site.<br />
 
 <hr />
 
-🗺️ Find me elsewhere at: 🎧 Apple Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait)) • 🦋 Bluesky ([@benjaminchait.bsky.social](https://bsky.app/profile/benjaminchait.bsky.social)) • 👯‍♀️ Facebook ([@benjaminchait](https://facebook.com/benjaminchait)) • 👾 GitHub ([@benjaminchait](https://github.com/benjaminchait)) • 📷 Instagram ([@benjaminchait](https://instagram.com/benjaminchait)) • 👔 LinkedIn ([@benjaminchait](https://linkedin.com/in/benjaminchait)) • 🦣 Mastodon ([@benjaminchait@mastodon.social](https://mastodon.social/@benjaminchait)) • 🧵 Threads ([@benjaminchait](https://www.threads.net/@benjaminchait))
+🗺️ Find me elsewhere: 🎧 Apple Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait)) • 🦋 Bluesky ([@benjaminchait.bsky.social](https://bsky.app/profile/benjaminchait.bsky.social)) • 👯‍♀️ Facebook ([@benjaminchait](https://facebook.com/benjaminchait)) • 👾 GitHub ([@benjaminchait](https://github.com/benjaminchait)) • 📷 Instagram ([@benjaminchait](https://instagram.com/benjaminchait)) • 👔 LinkedIn ([@benjaminchait](https://linkedin.com/in/benjaminchait)) • 🦣 Mastodon ([@benjaminchait@mastodon.social](https://mastodon.social/@benjaminchait)) • 🧵 Threads ([@benjaminchait](https://www.threads.net/@benjaminchait))
 
 <hr />
 
