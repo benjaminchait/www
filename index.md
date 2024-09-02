@@ -10,7 +10,7 @@ title: Benjamin Chait
 
 <p>For periodic updates, <a href="https://buttondown.email/benjaminchait">subscribe to my newsletter</a> or <a href="/feed">via RSS</a>.</p>
 
-<p>Reach me via email (or iMessages) using: hello(at)benjaminchait.net</p>
+<p>Reach me via email (or iMessages) using: <a href="mailto:hello@benjaminchait.net">hello@benjaminchait.net</a></p>
 
 <!-- indie auth https://indieweb.org/rel-me and https://indielogin.com/setup -->
 <link href="https://twitter.com/benjaminchait" rel="me">
