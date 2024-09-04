@@ -38,6 +38,7 @@ _Last updated 28 April 2024._
 
 ### North
 - 🥐 pastries and 🥖 baguettes or sourdough bread at [Floriole](https://maps.apple.com/?address=1220%20W%20Webster%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=10466231550611170415&ll=41.921849,-87.659204&lsp=9902&q=Floriole). By far one of my favorite spots in the city, my only dislike is that I live too far away to visit more frequently.
+- 🍳 My favorite breakfast is [Lula Cafe](https://maps.apple.com/?address=2537%20N%20Kedzie%20Blvd,%20Chicago,%20IL%20%2060647,%20United%20States&auid=5142171322749906622&ll=41.927621,-87.706752&lsp=9902&q=Lula%20Cafe) in Logan Square. They open for brunch at 9 am, be in line by 8:45 am.
 - 🥯 weekend breakfast bagel sandwiches at [Steingold’s Deli](https://maps.apple.com/?address=3737%20N%20Southport%20Ave,%20Chicago,%20IL%20%2060613,%20United%20States&auid=14091099803264601718&ll=41.950039,-87.663785&lsp=9902&q=Steingold%E2%80%99s)
 - 🍕 napoli-style pizza at [Spacca Napoli](https://maps.apple.com/?address=1769%20W%20Sunnyside%20Ave,%20Chicago,%20IL%20%2060640,%20United%20States&auid=6915981325229687812&ll=41.963220,-87.673636&lsp=9902&q=Spacca%20Napoli%20Pizzeria) feels like a night out in Rome; sit on the patio and enjoy some beverages and snacks before your wood-oven pizza arrives
 - 🍕 deep-dish pizza at [Pequod’s Pizza](https://maps.apple.com/?address=2207%20N%20Clybourn%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=8543306803376454292&ll=41.921831,-87.664508&lsp=9902&q=Pequod's%20Pizza)
