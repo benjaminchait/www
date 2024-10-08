@@ -31,7 +31,7 @@ We paddled along some amazing rivers and lakes, and saw plenty of wildlife like 
 [2]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4731.jpeg
 [3]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4768.jpeg
 [4]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4817.jpeg
-[5]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4865.jpeg
+[5]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4857.jpeg
 [6]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4880.jpeg
 [7]: /assets/img/posts/2024-10-07-boundary-waters/IMG_4997.jpeg
 [8]: /assets/img/posts/2024-10-07-boundary-waters/IMG_5072.jpeg
