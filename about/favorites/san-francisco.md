@@ -29,4 +29,10 @@ I lived here from 2019 to 2021.
 - 🏞️ visit [Yosemite National Park](https://maps.apple.com/?address=Yosemite%20National%20Park,%20Yosemite%20National%20Park,%20CA%20%2095389,%20United%20States&auid=9954189438040369796&ll=37.934074,-119.464982&lsp=9902&q=Yosemite%20National%20Park)
 - 🌲 find a redwood tree in [Muir Woods](https://maps.apple.com/?address=1%20Muir%20Woods%20Rd,%20Mill%20Valley,%20CA%20%2094941,%20United%20States&auid=10409377109732512353&ll=37.895921,-122.579699&lsp=9902&q=Muir%20Woods%20National%20Monument) or in [Redwood Regional Park](https://maps.apple.com/?address=7867%20Redwood%20Rd,%20Oakland,%20CA%2094619,%20United%20States&auid=16850622716877148972&ll=37.814242,-122.165616&lsp=9902&q=Reinhardt%20Redwood%20Regional%20Park)
 
+<!--
+Some other favorite lists:
+- https://zachklein.com/SF
+- https://zachmargolis.com/recs/san-francisco/
+-->
+
 {% include_relative _favorites.html %}
