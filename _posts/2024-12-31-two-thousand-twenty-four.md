@@ -22,6 +22,7 @@ While 2024 wasn’t what I expected, I’m optimistic for the year ahead.
 ![Piping plover][6]
 ![Indiana Dunes][7]
 ![New York City World Trade Center][8]
+![Yosemite sunrise][9]
 ![Trees][9]
 ![Yosemite][10]
 ![Backyard sunflowers][11]
@@ -39,11 +40,12 @@ While 2024 wasn’t what I expected, I’m optimistic for the year ahead.
 [6]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_2717.jpeg
 [7]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_2890.jpeg
 [8]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3123.jpeg
-[9]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3742.jpeg
-[10]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3757.jpeg
-[11]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_4192.jpeg
-[12]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_4897.jpeg
-[13]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5727.jpeg
-[14]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5887.jpeg
-[15]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5899.jpeg
-[16]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/DSC04607.jpeg
+[9]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3535.jpeg
+[10]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3742.jpeg
+[11]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_3757.jpeg
+[12]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_4192.jpeg
+[13]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_4897.jpeg
+[14]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5727.jpeg
+[15]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5887.jpeg
+[16]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_5899.jpeg
+[17]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/DSC04607.jpeg
