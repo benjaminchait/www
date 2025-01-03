@@ -23,14 +23,14 @@ While 2024 wasn’t what I expected, I’m optimistic for the year ahead.
 ![Indiana Dunes][7]
 ![New York City World Trade Center][8]
 ![Yosemite sunrise][9]
-![Trees][9]
-![Yosemite][10]
-![Backyard sunflowers][11]
-![Misty morning in the Boundary Waters][12]
-![Las Cruces, New Mexico wedding venue][13]
-![Petaluma, California foggy morning][14]
-![St. Helena vineyard][15]
-![Yellowstone bison in the snow][16]
+![Trees][10]
+![Yosemite][11]
+![Backyard sunflowers][12]
+![Misty morning in the Boundary Waters][13]
+![Las Cruces, New Mexico wedding venue][14]
+![Petaluma, California foggy morning][15]
+![St. Helena vineyard][16]
+![Yellowstone bison in the snow][17]
 
 [1]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_9891.jpeg
 [2]: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_0339.jpeg
