@@ -16,7 +16,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🏡 I’ve lived all over and have my “favorite” spots in 🏔 [Boulder](/about/favorites/boulder), 🏛 [DC](/about/favorites/washington-dc), 🌲 [PDX](/about/favorites/portland), 🌁 [SF](/about/favorites/san-francisco), 🍕 [Chicago](/about/favorites/chicago); as well as some memorable spots from places I have visited frequently like 🏞️ [Yosemite](/about/favorites/yosemite).<br />
 
-💬 Say hi via iMessages using: <a href="imessage://hello@benjaminchait.net">hello@benjaminchait.net</a>.<br />
+💬 Say hi via iMessages using: <a href="message://hello@benjaminchait.net">hello@benjaminchait.net</a>.<br />
 
 ✉️ Or email using: <a href="mailto:hello@benjaminchait.net">hello@benjaminchait.net</a>.<br />
 
