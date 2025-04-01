@@ -12,8 +12,6 @@ We visited southern Chile for a small getaway and trek in Torres del Paine Natio
 
 Our flights took us to Puerto Natales, a small tourist town on the edge of a fjord; where we spent a few nights getting settled and enjoying activities during the day. This was my first time in South America, and surprisingly my first visit to a Spanish-speaking country.
 
-###
-
 For our first adventure, we booked a puma trek. This region has the highest density of pumas (aka “cougars” aka “mountain lions”) of anyplace on earth. A guide picked us up at our hotel before dawn and drove us north toward the park. Upon arrival, we watched sunrise and the first light on the “torres” (“towers”). And almost immediately, our guide (in collaboration with other trackers) announced they’d spotted a set of pumas - and we were off! Puma tracking is nearly entirely in a car or along the road, with binoculars or a spotting scope. But after a short bit, this particular puma named Petaka decided to walk right through the crowd of onlookers and took a stroll down the road with her cubs.
 
 ![Outline of Cara in a car][1]
@@ -31,8 +29,6 @@ A short bit later, we got to follow another puma named Amarga who similarly wand
 
 In total, we saw six pumas - many of them stunningly up-close!
 
-###
-
 The next day we’d booked a horseback ride through an “estancia” (“farm” or “ranch” land). We spent hours with some beautiful horses and some lovely guides, learning about Patagonia and seeing the beginning of the fall colors take hold of the landscape.
 
 ![Horse][10]
@@ -41,8 +37,6 @@ The next day we’d booked a horseback ride through an “estancia” (“farm�
 ![Patagonian landscape i][13]
 ![Patagonian landscape ii][14]
 ![Riding in Patagonia, take ii][15]
-
-###
 
 Then came our O Trek in the national park. We trekked from Séron to Dickson to Los Perros to Grey to Cuernos to Central. The first day was uneventful, but some rain and strong winds arrived on day two. We were very grateful having purchased meals, and enjoyed the company of other trekkers. Our third day brought us to Los Perros through a very muddy and wet trail. 
 
@@ -90,8 +84,6 @@ We hiked down, enjoying the magical colors of the landscape; and enjoyed some ce
 
 ![Morning pastels][43]
 ![Cara on the hike down][44]
-
-###
 
 I think this was the hardest trek I’ve ever completed, maybe in part due to the weather conditions. Our trip was during the final few days of the season (with the O Trek “closed” after March) and included more rain and wind (and snow) than we had anticipated. But at the same time, it was absolutely stunning. I’m not sure when we’ll have the time to make it back that far south, but I am very much looking forward to a future visit to these incredible landscapes.
 
