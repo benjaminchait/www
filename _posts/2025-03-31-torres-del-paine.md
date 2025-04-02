@@ -87,47 +87,47 @@ We hiked down, enjoying the magical colors of the landscape; and enjoyed some ce
 
 I think this was the hardest trek I’ve ever completed, maybe in part due to the weather conditions. Our trip was during the final few days of the season (with the O Trek “closed” after March) and included more rain and wind (and snow) than we had anticipated. But at the same time, it was absolutely stunning. I’m not sure when we’ll have the time to make it back that far south, but I am very much looking forward to a future visit to these incredible landscapes.
 
-[1]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7923 1 Edited.jpeg
-[2]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7955 4 Edited.jpeg
-[3]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7986 6 Edited.jpeg
-[4]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8040 10 Edited.jpeg
-[5]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8052 11 Edited.jpeg
-[6]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8057 12 Edited.jpeg
-[7]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8211 14 Edited.jpeg
-[8]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8222 15 Edited.jpeg
-[9]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8232 17 Edited.jpeg
-[10]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8397 20 Edited.jpeg
-[11]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8401 22 Edited.jpeg
-[12]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8620 35 Edited.jpeg
-[13]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8649 36 Edited.jpeg
-[14]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8677 37 Edited.jpeg
-[15]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8681 38 Edited.jpeg
-[16]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8965 42 Edited.jpeg
-[17]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9004 44 Edited.jpeg
-[18]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9012 46 Edited.jpeg
-[19]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9053 52 Edited.jpeg
-[20]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9075 54 Edited.jpeg
-[21]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9079 55 Edited.jpeg
-[22]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9091 56 Edited.jpeg
-[23]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9096 57 Edited.jpeg
-[24]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9112 60 Edited.jpeg
-[25]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9165 65 Edited.jpeg
-[26]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9169 66 Edited.jpeg
-[27]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9184 69 Edited.jpeg
-[28]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9190 72 Edited.jpeg
-[29]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9220 79 Edited.jpeg
-[30]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9228 83 Edited.jpeg
-[31]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9232 85 Edited.jpeg
-[32]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9273 92 Edited.jpeg
-[33]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9310 99 Edited.jpeg
-[34]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9486 115 Edited.jpeg
-[35]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9513 118 Edited.jpeg
-[36]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9561 123 Edited.jpeg
-[37]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9563 125 Edited.jpeg
-[38]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9564 126 Edited.jpeg
-[39]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9588 129 Edited.jpeg
-[40]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9653 143 Edited.jpeg
-[41]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9677 144 Edited.jpeg
-[42]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9734 149 Edited.jpeg
-[43]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9741 150 Edited.jpeg
-[44]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9758 154 Edited.jpeg
+[1]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7923%201%20Edited.jpeg
+[2]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7955%204%20Edited.jpeg
+[3]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_7986%206%20Edited.jpeg
+[4]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8040%2010%20Edited.jpeg
+[5]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8052%2011%20Edited.jpeg
+[6]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8057%2012%20Edited.jpeg
+[7]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8211%2014%20Edited.jpeg
+[8]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8222%2015%20Edited.jpeg
+[9]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8232%2017%20Edited.jpeg
+[10]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8397%2020%20Edited.jpeg
+[11]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8401%2022%20Edited.jpeg
+[12]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8620%2035%20Edited.jpeg
+[13]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8649%2036%20Edited.jpeg
+[14]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8677%2037%20Edited.jpeg
+[15]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8681%2038%20Edited.jpeg
+[16]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_8965%2042%20Edited.jpeg
+[17]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9004%2044%20Edited.jpeg
+[18]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9012%2046%20Edited.jpeg
+[19]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9053%2052%20Edited.jpeg
+[20]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9075%2054%20Edited.jpeg
+[21]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9079%2055%20Edited.jpeg
+[22]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9091%2056%20Edited.jpeg
+[23]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9096%2057%20Edited.jpeg
+[24]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9112%2060%20Edited.jpeg
+[25]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9165%2065%20Edited.jpeg
+[26]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9169%2066%20Edited.jpeg
+[27]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9184%2069%20Edited.jpeg
+[28]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9190%2072%20Edited.jpeg
+[29]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9220%2079%20Edited.jpeg
+[30]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9228%2083%20Edited.jpeg
+[31]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9232%2085%20Edited.jpeg
+[32]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9273%2092%20Edited.jpeg
+[33]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9310%2099%20Edited.jpeg
+[34]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9486%20115%20Edited.jpeg
+[35]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9513%20118%20Edited.jpeg
+[36]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9561%20123%20Edited.jpeg
+[37]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9563%20125%20Edited.jpeg
+[38]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9564%20126%20Edited.jpeg
+[39]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9588%20129%20Edited.jpeg
+[40]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9653%20143%20Edited.jpeg
+[41]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9677%20144%20Edited.jpeg
+[42]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9734%20149%20Edited.jpeg
+[43]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9741%20150%20Edited.jpeg
+[44]: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9758%20154%20Edited.jpeg
