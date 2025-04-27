@@ -10,13 +10,15 @@ ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D
   <img src="/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg" alt="Chicago sunrise approach, photo 3 of 3" style="width: 32%; max-width: 200px;" />
 </center></div>
 
-_Last updated 10 November 2024._
+_Last updated 27 April 2025._
 
 ### Hyde Park
-- 🥐 breakfast at [Plein Air Cafe](https://maps.apple.com/?address=5751%20S%20Woodlawn%20Ave,%20Chicago,%20IL%20%2060637,%20United%20States&auid=17317106175298295220&ll=41.790073,-87.595961&lsp=9902&q=Plein%20Air%20Cafe%20%26%20Eatery)
+- 🥐 [Plein Air Cafe](https://maps.apple.com/?address=5751%20S%20Woodlawn%20Ave,%20Chicago,%20IL%20%2060637,%20United%20States&auid=17317106175298295220&ll=41.790073,-87.595961&lsp=9902&q=Plein%20Air%20Cafe%20%26%20Eatery) has pastries, coffee, and awesome breakfasts.
 - 🍳 for a different breakfast experience, [Valois](https://maps.apple.com/?address=1518%20E%2053rd%20St,%20Chicago,%20IL%20%2060615,%20United%20States&auid=253610903345179947&ll=41.799759,-87.588356&lsp=9902&q=Valois) offers a uniquely-Hyde Park experience. This “cafeteria-style diner” is a little bit of a local institution. It’s cash-only, and can be a bit overwhelming on your first visit - but that’s part of the fun. The menu includes some of Barack Obama’s favorites, and is delightful spot of local history.
 - ☕️ coffee at [True North](https://maps.apple.com/?address=1323%20E%2057th%20St,%20Chicago,%20IL%20%2060637,%20United%20States&auid=18285316051256051375&ll=41.791278,-87.593841&lsp=9902&q=TrueNorth%20Cafe%20Hyde%20Park)
 - 🍝 dinner at [Ascione Bistro](https://maps.apple.com/?address=1500%20E%2055th%20St,%20Chicago,%20IL%20%2060615,%20United%20States&auid=10674875566085671605&ll=41.795348,-87.588721&lsp=9902&q=Ascione%20Bistro)
+- 🥘 [Mahari](https://maps.apple.com/place?address=1504%20E%2055th%20St,%20Chicago,%20IL%20%2060615,%20United%20States&coordinate=41.795443,-87.588797&name=Mahari&place-id=IEF93CFA5A17A9A9D&map=explore) is a delightful new restaurant serving a variety of African cuisine. The atmosphere and the food are amazing.
+- 🍕 [Medici](https://maps.apple.com/place?address=1327%20E%2057th%20St,%20Chicago,%20IL%20%2060637,%20United%20States&coordinate=41.791341,-87.593672&name=Medici%20on%2057th&place-id=I6DE71373D631379A&map=explore) is a local classic with a good variety of food. During the warmer months, they’ve got a delightful patio. Their bakery also has plenty of goods, and you can order their main restaurant food for take-away.
 - 💦 enjoy [Promontory Point](https://maps.apple.com/?address=5491%20S.%20Jean-Baptiste%20Pointe%20DuSable%20Lake%20Shore%20Drive,%20Chicago,%20IL%2060615,%20United%20States&auid=3043761696410100050&ll=41.795928,-87.577525&lsp=9902&q=Promontory%20Point) with a picnic or beverage. Or, use it as a starting point to 🚲 bike the Lake Front Trail ([southern end](https://maps.apple.com/?address=Chicago,%20IL%2060611,%20United%20States&auid=4186466711766065665&ll=41.766320,-87.562720&lsp=9902&q=Lakefront%20Trail), [northern end](https://maps.apple.com/?address=Chicago,%20IL%2060611,%20United%20States&auid=7709229080613504211&ll=41.986591,-87.653997&lsp=9902&q=Lakefront%20Trail)).
 - 🐌 [Snail Thai](https://maps.apple.com/?address=1649%20E%2055th%20St,%20Chicago,%20IL%2060615,%20United%20States&auid=465845548283048612&ll=41.795092,-87.584779&lsp=9902&q=The%20Snail%20Thai%20Cuisine) is our favorite Thai restaurant around. They’re super fast for take away, and everything is delicious.
 - 🏛️ [Museum of Science and Industry](https://maps.apple.com/?address=5700%20S%20DuSable%20Lake%20Shore%20Drive,%20Chicago,%20IL%2060637,%20United%20States&auid=3147873044780092380&ll=41.790513,-87.582922&lsp=9902&q=Museum%20of%20Science%20and%20Industry,%20Chicago)
@@ -25,7 +27,7 @@ _Last updated 10 November 2024._
 ### West Loop
 - 🍸 [The Aviary](https://maps.apple.com/?address=955%20W%20Fulton%20Market,%20Chicago,%20IL%20%2060607,%20United%20States&auid=7150727231679659581&ll=41.886482,-87.651982&lsp=9902&q=The%20Aviary)
 - 🪶 [Roister](https://maps.apple.com/?address=951%20W%20Fulton%20Market,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4409570904384129369&ll=41.886599,-87.651810&lsp=9902&q=Roister) has a delicous 🍗 chicken
-- [Time Out Fulton Market](https://maps.apple.com/?address=916%20W%20Fulton%20Market,%20Chicago,%20IL%2060607,%20United%20States&auid=15044358521693904204&ll=41.886920,-87.650530&lsp=9902&q=Time%20Out%20Market)
+- 🕖 [Time Out Fulton Market](https://maps.apple.com/?address=916%20W%20Fulton%20Market,%20Chicago,%20IL%2060607,%20United%20States&auid=15044358521693904204&ll=41.886920,-87.650530&lsp=9902&q=Time%20Out%20Market)
 - ☕️ [Sawada coffee](https://maps.apple.com/?address=112%20N%20Green%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=15228306671429377085&ll=41.883640,-87.648788&lsp=9902&q=Sawada%20Coffee): try a “military latte”
 - 🍜 [Kinton Ramen](https://maps.apple.com/?address=163%20N%20Sangamon%20St,%20Chicago,%20IL%20%2060607,%20United%20States&auid=4906119005532631732&ll=41.884928,-87.650711&lsp=9902&q=Kinton%20Ramen)
 - 🐐 [Cabra](https://maps.apple.com/?address=200%20N%20Green%20St,%20Chicago,%20IL%2060607,%20United%20States&auid=10449723616408104591&ll=41.885881,-87.649108&lsp=9902&q=Cabra)
@@ -44,6 +46,11 @@ _Last updated 10 November 2024._
 - 🍕 napoli-style pizza at [Spacca Napoli](https://maps.apple.com/?address=1769%20W%20Sunnyside%20Ave,%20Chicago,%20IL%20%2060640,%20United%20States&auid=6915981325229687812&ll=41.963220,-87.673636&lsp=9902&q=Spacca%20Napoli%20Pizzeria) feels like a night out in Rome; sit on the patio and enjoy some beverages and snacks before your wood-oven pizza arrives
 - 🍕 deep-dish pizza at [Pequod’s Pizza](https://maps.apple.com/?address=2207%20N%20Clybourn%20Ave,%20Chicago,%20IL%20%2060614,%20United%20States&auid=8543306803376454292&ll=41.921831,-87.664508&lsp=9902&q=Pequod's%20Pizza)
 - 🦁 the [Lincoln Park Zoo](https://maps.apple.com/?address=2001%20N.%20Clark%20St,%20Chicago,%20IL%2060614,%20United%20States&auid=12760104372783582348&ll=41.920896,-87.633004&lsp=9902&q=Lincoln%20Park%20Zoo) is free to visit, and has some amazing wildlife
+
+### South (Indiana)
+- 🏝️ visit the [Indiana Dunes](https://maps.apple.com/place?address=1600%20N%2025%20E,%20Chesterton,%20IN%2046304,%20United%20States&coordinate=41.659335,-87.063051&name=Indiana%20Dunes%20State%20Park&place-id=IBBB8C3CBB9C7B4F7&map=explore) for some outdoor recreation, and some views of Chicago from across the lake!
+- 👹 We had an overnight camping trip, but got dinner at [Goblin and the Grocer](https://maps.apple.com/place?address=1%20W%20Dunes%20Hwy%0ABeverly%20Shores,%20IN%20%2046301%0AUnited%20States&coordinate=41.672134,-86.985744&name=Goblin%20%26%20The%20Grocer&place-id=IE893BD9EB63944D&map=explore) which was delicious. They had an excellent food and drink menu, and it was walking distance to our campsite.
+- 🍳 On another trip, our friends recommended [Third Coast Spice Cafe](https://maps.apple.com/place?address=761%20Indian%20Boundary%20Rd,%20Unit%206,%20Chesterton,%20IN%2046304,%20United%20States&coordinate=41.617274,-87.037207&name=Third%20Coast%20Spice%20Cafe&place-id=I1E7CF35696BA8D4D&map=explore) which was an excellent diner-style breakfast.
 
 ### Beyond
 - 🦆 dinner at [The Duck Inn](https://maps.apple.com/?address=2701%20S%20Eleanor%20St,%20Chicago,%20IL%20%2060608,%20United%20States&auid=6304733646105153415&ll=41.844401,-87.660154&lsp=9902&q=Duck%20Inn) and obviously get the rotisserie duck
