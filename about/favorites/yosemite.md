@@ -20,20 +20,16 @@ Yosemite National Park is a special place. It’s one of the most unique landsca
 * 🌲 Anyone in your group who doesn’t want the challenge might enjoy a stroll around [Lower Yosemite Falls](https://maps.apple.com/place?address=Mariposa%20County,%20CA,%20United%20States&coordinate=37.746020,-119.596009&name=Lower%20Yosemite%20Fall%20Trail&place-id=I9FFF01D4D8EAEDFE&map=explore).
 * 📷 My favorite view of the Valley is [Tunnel View](https://maps.apple.com/place?address=Wawona%20Rd,%20Yosemite%20National%20Park,%20CA%20%2095389,%20United%20States&coordinate=37.715586,-119.676926&name=Tunnel%20View&place-id=I7408F9590EC1AB75&map=explore). This spot is always crowded, even at sunrise.
 * 📷 For a little less of a crowd, we learned about [Rostrum Point](https://maps.apple.com/place?address=Wawona%20Rd,%20Yosemite%20National%20Park,%20CA%20%2095389,%20United%20States&coordinate=37.716580,-119.705879&name=Wawona%20Road%20Pullout&place-id=I8461C76F6E6DEA0A&map=explore), a small pullout on the other side of the tunnel. If you hike out slightly, you’ll find some amazing views of Half Dome--with much less of a crowd.
+* 🏞️ Some of the best views of the Valley come from [Glacier Point](https://maps.apple.com/place?address=Four%20Mile%20Trail,%20Coulterville,%20CA%20%2095389,%20United%20States&coordinate=37.729807,-119.573320&name=Glacier%20Point&place-id=ICF2B4D5FA97B777D&map=transit). You can choose to hike from the Valley or drive.
+* 🥾 If you’re driving to Glacier Point, you’ll pass [Sentinel Dome](https://maps.apple.com/place?address=Glacier%20Point%20Rd,%20Coulterville,%20CA%20%2095389,%20United%20States&coordinate=37.712373,-119.586627&name=Sentinel%20Dome%20and%20Taft%20Point%20Trailhead&place-id=IB6A20BE2DE615F70&map=transit) a mile or two before the parking area. This tends to be less crowded, and gives you a chance to hike atop one of the park’s many domed rocks.
 
-<!-- 
-* Taft Point / Sentinel Dome
-* Glacier Point
--->
-
-<!--
 ### Yosemite wilderness
-* 🏞️ Ohmstead Point
-* 💦 Tenaya Lake
-* 💦 Young Lakes
+* 💦 While not quite wilderness, [Tenaya Lake](https://maps.apple.com/place?address=Mariposa%20County,%20CA,%20United%20States&auid=1620624891433443957&coordinate=37.830490,-119.463018&lsp=9902&name=Tenaya%20Lake&map=explore) is where Cara and I got married. It’s quite peaceful, and far from the crowds of the valley.
+* 🏞️ [Olmsted Point](https://maps.apple.com/place?address=Snow%20Creek%20Trail,%20Coulterville,%20CA%20%2095389,%20United%20States&coordinate=37.810598,-119.485518&name=Olmsted%20Point&place-id=I48DA619DC25FE5B6&map=explore) is in the high country and affords some lovely views of Half Dome. We’ve often stopped here for a snack or a meal (bring your own food!) on our way toward a backpacking adventure.
+* 💦 A great getaway in the true backcountry is [Young Lakes](https://maps.apple.com/place?address=Tuolumne%20County,%20CA,%20United%20States&auid=17560323795179546455&coordinate=37.936184,-119.346729&lsp=9902&name=Young%20Lakes&map=explore) starting from [Tuolumne Meadows](https://maps.apple.com/place?address=Pacific%20Crest%20National%20Scenic%20Trail,%20Groveland,%20CA%20%2095321,%20United%20States&coordinate=37.876893,-119.345725&name=Tuolumne%20Meadows%20Wilderness%20Center&place-id=I7CF773782A0CC830&map=explore).
+* 💦 My first backpacking adventure in Yosemite was to [Chilnualna Falls](https://maps.apple.com/place?address=Chilnualna%20Creek,%20Yosemite%20National%20Park,%20CA,%20United%20States&coordinate=37.563375,-119.617158&name=Chilnualna%20Falls&place-id=I6FFD5A5CBEC482FA&map=explore) starting from [Wawona](https://maps.apple.com/place?address=Chilnualna%20Falls%20Trail,%20Yosemite%20National%20Park,%20CA%20%2095389,%20United%20States&coordinate=37.548663,-119.633580&name=Chilnualna%20Falls%20Trailhead&place-id=IB13339778CC5515C&map=explore).
 
-* 💦 Chilnuana Falls
-* 🌲 Mariposa Grove
--->
+### Not quite wilderness
+* 🌲 Yosemite is home to multiple sequoia (redwood tree) groves. The [Mariposa Grove](https://maps.apple.com/place?address=Perimeter%20Trail,%20Coulterville,%20CA%20%2095389,%20United%20States&coordinate=37.515344,-119.600321&name=Mariposa%20Grove&place-id=IABEB150CBD343ED0&map=explore) is magnificent and the largest, but the [Tuolumne Grove](https://maps.apple.com/place?address=Tuolumne%20Grove%20Loop%20Trail,%20Groveland,%20CA%20%2095321,%20United%20States&coordinate=37.768786,-119.806068&name=Tuolumne%20Grove&place-id=IB3E463B332AF567&map=explore) is quite special as well.
 
 {% include_relative _favorites.html %}
