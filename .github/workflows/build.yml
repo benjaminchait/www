@@ -1,0 +1,17 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
+      - name: Build site
+        run: bundle exec jekyll build
+
