@@ -6,14 +6,5 @@ layout: default
 <p class="muted small">{{ page.date | date: "%-d %B %Y" }}</p>
 {{ content }}
 
-<p class="not-muted small">
-  {% if page.previous.url %}
-	<a class="not-muted" href="{{page.previous.url}}">← {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.previous.url and page.next.url %} / {% endif %}
-  {% if page.next.url %}
-	<a class="not-muted" href="{{page.next.url}}">{{page.next.title}} →</a>
-  {% endif %}
-</p>
 
 {% include footer.html %}
