@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thirty-one
-desciption: My thirty-first birthday
+description: My thirty-first birthday
 published: true
 date: 2018-06-30 21:00:00 -0700
 permalink: /archives/thirty-one

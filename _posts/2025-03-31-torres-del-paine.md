@@ -6,7 +6,7 @@ published: true
 date: 2025-03-31 21:00:00 -0500
 location: Chicago, Illinois, United States of America
 permalink: /archives/torres-del-paine
-ogimage: /assets/img/posts/2025-03-31-torres-del-paine/IMG_9734 149 Edited.jpeg
+ogimage: "/assets/img/posts/2025-03-31-torres-del-paine/IMG_9734 149 Edited.jpeg"
 ---
 We visited southern Chile for a small getaway and trek in Torres del Paine National Park!
 
