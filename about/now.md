@@ -3,11 +3,9 @@ layout: page
 title: Now
 permalink: /about/now
 ---
-Adventuring, and building things with friends.
+In the midst of a big life transition--moving from Chicago back to the Bay Area, about to adopt a puppy, among a few other bits of excitement.
 
-Still exploring Hyde Park (Chicago, IL), seeking good books and making time with friends.
-
-_Updated 2 November 2024 from Boulder, Colorado, USA._
+_Updated 22 June 2025 from Boulder, Colorado, United States._
 
 ---
 
