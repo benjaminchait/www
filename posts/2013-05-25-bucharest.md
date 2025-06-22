@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bucharest
-ogimage: 🇷🇴
 published: true
 date: 2013-05-25 10:05:34 -0700
 permalink: /archives/bucharest
