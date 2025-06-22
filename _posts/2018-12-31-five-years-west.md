@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five years west
-descripion: 2018 recap
+description: 2018 recap
 published: true
 date: 2018-12-31 16:00:00 -0700
 permalink: /archives/five-years-west

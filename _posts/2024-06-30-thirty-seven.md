@@ -6,7 +6,6 @@ published: true
 date: 2024-06-30 21:37:00 -0500
 location: Chicago, Illinois, United States of America
 permalink: /archives/thirty-seven
-# ogimage: /assets/img/posts/2024-06-30-thirty-seven/
 ---
 I feel like you’re meant to celebrate on your birthday, but the past few weeks have been full of heartbreak. I’m still healing, and taking it day-by-day.
 
