@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Madagascar
-description: Adventures across the island nation
+description: A few stories from my first visit
 published: true
 date: 2023-01-08 11:23:00 -0500
 location: Chicago, Illinois, United States
