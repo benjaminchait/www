@@ -1,0 +1,27 @@
+name: Jekyll Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+      - name: Install dependencies
+        run: bundle install
+      - name: Build site
+        run: bundle exec jekyll build
+      - name: Archive site
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: HTMLProofer
+        run: |
+          bundle exec htmlproofer ./_site || true
