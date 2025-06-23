@@ -17,7 +17,7 @@ Was it my best talk ever? Probably not. And yes, I was a bit anxious about stand
 
 ![Stage selfie][4]
 
-[1]: http://igniteboulder.com/ignite-boulder-29
+[1]: https://igniteboulder.com/ignite-boulder-29
 [2]: /archives/china-unexpected
 [3]: https://www.youtube.com/embed/AvVo5bFIQ3U
 [4]: /assets/img/posts/2016-05-26-ignite-boulder-29/IMG_4365.jpeg

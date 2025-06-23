@@ -12,7 +12,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 👋 Hi hello, I’m Benjamin (he/him).<br />
 
-💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 📱 [Apple](https://apple.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 🟡 [One](https://one.app/), 💚 [Chime](https://chime.com/), 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov).<br />
+💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 📱 [Apple](https://apple.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 🟡 [One](https://one.app/), 💚 [Chime](https://www.chime.com/), 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov).<br />
 
 🏡 I’ve lived all over and have my “favorite” spots in 🏔 [Boulder](/about/favorites/boulder), 🏛 [DC](/about/favorites/washington-dc), 🌲 [PDX](/about/favorites/portland), 🌁 [SF](/about/favorites/san-francisco), 🍕 [Chicago](/about/favorites/chicago); as well as some memorable spots from places I have visited frequently like 🏞️ [Yosemite](/about/favorites/yosemite).<br />
 
@@ -34,7 +34,7 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 <hr />
 
-🗺️ Find me elsewhere: 🎧 Apple Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait)) • 🦋 Bluesky ([@benjaminchait.net](https://bsky.app/profile/benjaminchait.net)) • 🕹️ Discord ([@benjaminchait](https://discord.gg/crWAv4jH)) • 👾 GitHub ([@benjaminchait](https://github.com/benjaminchait)) • 👔 LinkedIn ([@benjaminchait](https://linkedin.com/in/benjaminchait)) • 📨 Signal ([@benjaminchait.01](https://signal.me/#eu/ENqWc-sGQ4mzLniWH3AJcZsl4JJRJZdYUjob6hKixLr3bVy1cL5MIJ45Y7wQvnDk))
+🗺️ Find me elsewhere: 🎧 Apple Music ([@benjaminchait](https://music.apple.com/profile/benjaminchait)) • 🦋 Bluesky ([@benjaminchait.net](https://bsky.app/profile/benjaminchait.net)) • 🕹️ Discord ([@benjaminchait](https://discord.gg/crWAv4jH)) • 👾 GitHub ([@benjaminchait](https://github.com/benjaminchait)) • 👔 LinkedIn ([@benjaminchait](https://www.linkedin.com/in/benjaminchait)) • 📨 Signal ([@benjaminchait.01](https://signal.me/#eu/ENqWc-sGQ4mzLniWH3AJcZsl4JJRJZdYUjob6hKixLr3bVy1cL5MIJ45Y7wQvnDk))
 
 <hr />
 
