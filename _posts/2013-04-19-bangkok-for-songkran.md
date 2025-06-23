@@ -7,7 +7,7 @@ date: 2013-04-19 09:04:37 -0700
 permalink: /archives/bangkok-for-songkran
 ogimage: /assets/img/posts/2013-04-19-bangkok-for-songkran/IMG_0247.jpeg
 ---
-Exploring Bangkok during Songkran, Thailand’s new year celebration, meant wandering the streets during a nationwide water fight. Without a doubt, the past week was one of my favorites thus far traveling—people of all ages, locals and foreigners together, just playing on the streets. I also reconnected with [Raquel][1], an old college friend who is herself traveling. I’m always amazed to be a world apart yet still find friends from home; joining them in water fights along random Bangkok streets made for a better a reunion.
+Exploring Bangkok during Songkran, Thailand’s new year celebration, meant wandering the streets during a nationwide water fight. Without a doubt, the past week was one of my favorites thus far traveling—people of all ages, locals and foreigners together, just playing on the streets. I also reconnected with Raquel, an old college friend who is herself traveling. I’m always amazed to be a world apart yet still find friends from home; joining them in water fights along random Bangkok streets made for a better a reunion.
 
 ![Raquel and Benjamin on Khao San Road][2] 
 
