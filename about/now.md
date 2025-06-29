@@ -3,9 +3,9 @@ layout: page
 title: Now
 permalink: /about/now
 ---
-In the midst of a big life transition--moving from Chicago back to the Bay Area, about to adopt a puppy, among a few other bits of excitement.
+Back in the Bay Area with lots of firsts. Exploring the East Bay, spending time with family and friends, and trying to do some good each day.
 
-_Updated 22 June 2025 from Boulder, Colorado, United States._
+_Updated 28 June 2025 from Berkeley, California, United States._
 
 ---
 
