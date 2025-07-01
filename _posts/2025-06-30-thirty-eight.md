@@ -3,7 +3,7 @@ layout: post
 title: Thirty-eight
 description: A birthday amid a season of change
 published: true
-date: 2024-06-30 17:01:00 -0700
+date: 2025-06-30 17:01:00 -0700
 location: Berkeley, California, United States of America
 permalink: /archives/thirty-eight
 ---
