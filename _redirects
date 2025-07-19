@@ -13,6 +13,9 @@
 # Redirect from a canonical URL to an email service
 /newsletter https://buttondown.com/benjaminchait
 
+# Redirect for Luna dog tag QR code
+/luna-tag  /archives/meet-luna?utm_source=lunatagqr
+
 # redirect lyra.dog to separate site
 /lyra					/archives/lyra
 /about/lyra				/archives/lyra
