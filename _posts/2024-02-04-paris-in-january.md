@@ -28,10 +28,10 @@ We spent a weekend in Alsace, a wine region in eastern France near the German bo
 ![Eguisheim street][13]
 ![Eguisheim vineyard][14]
 
-Back in Paris, we found a Van Gough exhibit at the Musée d’Orsay; learned how to bake croissants (and enjoyed tasting them!); I took a day-trip to Normandy to explore Mont Saint-Michel; we explored an exhibition on Mark Rothko; and otherwise wandered the streets eating crepes in search of museums.
+Back in Paris, we found a Van Gogh exhibit at the Musée d’Orsay; learned how to bake croissants (and enjoyed tasting them!); I took a day-trip to Normandy to explore Mont Saint-Michel; we explored an exhibition on Mark Rothko; and otherwise wandered the streets eating crepes in search of museums.
 
-![Van Gough][15]
-![Van Gough cat][16]
+![Van Gogh][15]
+![Van Gogh cat][16]
 ![Croissant - before][17]
 ![Croissant - after][18]
 ![The Eiffel Tower][19]
