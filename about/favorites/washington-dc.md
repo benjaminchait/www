@@ -4,7 +4,7 @@ title: Washington DC favorites
 permalink: /about/favorites/washington-dc
 ogimage: /assets/img/about/favorites/washington-dc/IMG_9037.jpeg
 ---
-<img src="/assets/img/about/favorites/washington-dc/IMG_9037.jpeg" alt="Tidal Basin" />
+![Tidal Basin](/assets/img/about/favorites/washington-dc/IMG_9037.jpeg)
 
 _Last updated 2 June 2024._
 

@@ -4,11 +4,10 @@ title: About
 permalink: /about
 ogimage: /assets/img/about/IMG_2713.jpeg
 ---
-<div style="width: 100%;"><center>
-  <img src="/assets/img/about/IMG_2713.jpeg" alt="Benjamin and Lyra, photo 1 of 3" style="width: 32%; max-width: 200px;" />
-  <img src="/assets/img/about/IMG_2715.jpeg" alt="Benjamin and Lyra, photo 2 of 3" style="width: 32%; max-width: 200px;" />
-  <img src="/assets/img/about/IMG_2716.jpeg" alt="Benjamin and Lyra, photo 3 of 3" style="width: 32%; max-width: 200px;" />
-</center></div>
+![Benjamin and Lyra, photo 1 of 3](/assets/img/about/IMG_2713.jpeg){:style="width: 32%; max-width: 200px;"}
+![Benjamin and Lyra, photo 2 of 3](/assets/img/about/IMG_2715.jpeg){:style="width: 32%; max-width: 200px;"}
+![Benjamin and Lyra, photo 3 of 3](/assets/img/about/IMG_2716.jpeg){:style="width: 32%; max-width: 200px;"}
+{:style="width: 100%; text-align: center;"}
 
 👋 Hi hello, I’m Benjamin (he/him).<br />
 

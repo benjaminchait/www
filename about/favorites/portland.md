@@ -4,7 +4,7 @@ title: Portland favorites
 permalink: /about/favorites/portland
 ogimage: /assets/img/about/favorites/portland/IMG_0074.jpeg
 ---
-<img src="/assets/img/about/favorites/portland/IMG_0074.jpeg" alt="Multnomah Falls" />
+![Multnomah Falls](/assets/img/about/favorites/portland/IMG_0074.jpeg)
 
 _Last updated 26 August 2024._
 

@@ -4,7 +4,7 @@ title: San Francisco favorites
 permalink: /about/favorites/san-francisco
 ogimage: /assets/img/about/favorites/san-francisco/IMG_2705.jpeg
 ---
-<img src="/assets/img/about/favorites/san-francisco/IMG_2705.jpeg" alt="San Francisco sunset" />
+![San Francisco sunset](/assets/img/about/favorites/san-francisco/IMG_2705.jpeg)
 
 _Last updated 1 June 2025._
 
