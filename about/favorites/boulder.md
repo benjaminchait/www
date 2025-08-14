@@ -4,7 +4,7 @@ title: Boulder favorites
 permalink: /about/favorites/boulder
 ogimage: /assets/img/about/favorites/boulder/IMG_0253.jpeg
 ---
-<img src="/assets/img/about/favorites/boulder/IMG_0253.jpeg" alt="Boulder" />
+![Boulder](/assets/img/about/favorites/boulder/IMG_0253.jpeg)
 
 _Last updated 23 June 2025._
 
