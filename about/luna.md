@@ -7,7 +7,7 @@ published: true
 ---
 # 🐾 I’m a pup named Luna
 
-<img src="/assets/img/posts/2025-06-29-meet-luna/IMG_1267.jpeg" alt="Luna" />
+![Luna](/assets/img/posts/2025-06-29-meet-luna/IMG_1267.jpeg)
 
 photos (and treats!) provided by [Benjamin](/about)
 

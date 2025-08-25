@@ -4,7 +4,7 @@ title: Yosemite favorites
 permalink: /about/favorites/yosemite
 ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_6223.jpeg
 ---
-<img src="/assets/img/posts/2020-12-31-seven-years-west/IMG_6223.jpeg" alt="Yosemite Valley from Inspiration Point" />
+![Yosemite Valley from Inspiration Point](/assets/img/posts/2020-12-31-seven-years-west/IMG_6223.jpeg)
 
 _Last updated 18 May 2025._
 

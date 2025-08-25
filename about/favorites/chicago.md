@@ -4,11 +4,10 @@ title: Chicago favorites
 permalink: /about/favorites/chicago
 ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg
 ---
-<div style="width: 100%;"><center>
-  <img src="/assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg" alt="Chicago sunrise approach, photo 1 of 3" style="width: 32%; max-width: 200px;" />
-  <img src="/assets/img/about/favorites/chicago/A1BBA7DC-F575-4A43-BC43-F8E5479B7A77.jpeg" alt="Chicago sunrise approach, photo 2 of 3" style="width: 32%; max-width: 200px;" />
-  <img src="/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg" alt="Chicago sunrise approach, photo 3 of 3" style="width: 32%; max-width: 200px;" />
-</center></div>
+![Chicago sunrise approach, photo 1 of 3](/assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg){:style="width: 32%; max-width: 200px;"}
+![Chicago sunrise approach, photo 2 of 3](/assets/img/about/favorites/chicago/A1BBA7DC-F575-4A43-BC43-F8E5479B7A77.jpeg){:style="width: 32%; max-width: 200px;"}
+![Chicago sunrise approach, photo 3 of 3](/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg){:style="width: 32%; max-width: 200px;"}
+{:style="width: 100%; text-align: center;"}
 
 _Last updated 22 June 2025._
 
