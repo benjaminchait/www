@@ -6,9 +6,9 @@ ogimage: /assets/img/about/favorites/san-francisco/IMG_2705.jpeg
 ---
 ![San Francisco sunset](/assets/img/about/favorites/san-francisco/IMG_2705.jpeg)
 
-_Last updated 1 June 2025._
+_Last updated 26 August 2025._
 
-I lived here from 2019 to 2021.
+I lived in SF from 2019 to 2021. I live in Berkeley as of 2025.
 
 ### SF
 - ☕️ [Wrecking Ball Coffee](https://maps.apple.com/?address=2271%20Union%20St,%20San%20Francisco,%20CA%20%2094123,%20United%20States&auid=15797632476955295124&ll=37.796755,-122.436643&lsp=9902&q=Wrecking%20Ball%20Coffee%20Roasters) is a small shop on Union. They have some simple snacks, but you really visit this spot for their coffee.
@@ -44,6 +44,15 @@ I lived here from 2019 to 2021.
 - ⛴️ You can take a ferry to [Angel Island State Park](https://maps.apple.com/?address=Sausalito%20CA%2094965,%20United%20States&auid=9090821029790562848&ll=37.862126,-122.430456&lsp=9902&q=Angel%20Island%20State%20Park) for a nice day of local hikes.
 
 ### East
+- 🍕 Rose Pizzeria
+- 🍕 Cheese Board Collective
+- ☕️ Sasha Coffee
+- 🍻 Jupiter
+- 🍜 Imm Thai Street Food
+- 🥘 Noor
+- 🍔 In The Wood
+- 🍷 Vintage Berkeley
+- 🥘 Chez Panisse
 - 🌅 The [Berkeley Fire Trails](https://maps.apple.com/?address=Berkeley,%20CA%2094704,%20United%20States&auid=5293938559267065812&ll=37.872510,-122.241780&lsp=9902&q=Strawberry%20Canyon%20Fire%20Trail) have some lovely hikes, especially for sunset looking out across the Bay.
 - 🥾 [Tilden Regional Park](https://maps.apple.com/?address=2501%20Grizzly%20Peak%20Blvd,%20Orinda,%20CA%2094563,%20United%20States&auid=916792949916813897&ll=37.898833,-122.246075&lsp=9902&q=Tilden%20Regional%20Park) is a great spot for hiking.
 - 🌲 You can also find some redwoods at [Redwood Regional Park](https://maps.apple.com/?address=7867%20Redwood%20Rd,%20Oakland,%20CA%2094619,%20United%20States&auid=16850622716877148972&ll=37.814242,-122.165616&lsp=9902&q=Reinhardt%20Redwood%20Regional%20Park) plus plenty of hiking trails.
