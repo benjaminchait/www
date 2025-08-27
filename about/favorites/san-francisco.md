@@ -44,15 +44,15 @@ I lived in SF from 2019 to 2021. I live in Berkeley as of 2025.
 - ⛴️ You can take a ferry to [Angel Island State Park](https://maps.apple.com/?address=Sausalito%20CA%2094965,%20United%20States&auid=9090821029790562848&ll=37.862126,-122.430456&lsp=9902&q=Angel%20Island%20State%20Park) for a nice day of local hikes.
 
 ### East
-- 🍕 Rose Pizzeria
-- 🍕 Cheese Board Collective
-- ☕️ Sasha Coffee
-- 🍻 Jupiter
-- 🍜 Imm Thai Street Food
-- 🥘 Noor
-- 🍔 In The Wood
-- 🍷 Vintage Berkeley
-- 🥘 Chez Panisse
+- ☕️ [Sasha Coffee](https://maps.apple.com/place?address=2023%20Center%20St,%20Berkeley,%20CA%20%2094704,%20United%20States&coordinate=37.870251,-122.269894&name=Sasha%20Coffee&place-id=I16BED3B18155B12C&map=explore) is my favorite local coffee spot, but is only open Monday through Friday and is entirely take-away.
+- 🍻 [Jupiter](https://maps.apple.com/place?address=2181%20Shattuck%20Ave,%20Berkeley,%20CA%20%2094704,%20United%20States&coordinate=37.869799,-122.267617&name=Jupiter&place-id=I1644C9B3B3C9D18A&map=explore) is our go-to spot for an afternoon beverage with friends. Their patio is lovely, with good drinks and pizza!
+- 🍕 [Rose Pizzeria](https://maps.apple.com/place?address=1960%20University%20Ave,%20Berkeley,%20CA%20%2094704,%20United%20States&coordinate=37.871588,-122.271509&name=Rose%20Pizzeria&place-id=I9317414597937709&map=explore) is my new local pizza spot. This is a tiny shop but they have a fun patio out back. Plan for a take-away order (though order early!) or make a reservation in advance.
+- 🍕 The [Cheese Board Collective](https://maps.apple.com/place?address=1512%20Shattuck%20Ave,%20Berkeley,%20CA%2094709,%20United%20States&coordinate=37.879863,-122.269528&name=Cheese%20Board%20Pizza&place-id=I9FD6C1891DE9FDB8&map=explore) is a bakery and cheese shop in the morning, and a famous pizzeria in the afternoon/evening. Check their menu for whatever the day’s pizza is and be ready for a line--but it goes fast, and is worth the wait!
+- 🍜 [Imm Thai Street Food](https://maps.apple.com/place?address=2068%20University%20Ave,%20Berkeley,%20CA%2094704,%20United%20States&coordinate=37.871843,-122.269138&name=Imm%20Thai%20Street%20Food&place-id=IBBC4FA0CDE9EFD39&map=explore) is authentic and delicious.
+- 🥘 [Noor](https://maps.apple.com/place?address=1398%20University%20Ave,%20Berkeley,%20CA%20%2094702,%20United%20States&coordinate=37.869920,-122.284411&name=Noor%20Indian%20Fusion%20Kitchen&place-id=IFF18BF435DA566CF&map=explore) is our go-to take-away Indian cuisine.
+- 🍔 [In The Wood](https://maps.apple.com/place?address=2930%20College%20Ave,%20Berkeley,%20CA%20%2094705,%20United%20States&coordinate=37.857736,-122.253290&name=In%20The%20Wood&place-id=IA5D9DB4F0C1BF5B5&map=explore) is a fun spot on College Ave, and they have a delightful alleyway patio for outdoor dining (say, when we bring the pup).
+- 🍷 Vintage Berkeley has two spots, one on [College Ave](https://maps.apple.com/place?address=2949%20College%20Ave,%20Berkeley,%20CA%20%2094705,%20United%20States&coordinate=37.857448,-122.252936&name=Vintage%20Berkeley&place-id=I4CF3176AD776ED2C&map=explore) and another on [Vine St](https://maps.apple.com/place?address=2113%20Vine%20St,%20Berkeley,%20CA%20%2094709,%20United%20States&coordinate=37.880559,-122.268531&name=Vintage%20Berkeley&place-id=IFAA47583973541E2&map=explore), both with excellent wine selections.
+- 🥘 [Chez Panisse](https://maps.apple.com/place?address=1517%20Shattuck%20Ave,%20Berkeley,%20CA%2094709,%20United%20States&coordinate=37.879666,-122.268970&name=Chez%20Panisse&place-id=I59CE1EB37D7C8073&map=explore) is the famous Alice Waters farm-to-table. The restaurant is fixed-course, but the upstairs café is à la carte.
 - 🌅 The [Berkeley Fire Trails](https://maps.apple.com/?address=Berkeley,%20CA%2094704,%20United%20States&auid=5293938559267065812&ll=37.872510,-122.241780&lsp=9902&q=Strawberry%20Canyon%20Fire%20Trail) have some lovely hikes, especially for sunset looking out across the Bay.
 - 🥾 [Tilden Regional Park](https://maps.apple.com/?address=2501%20Grizzly%20Peak%20Blvd,%20Orinda,%20CA%2094563,%20United%20States&auid=916792949916813897&ll=37.898833,-122.246075&lsp=9902&q=Tilden%20Regional%20Park) is a great spot for hiking.
 - 🌲 You can also find some redwoods at [Redwood Regional Park](https://maps.apple.com/?address=7867%20Redwood%20Rd,%20Oakland,%20CA%2094619,%20United%20States&auid=16850622716877148972&ll=37.814242,-122.165616&lsp=9902&q=Reinhardt%20Redwood%20Regional%20Park) plus plenty of hiking trails.
