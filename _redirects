@@ -1,71 +1,71 @@
 # netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 
 # The following allows me to serve "newsletter" assets through a separate git repository https://github.com/benjaminchait/newsletter, published to benjaminchait-newsletter.netlify.app ~> instructions from https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
-/assets/buttondown/*	https://benjaminchait-newsletter.netlify.app/assets/:splat 200
+/assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
 # Plausible Analytics https://plausible.io/docs/proxy/guides/netlify with https://plausible.io/docs/script-extensions
 /pio/js/script.js https://plausible.io/js/script.outbound-links.file-downloads.js 200
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from what the browser requests to what we serve
-/feed              /feed.xml
+/feed/feed.xml
 
 # Redirect from a canonical URL to an email service
 /newsletter https://buttondown.com/benjaminchait
 
 # Redirect for Luna dog tag QR code
-/luna-dogtag  /about/luna?utm_source=lunatagqr
+/luna-dogtag /about/luna?utm_source=lunatagqr
 
 # redirect lyra.dog to separate site
-/lyra					/archives/lyra
-/about/lyra				/archives/lyra
+/lyra /archives/lyra
+/about/lyra /archives/lyra
 
 # redirects due to 404 logs
-/about.html /about	301!
-/favicon.ico	/assets/img/favicon_io/favicon.ico
-/img/favicon_io/android-chrome-512x512.png	/assets/img/favicon_io/android-chrome-512x512.png
-/index.php	/
-/now      /about/now
-/sitemap	/sitemap.xml
-/sitemap.txt	/sitemap.xml
-/archives/favorites/chicago  /about/favorites/chicago
-/photos/2008/spring/  /
+/about.html /about 301!
+/favicon.ico /assets/img/favicon_io/favicon.ico
+/img/favicon_io/android-chrome-512x512.png /assets/img/favicon_io/android-chrome-512x512.png
+/index.php /
+/now /about/now
+/sitemap /sitemap.xml
+/sitemap.txt /sitemap.xml
+/archives/favorites/chicago /about/favorites/chicago
+/photos/2008/spring/ /
 
 # redirects due to 404 logs, blog posts
-/2012/09/two-weeks  /archives/two-weeks
-/2013/01/melbourne  /archives/melbourne
-/2013/03/australia-round-ii  /archives/australia-round-ii
-/2013/04/siem-reap  /archives/siem-reap
-/2013/06/florence	/archives/florence
-/2013/06/rome	/archives/rome
+/2012/09/two-weeks /archives/two-weeks
+/2013/01/melbourne /archives/melbourne
+/2013/03/australia-round-ii /archives/australia-round-ii
+/2013/04/siem-reap /archives/siem-reap
+/2013/06/florence /archives/florence
+/2013/06/rome /archives/rome
 /2013/06/naples /archives/naples
-/2016/01/delayed-packing  /archives/delayed-packing
-/page/*	/archives
-/wp-content/uploads/2015/12/1451610886.jpg	/assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
-/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg	/assets/img/posts/2012-12-14-ha-long-bay/dsc01120.jpeg
-/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg	/assets/img/posts/2012-12-14-ha-long-bay/dsc01265.jpeg
-/wp-content/uploads/media/img/2012/12/hong-kong/DSC01518.jpg	/assets/img/posts/2012-12-23-hong-kong/dsc01518.jpeg
-/wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg	/assets/img/posts/2013-01-07-hiroshima/dsc02030.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03208.jpg	/assets/img/posts/2013-03-04-south-island/dsc03208.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03510.jpg	/assets/img/posts/2013-03-04-south-island/dsc03510.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03353.jpg	/assets/img/posts/2013-03-04-south-island/dsc03353.jpeg
-/wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03799.jpg	/assets/img/posts/2013-03-23-kuala-lumpur/dsc03799.jpeg
-/wp-content/uploads/media/img/2013/03/southern-thailand/DSC04068.jpg	/assets/img/posts/2013-04-11-southern-thailand/dsc04068.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130520-221532.jpg	/assets/img/posts/2013-05-18-annapurna/img_0289.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130525-000001.jpg	/assets/img/posts/2013-05-24-istanbul/img_0298.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130528-230133.jpg	/assets/img/posts/2013-05-28-budapest/img_0322.jpeg
-/wp-content/uploads/media/img/2013/06/prague/DSC04858.jpg	/assets/img/posts/2013-06-01-prague/dsc04858.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130614-220236.jpg	/assets/img/posts/2013-06-09-florence/dsc04971.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130618-002653.jpg	/assets/img/posts/2013-06-14-rome/dsc05194.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130624-003943.jpg	/assets/img/posts/2013-06-20-venice/img_0343.jpeg
-/wp-content/uploads/media/img/2013/07/london/IMG_0385.JPG	/assets/img/posts/2013-07-09-london/img_0385.jpeg
+/2016/01/delayed-packing /archives/delayed-packing
+/page/* /archives
+/wp-content/uploads/2015/12/1451610886.jpg /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
+/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg /assets/img/posts/2012-12-14-ha-long-bay/dsc01120.jpeg
+/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg /assets/img/posts/2012-12-14-ha-long-bay/dsc01265.jpeg
+/wp-content/uploads/media/img/2012/12/hong-kong/DSC01518.jpg /assets/img/posts/2012-12-23-hong-kong/dsc01518.jpeg
+/wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg /assets/img/posts/2013-01-07-hiroshima/dsc02030.jpeg
+/wp-content/uploads/media/img/2013/03/south-island/DSC03208.jpg /assets/img/posts/2013-03-04-south-island/dsc03208.jpeg
+/wp-content/uploads/media/img/2013/03/south-island/DSC03510.jpg /assets/img/posts/2013-03-04-south-island/dsc03510.jpeg
+/wp-content/uploads/media/img/2013/03/south-island/DSC03353.jpg /assets/img/posts/2013-03-04-south-island/dsc03353.jpeg
+/wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03799.jpg /assets/img/posts/2013-03-23-kuala-lumpur/dsc03799.jpeg
+/wp-content/uploads/media/img/2013/03/southern-thailand/DSC04068.jpg /assets/img/posts/2013-04-11-southern-thailand/dsc04068.jpeg
+/wp-content/uploads/media/img/2013/05-wp/20130520-221532.jpg /assets/img/posts/2013-05-18-annapurna/img_0289.jpeg
+/wp-content/uploads/media/img/2013/05-wp/20130525-000001.jpg /assets/img/posts/2013-05-24-istanbul/img_0298.jpeg
+/wp-content/uploads/media/img/2013/05-wp/20130528-230133.jpg /assets/img/posts/2013-05-28-budapest/img_0322.jpeg
+/wp-content/uploads/media/img/2013/06/prague/DSC04858.jpg /assets/img/posts/2013-06-01-prague/dsc04858.jpeg
+/wp-content/uploads/media/img/2013/06-wp/20130614-220236.jpg /assets/img/posts/2013-06-09-florence/dsc04971.jpeg
+/wp-content/uploads/media/img/2013/06-wp/20130618-002653.jpg /assets/img/posts/2013-06-14-rome/dsc05194.jpeg
+/wp-content/uploads/media/img/2013/06-wp/20130624-003943.jpg /assets/img/posts/2013-06-20-venice/img_0343.jpeg
+/wp-content/uploads/media/img/2013/07/london/IMG_0385.JPG /assets/img/posts/2013-07-09-london/img_0385.jpeg
 
 # Redirects from old email newsletters (as of 1 January 2022 these are on Substack, but the "Letters from PDX" bits)
-/2017/09/kippa     /archives/kippa
-/2017/12/four-years-west  /archives/four-years-west
-/2017/06/thirty    /archives/thirty
+/2017/09/kippa /archives/kippa
+/2017/12/four-years-west /archives/four-years-west
+/2017/06/thirty /archives/thirty
 
 # redirects due to Google Webmaster Tools
-/2012/10/leaving-apple  /archives/leaving-apple
-/2013/04/southern-thailand	/archives/southern-thailand
-/2016/01/delayed-packing  /archives/delayed-packing
+/2012/10/leaving-apple /archives/leaving-apple
+/2013/04/southern-thailand /archives/southern-thailand
+/2016/01/delayed-packing /archives/delayed-packing
