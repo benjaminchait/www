@@ -3,12 +3,12 @@
 # The following allows me to serve "newsletter" assets through a separate git repository https://github.com/benjaminchait/newsletter, published to benjaminchait-newsletter.netlify.app ~> instructions from https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
 /assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
-# Plausible Analytics https://plausible.io/docs/proxy/guides/netlify with https://plausible.io/docs/script-extensions
+# Plausible Analytics based on https://plausible.io/docs/proxy/guides/vercel
 /pio/js/pa-APRvGagy0VA6BeYF-WUim.js https://plausible.io/js/pa-APRvGagy0VA6BeYF-WUim.js 200
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from what the browser requests to what we serve
-/feed/feed.xml
+/feed /feed.xml
 
 # Redirect from a canonical URL to an email service
 /newsletter https://buttondown.com/benjaminchait
