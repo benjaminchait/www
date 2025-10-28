@@ -4,7 +4,7 @@
 /assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
 # Plausible Analytics https://plausible.io/docs/proxy/guides/netlify with https://plausible.io/docs/script-extensions
-/pio/js/script.js https://plausible.io/js/script.outbound-links.file-downloads.js 200
+/pio/js/script.js https://plausible.io/js/pa-APRvGagy0VA6BeYF-WUim.js 200
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from what the browser requests to what we serve
