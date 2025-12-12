@@ -6,11 +6,17 @@
 
 ### Basics
 
-**www** is a [Jekyll](https://jekyllrb.com/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](http://netlify.com).
+**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](http://netlify.com).
 
 ##### Newsletter
 
 In my [_redirects](https://github.com/benjaminchait/www/blob/0fe01edc508cb4386a4368fcdbe970f5e4076c91/_redirects#L15) config, I link this repository with https://github.com/benjaminchait/newsletter for serving media when sent via email.
+
+### Developing locally
+
+1. Install dependencies: `npm install`
+2. Run the dev server: `npm run serve` (available at `http://localhost:8080` by default)
+3. Build the site for production: `npm run build` (outputs to `_site/`)
 
 ### Principles
 
@@ -28,3 +34,4 @@ Writing a few words about my general approach. These are not set in stone, but s
 * 2013: Spun-up an instance with Digital Ocean, continued on WordPress.
 * 2020: Migrated to a statically-generated site powered by Netlify, though most content was just copied from the `wp-content` downloaded from my DO instance.
 * 2022: _Finally_ cleaned-up the directory structure and properly updated all the images and content.
+* 2024: Migrated the static generator from Jekyll to Eleventy for a modern Node-based workflow.
