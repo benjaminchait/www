@@ -6,7 +6,7 @@ ogimage: /assets/img/about/favorites/boulder/IMG_0253.jpeg
 ---
 ![Boulder](/assets/img/about/favorites/boulder/IMG_0253.jpeg)
 
-_Last updated 23 June 2025._
+_Last updated 27 December 2025._
 
 I was born and raised in Boulder, Colorado; this is my hometown, and I visit family and friends often!
 
@@ -28,5 +28,8 @@ I was born and raised in Boulder, Colorado; this is my hometown, and I visit fam
 	- One spot that I especially enjoy is [Lost Gulch Overlook](https://maps.apple.com/place?address=3998%20Flagstaff%20Rd,%20Boulder,%20CO%20%2080302,%20United%20States&coordinate=39.991054,-105.319206&name=Lost%20Gulch%20Lookout&place-id=I760B827637256D8E&map=explore) just past the top of Flagstaff. You get some amazing views of the Continental Divide!
 	- For something closer to town, you can start near first street and take the [Boulder Canyon Trail](https://maps.apple.com/place?address=Boulder,%20CO,%20United%20States&coordinate=40.013092,-105.298192&name=Boulder%20Canyon%20Trail&place-id=I3E1E9C7D2E6E1207&map=explore) for a nice walk/run/bike ride up the canyon.
 	- If you drive a bit you’ll make it to [Rocky Mountain National Park](https://maps.apple.com/place?address=US-34,%20Grand%20Lake,%20CO%20%2080447,%20United%20States&coordinate=40.357230,-105.699934&name=Rocky%20Mountain%20National%20Park&place-id=I4F8EE2FAFC52DCA8&map=explore) which is stellar. One hike I always revisit is [Chasm Lake Trail](https://maps.apple.com/place?address=Larimer%20County,%20CO,%20United%20States&coordinate=40.265507,-105.592673&name=Chasm%20Lake%20Trail&place-id=IA43C05152822D48D&map=explore) which you start from [Longs Peak Trailhead](https://maps.apple.com/place?address=Longs%20Peak%20Rd,%20Estes%20Park,%20CO%20%2080517,%20United%20States&coordinate=40.272309,-105.556717&name=Longs%20Peak%20Trailhead&place-id=I26C7113C684B643D&map=explore)--but make sure you start early, as afternoon thunderstorms are common!
+
+### Other lists
+- [Jennifer Yu](https://userealbutter.com/boulder/)
 
 {% include_relative _favorites.html %}
