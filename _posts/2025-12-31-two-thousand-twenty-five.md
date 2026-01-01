@@ -18,7 +18,7 @@ While 2024 was a mix of lows and highs, my 2025 was focused on building stabilit
 ![California wine country][6]
 ![Fort Funston][7]
 ![East Bay hills][8]
-![Cara and Benjamin][9]
+<!-- ![Cara and Benjamin][9] -->
 ![Cara, Luna, and Benjamin][10]
 
 [1]: /assets/img/posts/2025-12-31-two-thousand-twenty-five/IMG_7726.jpeg
