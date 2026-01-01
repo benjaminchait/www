@@ -8,7 +8,7 @@ location: Berkeley, California, United States of America
 permalink: /archives/two-thousand-twenty-five
 ogimage: /assets/img/posts/2025-12-31-two-thousand-twenty-five/IMG_1989.jpeg
 ---
-While 2024 was a mix of lows and highs, my 2025 was focused on building stability in a new place. We had some lovely travels in the first half of the year, and the past six months have been settling back into life out west. New jobs, a new home, and a new furry friend. We’re surrounded by family and friends, and finding our way along the best coast, and celebrating small moments of joy among a chaotic world.
+While 2024 was a mix of lows and highs, my 2025 was focused on building stability in a new place. We had some lovely travels in the first half of the year, and the past six months have been settling back into life out west. New jobs, a new home, and a new furry friend. We’re surrounded by family and friends, and finding our way along the best coast—celebrating small moments of joy among a chaotic world.
 
 ![Lake Michigan in winter][1]
 ![Chicago skyline][2]
