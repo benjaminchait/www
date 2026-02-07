@@ -32,4 +32,4 @@ I was born and raised in Boulder, Colorado; this is my hometown, and I visit fam
 ### Other lists
 - [Jennifer Yu](https://userealbutter.com/boulder/)
 
-{% include_relative _favorites.html %}
+{% include "favorites.njk" %}

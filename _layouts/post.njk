@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+<h1>{{ title | escape }}</h1>
+<p class="muted small">{{ date | readableDate }}</p>
+{{ content | safe }}
+
+<p class="not-muted small">
+  {% if previousPost %}
+	<a class="not-muted" href="{{ previousPost.url }}">← {{ previousPost.data.title }}</a>
+  {% endif %}
+  {% if previousPost and nextPost %} / {% endif %}
+  {% if nextPost %}
+	<a class="not-muted" href="{{ nextPost.url }}">{{ nextPost.data.title }} →</a>
+  {% endif %}
+</p>
+
+{% include "footer.njk" %}

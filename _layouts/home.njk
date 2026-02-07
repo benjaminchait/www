@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title | escape }}</h1>
+</header>
+
+<main>
+
+{{ content | safe }}
+
+  {% if collections.posts.length > 0 %}
+    <hr />
+
+    <h2>{{ list_title or "Recent posts" }}</h2>
+    <ul class="more-space">
+      {% set recentPosts = collections.posts | reverse %}
+      {% for post in recentPosts %}
+      {% if loop.index0 < 3 %}
+      <li><a class="post-link" href="{{ post.url }}">{{ post.data.title | escape }}</a></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+</main>
+
+{% include "footer.njk" %}

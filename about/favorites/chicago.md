@@ -4,10 +4,10 @@ title: Chicago favorites
 permalink: /about/favorites/chicago
 ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg
 ---
-![Chicago sunrise approach, photo 1 of 3](/assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg){:style="width: 32%; max-width: 200px;"}
-![Chicago sunrise approach, photo 2 of 3](/assets/img/about/favorites/chicago/A1BBA7DC-F575-4A43-BC43-F8E5479B7A77.jpeg){:style="width: 32%; max-width: 200px;"}
-![Chicago sunrise approach, photo 3 of 3](/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg){:style="width: 32%; max-width: 200px;"}
-{:style="width: 100%; text-align: center;"}
+![Chicago sunrise approach, photo 1 of 3](/assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg){style="width: 32%; max-width: 200px;"}
+![Chicago sunrise approach, photo 2 of 3](/assets/img/about/favorites/chicago/A1BBA7DC-F575-4A43-BC43-F8E5479B7A77.jpeg){style="width: 32%; max-width: 200px;"}
+![Chicago sunrise approach, photo 3 of 3](/assets/img/about/favorites/chicago/D620F557-C41B-4EA5-BD86-7C3C52476BA6.jpeg){style="width: 32%; max-width: 200px;"}
+{style="width: 100%; text-align: center;"}
 
 _Last updated 22 June 2025._
 
@@ -67,4 +67,4 @@ I lived here from 2021 to 2025.
 - 🥾 Exploring the [Palos Forest Preserve](https://maps.apple.com/?address=9600%E2%80%939610%20Wolf%20Rd,%20Willow%20Springs,%20IL%20%2060480,%20United%20States&auid=2940417056827028692&ll=41.714355,-87.895142&lsp=9902&q=Palos%20Trail%20System) is especially fun with some snow on the ground.
 - 🎤 Look up and attend a [Chicago Humanities](https://www.chicagohumanities.org) event--they host all around the city, and we’ve seen all sorts of incredible speakers.
 
-{% include_relative _favorites.html %}
+{% include "favorites.njk" %}
