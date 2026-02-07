@@ -1,0 +1,25 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "Static site for benjaminchait.net built with Eleventy.",
+  "type": "commonjs",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site",
+    "test": "npm run build"
+  },
+  "keywords": [
+    "eleventy",
+    "static-site"
+  ],
+  "author": "Benjamin Chait",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "he": "^1.2.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.1.6"
+  }
+}
