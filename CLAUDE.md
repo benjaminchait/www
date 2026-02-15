@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Jekyll](https://jekyllrb.com/) (Ruby-based static site generator). The site is deployed on [Netlify](https://netlify.com) with the domain managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Netlify](https://netlify.com) with the domain managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -13,27 +13,28 @@ This is **benjaminchait.net**, a personal homepage and blog built with [Jekyll](
 
 ```bash
 # Install dependencies
-bundle install
+npm install
 
 # Run local development server
-bundle exec jekyll serve
+npm run serve
 
 # Build the site (outputs to _site/)
-bundle exec jekyll build
-
-# Validate generated HTML
-bundle exec htmlproofer ./_site
+npm run build
 ```
 
-**Ruby version:** 3.3.8 (specified in `.ruby-version`)
-**Jekyll version:** 4.3.3 (pinned in `Gemfile`)
+**Node.js version:** 22 (specified in `.node-version`)
+**Eleventy version:** 3.x (specified in `package.json`)
 
 ## Project Structure
 
 ```
-_config.yml          # Jekyll site configuration
-_includes/           # Template partials (head.html, footer.html)
-_layouts/            # Page templates (default, home, page, post)
+eleventy.config.js   # Eleventy configuration (filters, collections, plugins)
+package.json         # Node.js dependencies and scripts
+_data/
+  site.json          # Site metadata (title, URL, description)
+  eleventyComputed.js # Computed data (permalink normalization, published handling)
+_includes/           # Template partials (head.njk, footer.njk, favorites.njk)
+_layouts/            # Page templates (default, home, page, post) as Nunjucks
 _posts/              # Blog posts (YYYY-MM-DD-slug.md format)
 _redirects           # Netlify redirect rules
 about/               # About section pages and favorites/
@@ -50,10 +51,10 @@ assets/
 ### Template Hierarchy
 
 ```
-default.html         # Base HTML shell, includes head.html
-  ├── home.html      # Homepage, includes footer.html
-  ├── page.html      # Static pages, includes footer.html
-  └── post.html      # Blog posts with prev/next nav, includes footer.html
+default.njk          # Base HTML shell, includes head.njk
+  ├── home.njk       # Homepage, includes footer.njk
+  ├── page.njk       # Static pages, includes footer.njk
+  └── post.njk       # Blog posts with prev/next nav, includes footer.njk
 ```
 
 ## Content Conventions
@@ -86,7 +87,7 @@ Pages use `layout: page` and include a `permalink` in front matter.
 - Blog post images go in `assets/img/posts/YYYY-MM-DD-slug/`
 - Images are sized at **1280px width** (640px layout at 2x for retina)
 - Use lowercase filenames with `.jpeg` extension
-- Reference images in markdown with inline styles: `![alt text](/path){:style="..."}`
+- Reference images in markdown with inline styles: `![alt text](/path){style="..."}`
 
 ## Styling
 
@@ -100,9 +101,8 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 ## Deployment
 
 - **CI:** GitHub Actions runs on pushes to `main` and on pull requests
-- **Build:** `bundle install` then `bundle exec jekyll build`
-- **Validation:** `htmlproofer` runs against `_site/` (non-blocking, failures don't break the build)
-- **Hosting:** Netlify auto-deploys from the repository
+- **Build:** `npm install` then `npm run build`
+- **Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through Netlify redirects
 - **Redirects:** Managed in `_redirects` (Netlify format) for legacy WordPress URLs and service proxying
 
@@ -118,19 +118,19 @@ From the project README:
 
 ## Dependencies
 
-| Gem | Purpose |
-|-----|---------|
-| `jekyll` 4.3.3 | Static site generator |
-| `jekyll-sitemap` | Automatic XML sitemap generation |
-| `html-proofer` | HTML link validation (dev/test only) |
-| `csv`, `base64`, `logger` | Ruby stdlib compatibility gems |
+| Package | Purpose |
+|---------|---------|
+| `@11ty/eleventy` 3.x | Static site generator |
+| `@11ty/eleventy-plugin-rss` | RSS feed generation |
+| `markdown-it-attrs` | Markdown attribute syntax (`{style="..."}`) |
 
 ## Important Files
 
-- `_config.yml` - Site title, URL, plugins, timezone, included files
+- `eleventy.config.js` - Eleventy configuration, custom filters, collections, passthrough copies
+- `_data/site.json` - Site title, URL, description, social usernames
 - `_redirects` - 70+ Netlify redirect rules (legacy URLs, proxies, service routing)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
-- `feed.xml` - RSS feed template
+- `netlify.toml` - Netlify build configuration
 - `.well-known/security.txt` - Security contact information
 
 ## Things to Avoid
@@ -139,4 +139,4 @@ From the project README:
 - Do not introduce CSS frameworks or preprocessors; the site uses a single minimal CSS file
 - Do not change the permalink structure for existing posts (many redirects depend on `/archives/slug`)
 - Do not commit large unoptimized images; resize to 1280px width first
-- Do not add gems without strong justification; simplicity is a core principle
+- Do not add npm packages without strong justification; simplicity is a core principle

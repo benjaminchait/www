@@ -2,7 +2,7 @@
 layout: home
 title: Benjamin Chait
 ---
-![Benjamin memoji](/assets/img/IMG_0534.jpeg){:style="float: left; width: 9rem; border-radius: 50%; margin: 0 1em 1em 0;"}
+![Benjamin memoji](/assets/img/IMG_0534.jpeg){style="float: left; width: 9rem; border-radius: 50%; margin: 0 1em 1em 0;"}
 
 Hey there, I’m [Benjamin](/about). I build and scale tech organizations, and empower teams to deliver meaningful outcomes.
 

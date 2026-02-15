@@ -67,4 +67,4 @@ Some other favorite lists:
 - https://zachmargolis.com/recs/san-francisco/
 -->
 
-{% include_relative _favorites.html %}
+{% include "favorites.njk" %}

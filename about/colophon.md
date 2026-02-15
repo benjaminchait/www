@@ -3,7 +3,7 @@ layout: page
 title: Colophon
 permalink: /about/colophon
 ---
-🏗 This site is a [Jekyll](https://jekyllrb.com)-based, statically generated site. A [Netlify](https://www.netlify.com) build pipeline automatically publishes from the [source repository](https://github.com/benjaminchait/www). The domain name is registered via [Cloudflare](https://www.cloudflare.com/). Some more history about me on the web [is described in GitHub](https://github.com/benjaminchait/www/blob/main/README.md).
+🏗 This site is an [Eleventy](https://www.11ty.dev)-based, statically generated site. A [Netlify](https://www.netlify.com) build pipeline automatically publishes from the [source repository](https://github.com/benjaminchait/www). The domain name is registered via [Cloudflare](https://www.cloudflare.com/). Some more history about me on the web [is described in GitHub](https://github.com/benjaminchait/www/blob/main/README.md).
 
 🎨 The CSS and layouts were mine originally; then were updated based heavily on [Clio](https://github.com/danromero/clio); and have continued receiving my own modifications (such as 🌑 dark mode support).
 
@@ -13,4 +13,4 @@ permalink: /about/colophon
 
 👋 Feel free [to say hi](/about) with questions, I’m always happy and eager to help if I can!
 
-🚀 This site was last published at {{ "now" | date: "%-d %B %Y %H:%M" }} Pacific Time.
+🚀 This site was last published at {{ "" | buildDate }} Pacific Time.

@@ -27,4 +27,4 @@ I lived here from 2013 to 2019, and loved so many little spots.
 - ⚽️ see a Timbers game at [Providence Park](https://maps.apple.com/?address=1844%20SW%20Morrison,%20Portland,%20OR%2097205,%20United%20States&auid=260646893140858031&ll=45.521511,-122.691804&lsp=9902&q=Providence%20Park)
 - 🏞️ Take a short drive out to explore the [Columbia River Gorge](https://maps.apple.com/?address=902%20Wasco%20Ave,%20Unit%20200,%20Hood%20River,%20OR%2097031,%20United%20States&auid=17668512798426624431&ll=45.711582,-121.519845&lsp=9902&q=Columbia%20River%20Gorge%20National%20Scenic%20Area). Stop at the [Vista House](https://maps.apple.com/?address=40700%20Historic%20Columbia%20River%20Hwy,%20Corbett,%20OR%2097019,%20United%20States&auid=4560113308687690671&ll=45.539572,-122.244347&lsp=9902&q=Vista%20House) for some amazing views of the Gorge before continuing on to [Multnomah Falls](https://maps.apple.com/?address=53000%20E%20Historic%20Columbia%20River%20Hwy,%20Bridal%20Veil,%20OR%2097010,%20United%20States&auid=5339870131706337991&ll=45.575901,-122.115140&lsp=9902&q=Multnomah%20Falls).
 
-{% include_relative _favorites.html %}
+{% include "favorites.njk" %}

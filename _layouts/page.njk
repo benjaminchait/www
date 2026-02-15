@@ -2,6 +2,6 @@
 layout: default
 ---
 <a class="muted small" href="/">{{ site.title | escape }}</a>
-<h1>{{ page.title | escape }}</h1>
-{{ content }}
-{% include footer.html %}
+<h1>{{ title | escape }}</h1>
+{{ content | safe }}
+{% include "footer.njk" %}

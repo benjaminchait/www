@@ -33,4 +33,4 @@ Yosemite National Park is a special place. It’s one of the most unique landsca
 ### Not quite wilderness
 * 🌲 Yosemite is home to multiple sequoia (redwood tree) groves. The [Mariposa Grove](https://maps.apple.com/place?address=Perimeter%20Trail,%20Coulterville,%20CA%20%2095389,%20United%20States&coordinate=37.515344,-119.600321&name=Mariposa%20Grove&place-id=IABEB150CBD343ED0&map=explore) is magnificent and the largest, but the [Tuolumne Grove](https://maps.apple.com/place?address=Tuolumne%20Grove%20Loop%20Trail,%20Groveland,%20CA%20%2095321,%20United%20States&coordinate=37.768786,-119.806068&name=Tuolumne%20Grove&place-id=IB3E463B332AF567&map=explore) is quite special as well.
 
-{% include_relative _favorites.html %}
+{% include "favorites.njk" %}
