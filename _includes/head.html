@@ -4,7 +4,7 @@
 
   <title>{% if page.title != "Benjamin Chait" %}{{ page.title | escape }} - {% endif %}Benjamin Chait</title>
 
-  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}"> 
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ "/feed.xml" | relative_url }}">
 
@@ -28,7 +28,7 @@
 {% endif %}
 {% if page.description %}
   <meta name="description" content="{{ page.description }}" >
-  <meta property="og:description" content="{{ page.description }}" >  
+  <meta property="og:description" content="{{ page.description }}" >
 {% else %}
   <meta name="description" content="{{ site.description }}" >
   <meta property="og:description" content="{{ site.description }}" >
