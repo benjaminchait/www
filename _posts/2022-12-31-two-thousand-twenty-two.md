@@ -14,7 +14,7 @@ I’m writing from a new place: Madagascar! This is my first visit, exploring an
 
 Looking back at the past twelve months, I’m simply excited to see what I’ve learned, where I’ve been, and what excites me about the year to come.
 
-![Lyra on the couch)][1]
+![Lyra on the couch][1]
 ![Benjamin and Lyra][2]
 ![Elephant Seal Overlook in Point Reyes National Seashore][3]
 ![Chicago skyline from our apartment][4]

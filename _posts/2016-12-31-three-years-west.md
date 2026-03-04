@@ -15,13 +15,13 @@ I also accomplished two small, silly goals I set for myself one year ago: practi
 
 I’m not quite sure what 2017 will look like. I’m more anxious today than I was this time last year. But I’m also fortunate to have friends and family with me in this journey.&nbsp;
 
-![][1]
-![][2]
-![][3]
-![][4]
-![][5]
-![][6]
-![][7]
+![Cherry blossoms against a blue sky][1]
+![Four people smiling at Cannon Beach with Haystack Rock in the background][2]
+![Kippa as a puppy sitting on a hardwood floor][3]
+![Kippa sniffing a stick][4]
+![Backyard alleyway viewed through a chain-link fence][5]
+![Kippa on a snowy street][6]
+![Sarah hugging Kippa][7]
 
 [1]: /assets/img/posts/2016-12-31-three-years-west/IMG_2596.jpeg
 [2]: /assets/img/posts/2016-12-31-three-years-west/IMG_4085.jpeg
