@@ -1,0 +1,67 @@
+---
+layout: none
+permalink: /feed.xsl
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
+  <xsl:template match="/">
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title><xsl:value-of select="rss/channel/title"/> — RSS Feed</title>
+        <style>
+          body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.5em;
+            font-size: 1em;
+            color: #222;
+            max-width: 40rem;
+            padding: 2rem;
+            margin: auto;
+            background: #fafafa;
+          }
+          a { color: #0074D9; }
+          h1 { font-size: 1.6em; color: #111; }
+          h2 { font-size: 1.3em; color: #111; margin-top: 1.3em; margin-bottom: 0.2em; }
+          p { margin-top: 0.5em; margin-bottom: 1em; }
+          hr { border: 0; border-top: 1px solid #eee; }
+          .muted { color: #aaa; text-decoration: none; }
+          .small { font-size: .8em; }
+          .notice {
+            background: #f0f6ff;
+            border: 1px solid #cce0ff;
+            border-radius: 4px;
+            padding: 0.75rem 1rem;
+            margin-bottom: 1.5rem;
+          }
+          @media (prefers-color-scheme: dark) {
+            body { color: #fafafa; background: #222; }
+            h1, h2 { color: #fafafa; }
+            hr { border-top: 1px solid #383838; }
+            .notice { background: #1a2a3a; border-color: #2a4a6a; }
+          }
+        </style>
+      </head>
+      <body>
+        <h1><xsl:value-of select="rss/channel/title"/> — RSS Feed</h1>
+        <p class="notice small">
+          This is an RSS feed. Subscribe by copying the URL into your RSS reader. <a href="https://aboutfeeds.com">Learn more about RSS.</a>
+        </p>
+        <p><xsl:value-of select="rss/channel/description"/></p>
+        <p><a><xsl:attribute name="href"><xsl:value-of select="rss/channel/link"/></xsl:attribute>Visit the site &#x2192;</a></p>
+        <hr/>
+        <xsl:for-each select="rss/channel/item">
+          <h2>
+            <a>
+              <xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
+              <xsl:value-of select="title"/>
+            </a>
+          </h2>
+          <p class="muted small"><xsl:value-of select="pubDate"/></p>
+        </xsl:for-each>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
