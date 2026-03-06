@@ -43,6 +43,13 @@ permalink: /feed.xsl
             .notice { background: #1a2a3a; border-color: #2a4a6a; }
           }
         </style>
+        <script async="async" src="/pio/js/pa-APRvGagy0VA6BeYF-WUim.js"></script>
+        <script>
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init({
+              endpoint: "/pio/api/event"
+          })
+        </script>
       </head>
       <body>
         <h1><xsl:value-of select="rss/channel/title"/> — RSS Feed</h1>
