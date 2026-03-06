@@ -3,7 +3,7 @@ layout: none
 permalink: /feed.xsl
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
     <html lang="en">
@@ -47,8 +47,9 @@ permalink: /feed.xsl
       <body>
         <h1><xsl:value-of select="rss/channel/title"/> — RSS Feed</h1>
         <p class="notice small">
-          This is an RSS feed. Subscribe by copying the URL into your RSS reader. <a href="https://aboutfeeds.com">Learn more about RSS.</a>
+          To subscribe, copy the URL from the address bar and add it to your feed reader.
         </p>
+        <p class="small muted">Last Updated: <xsl:value-of select="rss/channel/lastUpdated"/></p>
         <p><xsl:value-of select="rss/channel/description"/></p>
         <p><a><xsl:attribute name="href"><xsl:value-of select="rss/channel/link"/></xsl:attribute>Visit the site &#x2192;</a></p>
         <hr/>
