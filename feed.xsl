@@ -61,12 +61,7 @@ permalink: /feed.xsl
         <p><a><xsl:attribute name="href"><xsl:value-of select="rss/channel/link"/></xsl:attribute>Visit the site &#x2192;</a></p>
         <hr/>
         <xsl:for-each select="rss/channel/item">
-          <h2>
-            <a>
-              <xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
-              <xsl:value-of select="title"/>
-            </a>
-          </h2>
+          <h2><xsl:value-of select="title"/></h2>
           <p class="muted small"><xsl:value-of select="pubDate"/></p>
         </xsl:for-each>
       </body>
