@@ -133,6 +133,10 @@ From the project README:
 - `feed.xml` - RSS feed template
 - `.well-known/security.txt` - Security contact information
 
+## Dates and Timestamps
+
+Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps.
+
 ## Things to Avoid
 
 - Do not add JavaScript beyond the existing Plausible analytics snippet
