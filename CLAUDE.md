@@ -140,8 +140,8 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps.
 ## Typography
 
 Always use smart (curly) quotes in published content — never straight/dumb quotes:
-- Double quotes: " and " (not `"`)
-- Single quotes and apostrophes: ' and ' (not `'`)
+- Double quotes: “ and ” (not `"`)
+- Single quotes and apostrophes: ‘ and ’ (not `'`)
 
 ## Things to Avoid
 
