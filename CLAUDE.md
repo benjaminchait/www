@@ -137,6 +137,12 @@ From the project README:
 
 Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps.
 
+## Typography
+
+Always use smart (curly) quotes in published content — never straight/dumb quotes:
+- Use `"` and `"` for double quotes (not `"`)
+- Use `'` and `'` for single quotes and apostrophes (not `'`)
+
 ## Things to Avoid
 
 - Do not add JavaScript beyond the existing Plausible analytics snippet
