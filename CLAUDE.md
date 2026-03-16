@@ -153,6 +153,48 @@ Steps:
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
 
+### Clean up extra pages
+
+Some pages (e.g. `uses`) may be stale or no longer worth maintaining.
+
+- [ ] Review all static pages under `about/` and root
+- [ ] Decide which pages to keep, archive, or remove (e.g. `uses`)
+
+### Revisit "favorites" / recommendations page
+
+The current favorites page may not be the right format. Options to consider:
+
+- [ ] Evaluate whether a structured data approach (e.g. JSON/YAML data file rendered via template) makes sense
+- [ ] Consider whether written-style posts or longform content would be more appropriate
+- [ ] Decide on format and update or replace the current page accordingly
+
+### Revisit dark mode
+
+- [ ] Review current dark mode implementation in `assets/style.css`
+- [ ] Identify any colors, images, or elements that don't adapt well
+- [ ] Make targeted improvements
+
+### Revisit CSS styling
+
+- [ ] Audit `assets/style.css` for any improvements or simplifications
+- [ ] Ensure styling is consistent across all page types (home, page, post)
+
+### Normalize image sizes
+
+Images are inconsistently sized: some are 1200px wide, others are 600px wide (originally tall portrait images at 1200px height).
+
+- [ ] Audit existing images in `assets/img/` for size inconsistencies
+- [ ] Establish and document a consistent sizing convention (current target: 1280px width)
+- [ ] Resize or re-export any non-conforming images
+
+### Improve image pipeline (build-time processing)
+
+Currently images are manually resized before committing. Consider storing originals and processing at build time.
+
+- [ ] Evaluate storing raw/original exports from Apple Photos (resized but otherwise unprocessed)
+- [ ] Research build-time image resizing options compatible with Eleventy and Netlify (e.g. `@11ty/eleventy-img`)
+- [ ] Decide whether to adopt a build-time pipeline and document the approach
+
 ---
 
 ## Things to Avoid
