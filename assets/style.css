@@ -9,10 +9,14 @@ body {
 }
 
 img {
-  display: inline-block;
-  vertical-align: top;
+  display: block;
   max-width: 100%;
   margin-bottom: 1em;
+}
+
+img[style*="width"] {
+  display: inline-block;
+  vertical-align: top;
 }
 
 a {
