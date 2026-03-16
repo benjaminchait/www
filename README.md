@@ -2,7 +2,7 @@
 
 ## Built by [Benjamin Chait](https://github.com/benjaminchait)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/03380659-40f5-4cac-8758-c564f5467d07/deploy-status)](https://app.netlify.com/sites/benjaminchait-www/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03380659-40f5-4cac-8758-c564f5467d07/deploy-status)](https://app.netlify.com/projects/benjaminchait-www/deploys)
 
 ### Basics
 
