@@ -1,6 +1,10 @@
 # netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 
-# The following allows me to serve "newsletter" assets through a separate git repository https://github.com/benjaminchait/newsletter, published to benjaminchait-newsletter.netlify.app ~> instructions from https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
+# Newsletter assets are stored in https://github.com/benjaminchait/newsletter, deployed to benjaminchait-newsletter.netlify.app,
+# and proxied through this site. Instructions: https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
+# Use /assets/newsletter/* paths for new content going forward.
+/assets/newsletter/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
+# Deprecated: /assets/buttondown/* was renamed to /assets/newsletter/* (March 2026); retained for backwards compatibility
 /assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
 
 # Plausible Analytics based on https://plausible.io/docs/proxy/guides/vercel
