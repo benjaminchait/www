@@ -21,6 +21,8 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 🐶 My pup [Lyra](/archives/lyra) was my bff. I’m also grateful for [Kippa](/archives/kippa), and miss her dearly.<br />
 
+🐾 These days we have [Luna](/archives/meet-luna) to sit in our laps and remind us to stop and smell the flowers!<br />
+
 <!-- ☕️ Let’s grab (a virtual) [coffee](https://calendly.com/benjaminchait/30min)?<br /> -->
 
 📫 Sign up for my [newsletter](/newsletter)!<br />
