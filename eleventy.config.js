@@ -84,7 +84,7 @@ module.exports = function (eleventyConfig) {
     },
     permalink: (data) => {
       if (data.published === false) return false;
-      // Add trailing slash to permalinks without file extensions (matches Jekyll behavior)
+      // Add trailing slash to permalinks without file extensions
       if (data.permalink && typeof data.permalink === "string" && !data.permalink.match(/\.\w+$/) && !data.permalink.endsWith("/")) {
         return data.permalink + "/";
       }

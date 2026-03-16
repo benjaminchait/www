@@ -6,7 +6,7 @@
 
 ### Basics
 
-**www** is a [Jekyll](https://jekyllrb.com/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](http://netlify.com).
+**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](https://netlify.com).
 
 ##### Newsletter
 
