@@ -1,0 +1,27 @@
+# Lychee link checker configuration
+
+# Skip these URL patterns
+exclude = [
+  # Analytics proxy — served via Netlify redirect, not a real file
+  "^/pio/",
+  # mailto links
+  "^mailto:",
+  # X/Twitter rate-limits crawlers aggressively
+  "^https?://(www\\.)?twitter\\.com/",
+  "^https?://(www\\.)?x\\.com/",
+]
+
+# Number of retries for failed requests
+max_retries = 3
+
+# Seconds to wait between retries
+retry_wait_time = 2
+
+# Request timeout in seconds
+timeout = 30
+
+# Accept these status codes as valid (429 = rate limited, treat as OK)
+accept = [200, 203, 206, 429]
+
+# Skip checking anchors (fragment identifiers)
+include_fragments = false
