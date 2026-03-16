@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Yosemite anniversary
 description: Celebrating our first anniversary with friends and a puppy
 published: true
-date: 2025-08-24 20:19:00 -0700
+date: 2025-08-24T20:19:00-07:00
 location: Berkeley, California, United States of America
 permalink: /archives/yosemite-anniversary
 ogimage: /assets/img/posts/2025-08-24-yosemite-anniversary/IMG_3295.jpeg

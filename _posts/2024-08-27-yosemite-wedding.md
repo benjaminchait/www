@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Yosemite wedding
 description: A small, family ceremony in the most magical of places
 published: true
-date: 2024-08-27 21:00:00 -0500
+date: 2024-08-27T21:00:00-05:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/yosemite-wedding
 ogimage: /assets/img/posts/2024-08-27-yosemite-wedding/IMG_4022.jpeg

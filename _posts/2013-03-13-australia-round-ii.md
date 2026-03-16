@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Australia, round ii
 description: Down under, again
 published: true
-date: 2013-03-13 05:03:05 -0700
+date: 2013-03-13T05:03:05-07:00
 permalink: /archives/australia-round-ii
 ogimage: /assets/img/posts/2013-03-13-australia-round-ii/DSC03595.jpeg
 ---

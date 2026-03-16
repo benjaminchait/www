@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: Now
 permalink: /about/now
 ---

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Passports
 description: What you learn when traveling in Vietnam
 published: true
-date: 2012-12-15 02:12:00 -0700
+date: 2012-12-15T02:12:00-07:00
 permalink: /archives/passports
 ---
 I have my passport back, finally. For most of the past four weeks I’ve only seen it intermittently. Not a single night has passed during which I’ve held it, physically. But that’s normal in Vietnam.

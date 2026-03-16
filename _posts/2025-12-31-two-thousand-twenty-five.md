@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two thousand twenty five
 description: West coast, once again
 published: true
-date: 2025-12-31 20:14:00 -0800
+date: 2025-12-31T20:14:00-08:00
 location: Berkeley, California, United States of America
 permalink: /archives/two-thousand-twenty-five
 ogimage: /assets/img/posts/2025-12-31-two-thousand-twenty-five/IMG_1989.jpeg

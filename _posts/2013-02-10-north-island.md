@@ -1,9 +1,8 @@
 ---
-layout: post
 title: North Island
 description: 🇳🇿
 published: true
-date: 2013-02-10 09:02:02 -0700
+date: 2013-02-10T09:02:02-07:00
 permalink: /archives/north-island
 ogimage: /assets/img/posts/2013-02-10-north-island/DSC03007.jpeg
 ---

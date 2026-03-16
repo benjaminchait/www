@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two thousand twenty one
 description: Recap of 2021
 published: true
-date: 2021-12-31 21:00:00 -0600
+date: 2021-12-31T21:00:00-06:00
 permalink: /archives/two-thousand-twenty-one
 ogimage: /assets/img/posts/2021-12-31-two-thousand-twenty-one/IMG_5156.jpeg
 ---

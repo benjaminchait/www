@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Amsterdam
 description: 🇳🇱
 published: true
-date: 2013-06-30 05:06:59 -0700
+date: 2013-06-30T05:06:59-07:00
 permalink: /archives/amsterdam
 ogimage: /assets/img/posts/2013-06-30-amsterdam/IMG_0365.jpeg
 ---

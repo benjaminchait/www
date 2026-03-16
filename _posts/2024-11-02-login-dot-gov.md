@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Login.gov
 description: Logging off
 published: true
-date: 2024-11-02 08:35:00 -0600
+date: 2024-11-02T08:35:00-06:00
 location: Boulder, Colorado, United States of America
 permalink: /archives/login-dot-gov
 ---

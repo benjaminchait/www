@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Five years west
 description: 2018 recap
 published: true
-date: 2018-12-31 16:00:00 -0700
+date: 2018-12-31T16:00:00-07:00
 permalink: /archives/five-years-west
 ogimage: /assets/img/posts/2018-12-31-five-years-west/IMG_1535.jpeg
 ---

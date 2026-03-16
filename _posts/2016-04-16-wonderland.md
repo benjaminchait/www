@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Wonderland
 description: TEDxPortland 2016
 published: false
-date: 2016-04-16 07:04:00 -0700
+date: 2016-04-16T07:04:00-07:00
 permalink: /archives/wonderland
 ogimage: /assets/img/posts/2016-04-16-wonderland/IMG_3235.jpeg
 ---

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Getting ready
 description: Checklists
 published: true
-date: 2012-10-26 06:10:12 -0700
+date: 2012-10-26T06:10:12-07:00
 permalink: /archives/getting-ready
 ogimage: /assets/img/posts/2012-10-26-getting-ready/IMG_5344.jpeg
 ---

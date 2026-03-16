@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Hiroshima
 description: History, Hiroshima
 published: true
-date: 2013-01-07 11:01:13 -0700
+date: 2013-01-07T11:01:13-07:00
 permalink: /archives/hiroshima
 ogimage: /assets/img/posts/2013-01-07-hiroshima/DSC02030.jpeg
 ---

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-six
 description: Another year around the sun
 published: true
-date: 2023-06-30 19:00:00 -0600
+date: 2023-06-30T19:00:00-06:00
 permalink: /archives/thirty-six
 ogimage: /assets/img/posts/2023-06-30-thirty-six/IMG_3683.jpeg
 ---

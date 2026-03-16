@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Singapore
 description: 🇸🇬
 published: true
-date: 2013-03-19 12:03:36 -0700
+date: 2013-03-19T12:03:36-07:00
 permalink: /archives/singapore
 ogimage: /assets/img/posts/2013-03-19-singapore/DSC03785.jpeg
 ---

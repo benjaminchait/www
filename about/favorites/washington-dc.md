@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: Washington DC favorites
 permalink: /about/favorites/washington-dc
 ogimage: /assets/img/about/favorites/washington-dc/IMG_9037.jpeg
@@ -19,4 +19,4 @@ I lived here from 2005 to 2007.
 - 🍺 [Churchkey](https://maps.apple.com/?address=1337%2014th%20St%20NW,%20Washington,%20DC%20%2020005,%20United%20States&auid=3265738944467316287&ll=38.908493,-77.031647&lsp=9902&q=Churchkey)
 - 🏛️ wander around the monuments and the [Tidal Basin](https://maps.apple.com/?address=1850%20W%20Basin%20Dr%20SW,%20Washington,%20DC%2020024,%20United%20States&auid=8192580448068620864&ll=38.881651,-77.041067&lsp=9902&q=Tidal%20Basin) at night
 
-{% include_relative _favorites.html %}
+{% include "favorites-nav.njk" %}

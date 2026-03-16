@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two thousand twenty three
 description: 2023 recap
 published: true
-date: 2023-12-31 14:51:00 -0600
+date: 2023-12-31T14:51:00-06:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/two-thousand-twenty-three
 ogimage: /assets/img/posts/2023-12-31-two-thousand-twenty-three/IMG_6676.jpeg

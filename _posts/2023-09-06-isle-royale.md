@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Isle Royale
 description: Backpacking across Isle Royale National Park
 published: true
-date: 2023-09-06 20:25:00 -0500
+date: 2023-09-06T20:25:00-05:00
 permalink: /archives/isle-royale
 ogimage: /assets/img/posts/2023-09-06-isle-royale/IMG_6219.jpeg
 ---

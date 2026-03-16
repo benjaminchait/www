@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Paris and Amsterdam
 description: A week abroad
 published: true
-date: 2025-01-09 16:00:00 -0600
+date: 2025-01-09T16:00:00-06:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/paris-amsterdam
 ogimage: /assets/img/posts/2025-01-19-paris-amsterdam/IMG_7338.jpeg

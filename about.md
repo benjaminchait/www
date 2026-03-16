@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: About
 permalink: /about
 ogimage: /assets/img/about/IMG_2713.jpeg

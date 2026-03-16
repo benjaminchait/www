@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Leaving Apple
 description: Two weeks
 published: true
-date: 2012-10-05 05:10:27 -0700
+date: 2012-10-05T05:10:27-07:00
 permalink: /archives/leaving-apple
 ---
 Few words can convey my feelings as I reflect upon my time with Apple. I have been afforded unparalleled opportunities, worked with amazing people and have myself grown as a result.

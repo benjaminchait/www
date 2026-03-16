@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-two
 description: My thirty-second birthday
 published: true
-date: 2019-06-30 21:51:00 -0700
+date: 2019-06-30T21:51:00-07:00
 permalink: /archives/thirty-two
 ---
 I’m happy.

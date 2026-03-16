@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.njk
 title: Luna
 permalink: /about/luna
 ogimage: /assets/img/posts/2025-06-29-meet-luna/IMG_1267.jpeg

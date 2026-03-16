@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-four
 description: 34th birthday 🎂
 published: true
-date: 2021-06-30 19:22:00 -0600
+date: 2021-06-30T19:22:00-06:00
 permalink: /archives/thirty-four
 ogimage: /assets/img/posts/2021-06-30-thirty-four/IMG_3208.jpeg
 ---

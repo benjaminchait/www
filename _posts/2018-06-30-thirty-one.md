@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-one
 description: My thirty-first birthday
 published: true
-date: 2018-06-30 21:00:00 -0700
+date: 2018-06-30T21:00:00-07:00
 permalink: /archives/thirty-one
 ogimage: /assets/img/posts/2018-06-30-thirty-one/IMG_0814.jpeg
 ---

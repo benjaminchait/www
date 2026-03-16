@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-three
 description: 33rd birthday
 published: true
-date: 2020-06-30 09:00:00 -0700
+date: 2020-06-30T09:00:00-07:00
 permalink: /archives/thirty-three
 ---
 It’s never too late to start over.

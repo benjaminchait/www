@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Betty Lake
 description: Colorado backpacking with Lyra
 published: true
-date: 2023-07-09 21:45:00 -0500
+date: 2023-07-09T21:45:00-05:00
 permalink: /archives/betty-lake
 ogimage: /assets/img/posts/2023-07-09-betty-lake/IMG_5180.jpeg
 ---

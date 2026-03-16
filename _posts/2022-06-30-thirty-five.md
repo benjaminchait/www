@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-five
 description: A birthday in a new place
 published: true
-date: 2022-06-30 20:00:00 -0500
+date: 2022-06-30T20:00:00-05:00
 permalink: /archives/thirty-five
 ogimage: /assets/img/posts/2022-06-30-thirty-five/IMG_1462.jpeg
 ---

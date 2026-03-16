@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two thousand twenty two
 description: Recap of my 2022
 published: true
-date: 2022-12-31 21:37:00 +0200
+date: 2022-12-31T21:37:00+02:00
 location: Morondova, Madagascar
 permalink: /archives/two-thousand-twenty-two
 ogimage: /assets/img/posts/2022-12-31-two-thousand-twenty-two/IMG_0399.jpeg

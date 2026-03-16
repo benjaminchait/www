@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Moving west
 description: Moving to PDX
 published: true
-date: 2013-12-31 07:12:45 -0700
+date: 2013-12-31T07:12:45-07:00
 permalink: /archives/moving-west
 ogimage: /assets/img/posts/2013-12-31-moving-west/IMG_0599.jpeg
 ---

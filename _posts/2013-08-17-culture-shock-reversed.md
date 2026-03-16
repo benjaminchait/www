@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Culture shock, reversed
 description: On returning back to the US
 published: true
-date: 2013-08-17 10:08:03 -0700
+date: 2013-08-17T10:08:03-07:00
 permalink: /archives/culture-shock-reversed
 ---
 The hardest part of travel is returning home.

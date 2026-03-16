@@ -1,9 +1,8 @@
 ---
-layout: post
 title: China, unexpected
 description: A letter to my parents
 published: true
-date: 2012-12-24 09:12:13 -0700
+date: 2012-12-24T09:12:13-07:00
 permalink: /archives/china-unexpected
 ogimage: /assets/img/posts/2012-12-24-china-unexpected/IMG_5834.jpeg
 ---

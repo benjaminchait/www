@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Torres del Paine
 description: Pumas, horses, and trekking in Patagonia
 published: true
-date: 2025-03-31 21:00:00 -0500
+date: 2025-03-31T21:00:00-05:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/torres-del-paine
 ogimage: "/assets/img/posts/2025-03-31-torres-del-paine/IMG_9734%20149%20Edited.jpeg"
