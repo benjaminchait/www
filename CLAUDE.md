@@ -140,6 +140,21 @@ From the project README:
 
 Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Post dates use ISO 8601 format with timezone offset (e.g., `2024-01-15T12:00:00-07:00`).
 
+## Active Projects / TODOs
+
+### Rename `/assets/buttondown` proxy to `/assets/newsletter`
+
+The `/assets/buttondown/*` proxy in `_redirects` is vendor-specific and should be renamed to the more generic `/assets/newsletter/*`. Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter), deployed to `benjaminchait-newsletter.netlify.app`, and proxied through this site.
+
+Steps:
+- [ ] Add `/assets/newsletter/*` proxy rule in `_redirects` (same destination: `https://benjaminchait-newsletter.netlify.app/assets/:splat 200`)
+- [ ] Keep `/assets/buttondown/*` rule with a deprecation comment (retain indefinitely, or remove after ~12 months from the switchover date)
+- [ ] Update the comment block in `_redirects` to clarify the newsletter asset architecture
+- [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
+- [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
+
+---
+
 ## Things to Avoid
 
 - Do not add JavaScript beyond the existing Plausible analytics snippet
