@@ -28,3 +28,4 @@ Writing a few words about my general approach. These are not set in stone, but s
 * 2013: Spun-up an instance with Digital Ocean, continued on WordPress.
 * 2020: Migrated to a statically-generated site powered by Netlify, though most content was just copied from the `wp-content` downloaded from my DO instance.
 * 2022: _Finally_ cleaned-up the directory structure and properly updated all the images and content.
+* 2026: Migrated from Jekyll to Eleventy with the help of 🤖 Claude Code.
