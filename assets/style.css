@@ -9,7 +9,8 @@ body {
 }
 
 img {
-  display: block;
+  display: inline-block;
+  vertical-align: top;
   max-width: 100%;
   margin-bottom: 1em;
 }
