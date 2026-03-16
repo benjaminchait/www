@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Stronger together
 description: I still have hope.
 published: true
-date: 2016-11-15 10:11:07 -0700
+date: 2016-11-15T10:11:07-07:00
 permalink: /archives/stronger-together
 ---
 I still have hope.

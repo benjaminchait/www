@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Jekyll](https://jekyllrb.com/) (Ruby-based static site generator). The site is deployed on [Netlify](https://netlify.com) with the domain managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Netlify](https://netlify.com) with the domain managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -13,28 +13,26 @@ This is **benjaminchait.net**, a personal homepage and blog built with [Jekyll](
 
 ```bash
 # Install dependencies
-bundle install
+npm ci
 
 # Run local development server
-bundle exec jekyll serve
+npx @11ty/eleventy --serve
 
 # Build the site (outputs to _site/)
-bundle exec jekyll build
-
-# Validate generated HTML
-bundle exec htmlproofer ./_site
+npx @11ty/eleventy
 ```
 
-**Ruby version:** 3.3.8 (specified in `.ruby-version`)
-**Jekyll version:** 4.3.3 (pinned in `Gemfile`)
+**Node version:** 22 (specified in `.node-version`)
+**Eleventy version:** 3.x (pinned in `package.json`)
 
 ## Project Structure
 
 ```
-_config.yml          # Jekyll site configuration
-_includes/           # Template partials (head.html, footer.html)
-_layouts/            # Page templates (default, home, page, post)
+eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
+_data/site.json      # Site-level variables (title, URL, description)
+_includes/           # Nunjucks templates and partials
 _posts/              # Blog posts (YYYY-MM-DD-slug.md format)
+_posts/_posts.json   # Directory data file (default layout + tags for posts)
 _redirects           # Netlify redirect rules
 about/               # About section pages and favorites/
 assets/
@@ -45,15 +43,18 @@ assets/
     favicon_io/      # Favicon assets
 .github/workflows/   # GitHub Actions CI
 .well-known/         # Domain verification files
+netlify.toml         # Netlify build configuration
 ```
 
 ### Template Hierarchy
 
+All templates are Nunjucks (`.njk`) files in `_includes/`:
+
 ```
-default.html         # Base HTML shell, includes head.html
-  ├── home.html      # Homepage, includes footer.html
-  ├── page.html      # Static pages, includes footer.html
-  └── post.html      # Blog posts with prev/next nav, includes footer.html
+default.njk          # Base HTML shell, includes head.njk
+  ├── home.njk       # Homepage, includes footer.njk
+  ├── page.njk       # Static pages, includes footer.njk
+  └── post.njk       # Blog posts with prev/next nav, includes footer.njk
 ```
 
 ## Content Conventions
@@ -62,14 +63,15 @@ default.html         # Base HTML shell, includes head.html
 
 Posts live in `_posts/` with the naming pattern `YYYY-MM-DD-slug.md`.
 
+The directory data file (`_posts/_posts.json`) automatically sets `layout: post.njk` and `tags: posts` for all posts.
+
 **Required front matter:**
 ```yaml
 ---
-layout: post
 title: "Post Title"
 description: "Short description for SEO/social"
 published: true
-date: YYYY-MM-DD HH:MM:SS -0700
+date: YYYY-MM-DDTHH:MM:SS-07:00
 permalink: /archives/slug
 ---
 ```
@@ -79,7 +81,7 @@ permalink: /archives/slug
 
 ### Static Pages
 
-Pages use `layout: page` and include a `permalink` in front matter.
+Pages use `layout: page.njk` and include a `permalink` in front matter.
 
 ### Images
 
@@ -100,9 +102,8 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 ## Deployment
 
 - **CI:** GitHub Actions runs on pushes to `main` and on pull requests
-- **Build:** `bundle install` then `bundle exec jekyll build`
-- **Validation:** `htmlproofer` runs against `_site/` (non-blocking, failures don't break the build)
-- **Hosting:** Netlify auto-deploys from the repository
+- **Build:** `npm ci` then `npx @11ty/eleventy`
+- **Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through Netlify redirects
 - **Redirects:** Managed in `_redirects` (Netlify format) for legacy WordPress URLs and service proxying
 
@@ -118,24 +119,26 @@ From the project README:
 
 ## Dependencies
 
-| Gem | Purpose |
-|-----|---------|
-| `jekyll` 4.3.3 | Static site generator |
-| `jekyll-sitemap` | Automatic XML sitemap generation |
-| `html-proofer` | HTML link validation (dev/test only) |
-| `csv`, `base64`, `logger` | Ruby stdlib compatibility gems |
+| Package | Purpose |
+|---------|---------|
+| `@11ty/eleventy` 3.x | Static site generator |
+| `markdown-it` | Markdown processing |
+| `markdown-it-attrs` | Kramdown-style `{:style="..."}` attribute syntax |
+| `luxon` | Date formatting with timezone support |
 
 ## Important Files
 
-- `_config.yml` - Site title, URL, plugins, timezone, included files
+- `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
+- `_data/site.json` - Site title, URL, description, social usernames
+- `_posts/_posts.json` - Default layout and tags for all blog posts
 - `_redirects` - 70+ Netlify redirect rules (legacy URLs, proxies, service routing)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
-- `feed.xml` - RSS feed template
+- `feed.njk` - RSS feed template
 - `.well-known/security.txt` - Security contact information
 
 ## Dates and Timestamps
 
-Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps.
+Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Post dates use ISO 8601 format with timezone offset (e.g., `2024-01-15T12:00:00-07:00`).
 
 ## Things to Avoid
 
@@ -143,4 +146,4 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps.
 - Do not introduce CSS frameworks or preprocessors; the site uses a single minimal CSS file
 - Do not change the permalink structure for existing posts (many redirects depend on `/archives/slug`)
 - Do not commit large unoptimized images; resize to 1280px width first
-- Do not add gems without strong justification; simplicity is a core principle
+- Do not add npm packages without strong justification; simplicity is a core principle

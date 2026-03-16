@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two thousand twenty four
 description: 2024 recap
 published: true
-date: 2024-12-31 16:50:00 -0700
+date: 2024-12-31T16:50:00-07:00
 location: Boulder, Colorado, United States of America
 permalink: /archives/two-thousand-twenty-four
 ogimage: /assets/img/posts/2024-12-31-two-thousand-twenty-four/IMG_4897.jpeg

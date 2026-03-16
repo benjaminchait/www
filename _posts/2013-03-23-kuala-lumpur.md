@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Kuala Lumpur
 description: 🇲🇾
 published: true
-date: 2013-03-23 10:03:37 -0700
+date: 2013-03-23T10:03:37-07:00
 permalink: /archives/kuala-lumpur
 ogimage: /assets/img/posts/2013-03-23-kuala-lumpur/DSC03808.jpeg
 ---

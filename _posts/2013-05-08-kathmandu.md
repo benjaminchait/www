@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Kathmandu
 description: 🇳🇵
 published: true
-date: 2013-05-08 03:05:28 -0700
+date: 2013-05-08T03:05:28-07:00
 permalink: /archives/kathmandu
 ogimage: /assets/img/posts/2013-05-08-kathmandu/IMG_0282.jpeg
 ---

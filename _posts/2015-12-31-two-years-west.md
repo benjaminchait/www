@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Two years west
 description: 2015 recap
 published: true
-date: 2015-12-31 05:12:40 -0700
+date: 2015-12-31T05:12:40-07:00
 permalink: /archives/two-years-west
 ogimage: /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
 ---

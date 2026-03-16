@@ -1,0 +1,15 @@
+{
+  "name": "benjaminchait-net",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it": "^14.0.0",
+    "markdown-it-attrs": "^4.2.0",
+    "luxon": "^3.5.0"
+  }
+}

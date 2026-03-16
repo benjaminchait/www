@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Southern Thailand
 description: Beach life
 published: true
-date: 2013-04-11 11:04:01 -0700
+date: 2013-04-11T11:04:01-07:00
 permalink: /archives/southern-thailand
 ogimage: /assets/img/posts/2013-04-11-southern-thailand/DSC04100.jpeg
 ---

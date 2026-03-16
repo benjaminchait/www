@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Yellowstone winter
 description: Christmas in Yellowstone
 published: true
-date: 2025-01-03 17:30:00 -0600
+date: 2025-01-03T17:30:00-06:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/yellowstone-winter
 ogimage: /assets/img/posts/2025-01-03-yellowstone-winter/DSC04632.jpeg

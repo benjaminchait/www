@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Bucharest
 description: A brief stopover in Romania's capital
 published: true
-date: 2013-05-25 10:05:34 -0700
+date: 2013-05-25T10:05:34-07:00
 permalink: /archives/bucharest
 ogimage: /assets/img/posts/2013-05-25-bucharest/IMG_0314.jpeg
 ---

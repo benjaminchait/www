@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Summer recap
 description: Summer 2016
 published: true
-date: 2016-10-18 09:10:45 -0700
+date: 2016-10-18T09:10:45-07:00
 permalink: /archives/summer-recap
 ogimage: /assets/img/posts/2016-10-18-summer-recap/IMG_6164.jpeg
 ---

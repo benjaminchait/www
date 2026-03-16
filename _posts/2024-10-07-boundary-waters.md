@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Boundary Waters
 description: A few nights in the BWCA
 published: true
-date: 2024-10-07 19:25:00 -0500
+date: 2024-10-07T19:25:00-05:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/boundary-waters
 ogimage: /assets/img/posts/2024-10-07-boundary-waters/IMG_4731.jpeg

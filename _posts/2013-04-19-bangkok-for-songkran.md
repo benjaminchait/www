@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Bangkok, for Songkran
 description: Thailand’s new year celebration
 published: true
-date: 2013-04-19 09:04:37 -0700
+date: 2013-04-19T09:04:37-07:00
 permalink: /archives/bangkok-for-songkran
 ogimage: /assets/img/posts/2013-04-19-bangkok-for-songkran/IMG_0247.jpeg
 ---

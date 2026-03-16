@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Starting 2016 in Santa Barbara
 description: A sunny way to bring in the new year
 published: true
-date: 2016-01-10 09:01:46 -0700
+date: 2016-01-10T09:01:46-07:00
 permalink: /archives/starting-2016-in-santa-barbara
 ogimage: /assets/img/posts/2016-01-10-starting-2016-in-santa-barbara/IMG_1149.jpeg
 ---

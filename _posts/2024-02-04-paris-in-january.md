@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Paris in January
 description: A few weeks in Paris to start 2024
 published: true
-date: 2024-02-04 19:30:00 -0600
+date: 2024-02-04T19:30:00-06:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/paris-in-january
 ogimage: /assets/img/posts/2024-02-04-paris-in-january/IMG_9713.jpeg

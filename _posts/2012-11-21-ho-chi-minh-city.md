@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Ho Chi Minh City
 description: Learning how to cross the street
 published: true
-date: 2012-11-21 01:11:27 -0700
+date: 2012-11-21T01:11:27-07:00
 permalink: /archives/ho-chi-minh-city
 ogimage: /assets/img/posts/2012-11-21-ho-chi-minh-city/DSC00711.jpeg
 ---

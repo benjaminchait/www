@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Italy, a wedding, and Greece
 description: A trip to Europe
 published: true
-date: 2022-06-23 20:00:00 -0600
+date: 2022-06-23T20:00:00-06:00
 permalink: /archives/italy-and-greece
 ogimage: /assets/img/posts/2022-06-23-italy-and-greece/IMG_1934.jpeg
 ---

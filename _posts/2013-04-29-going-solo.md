@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Going solo
 description: Solo trek
 published: true
-date: 2013-04-29 04:04:06 -0700
+date: 2013-04-29T04:04:06-07:00
 permalink: /archives/going-solo
 ---
 Six months ago I set out traveling with a fantastic girl; yesterday we parted ways as I boarded a plane, alone, for Nepal.

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Melbourne
 description: Melbourne
 published: true
-date: 2013-01-23 12:01:11 -0700
+date: 2013-01-23T12:01:11-07:00
 permalink: /archives/melbourne
 ogimage: /assets/img/posts/2013-01-23-melbourne/DSC02834.jpeg
 ---

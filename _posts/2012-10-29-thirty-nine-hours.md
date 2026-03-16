@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Thirty-nine hours
 description: Beginning the adventure
 published: true
-date: 2012-10-29 06:10:41 -0700
+date: 2012-10-29T06:10:41-07:00
 permalink: /archives/thirty-nine-hours
 ogimage: /assets/img/posts/2012-10-29-thirty-nine-hours/IMG_5366.jpeg
 ---

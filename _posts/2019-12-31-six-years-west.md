@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Six years west
 description: 2019 recap
 published: true
-date: 2019-12-31 22:01:00 -0700
+date: 2019-12-31T22:01:00-07:00
 permalink: /archives/six-years-west
 ogimage: /assets/img/posts/2019-12-31-six-years-west/IMG_1882.jpeg
 ---

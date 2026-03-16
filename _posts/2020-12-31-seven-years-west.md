@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Seven years west
 description: 2020 recap
 published: true
-date: 2020-12-31 19:22:00 -0700
+date: 2020-12-31T19:22:00-07:00
 permalink: /archives/seven-years-west
 ogimage: /assets/img/posts/2020-12-31-seven-years-west/IMG_2705.jpeg
 ---

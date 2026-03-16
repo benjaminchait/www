@@ -1,6 +1,6 @@
 ---
 title: PDX visit on Wednesday, 21 August 2024
-layout: default
+layout: default.njk
 permalink: /2024-pdx-visit
 #ogimage: /assets/img/posts/2020-12-31-seven-years-west/img_1413.jpeg
 published: false

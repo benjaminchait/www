@@ -1,9 +1,8 @@
 ---
-layout: post
 title: South Island
 description: New Zealand’s untouched backcountry
 published: true
-date: 2013-03-04 10:03:20 -0700
+date: 2013-03-04T10:03:20-07:00
 permalink: /archives/south-island
 ogimage: /assets/img/posts/2013-03-04-south-island/DSC03353.jpeg
 ---

@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Ha Long Bay
 description: Quiet, but mighty
 published: true
-date: 2012-12-14 11:12:25 -0700
+date: 2012-12-14T11:12:25-07:00
 permalink: /archives/ha-long-bay
 ogimage: /assets/img/posts/2012-12-14-ha-long-bay/DSC01256.jpeg
 ---

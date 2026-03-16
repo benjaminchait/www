@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Ignite Boulder 29
 description: My Ignite Boulder talk!
 published: true
-date: 2016-05-26 01:05:37 -0700
+date: 2016-05-26T01:05:37-07:00
 permalink: /archives/ignite-boulder-29
 ogimage: /assets/img/posts/2016-05-26-ignite-boulder-29/IMG_4365.jpeg
 ---

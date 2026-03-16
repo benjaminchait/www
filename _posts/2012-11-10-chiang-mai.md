@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Chiang Mai
 description: Starting to explore
 published: true
-date: 2012-11-10 09:11:18 -0700
+date: 2012-11-10T09:11:18-07:00
 permalink: /archives/chiang-mai
 ogimage: /assets/img/posts/2012-11-10-chiang-mai/DSC00370.jpeg
 ---

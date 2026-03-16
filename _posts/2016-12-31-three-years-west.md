@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Three years west
 description: 2016 recap
 published: true
-date: 2016-12-31 07:12:37 -0700
+date: 2016-12-31T07:12:37-07:00
 permalink: /archives/three-years-west
 ogimage: /assets/img/posts/2016-12-31-three-years-west/IMG_7027.jpeg
 ---

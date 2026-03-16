@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: Chicago favorites
 permalink: /about/favorites/chicago
 ogimage: /assets/img/about/favorites/chicago/2E8A1C3B-2880-48A4-BDBF-A7F7585E06D1.jpeg
@@ -67,4 +67,4 @@ I lived here from 2021 to 2025.
 - 🥾 Exploring the [Palos Forest Preserve](https://maps.apple.com/?address=9600%E2%80%939610%20Wolf%20Rd,%20Willow%20Springs,%20IL%20%2060480,%20United%20States&auid=2940417056827028692&ll=41.714355,-87.895142&lsp=9902&q=Palos%20Trail%20System) is especially fun with some snow on the ground.
 - 🎤 Look up and attend a [Chicago Humanities](https://www.chicagohumanities.org) event--they host all around the city, and we’ve seen all sorts of incredible speakers.
 
-{% include_relative _favorites.html %}
+{% include "favorites-nav.njk" %}

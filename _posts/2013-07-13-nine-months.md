@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Nine months
 description: RTW recap
 published: true
-date: 2013-07-13 05:07:22 -0700
+date: 2013-07-13T05:07:22-07:00
 permalink: /archives/nine-months
 ---
 Just shy of nine months abroad, I find myself back in Boulder. In many ways, the reality of being home has yet to sink in; the past few weeks have been a blur. Landing Thursday in Philadelphia and visiting friends for a night; New Jersey for a second evening; and one final flight to arrive in Denver.

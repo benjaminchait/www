@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Half birthday
 description: Lyra turns six-and-a-half
 published: true
-date: 2024-06-07 21:50:00 -0500
+date: 2024-06-07T21:50:00-05:00
 location: Chicago, Illinois, United States of America
 permalink: /archives/half-birthday
 ogimage: /assets/img/posts/2024-06-07-half-birthday/IMG_1789.jpeg

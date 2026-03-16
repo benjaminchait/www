@@ -1,9 +1,8 @@
 ---
-layout: post
 title: TEDxBoulder
 description: Producing TEDxBoulder 2013
 published: false
-date: 2013-09-23 04:09:10 -0700
+date: 2013-09-23T04:09:10-07:00
 permalink: /archives/tedxboulder
 ogimage: /assets/img/posts/2013-09-23-tedxboulder/IMG_8497.jpeg
 ---

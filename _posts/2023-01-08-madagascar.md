@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Madagascar
 description: A few stories from my first visit
 published: true
-date: 2023-01-08 11:23:00 -0500
+date: 2023-01-08T11:23:00-05:00
 location: Chicago, Illinois, United States
 permalink: /archives/madagascar
 ogimage: /assets/img/posts/2023-01-08-madagascar/IMG_2877.jpeg

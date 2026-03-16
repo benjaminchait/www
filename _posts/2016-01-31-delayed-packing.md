@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Delayed packing
 description: On visiting--and leaving--my hometown.
 published: true
-date: 2016-01-31 07:01:43 -0700
+date: 2016-01-31T07:01:43-07:00
 permalink: /archives/delayed-packing
 ogimage: /assets/img/posts/2016-01-31-delayed-packing/IMG_1260.jpeg
 ---

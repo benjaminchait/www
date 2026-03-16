@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page.njk
 title: Uses
 permalink: /about/uses
 sitemap: false

@@ -1,0 +1,28 @@
+---
+layout: default.njk
+---
+<a class="muted small" href="/">{{ site.title }}</a>
+<h1>{{ title }}</h1>
+<p class="muted small">{{ page.date | dateFormat }}</p>
+{{ content | safe }}
+
+<p class="not-muted small">
+  {% set allPosts = collections.posts %}
+  {% set currentIndex = -1 %}
+  {% for post in allPosts %}
+    {% if post.url == page.url %}
+      {% set currentIndex = loop.index0 %}
+    {% endif %}
+  {% endfor %}
+  {% if currentIndex > 0 %}
+    {% set prevPost = allPosts[currentIndex - 1] %}
+	<a class="not-muted" href="{{ prevPost.url }}">← {{ prevPost.data.title }}</a>
+  {% endif %}
+  {% if currentIndex > 0 and currentIndex < allPosts.length - 1 %} / {% endif %}
+  {% if currentIndex >= 0 and currentIndex < allPosts.length - 1 %}
+    {% set nextPost = allPosts[currentIndex + 1] %}
+	<a class="not-muted" href="{{ nextPost.url }}">{{ nextPost.data.title }} →</a>
+  {% endif %}
+</p>
+
+{% include "footer.njk" %}

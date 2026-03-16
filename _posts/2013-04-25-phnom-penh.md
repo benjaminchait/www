@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Phnom Penh
 description: Sadness
 published: true
-date: 2013-04-25 11:04:39 -0700
+date: 2013-04-25T11:04:39-07:00
 permalink: /archives/phnom-penh
 ogimage: /assets/img/posts/2013-04-25-phnom-penh/IMG_0270.jpeg
 ---

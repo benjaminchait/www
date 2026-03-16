@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Annapurna
 description: Trekking Annapurna Base Camp
 published: true
-date: 2013-05-18 05:05:38 -0700
+date: 2013-05-18T05:05:38-07:00
 permalink: /archives/annapurna
 ogimage: /assets/img/posts/2013-05-18-annapurna/IMG_0287.jpeg
 ---
