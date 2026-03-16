@@ -57,7 +57,6 @@ eleventyExcludeFromCollections: true
           To subscribe, copy the URL from the address bar and add it to your feed reader.
         </p>
         <p class="small muted">Last Updated: <xsl:value-of select="rss/channel/lastUpdated"/></p>
-        <p><xsl:value-of select="rss/channel/description"/></p>
         <p><a><xsl:attribute name="href"><xsl:value-of select="rss/channel/link"/></xsl:attribute>Visit the site &#x2192;</a></p>
         <hr/>
       </body>
