@@ -204,15 +204,34 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 - **DNS cutover is instant:** Since DNS is already managed in Cloudflare, adding a custom domain in CF Pages creates the CNAME record automatically — no TTL waiting needed.
 - **Audit `_redirects` first:** Identify which rules are simple redirects (port as-is) vs. proxy rewrites (need Workers) before starting.
 
-Steps:
-- [ ] Audit `_redirects` to categorize all rules: simple redirects vs. `200`-status proxy rewrites
-- [ ] Create a Cloudflare Pages project connected to the GitHub repo
-- [ ] Configure build settings in CF Pages (build command: `npx @11ty/eleventy`, output: `_site/`, Node 22)
-- [ ] Port simple redirect rules to CF Pages `_redirects` format (largely compatible)
-- [ ] Rewrite proxy rules (Plausible, newsletter assets, etc.) as a Pages Function (`functions/_middleware.js`) or Worker
-- [ ] Add custom domain in CF Pages (DNS CNAME auto-created)
-- [ ] Verify all redirects, proxies, and analytics work on the CF Pages preview URL before cutover
-- [ ] Update `netlify.toml` or remove it once fully migrated
+**Phase 1 — Audit** (before touching anything)
+- [ ] Export all redirect and rewrite rules — copy `_redirects` and any `netlify.toml` `[redirects]` blocks
+- [ ] Identify any `200` proxy/rewrite rules — these need Workers; won't work in CF Pages `_redirects` alone
+- [ ] List all custom headers (`_headers` file or `netlify.toml`) — CF Pages supports `_headers` with identical syntax
+- [ ] Audit Netlify-specific features in use — Forms, Identity, Edge Functions, Analytics, Split Testing
+- [ ] Note build command and output directory — Eleventy default: `npx @11ty/eleventy`, output dir `_site`
+
+**Phase 2 — Set up CF Pages** (parallel to live Netlify)
+- [ ] Create new Pages project, connect same GitHub repo — CF dashboard → Pages → Create project → Connect to Git
+- [ ] Match build settings to current Netlify config — build command, output dir, Node version (`NODE_VERSION` env var)
+- [ ] Replicate environment variables from Netlify — Settings → Environment variables in both dashboards
+- [ ] Confirm `_redirects` and `_headers` are in the build output root — CF Pages reads them from the same location as Netlify
+- [ ] Write Workers / Pages Functions for any proxy rules — use `functions/_middleware.js` in repo, or a standalone Worker
+
+**Phase 3 — Validate** (on the `*.pages.dev` preview URL)
+- [ ] Confirm build succeeds and output matches Netlify — spot-check 5–10 pages between the two deployed URLs
+- [ ] Test every redirect rule returns the correct status code — `curl -I https://your-site.pages.dev/old-path` — verify 301 vs 302
+- [ ] Verify proxy/Worker rules forward correctly — check response body, not just status; confirm upstream is actually hit
+- [ ] Confirm custom security/cache headers are served — check CSP, cache-control, CORS — `curl -I` or DevTools Network tab
+
+**Phase 4 — DNS cutover** (the actual switch)
+- [ ] Add custom domain to CF Pages project — Pages → your project → Custom domains → add domain
+- [ ] CF auto-creates the CNAME — verify it appears in DNS (since DNS is already in CF, propagation is near-instant)
+- [ ] Smoke-test live domain immediately after switch — homepage, a redirect, a proxied route — all three
+
+**Phase 5 — Cleanup** (after a few days of stability)
+- [ ] Remove any leftover Netlify CNAME/A records from CF DNS — check for stale records still pointing to Netlify
+- [ ] Delete or disable the Netlify site — keep the account briefly in case you need to roll back
 - [ ] Update `CLAUDE.md` Deployment section to reflect CF Pages
 
 ### Improve image pipeline (build-time processing)
