@@ -101,8 +101,8 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 ## Deployment
 
-- **CI:** GitHub Actions runs on pushes to `main` and on pull requests
-- **Build:** `npm ci` then `npx @11ty/eleventy`
+- **CI:** GitHub Actions (no build steps; builds happen externally)
+- **Build:** Netlify auto-builds on push (`npm ci` then `npx @11ty/eleventy`, configured in `netlify.toml`)
 - **Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through Netlify redirects
 - **Redirects:** Managed in `_redirects` (Netlify format) for legacy WordPress URLs and service proxying
@@ -141,6 +141,14 @@ From the project README:
 Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Post dates use ISO 8601 format with timezone offset (e.g., `2024-01-15T12:00:00-07:00`).
 
 ## Active Projects / TODOs
+
+### Remove builds from GitHub Actions
+
+Builds should happen externally (Netlify), not in GitHub Actions. The `.github/workflows/eleventy.yml` workflow previously ran `npm ci` + `npx @11ty/eleventy` and archived the `_site/` artifact.
+
+- [x] Remove build and archive steps from `.github/workflows/eleventy.yml`
+- [x] Update Deployment section in `CLAUDE.md` to reflect that builds happen on Netlify
+- [ ] Decide whether to keep a minimal GitHub Actions workflow (e.g. for linting/validation) or remove it entirely
 
 ### Rename `/assets/buttondown` proxy to `/assets/newsletter`
 
