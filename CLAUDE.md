@@ -195,6 +195,26 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 - [ ] Establish and document a consistent sizing convention (current target: 1280px width)
 - [ ] Resize or re-export any non-conforming images
 
+### Migrate from Netlify to Cloudflare Pages
+
+DNS is already in Cloudflare, making this migration smoother than typical. The biggest complexity is that Netlify's `_redirects` supports `200` status proxy/rewrite rules that silently forward to another origin — Cloudflare Pages' `_redirects` file does **not** support this. Any such rules need to be converted to a Pages Function (`functions/_middleware.js`) or a standalone Worker.
+
+**Key notes:**
+- **Proxy rules require Workers:** Any `200`-status rewrite rules in `_redirects` (e.g. the Plausible analytics proxy, newsletter assets proxy) cannot be ported as-is and need a Pages Function or Worker instead. Workers provide more control than Netlify rewrites.
+- **DNS cutover is instant:** Since DNS is already managed in Cloudflare, adding a custom domain in CF Pages creates the CNAME record automatically — no TTL waiting needed.
+- **Audit `_redirects` first:** Identify which rules are simple redirects (port as-is) vs. proxy rewrites (need Workers) before starting.
+
+Steps:
+- [ ] Audit `_redirects` to categorize all rules: simple redirects vs. `200`-status proxy rewrites
+- [ ] Create a Cloudflare Pages project connected to the GitHub repo
+- [ ] Configure build settings in CF Pages (build command: `npx @11ty/eleventy`, output: `_site/`, Node 22)
+- [ ] Port simple redirect rules to CF Pages `_redirects` format (largely compatible)
+- [ ] Rewrite proxy rules (Plausible, newsletter assets, etc.) as a Pages Function (`functions/_middleware.js`) or Worker
+- [ ] Add custom domain in CF Pages (DNS CNAME auto-created)
+- [ ] Verify all redirects, proxies, and analytics work on the CF Pages preview URL before cutover
+- [ ] Update `netlify.toml` or remove it once fully migrated
+- [ ] Update `CLAUDE.md` Deployment section to reflect CF Pages
+
 ### Improve image pipeline (build-time processing)
 
 Currently images are manually resized before committing. Consider storing originals and processing at build time.
