@@ -41,7 +41,6 @@ assets/
     posts/           # Blog post images (matched by date)
     about/           # About section images
     favicon_io/      # Favicon assets
-.github/workflows/   # GitHub Actions CI
 .well-known/         # Domain verification files
 netlify.toml         # Netlify build configuration
 ```
@@ -101,9 +100,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 ## Deployment
 
-- **CI:** GitHub Actions runs on pushes to `main` and on pull requests
-- **Build:** `npm ci` then `npx @11ty/eleventy`
-- **Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`)
+- **Build & Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`); builds run there, not in GitHub Actions
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through Netlify redirects
 - **Redirects:** Managed in `_redirects` (Netlify format) for legacy WordPress URLs and service proxying
 
@@ -186,6 +183,13 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 - [ ] Audit existing images in `assets/img/` for size inconsistencies
 - [ ] Establish and document a consistent sizing convention (current target: 1280px width)
 - [ ] Resize or re-export any non-conforming images
+
+### Remove builds from GitHub Actions
+
+Builds should happen externally (e.g. Netlify), not in GitHub Actions.
+
+- [ ] Remove or simplify `.github/workflows/eleventy.yml` to eliminate the build and artifact steps
+- [ ] Confirm Netlify (or equivalent) is handling all builds and deploys
 
 ### Improve image pipeline (build-time processing)
 
