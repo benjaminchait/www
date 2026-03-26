@@ -197,6 +197,8 @@ Migrated from Netlify to Cloudflare Pages in March 2026. Key details:
 - Simple redirects remain in `_redirects` (Cloudflare Pages format, 301/302 only)
 - DNS is managed in Cloudflare; custom domain added to the CF Pages project
 
+- [ ] Check that `www.benjaminchait.net` redirects to the apex domain `benjaminchait.net`
+
 ### Improve image pipeline (build-time processing)
 
 Currently images are manually resized before committing. Consider storing originals and processing at build time.
