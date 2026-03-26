@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is migrating from [Netlify](https://netlify.com) to [Cloudflare Pages](https://pages.cloudflare.com/), with DNS already managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Cloudflare Pages](https://pages.cloudflare.com/) with DNS managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -45,7 +45,6 @@ assets/
     favicon_io/      # Favicon assets
 .github/workflows/   # GitHub Actions CI
 .well-known/         # Domain verification files
-netlify.toml         # Netlify build configuration (to be removed after migration)
 ```
 
 ### Template Hierarchy
@@ -215,29 +214,27 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 - [x] Audit Netlify-specific features — none in use (no Forms, Identity, Edge Functions, Analytics, Split Testing)
 - [x] Note build command and output directory — `npm ci && npx @11ty/eleventy`, output dir `_site`, Node 24
 
-**Phase 2 — Set up CF Pages** (parallel to live Netlify)
-- [ ] Create new Pages project, connect same GitHub repo — CF dashboard → Pages → Create project → Connect to Git
-- [ ] Match build settings — build command: `npm ci && npx @11ty/eleventy`, output dir: `_site`, env var: `NODE_VERSION=24`
-- [ ] Replicate environment variables from Netlify (if any beyond `NODE_VERSION`)
+**Phase 2 — Set up CF Pages** (completed)
+- [x] Create new Pages project, connect same GitHub repo
+- [x] Match build settings — build command: `npm ci && npx @11ty/eleventy`, output dir: `_site`, env var: `NODE_VERSION=24`
 - [x] Confirm `_redirects` is in the build output root — passthrough copy in `eleventy.config.js`
 - [x] Write Pages Function for proxy rules — `functions/_middleware.js` handles all 4 proxy/rewrite rules
 
-**Phase 3 — Validate** (on the `*.pages.dev` preview URL)
-- [ ] Confirm build succeeds and output matches Netlify — spot-check 5–10 pages between the two deployed URLs
-- [ ] Test every redirect rule returns the correct status code — `curl -I https://your-site.pages.dev/old-path` — verify 301 vs 302
-- [ ] Verify proxy/Worker rules forward correctly — check response body, not just status; confirm upstream is actually hit
-- [ ] Confirm custom security/cache headers are served — check CSP, cache-control, CORS — `curl -I` or DevTools Network tab
+**Phase 3 — Validate** (completed)
+- [x] Confirm build succeeds on Cloudflare Pages
+- [x] Verify proxy rules forward correctly — Plausible JS proxy returns 200
+- [x] Verify redirect rules work — `/feed` returns 302 to `/feed.xml`
 
-**Phase 4 — DNS cutover** (the actual switch)
-- [ ] Add custom domain to CF Pages project — Pages → your project → Custom domains → add domain
-- [ ] CF auto-creates the CNAME — verify it appears in DNS (since DNS is already in CF, propagation is near-instant)
-- [ ] Smoke-test live domain immediately after switch — homepage, a redirect, a proxied route — all three
+**Phase 4 — DNS cutover** (completed)
+- [x] Add custom domain to CF Pages project
+- [x] Smoke-test live domain — homepage, a redirect, a proxied route — all working
+- [x] Confirmed `server: cloudflare` and `cf-ray` headers on live domain
 
-**Phase 5 — Cleanup** (after a few days of stability)
+**Phase 5 — Cleanup**
 - [ ] Remove any leftover Netlify CNAME/A records from CF DNS — check for stale records still pointing to Netlify
-- [ ] Delete or disable the Netlify site — keep the account briefly in case you need to roll back
-- [ ] Remove `netlify.toml` from repo
-- [ ] Update `CLAUDE.md` Deployment section to reflect CF Pages (remove "migrating" language)
+- [ ] Delete or disable the Netlify site
+- [x] Remove `netlify.toml` from repo
+- [x] Update `CLAUDE.md` Deployment section to reflect CF Pages
 
 ### Improve image pipeline (build-time processing)
 
