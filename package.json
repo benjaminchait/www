@@ -4,12 +4,16 @@
   "private": true,
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve"
+    "serve": "npx @11ty/eleventy --serve",
+    "preview": "npx wrangler pages dev _site"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
     "markdown-it": "^14.0.0",
     "markdown-it-attrs": "^4.2.0",
     "luxon": "^3.5.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
   }
 }

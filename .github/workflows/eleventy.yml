@@ -1,4 +1,6 @@
-name: Eleventy Build
+name: Build
+
+# CI validation only — Cloudflare Pages handles deployment via git integration
 
 on:
   push:

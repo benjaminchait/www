@@ -1,15 +1,8 @@
-# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
-
-# Newsletter assets are stored in https://github.com/benjaminchait/newsletter, deployed to benjaminchait-newsletter.netlify.app,
-# and proxied through this site. Instructions: https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
-# Use /assets/newsletter/* paths for new content going forward.
-/assets/newsletter/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
-# Deprecated: /assets/buttondown/* was renamed to /assets/newsletter/* (March 2026); retained for backwards compatibility
-/assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
-
-# Plausible Analytics based on https://plausible.io/docs/proxy/guides/vercel
-/pio/js/pa-APRvGagy0VA6BeYF-WUim.js https://plausible.io/js/pa-APRvGagy0VA6BeYF-WUim.js 200
-/pio/api/event https://plausible.io/api/event 200
+# Cloudflare Pages redirects https://developers.cloudflare.com/pages/configuration/redirects/
+#
+# NOTE: Proxy routes (newsletter assets, Plausible Analytics) are handled by
+# Cloudflare Pages Functions in the functions/ directory, not here.
+# Cloudflare Pages _redirects only supports relative destination paths for 200 rewrites.
 
 # Redirects from what the browser requests to what we serve
 /feed /feed.xml
@@ -25,7 +18,7 @@
 /about/lyra /archives/lyra
 
 # redirects due to 404 logs
-/about.html /about 301!
+/about.html /about 301
 /favicon.ico /assets/img/favicon_io/favicon.ico
 /img/favicon_io/android-chrome-512x512.png /assets/img/favicon_io/android-chrome-512x512.png
 /index.php /
@@ -72,4 +65,3 @@
 # redirects due to Google Webmaster Tools
 /2012/10/leaving-apple /archives/leaving-apple
 /2013/04/southern-thailand /archives/southern-thailand
-/2016/01/delayed-packing /archives/delayed-packing
