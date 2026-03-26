@@ -2,15 +2,13 @@
 
 ## Built by [Benjamin Chait](https://github.com/benjaminchait)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/03380659-40f5-4cac-8758-c564f5467d07/deploy-status)](https://app.netlify.com/projects/benjaminchait-www/deploys)
-
 ### Basics
 
-**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed using [Netlify](https://netlify.com).
+**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
 
 ##### Newsletter
 
-In my [_redirects](https://github.com/benjaminchait/www/blob/0fe01edc508cb4386a4368fcdbe970f5e4076c91/_redirects#L15) config, I link this repository with https://github.com/benjaminchait/newsletter for serving media when sent via email.
+Newsletter images are served by a Cloudflare Worker (see [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter)), proxied through this site at `benjaminchait.net/assets/newsletter/*`.
 
 ### Principles
 
@@ -28,4 +26,4 @@ Writing a few words about my general approach. These are not set in stone, but s
 * 2013: Spun-up an instance with Digital Ocean, continued on WordPress.
 * 2020: Migrated to a static site generator (Jekyll) deployed via Netlify, though most content was just copied from the `wp-content` downloaded from my DO instance.
 * 2022: _Finally_ cleaned-up the directory structure and properly updated all the images and content.
-* 2026: Migrated from Jekyll to Eleventy with the help of 🤖 Claude Code.
+* 2026: Migrated from Jekyll to Eleventy, and from Netlify to Cloudflare Pages, with the help of 🤖 Claude Code.
