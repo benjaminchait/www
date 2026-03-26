@@ -231,8 +231,9 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 - [x] Confirmed `server: cloudflare` and `cf-ray` headers on live domain
 
 **Phase 5 — Cleanup**
-- [ ] Remove any leftover Netlify CNAME/A records from CF DNS — check for stale records still pointing to Netlify
-- [ ] Delete or disable the Netlify site
+- [x] Remove any leftover Netlify CNAME/A records from CF DNS — `www` CNAME updated to `www-3yr.pages.dev`
+- [x] Disable the Netlify site (disabled March 2026)
+- [ ] Permanently delete the Netlify site and account (after ~1 April 2026)
 - [x] Remove `netlify.toml` from repo
 - [x] Update `CLAUDE.md` Deployment section to reflect CF Pages
 
