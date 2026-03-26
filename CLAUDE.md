@@ -145,23 +145,14 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 ## Active Projects / TODOs
 
-### Remove builds from GitHub Actions
+### GitHub Actions
 
-Builds should happen externally (Cloudflare Pages), not in GitHub Actions. The `.github/workflows/eleventy.yml` workflow previously ran `npm ci` + `npx @11ty/eleventy` and archived the `_site/` artifact.
-
-- [x] Remove build and archive steps from `.github/workflows/eleventy.yml`
-- [x] Update Deployment section in `CLAUDE.md` to reflect that builds happen on Cloudflare Pages
 - [ ] Decide whether to keep a minimal GitHub Actions workflow (e.g. for linting/validation) or remove it entirely
 
-### Rename `/assets/buttondown` proxy to `/assets/newsletter`
+### Newsletter assets
 
-The `/assets/buttondown/*` proxy was vendor-specific and has been renamed to the more generic `/assets/newsletter/*`. Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served directly via a Cloudflare Worker with Worker Routes on the `benjaminchait.net` zone — no proxy through www needed.
+Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served via a Cloudflare Worker at `newsletter.benjaminchait.workers.dev`. The `functions/_middleware.js` proxies `/assets/newsletter/*` and `/assets/buttondown/*` (legacy) to this Worker.
 
-Steps:
-- [x] Add `/assets/newsletter/*` proxy rule in `_redirects` (same destination: `https://benjaminchait-newsletter.netlify.app/assets/:splat 200`)
-- [x] Keep `/assets/buttondown/*` rule with a deprecation comment (retain indefinitely, or remove after ~12 months from the switchover date)
-- [x] Update the comment block in `_redirects` to clarify the newsletter asset architecture
-- [x] Migrate newsletter from Netlify to Cloudflare Worker (March 2026) — proxy routes in `functions/_middleware.js` now point to `newsletter.benjaminchait.workers.dev`
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
 
@@ -199,44 +190,12 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 - [ ] Establish and document a consistent sizing convention (current target: 1280px width)
 - [ ] Resize or re-export any non-conforming images
 
-### Migrate from Netlify to Cloudflare Pages
+### Cloudflare Pages migration notes
 
-DNS is already in Cloudflare, making this migration smoother than typical. The biggest complexity is that Netlify's `_redirects` supports `200` status proxy/rewrite rules that silently forward to another origin — Cloudflare Pages' `_redirects` file does **not** support this. Any such rules need to be converted to a Pages Function (`functions/_middleware.js`) or a standalone Worker.
-
-**Key notes:**
-- **Proxy rules require Workers:** Any `200`-status rewrite rules in `_redirects` (e.g. the Plausible analytics proxy, newsletter assets proxy) cannot be ported as-is and need a Pages Function or Worker instead. Workers provide more control than Netlify rewrites.
-- **DNS cutover is instant:** Since DNS is already managed in Cloudflare, adding a custom domain in CF Pages creates the CNAME record automatically — no TTL waiting needed.
-- **Audit `_redirects` first:** Identify which rules are simple redirects (port as-is) vs. proxy rewrites (need Workers) before starting.
-
-**Phase 1 — Audit** (completed)
-- [x] Export all redirect and rewrite rules — `_redirects` reviewed; no `[redirects]` blocks in `netlify.toml`
-- [x] Identify `200` proxy/rewrite rules — 4 rules: newsletter assets (2), Plausible JS, Plausible API event
-- [x] List all custom headers — no `_headers` file or custom headers in `netlify.toml`
-- [x] Audit Netlify-specific features — none in use (no Forms, Identity, Edge Functions, Analytics, Split Testing)
-- [x] Note build command and output directory — `npm ci && npx @11ty/eleventy`, output dir `_site`, Node 24
-
-**Phase 2 — Set up CF Pages** (completed)
-- [x] Create new Pages project, connect same GitHub repo
-- [x] Match build settings — build command: `npm ci && npx @11ty/eleventy`, output dir: `_site`, env var: `NODE_VERSION=24`
-- [x] Confirm `_redirects` is in the build output root — passthrough copy in `eleventy.config.js`
-- [x] Write Pages Function for proxy rules — `functions/_middleware.js` handles all 4 proxy/rewrite rules
-
-**Phase 3 — Validate** (completed)
-- [x] Confirm build succeeds on Cloudflare Pages
-- [x] Verify proxy rules forward correctly — Plausible JS proxy returns 200
-- [x] Verify redirect rules work — `/feed` returns 302 to `/feed.xml`
-
-**Phase 4 — DNS cutover** (completed)
-- [x] Add custom domain to CF Pages project
-- [x] Smoke-test live domain — homepage, a redirect, a proxied route — all working
-- [x] Confirmed `server: cloudflare` and `cf-ray` headers on live domain
-
-**Phase 5 — Cleanup**
-- [x] Remove any leftover Netlify CNAME/A records from CF DNS — `www` CNAME updated to `www-3yr.pages.dev`
-- [x] Disable the Netlify site (disabled March 2026)
-- [x] Permanently delete the Netlify site and account (disabled March 2026)
-- [x] Remove `netlify.toml` from repo
-- [x] Update `CLAUDE.md` Deployment section to reflect CF Pages
+Migrated from Netlify to Cloudflare Pages in March 2026. Key details:
+- Proxy/rewrite rules (which Netlify `_redirects` supported with `200` status) are handled by `functions/_middleware.js` (CF Pages Function)
+- Simple redirects remain in `_redirects` (Cloudflare Pages format, 301/302 only)
+- DNS is managed in Cloudflare; custom domain added to the CF Pages project
 
 ### Improve image pipeline (build-time processing)
 
