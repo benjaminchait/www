@@ -205,6 +205,26 @@ Currently images are manually resized before committing. Consider storing origin
 - [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Pages (e.g. `@11ty/eleventy-img`)
 - [ ] Decide whether to adopt a build-time pipeline and document the approach
 
+## Potential Future Projects
+
+### Migrate www from Cloudflare Pages to Cloudflare Workers
+
+The [newsletter repo](https://github.com/benjaminchait/newsletter) deploys as a Cloudflare Worker with `wrangler.toml` and GitHub Actions (`cloudflare/wrangler-action`). Moving www to the same setup would make deployment consistent across both repos.
+
+**What it would involve:**
+- Add `wrangler.toml` with an `[assets]` binding pointing at the `_site/` build output
+- Create `src/worker.js` that merges the proxy logic from `functions/_middleware.js` with redirect handling and static asset serving
+- Convert the ~60 redirect rules in `_redirects` from the Pages text format into a JS data structure (mechanical conversion — simple `source → destination` pairs checked before falling through to static assets)
+- Add a GitHub Actions deploy workflow (build Eleventy, then deploy via `cloudflare/wrangler-action`) — same pattern as the newsletter repo
+- Update DNS routing to point at the Worker instead of the Pages project
+- Add a `CLOUDFLARE_WWW_API_TOKEN` GitHub secret for deployment
+
+**Trade-offs:**
+- Gains: consistent deploy model across repos, full control over request handling, visible deploy logs via GitHub Actions
+- Costs: lose Pages' automatic PR preview deployments, `_redirects` must be maintained in JS, more code to own for what Pages currently handles natively
+
+**Pricing:** both Pages and Workers free tiers are more than sufficient for this site's traffic. No cost difference.
+
 ---
 
 ## Things to Avoid
