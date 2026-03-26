@@ -16,8 +16,8 @@ eleventyExcludeFromCollections: true
     {%- for post in recentPosts.slice(0, 10) %}
     <item>
       <title>{{ post.data.title | xmlEscape }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <guid>{{ site.url }}{{ post.url }}</guid>
+      <link>{{ site.url }}{{ post.url | stripTrailingSlash }}</link>
+      <guid>{{ site.url }}{{ post.url | stripTrailingSlash }}</guid>
       <pubDate>{{ post.date | dateRfc822 }}</pubDate>
       <description>{{ post.data.description | xmlEscape }}</description>
     </item>
