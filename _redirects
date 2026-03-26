@@ -1,15 +1,9 @@
-# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
-
-# Newsletter assets are stored in https://github.com/benjaminchait/newsletter, deployed to benjaminchait-newsletter.netlify.app,
-# and proxied through this site. Instructions: https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site
-# Use /assets/newsletter/* paths for new content going forward.
-/assets/newsletter/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
-# Deprecated: /assets/buttondown/* was renamed to /assets/newsletter/* (March 2026); retained for backwards compatibility
-/assets/buttondown/* https://benjaminchait-newsletter.netlify.app/assets/:splat 200
-
-# Plausible Analytics based on https://plausible.io/docs/proxy/guides/vercel
-/pio/js/pa-APRvGagy0VA6BeYF-WUim.js https://plausible.io/js/pa-APRvGagy0VA6BeYF-WUim.js 200
-/pio/api/event https://plausible.io/api/event 200
+# Redirects — Cloudflare Pages format
+# https://developers.cloudflare.com/pages/configuration/redirects/
+#
+# Proxy/rewrite rules (200-status) are handled by functions/_middleware.js
+# because CF Pages _redirects does not support proxy rewrites.
+# Proxied routes: /assets/newsletter/*, /assets/buttondown/*, /pio/*
 
 # Redirects from what the browser requests to what we serve
 /feed /feed.xml
