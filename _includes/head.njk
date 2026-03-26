@@ -20,8 +20,8 @@
   <meta property="og:type" content="website">
 {% endif %}
 {% if page.url %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" >
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | stripTrailingSlash }}" >
+  <link rel="canonical" href="{{ site.url }}{{ page.url | stripTrailingSlash }}">
 {% else %}
   <meta property="og:url" content="{{ site.url }}" >
   <link rel="canonical" href="{{ site.url }}">

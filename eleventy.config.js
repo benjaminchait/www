@@ -55,6 +55,12 @@ module.exports = function (eleventyConfig) {
       .replace(/"/g, "&quot;");
   });
 
+  // Strip trailing slash from a URL (unless it's the root "/")
+  eleventyConfig.addFilter("stripTrailingSlash", (url) => {
+    if (!url || url === "/") return url;
+    return url.replace(/\/$/, "");
+  });
+
   // --- Collections ---
 
   // Posts collection: all files in _posts/, sorted by date ascending
