@@ -134,7 +134,7 @@ From the project README:
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
 - `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects)
-- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (Plausible analytics; newsletter assets handled by Worker Routes in benjaminchait/newsletter)
+- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (newsletter assets via `newsletter.benjaminchait.workers.dev`, Plausible analytics)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
 - `feed.njk` - RSS feed template
 - `.well-known/security.txt` - Security contact information
@@ -147,10 +147,10 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 ### Remove builds from GitHub Actions
 
-Builds should happen externally (Netlify), not in GitHub Actions. The `.github/workflows/eleventy.yml` workflow previously ran `npm ci` + `npx @11ty/eleventy` and archived the `_site/` artifact.
+Builds should happen externally (Cloudflare Pages), not in GitHub Actions. The `.github/workflows/eleventy.yml` workflow previously ran `npm ci` + `npx @11ty/eleventy` and archived the `_site/` artifact.
 
 - [x] Remove build and archive steps from `.github/workflows/eleventy.yml`
-- [x] Update Deployment section in `CLAUDE.md` to reflect that builds happen on Netlify
+- [x] Update Deployment section in `CLAUDE.md` to reflect that builds happen on Cloudflare Pages
 - [ ] Decide whether to keep a minimal GitHub Actions workflow (e.g. for linting/validation) or remove it entirely
 
 ### Rename `/assets/buttondown` proxy to `/assets/newsletter`
@@ -161,7 +161,7 @@ Steps:
 - [x] Add `/assets/newsletter/*` proxy rule in `_redirects` (same destination: `https://benjaminchait-newsletter.netlify.app/assets/:splat 200`)
 - [x] Keep `/assets/buttondown/*` rule with a deprecation comment (retain indefinitely, or remove after ~12 months from the switchover date)
 - [x] Update the comment block in `_redirects` to clarify the newsletter asset architecture
-- [x] Migrate newsletter from Netlify to Cloudflare Worker with Worker Routes (March 2026) — proxy routes removed from `functions/_middleware.js`
+- [x] Migrate newsletter from Netlify to Cloudflare Worker (March 2026) — proxy routes in `functions/_middleware.js` now point to `newsletter.benjaminchait.workers.dev`
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
 
@@ -234,7 +234,7 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 **Phase 5 — Cleanup**
 - [x] Remove any leftover Netlify CNAME/A records from CF DNS — `www` CNAME updated to `www-3yr.pages.dev`
 - [x] Disable the Netlify site (disabled March 2026)
-- [ ] Permanently delete the Netlify site and account (after ~1 April 2026)
+- [x] Permanently delete the Netlify site and account (disabled March 2026)
 - [x] Remove `netlify.toml` from repo
 - [x] Update `CLAUDE.md` Deployment section to reflect CF Pages
 
