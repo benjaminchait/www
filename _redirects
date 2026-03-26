@@ -19,7 +19,7 @@
 /about/lyra /archives/lyra
 
 # redirects due to 404 logs
-/about.html /about 301!
+/about.html /about 301
 /favicon.ico /assets/img/favicon_io/favicon.ico
 /img/favicon_io/android-chrome-512x512.png /assets/img/favicon_io/android-chrome-512x512.png
 /index.php /
