@@ -1,17 +1,11 @@
 // Cloudflare Pages Function: proxy/rewrite rules
 // These were previously 200-status rewrites in Netlify's _redirects file.
 // CF Pages _redirects does not support proxy rewrites, so they live here instead.
+//
+// Note: /assets/newsletter/* and /assets/buttondown/* are handled directly by the
+// newsletter Cloudflare Worker via Worker Routes (see benjaminchait/newsletter repo).
 
 const PROXY_ROUTES = [
-  {
-    pattern: /^\/assets\/newsletter\/(.+)$/,
-    target: "https://benjaminchait-newsletter.netlify.app/assets/$1",
-  },
-  {
-    // Deprecated: renamed to /assets/newsletter/* (March 2026); retained for backwards compatibility
-    pattern: /^\/assets\/buttondown\/(.+)$/,
-    target: "https://benjaminchait-newsletter.netlify.app/assets/$1",
-  },
   {
     pattern: /^\/pio\/js\/(pa-APRvGagy0VA6BeYF-WUim\.js)$/,
     target: "https://plausible.io/js/$1",

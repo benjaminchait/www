@@ -134,7 +134,7 @@ From the project README:
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
 - `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects)
-- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (newsletter assets, Plausible analytics)
+- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (Plausible analytics; newsletter assets handled by Worker Routes in benjaminchait/newsletter)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
 - `feed.njk` - RSS feed template
 - `.well-known/security.txt` - Security contact information
@@ -155,12 +155,13 @@ Builds should happen externally (Netlify), not in GitHub Actions. The `.github/w
 
 ### Rename `/assets/buttondown` proxy to `/assets/newsletter`
 
-The `/assets/buttondown/*` proxy in `_redirects` is vendor-specific and should be renamed to the more generic `/assets/newsletter/*`. Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter), deployed to `benjaminchait-newsletter.netlify.app`, and proxied through this site.
+The `/assets/buttondown/*` proxy was vendor-specific and has been renamed to the more generic `/assets/newsletter/*`. Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served directly via a Cloudflare Worker with Worker Routes on the `benjaminchait.net` zone — no proxy through www needed.
 
 Steps:
 - [x] Add `/assets/newsletter/*` proxy rule in `_redirects` (same destination: `https://benjaminchait-newsletter.netlify.app/assets/:splat 200`)
 - [x] Keep `/assets/buttondown/*` rule with a deprecation comment (retain indefinitely, or remove after ~12 months from the switchover date)
 - [x] Update the comment block in `_redirects` to clarify the newsletter asset architecture
+- [x] Migrate newsletter from Netlify to Cloudflare Worker with Worker Routes (March 2026) — proxy routes removed from `functions/_middleware.js`
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
 
