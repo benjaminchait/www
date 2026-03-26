@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Netlify](https://netlify.com) with the domain managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is migrating from [Netlify](https://netlify.com) to [Cloudflare Pages](https://pages.cloudflare.com/), with DNS already managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -33,7 +33,9 @@ _data/site.json      # Site-level variables (title, URL, description)
 _includes/           # Nunjucks templates and partials
 _posts/              # Blog posts (YYYY-MM-DD-slug.md format)
 _posts/_posts.json   # Directory data file (default layout + tags for posts)
-_redirects           # Netlify redirect rules
+_redirects           # Redirect rules (Cloudflare Pages format; simple 301/302 only)
+functions/
+  _middleware.js     # Cloudflare Pages Function for proxy/rewrite rules
 about/               # About section pages and favorites/
 assets/
   style.css          # Main stylesheet (single file, ~90 lines)
@@ -43,7 +45,7 @@ assets/
     favicon_io/      # Favicon assets
 .github/workflows/   # GitHub Actions CI
 .well-known/         # Domain verification files
-netlify.toml         # Netlify build configuration
+netlify.toml         # Netlify build configuration (to be removed after migration)
 ```
 
 ### Template Hierarchy
@@ -102,10 +104,11 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 ## Deployment
 
 - **CI:** GitHub Actions (no build steps; builds happen externally)
-- **Build:** Netlify auto-builds on push (`npm ci` then `npx @11ty/eleventy`, configured in `netlify.toml`)
-- **Hosting:** Netlify auto-deploys from the repository (configured in `netlify.toml`)
-- **Analytics:** Plausible Analytics (privacy-focused), proxied through Netlify redirects
-- **Redirects:** Managed in `_redirects` (Netlify format) for legacy WordPress URLs and service proxying
+- **Build:** Cloudflare Pages auto-builds on push (`npm ci && npx @11ty/eleventy`, output dir `_site`)
+- **Hosting:** Cloudflare Pages auto-deploys from the repository
+- **Analytics:** Plausible Analytics (privacy-focused), proxied through `functions/_middleware.js`
+- **Redirects:** Simple redirects in `_redirects` (Cloudflare Pages format); proxy/rewrite rules in `functions/_middleware.js`
+- **DNS:** Cloudflare (custom domain added to CF Pages project; CNAME auto-created)
 
 ## Key Design Principles
 
@@ -131,7 +134,8 @@ From the project README:
 - `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
-- `_redirects` - 70+ Netlify redirect rules (legacy URLs, proxies, service routing)
+- `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects)
+- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (newsletter assets, Plausible analytics)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
 - `feed.njk` - RSS feed template
 - `.well-known/security.txt` - Security contact information
@@ -204,19 +208,19 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 - **DNS cutover is instant:** Since DNS is already managed in Cloudflare, adding a custom domain in CF Pages creates the CNAME record automatically — no TTL waiting needed.
 - **Audit `_redirects` first:** Identify which rules are simple redirects (port as-is) vs. proxy rewrites (need Workers) before starting.
 
-**Phase 1 — Audit** (before touching anything)
-- [ ] Export all redirect and rewrite rules — copy `_redirects` and any `netlify.toml` `[redirects]` blocks
-- [ ] Identify any `200` proxy/rewrite rules — these need Workers; won't work in CF Pages `_redirects` alone
-- [ ] List all custom headers (`_headers` file or `netlify.toml`) — CF Pages supports `_headers` with identical syntax
-- [ ] Audit Netlify-specific features in use — Forms, Identity, Edge Functions, Analytics, Split Testing
-- [ ] Note build command and output directory — Eleventy default: `npx @11ty/eleventy`, output dir `_site`
+**Phase 1 — Audit** (completed)
+- [x] Export all redirect and rewrite rules — `_redirects` reviewed; no `[redirects]` blocks in `netlify.toml`
+- [x] Identify `200` proxy/rewrite rules — 4 rules: newsletter assets (2), Plausible JS, Plausible API event
+- [x] List all custom headers — no `_headers` file or custom headers in `netlify.toml`
+- [x] Audit Netlify-specific features — none in use (no Forms, Identity, Edge Functions, Analytics, Split Testing)
+- [x] Note build command and output directory — `npm ci && npx @11ty/eleventy`, output dir `_site`, Node 24
 
 **Phase 2 — Set up CF Pages** (parallel to live Netlify)
 - [ ] Create new Pages project, connect same GitHub repo — CF dashboard → Pages → Create project → Connect to Git
-- [ ] Match build settings to current Netlify config — build command, output dir, Node version (`NODE_VERSION` env var)
-- [ ] Replicate environment variables from Netlify — Settings → Environment variables in both dashboards
-- [ ] Confirm `_redirects` and `_headers` are in the build output root — CF Pages reads them from the same location as Netlify
-- [ ] Write Workers / Pages Functions for any proxy rules — use `functions/_middleware.js` in repo, or a standalone Worker
+- [ ] Match build settings — build command: `npm ci && npx @11ty/eleventy`, output dir: `_site`, env var: `NODE_VERSION=24`
+- [ ] Replicate environment variables from Netlify (if any beyond `NODE_VERSION`)
+- [x] Confirm `_redirects` is in the build output root — passthrough copy in `eleventy.config.js`
+- [x] Write Pages Function for proxy rules — `functions/_middleware.js` handles all 4 proxy/rewrite rules
 
 **Phase 3 — Validate** (on the `*.pages.dev` preview URL)
 - [ ] Confirm build succeeds and output matches Netlify — spot-check 5–10 pages between the two deployed URLs
@@ -232,14 +236,15 @@ DNS is already in Cloudflare, making this migration smoother than typical. The b
 **Phase 5 — Cleanup** (after a few days of stability)
 - [ ] Remove any leftover Netlify CNAME/A records from CF DNS — check for stale records still pointing to Netlify
 - [ ] Delete or disable the Netlify site — keep the account briefly in case you need to roll back
-- [ ] Update `CLAUDE.md` Deployment section to reflect CF Pages
+- [ ] Remove `netlify.toml` from repo
+- [ ] Update `CLAUDE.md` Deployment section to reflect CF Pages (remove "migrating" language)
 
 ### Improve image pipeline (build-time processing)
 
 Currently images are manually resized before committing. Consider storing originals and processing at build time.
 
 - [ ] Evaluate storing raw/original exports from Apple Photos (resized but otherwise unprocessed)
-- [ ] Research build-time image resizing options compatible with Eleventy and Netlify (e.g. `@11ty/eleventy-img`)
+- [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Pages (e.g. `@11ty/eleventy-img`)
 - [ ] Decide whether to adopt a build-time pipeline and document the approach
 
 ---
