@@ -25,13 +25,6 @@ export async function onRequest(context) {
   const url = new URL(context.request.url);
   const path = url.pathname;
 
-  // Strip trailing slashes (except root)
-  if (path !== "/" && path.endsWith("/")) {
-    const redirectUrl = new URL(context.request.url);
-    redirectUrl.pathname = path.slice(0, -1);
-    return Response.redirect(redirectUrl.toString(), 301);
-  }
-
   for (const route of PROXY_ROUTES) {
     const match = path.match(route.pattern);
     if (match) {
