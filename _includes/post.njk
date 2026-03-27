@@ -16,12 +16,12 @@ layout: default.njk
   {% endfor %}
   {% if currentIndex > 0 %}
     {% set prevPost = allPosts[currentIndex - 1] %}
-	<a class="not-muted" href="{{ prevPost.url }}">← {{ prevPost.data.title }}</a>
+	<a class="not-muted" href="{{ prevPost.url | stripTrailingSlash }}">← {{ prevPost.data.title }}</a>
   {% endif %}
   {% if currentIndex > 0 and currentIndex < allPosts.length - 1 %} / {% endif %}
   {% if currentIndex >= 0 and currentIndex < allPosts.length - 1 %}
     {% set nextPost = allPosts[currentIndex + 1] %}
-	<a class="not-muted" href="{{ nextPost.url }}">{{ nextPost.data.title }} →</a>
+	<a class="not-muted" href="{{ nextPost.url | stripTrailingSlash }}">{{ nextPost.data.title }} →</a>
   {% endif %}
 </p>
 
