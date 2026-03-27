@@ -55,10 +55,10 @@ module.exports = function (eleventyConfig) {
       .replace(/"/g, "&quot;");
   });
 
-  // Strip trailing slash from a URL (unless it's the root "/")
+  // Strip trailing slash or .html extension from a URL (unless it's the root "/")
   eleventyConfig.addFilter("stripTrailingSlash", (url) => {
     if (!url || url === "/") return url;
-    return url.replace(/\/$/, "");
+    return url.replace(/\/$/, "").replace(/\.html$/, "");
   });
 
   // --- Collections ---
@@ -89,9 +89,9 @@ module.exports = function (eleventyConfig) {
     },
     permalink: (data) => {
       if (data.published === false) return false;
-      // Add trailing slash to permalinks without file extensions
+      // Add .html extension to permalinks without file extensions (outputs slug.html, not slug/index.html)
       if (data.permalink && typeof data.permalink === "string" && !data.permalink.match(/\.\w+$/) && !data.permalink.endsWith("/")) {
-        return data.permalink + "/";
+        return data.permalink + ".html";
       }
       return data.permalink;
     },

@@ -16,7 +16,7 @@ layout: default.njk
     <ul class="more-space">
       {%- set recentPosts = collections.posts | reverse %}
       {%- for post in recentPosts.slice(0, 3) %}
-      <li><a class="post-link" href="{{ post.url }}">{{ post.data.title }}</a></li>
+      <li><a class="post-link" href="{{ post.url | stripTrailingSlash }}">{{ post.data.title }}</a></li>
       {%- endfor %}
     </ul>
   {% endif %}
