@@ -43,7 +43,6 @@ assets/
     posts/           # Blog post images (matched by date)
     about/           # About section images
     favicon_io/      # Favicon assets
-.github/workflows/   # GitHub Actions CI/deploy
 .well-known/         # Domain verification files
 ```
 
@@ -102,7 +101,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 ## Deployment
 
-- **CI/Deploy:** GitHub Actions (builds Eleventy, deploys via `cloudflare/wrangler-action`)
+- **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
@@ -148,7 +147,7 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 ### GitHub Actions
 
-- [ ] Decide whether to keep a minimal GitHub Actions workflow (e.g. for linting/validation) or remove it entirely
+- [ ] Decide whether to add a GitHub Actions workflow (e.g. for linting/validation)
 
 ### Newsletter assets
 
