@@ -1,9 +1,7 @@
-# Redirects — Cloudflare Pages format
-# https://developers.cloudflare.com/pages/configuration/redirects/
+# Redirects — honored by the Cloudflare Workers ASSETS binding (301/302 only)
 #
-# Proxy/rewrite rules (200-status) are handled by functions/_middleware.js
-# because CF Pages _redirects does not support proxy rewrites.
-# Proxied routes: /assets/newsletter/*, /assets/buttondown/*, /pio/*
+# Proxy/rewrite rules are handled by src/worker.js before falling through to
+# static assets. Proxied routes: /assets/newsletter/*, /assets/buttondown/*, /pio/*
 
 # Redirects from what the browser requests to what we serve
 /feed /feed.xml

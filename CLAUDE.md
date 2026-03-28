@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Cloudflare Pages](https://pages.cloudflare.com/) with DNS managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Cloudflare Workers](https://workers.cloudflare.com/) with DNS managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -29,13 +29,13 @@ npx @11ty/eleventy
 
 ```
 eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
+wrangler.jsonc       # Cloudflare Workers configuration
+src/worker.js        # Cloudflare Worker: proxy/rewrite rules + static asset serving
 _data/site.json      # Site-level variables (title, URL, description)
 _includes/           # Nunjucks templates and partials
 _posts/              # Blog posts (YYYY-MM-DD-slug.md format)
 _posts/_posts.json   # Directory data file (default layout + tags for posts)
-_redirects           # Redirect rules (Cloudflare Pages format; simple 301/302 only)
-functions/
-  _middleware.js     # Cloudflare Pages Function for proxy/rewrite rules
+_redirects           # Redirect rules (honored by ASSETS binding; simple 301/302 only)
 about/               # About section pages and favorites/
 assets/
   style.css          # Main stylesheet (single file, ~90 lines)
@@ -43,7 +43,6 @@ assets/
     posts/           # Blog post images (matched by date)
     about/           # About section images
     favicon_io/      # Favicon assets
-.github/workflows/   # GitHub Actions CI
 .well-known/         # Domain verification files
 ```
 
@@ -102,12 +101,12 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 ## Deployment
 
-- **CI:** GitHub Actions (no build steps; builds happen externally)
-- **Build:** Cloudflare Pages auto-builds on push (`npm ci && npx @11ty/eleventy`, output dir `_site`)
-- **Hosting:** Cloudflare Pages auto-deploys from the repository
-- **Analytics:** Plausible Analytics (privacy-focused), proxied through `functions/_middleware.js`
-- **Redirects:** Simple redirects in `_redirects` (Cloudflare Pages format); proxy/rewrite rules in `functions/_middleware.js`
-- **DNS:** Cloudflare (custom domain added to CF Pages project; CNAME auto-created)
+- **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
+- **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
+- **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
+- **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
+- **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
+- **DNS:** Cloudflare (custom domain routed to the Worker)
 
 ## Key Design Principles
 
@@ -131,10 +130,11 @@ From the project README:
 ## Important Files
 
 - `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
+- `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
+- `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
-- `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects)
-- `functions/_middleware.js` - Cloudflare Pages Function for proxy/rewrite rules (newsletter assets via `newsletter.benjaminchait.workers.dev`, Plausible analytics)
+- `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects; honored by ASSETS binding)
 - `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
 - `feed.njk` - RSS feed template
 - `.well-known/security.txt` - Security contact information
@@ -147,11 +147,11 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 ### GitHub Actions
 
-- [ ] Decide whether to keep a minimal GitHub Actions workflow (e.g. for linting/validation) or remove it entirely
+- [ ] Decide whether to add a GitHub Actions workflow (e.g. for linting/validation)
 
 ### Newsletter assets
 
-Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served via a Cloudflare Worker at `newsletter.benjaminchait.workers.dev`. The `functions/_middleware.js` proxies `/assets/newsletter/*` and `/assets/buttondown/*` (legacy) to this Worker.
+Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served via a Cloudflare Worker at `newsletter.benjaminchait.workers.dev`. The `src/worker.js` proxies `/assets/newsletter/*` and `/assets/buttondown/*` (legacy) to this Worker.
 
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
@@ -190,12 +190,12 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 - [ ] Establish and document a consistent sizing convention (current target: 1280px width)
 - [ ] Resize or re-export any non-conforming images
 
-### Cloudflare Pages migration notes
+### Cloudflare migration notes
 
-Migrated from Netlify to Cloudflare Pages in March 2026. Key details:
-- Proxy/rewrite rules (which Netlify `_redirects` supported with `200` status) are handled by `functions/_middleware.js` (CF Pages Function)
-- Simple redirects remain in `_redirects` (Cloudflare Pages format, 301/302 only)
-- DNS is managed in Cloudflare; custom domain added to the CF Pages project
+Migrated from Netlify to Cloudflare Workers in March 2026. Key details:
+- Proxy/rewrite rules are handled by `src/worker.js` before falling through to static assets
+- Simple redirects remain in `_redirects` (honored by the ASSETS binding, 301/302 only)
+- DNS is managed in Cloudflare; custom domain routes to the Worker
 
 - [ ] Check that `www.benjaminchait.net` redirects to the apex domain `benjaminchait.net`
 
@@ -204,30 +204,11 @@ Migrated from Netlify to Cloudflare Pages in March 2026. Key details:
 Currently images are manually resized before committing. Consider storing originals and processing at build time.
 
 - [ ] Evaluate storing raw/original exports from Apple Photos (resized but otherwise unprocessed)
-- [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Pages (e.g. `@11ty/eleventy-img`)
+- [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Workers (e.g. `@11ty/eleventy-img`)
 - [ ] Decide whether to adopt a build-time pipeline and document the approach
 
 ## Potential Future Projects
 
-### Migrate www from Cloudflare Pages to Cloudflare Workers
-
-The [newsletter repo](https://github.com/benjaminchait/newsletter) deploys as a Cloudflare Worker with `wrangler.toml` and GitHub Actions (`cloudflare/wrangler-action`). Moving www to the same setup would make deployment consistent across both repos.
-
-**What it would involve:**
-- Add `wrangler.toml` with an `[assets]` binding pointing at the `_site/` build output
-- Create `src/worker.js` that merges the proxy logic from `functions/_middleware.js` with redirect handling and static asset serving
-- Convert the ~60 redirect rules in `_redirects` from the Pages text format into a JS data structure (mechanical conversion — simple `source → destination` pairs checked before falling through to static assets)
-- Add a GitHub Actions deploy workflow (build Eleventy, then deploy via `cloudflare/wrangler-action`) — same pattern as the newsletter repo
-- Update DNS routing to point at the Worker instead of the Pages project
-- Add a `CLOUDFLARE_WWW_API_TOKEN` GitHub secret for deployment
-
-**Trade-offs:**
-- Gains: consistent deploy model across repos, full control over request handling, visible deploy logs via GitHub Actions
-- Costs: lose Pages' automatic PR preview deployments, `_redirects` must be maintained in JS, more code to own for what Pages currently handles natively
-
-**Pricing:** both Pages and Workers free tiers are more than sufficient for this site's traffic. No cost difference.
-
----
 
 ## Things to Avoid
 

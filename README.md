@@ -4,7 +4,7 @@
 
 ### Basics
 
-**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
+**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
 
 ##### Newsletter
 
@@ -26,4 +26,4 @@ Writing a few words about my general approach. These are not set in stone, but s
 * 2013: Spun-up an instance with Digital Ocean, continued on WordPress.
 * 2020: Migrated to a static site generator (Jekyll) deployed via Netlify, though most content was just copied from the `wp-content` downloaded from my DO instance.
 * 2022: _Finally_ cleaned-up the directory structure and properly updated all the images and content.
-* 2026: Migrated from Jekyll to Eleventy, and from Netlify to Cloudflare Pages, with the help of 🤖 Claude Code.
+* 2026: Migrated from Jekyll to Eleventy, and from Netlify to Cloudflare Workers, with the help of 🤖 Claude Code.
