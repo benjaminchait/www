@@ -12,7 +12,9 @@
     "@11ty/eleventy": "^3.0.0",
     "luxon": "^3.5.0",
     "markdown-it": "^14.0.0",
-    "markdown-it-attrs": "^4.2.0",
+    "markdown-it-attrs": "^4.2.0"
+  },
+  "devDependencies": {
     "wrangler": "^4.78.0"
   }
 }
