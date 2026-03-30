@@ -11,7 +11,6 @@ eleventyExcludeFromCollections: true
     <description>{{ site.description | xmlEscape }}</description>
     {%- set latestPost = collections.posts | last %}
     <lastBuildDate>{{ latestPost.date | dateRfc822 }}</lastBuildDate>
-    <lastUpdated>{{ latestPost.date | dateDotFormat }}</lastUpdated>
     {%- set recentPosts = collections.posts | reverse %}
     {%- for post in recentPosts.slice(0, 10) %}
     <item>
