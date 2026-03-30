@@ -17,10 +17,10 @@ Luna returned to Yosemite for her second visit, this time as she and I joined wi
 ![Luna in the tent][6]
 ![Benjamin, Luna, and Cara][7]
 
-[1]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4753.jpeg
-[2]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4841.jpeg
-[3]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4871.jpeg
-[4]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4878.jpeg
-[5]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4939.jpeg
-[6]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_4990.jpeg
-[7]: /assets/img/posts/2026-03-20-lunas-second-yosemite-visit/IMG_5091.jpeg
+[1]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4753.jpeg
+[2]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4841.jpeg
+[3]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4871.jpeg
+[4]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4878.jpeg
+[5]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4939.jpeg
+[6]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4990.jpeg
+[7]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_5091.jpeg
