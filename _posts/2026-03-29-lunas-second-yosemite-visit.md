@@ -23,4 +23,4 @@ Luna returned to Yosemite for her second visit, this time as she and I joined wi
 [4]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4878.jpeg
 [5]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4939.jpeg
 [6]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_4990.jpeg
-[7]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_5091.jpeg
+[7]: /assets/img/posts/2026-03-29-lunas-second-yosemite-visit/IMG_5101.jpeg
