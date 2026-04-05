@@ -1,6 +1,5 @@
 ---
 layout: home.njk
-title: Benjamin Chait
 ---
 ![Benjamin memoji](/assets/img/IMG_0534.jpeg){:style="float: left; width: 9rem; border-radius: 50%; margin: 0 1em 1em 0;"}
 

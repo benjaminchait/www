@@ -1,24 +1,19 @@
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width"> <!-- content can also have ", initial-scale=1.0" -->
+  <meta name="viewport" content="width=device-width">
 
-  <title>{% if title != "Benjamin Chait" %}{{ title }} - {% endif %}Benjamin Chait</title>
+  <title>{% if title %}{{ title }} - {% endif %}Benjamin Chait</title>
 
   <link rel="stylesheet" href="/assets/style.css">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
 
-  <link rel="me" href="https://mastodon.social/@benjaminchait" />
+  <link rel="me" href="{{ site.mastodon_url }}" />
 
   <meta property="og:site_name" content="{{ site.title }}" >
   <meta property="og:locale" content="en_US">
-{% if title %}
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:type" content="article">
-{% else %}
-  <meta property="og:title" content="{{ site.title }}" >
-  <meta property="og:type" content="website">
-{% endif %}
+  <meta property="og:title" content="{{ title if title else site.title }}">
+  <meta property="og:type" content="{{ og_type if og_type else "website" }}">
 {% if page.url %}
   <meta property="og:url" content="{{ site.url }}{{ page.url | stripTrailingSlash }}" >
   <link rel="canonical" href="{{ site.url }}{{ page.url | stripTrailingSlash }}">
@@ -33,14 +28,12 @@
   <meta name="description" content="{{ site.description }}" >
   <meta property="og:description" content="{{ site.description }}" >
 {% endif %}
-{% if ogimage %}
-  <meta property="og:image" name="twitter:image" content="{{ ogimage }}" >
-{% else %}
-  <meta property="og:image" name="twitter:image" content="/assets/img/memoji-bg.png" >
-{% endif %}
+{% set _ogimage = site.url + (ogimage if ogimage else "/assets/img/memoji-bg.png") %}
+  <meta property="og:image" content="{{ _ogimage }}" >
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
+  <meta name="twitter:image" content="{{ _ogimage }}" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon_io/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon_io/favicon-32x32.png">
