@@ -1,5 +1,5 @@
 User-Agent: *
-Disallow: 
+Disallow: /about/imessage-contact-key-verification.txt
 
 User-agent: AdsBot-Google
 User-agent: Amazonbot
