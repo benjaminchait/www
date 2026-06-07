@@ -5,7 +5,7 @@ published: true
 date: 2026-05-30T16:46:00-07:00
 location: Berkeley, California, United States of America
 permalink: /archives/france-italy-spain
-#ogimage: /assets/img/posts/2026-05-30-france-italy-spain/IMG_6344.jpeg
+ogimage: /assets/img/posts/2026-05-30-france-italy-spain/IMG_6344.jpeg
 ---
 We took our first real holiday since moving to California. Cara was invited to a conference in France, so I tagged along! While she was working, I visited Italy and saw a friend where we enjoyed wine, food, and gelato. After her event, Cara and I met in the south of France. And after a few days, we enjoyed some travel through Spain. Lots of food, and apparently I order a surprising amount of ice cream 😅
 
