@@ -3,7 +3,7 @@ layout: page.njk
 title: Colophon
 permalink: /about/colophon
 ---
-🏗 This site is an [Eleventy](https://www.11ty.dev)-based, statically generated site deployed on [Cloudflare Pages](https://pages.cloudflare.com/) from the [source repository](https://github.com/benjaminchait/www). The domain name is registered via [Cloudflare](https://www.cloudflare.com/). Some more history about me on the web [is described in GitHub](https://github.com/benjaminchait/www/blob/main/README.md).
+🏗 This site is an [Astro](https://astro.build)-based, statically generated site deployed on [Cloudflare Workers](https://workers.cloudflare.com/) from the [source repository](https://github.com/benjaminchait/www). The domain name is registered via [Cloudflare](https://www.cloudflare.com/). Some more history about me on the web [is described in GitHub](https://github.com/benjaminchait/www/blob/main/README.md).
 
 🎨 The CSS and layouts were mine originally; then were updated based heavily on [Clio](https://github.com/danromero/clio); and have continued receiving my own modifications (such as 🌑 dark mode support).
 
@@ -13,4 +13,4 @@ permalink: /about/colophon
 
 👋 Feel free [to say hi](/about) with questions, I’m always happy and eager to help if I can!
 
-🚀 This site was last published at {{ "" | dateNow }} Pacific Time.
+🚀 This site was last published at {{ build_time }} Pacific Time.

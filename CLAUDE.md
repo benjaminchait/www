@@ -4,7 +4,7 @@ This file provides guidance for AI assistants working with this repository.
 
 ## Project Overview
 
-This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy](https://www.11ty.dev/) (Node.js-based static site generator). The site is deployed on [Cloudflare Workers](https://workers.cloudflare.com/) with DNS managed through Cloudflare.
+This is **benjaminchait.net**, a personal homepage and blog built with [Astro](https://astro.build/) (Node.js-based static site generator). The site is deployed on [Cloudflare Workers](https://workers.cloudflare.com/) with DNS managed through Cloudflare.
 
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
@@ -16,54 +16,61 @@ This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy
 npm ci
 
 # Run local development server
-npx @11ty/eleventy --serve
+npm run serve      # astro dev
 
-# Build the site (outputs to _site/)
-npx @11ty/eleventy
+# Build the site (outputs to dist/)
+npm run build      # astro build
+
+# Build and preview through the Cloudflare Worker
+npm run preview    # astro build && wrangler dev
 ```
 
 **Node version:** 22 (specified in `.node-version`)
-**Eleventy version:** 3.x (pinned in `package.json`)
+**Astro version:** 5.x (pinned in `package.json`)
 
 ## Project Structure
 
 ```
-eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
-wrangler.jsonc       # Cloudflare Workers configuration
-src/worker.js        # Cloudflare Worker: proxy/rewrite rules + static asset serving
-_data/site.json      # Site-level variables (title, URL, description)
-_includes/           # Nunjucks templates and partials
-_posts/              # Blog posts (YYYY-MM-DD-slug.md format)
-_posts/_posts.json   # Directory data file (default layout + tags for posts)
-_redirects           # Redirect rules (honored by ASSETS binding; simple 301/302 only)
-about/               # About section pages and favorites/
-assets/
-  style.css          # Main stylesheet (single file, ~90 lines)
-  img/               # All images (organized by section)
-    posts/           # Blog post images (matched by date)
-    about/           # About section images
-    favicon_io/      # Favicon assets
-.well-known/         # Domain verification files
+astro.config.mjs         # Astro configuration (markdown pipeline, output format)
+wrangler.jsonc           # Cloudflare Workers configuration
+src/worker.js            # Cloudflare Worker: proxy/rewrite rules + static asset serving
+src/content.config.mjs   # Content collections: posts (_posts/) and pages (about/, etc.)
+src/layouts/Base.astro   # HTML shell + <head> (meta, OpenGraph, favicons, Plausible)
+src/components/          # Footer.astro, FavoritesNav.astro
+src/pages/               # Routes:
+  index.astro            #   homepage (renders index.md + recent posts)
+  archives.astro         #   /archives post listing
+  404.astro              #   404 page (renders 404.md)
+  [...slug].astro        #   posts + pages routed by front-matter `permalink`
+  feed.xml.js            #   RSS feed endpoint
+  sitemap.xml.js         #   sitemap endpoint
+src/lib/                 # dates.mjs (luxon helpers), xml.mjs (escaping),
+                         # remark-kramdown-attrs.mjs ({:style="..."} syntax),
+                         # remark-build-time.mjs ({{ build_time }} token)
+_data/site.json          # Site-level variables (title, URL, description)
+_posts/                  # Blog posts (YYYY-MM-DD-slug.md format)
+about/                   # About section pages and favorites/
+index.md, 404.md         # Homepage and 404 content (rendered by src/pages routes)
+public/                  # Static files copied verbatim to dist/
+  _redirects             #   redirect rules (honored by ASSETS binding; 301/302 only)
+  assets/style.css       #   main stylesheet (single file, ~90 lines)
+  assets/img/            #   all images (posts/, about/, favicon_io/)
+  feed.xsl               #   RSS feed stylesheet
+  .well-known/           #   domain verification files
+  robots.txt             #   blocks AI crawlers, allows standard crawlers
 ```
 
-### Template Hierarchy
+### Layouts and routing
 
-All templates are Nunjucks (`.njk`) files in `_includes/`:
-
-```
-default.njk          # Base HTML shell, includes head.njk
-  ├── home.njk       # Homepage, includes footer.njk
-  ├── page.njk       # Static pages, includes footer.njk
-  └── post.njk       # Blog posts with prev/next nav, includes footer.njk
-```
+- `src/layouts/Base.astro` is the single HTML shell (equivalent to the old `default.njk` + `head.njk`).
+- `src/pages/[...slug].astro` renders every post and standalone page at the URL in its front-matter `permalink`, choosing the presentation by collection and by the page's `layout` front matter (`page.njk` → framed page with title/footer; `default.njk` → bare content).
+- Output uses `build.format: "file"` so `/archives/slug` is written as `archives/slug.html`, matching the extensionless URLs served by the Cloudflare ASSETS binding.
 
 ## Content Conventions
 
 ### Blog Posts
 
-Posts live in `_posts/` with the naming pattern `YYYY-MM-DD-slug.md`.
-
-The directory data file (`_posts/_posts.json`) automatically sets `layout: post.njk` and `tags: posts` for all posts.
+Posts live in `_posts/` with the naming pattern `YYYY-MM-DD-slug.md` and are loaded by the `posts` content collection (schema in `src/content.config.mjs`).
 
 **Required front matter:**
 ```yaml
@@ -78,21 +85,22 @@ permalink: /archives/slug
 
 **Optional front matter:**
 - `ogimage: /assets/img/path/to/image.jpeg` - OpenGraph image for social sharing
+- `location: City, State, Country` - informational only
 
 ### Static Pages
 
-Pages use `layout: page.njk` and include a `permalink` in front matter.
+Pages (in `about/` etc.) use front matter `layout: page.njk` (or `default.njk` for bare pages) and a `permalink`. The favorites pages set `favorites_nav: true` to render the shared favorites navigation. Setting `published: false` on any post or page excludes it from the build.
 
 ### Images
 
-- Blog post images go in `assets/img/posts/YYYY-MM-DD-slug/`
+- Blog post images go in `public/assets/img/posts/YYYY-MM-DD-slug/`
 - Images are sized at **1280px width** (640px layout at 2x for retina)
 - Use lowercase filenames with `.jpeg` extension
-- Reference images in markdown with inline styles: `![alt text](/path){:style="..."}`
+- Reference images in markdown with inline styles: `![alt text](/path){:style="..."}` (handled by `src/lib/remark-kramdown-attrs.mjs`)
 
 ## Styling
 
-The site uses a single, minimal CSS file (`assets/style.css`):
+The site uses a single, minimal CSS file (`public/assets/style.css`):
 - System font stack (`-apple-system, BlinkMacSystemFont, ...`)
 - Max width: `40rem` with `2rem` padding
 - Dark mode support via `@media (prefers-color-scheme: dark)`
@@ -102,10 +110,10 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 ## Deployment
 
 - **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
-- **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
+- **Build:** `npm ci && npm run build` (output dir `dist`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
-- **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
+- **Redirects:** Simple redirects in `public/_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
 - **DNS:** Cloudflare (custom domain routed to the Worker)
 
 ## Key Design Principles
@@ -122,22 +130,23 @@ From the project README:
 
 | Package | Purpose |
 |---------|---------|
-| `@11ty/eleventy` 3.x | Static site generator |
-| `markdown-it` | Markdown processing |
-| `markdown-it-attrs` | Kramdown-style `{:style="..."}` attribute syntax |
+| `astro` 5.x | Static site generator (includes the remark markdown pipeline) |
 | `luxon` | Date formatting with timezone support |
+
+Markdown is configured in `astro.config.mjs` with `smartypants: false`, `syntaxHighlight: false`, and `gfm: false` to match the site's longstanding markdown-it behavior (no smart quotes, no autolinked bare URLs). The kramdown-style `{:style="..."}` attribute syntax is implemented by a small custom remark plugin.
 
 ## Important Files
 
-- `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
+- `astro.config.mjs` - Markdown pipeline, output format, site URL
+- `src/content.config.mjs` - Content collection loaders and schemas
 - `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
 - `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
-- `_posts/_posts.json` - Default layout and tags for all blog posts
-- `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects; honored by ASSETS binding)
-- `robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
-- `feed.njk` - RSS feed template
-- `.well-known/security.txt` - Security contact information
+- `public/_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects; honored by ASSETS binding)
+- `public/robots.txt` - Blocks AI crawlers (GPTBot, ClaudeBot, etc.) while allowing standard crawlers
+- `src/pages/feed.xml.js` - RSS feed endpoint
+- `public/.well-known/security.txt` - Security contact information
+- `MIGRATION.md` - Notes from the Eleventy → Astro migration
 
 ## Dates and Timestamps
 
@@ -154,7 +163,7 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served via a Cloudflare Worker at `newsletter.benjaminchait.workers.dev`. The `src/worker.js` proxies `/assets/newsletter/*` and `/assets/buttondown/*` (legacy) to this Worker.
 
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
-- [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
+- [ ] If the newsletter provider changes, update the `/newsletter` redirect in `public/_redirects`
 
 ### Clean up extra pages
 
@@ -173,20 +182,20 @@ The current favorites page may not be the right format. Options to consider:
 
 ### Revisit dark mode
 
-- [ ] Review current dark mode implementation in `assets/style.css`
+- [ ] Review current dark mode implementation in `public/assets/style.css`
 - [ ] Identify any colors, images, or elements that don't adapt well
 - [ ] Make targeted improvements
 
 ### Revisit CSS styling
 
-- [ ] Audit `assets/style.css` for any improvements or simplifications
+- [ ] Audit `public/assets/style.css` for any improvements or simplifications
 - [ ] Ensure styling is consistent across all page types (home, page, post)
 
 ### Normalize image sizes
 
 Images are inconsistently sized: some are 1200px wide, others are 600px wide (originally tall portrait images at 1200px height).
 
-- [ ] Audit existing images in `assets/img/` for size inconsistencies
+- [ ] Audit existing images in `public/assets/img/` for size inconsistencies
 - [ ] Establish and document a consistent sizing convention (current target: 1280px width)
 - [ ] Resize or re-export any non-conforming images
 
@@ -194,17 +203,24 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 
 Migrated from Netlify to Cloudflare Workers in March 2026. Key details:
 - Proxy/rewrite rules are handled by `src/worker.js` before falling through to static assets
-- Simple redirects remain in `_redirects` (honored by the ASSETS binding, 301/302 only)
+- Simple redirects remain in `public/_redirects` (honored by the ASSETS binding, 301/302 only)
 - DNS is managed in Cloudflare; custom domain routes to the Worker
 
 - [ ] Check that `www.benjaminchait.net` redirects to the apex domain `benjaminchait.net`
+
+### Astro migration notes
+
+Migrated from Eleventy to Astro in July 2026 (see `MIGRATION.md` for details).
+
+- [ ] Update the Cloudflare Workers CI/CD build command to `npm ci && npm run build`
+- [ ] Consider replacing the experimental container API in `src/pages/feed.xml.js` once Astro ships a stable equivalent
 
 ### Improve image pipeline (build-time processing)
 
 Currently images are manually resized before committing. Consider storing originals and processing at build time.
 
 - [ ] Evaluate storing raw/original exports from Apple Photos (resized but otherwise unprocessed)
-- [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Workers (e.g. `@11ty/eleventy-img`)
+- [ ] Research build-time image resizing options compatible with Astro and Cloudflare Workers (e.g. `astro:assets`)
 - [ ] Decide whether to adopt a build-time pipeline and document the approach
 
 ## Potential Future Projects

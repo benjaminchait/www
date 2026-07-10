@@ -1,0 +1,70 @@
+---
+// Renders everything whose URL comes from front-matter `permalink`:
+// blog posts (/archives/slug) and standalone pages (/about, /about/...).
+import { getCollection, render } from "astro:content";
+import Base from "../layouts/Base.astro";
+import Footer from "../components/Footer.astro";
+import FavoritesNav from "../components/FavoritesNav.astro";
+import site from "../../_data/site.json";
+import { dateFormat } from "../lib/dates.mjs";
+
+export async function getStaticPaths() {
+  const posts = (await getCollection("posts", (p) => p.data.published))
+    .sort((a, b) => a.data.date - b.data.date);
+
+  const postPaths = posts.map((post, i) => ({
+    params: { slug: post.data.permalink.slice(1) },
+    props: {
+      type: "post",
+      entry: post,
+      prev: i > 0 ? posts[i - 1] : null,
+      next: i < posts.length - 1 ? posts[i + 1] : null,
+    },
+  }));
+
+  // index and 404 have dedicated routes; everything else routes by permalink.
+  const pages = await getCollection(
+    "pages",
+    (p) => p.data.published && p.data.permalink && !["index", "404"].includes(p.id),
+  );
+
+  const pagePaths = pages.map((page) => ({
+    params: { slug: page.data.permalink.slice(1) },
+    props: { type: "page", entry: page },
+  }));
+
+  return [...postPaths, ...pagePaths];
+}
+
+const { type, entry, prev, next } = Astro.props;
+const { title, description, ogimage, permalink } = entry.data;
+const { Content } = await render(entry);
+---
+{type === "post" ? (
+  <Base title={title} description={description} ogimage={ogimage} ogType="article" path={permalink}>
+    <a class="muted small" href="/">{site.title}</a>
+    <h1>{title}</h1>
+    <p class="muted small">{dateFormat(entry.data.date)}</p>
+    <Content />
+
+    <p class="not-muted small">
+      {prev && <a class="not-muted" href={prev.data.permalink}>← {prev.data.title}</a>}
+      {prev && next && " / "}
+      {next && <a class="not-muted" href={next.data.permalink}>{next.data.title} →</a>}
+    </p>
+
+    <Footer />
+  </Base>
+) : entry.data.layout === "default.njk" ? (
+  <Base title={title} description={description} ogimage={ogimage} path={permalink}>
+    <Content />
+  </Base>
+) : (
+  <Base title={title} description={description} ogimage={ogimage} path={permalink}>
+    <a class="muted small" href="/">{site.title}</a>
+    <h1>{title}</h1>
+    <Content />
+    {entry.data.favorites_nav && <FavoritesNav />}
+    <Footer />
+  </Base>
+)}

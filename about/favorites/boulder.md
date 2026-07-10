@@ -3,6 +3,7 @@ layout: page.njk
 title: Boulder favorites
 permalink: /about/favorites/boulder
 ogimage: /assets/img/about/favorites/boulder/IMG_0253.jpeg
+favorites_nav: true
 ---
 ![Boulder](/assets/img/about/favorites/boulder/IMG_0253.jpeg)
 
@@ -32,4 +33,3 @@ I was born and raised in Boulder, Colorado; this is my hometown, and I visit fam
 ### Other lists
 - [Jennifer Yu](https://userealbutter.com/boulder/)
 
-{% include "favorites-nav.njk" %}

@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+import Footer from "../components/Footer.astro";
+import site from "../../_data/site.json";
+import { dateFormat } from "../lib/dates.mjs";
+
+const posts = (await getCollection("posts", (p) => p.data.published))
+  .sort((a, b) => b.data.date - a.data.date);
+---
+<Base title="Archives" path="/archives">
+  <a class="muted small" href="/">{site.title}</a>
+  <h1>Archives</h1>
+  <ul class="posts">
+    {posts.map((post) => (
+      <li>
+        <a href={post.data.external || post.data.permalink}><span class="title">{post.data.title}</span></a> <span class="date">{dateFormat(post.data.date)}</span>
+      </li>
+    ))}
+  </ul>
+  <Footer />
+</Base>

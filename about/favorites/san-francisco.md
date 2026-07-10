@@ -3,6 +3,7 @@ layout: page.njk
 title: San Francisco favorites
 permalink: /about/favorites/san-francisco
 ogimage: /assets/img/about/favorites/san-francisco/IMG_2705.jpeg
+favorites_nav: true
 ---
 ![San Francisco sunset](/assets/img/about/favorites/san-francisco/IMG_2705.jpeg)
 
@@ -67,4 +68,3 @@ Some other favorite lists:
 - https://zachmargolis.com/recs/san-francisco/
 -->
 
-{% include "favorites-nav.njk" %}

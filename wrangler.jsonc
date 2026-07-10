@@ -7,7 +7,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "_site",
+    "directory": "dist",
     "binding": "ASSETS",
     "not_found_handling": "none"
   },
