@@ -24,7 +24,7 @@ We spent a night in Desolation Wilderness for Luna’s first backpacking trip (a
 ![Lake Aloha sunset][13]
 ![Lake Aloha morning][14]
 ![Luna plays in Lake Aloha][15]
-![Luna stands in Lake Aloha][15]
+![Luna stands in Lake Aloha][16]
 
 [1]: /assets/img/posts/2026-06-21-lake-aloha/IMG_8144.jpeg
 [2]: /assets/img/posts/2026-06-21-lake-aloha/IMG_8163.jpeg
