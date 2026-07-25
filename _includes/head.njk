@@ -47,4 +47,11 @@
         endpoint: "/pio/api/event"
     })
   </script>
+{% if map and mapkitToken %}
+  <script src="https://cdn.apple-mapkit.com/mk/6/mapkit.core.js"
+    crossorigin async
+    data-callback="initMapKit"
+    data-libraries="map,annotations"
+    data-token="{{ mapkitToken }}"></script>
+{% endif %}
 </head>

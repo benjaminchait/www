@@ -73,6 +73,13 @@ hr {
   font-size: .8em;
 }
 
+.map-embed {
+  width: 100%;
+  height: 300px;
+  border-radius: 8px;
+  margin-bottom: 1em;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #fafafa;
@@ -88,6 +95,10 @@ hr {
   }
 
   img {
+    filter: brightness(.8) contrast(1.2);
+  }
+
+  .map-embed {
     filter: brightness(.8) contrast(1.2);
   }
 

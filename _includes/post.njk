@@ -6,6 +6,32 @@ layout: default.njk
 <p class="muted small">{{ page.date | dateFormat }}</p>
 {{ content | safe }}
 
+{% if map and mapkitToken %}
+<div id="post-map" class="map-embed" aria-label="Map: {{ map.name }}"></div>
+<script type="module">
+  const setupMapKitJs = async () => {
+    if (!window.mapkit || window.mapkit.loadedLibraries.length === 0) {
+      await new Promise((resolve) => { window.initMapKit = resolve; });
+      delete window.initMapKit;
+    }
+  };
+
+  const main = async () => {
+    await setupMapKitJs();
+    const coordinate = new mapkit.Coordinate({{ map.lat }}, {{ map.lng }});
+    const mapInstance = new mapkit.Map("post-map");
+    mapInstance.region = new mapkit.CoordinateRegion(
+      coordinate,
+      new mapkit.CoordinateSpan({{ map.span | default(0.2) }}, {{ map.span | default(0.2) }})
+    );
+    const marker = new mapkit.MarkerAnnotation(coordinate, { title: {{ map.name | dump | safe }} });
+    mapInstance.showItems([marker]);
+  };
+
+  main();
+</script>
+{% endif %}
+
 <p class="not-muted small">
   {% set allPosts = collections.posts %}
   {% set currentIndex = -1 %}
