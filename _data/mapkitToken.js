@@ -18,7 +18,7 @@ module.exports = (() => {
       iss: MAPKIT_TEAM_ID,
       iat: now,
       exp: now + 60 * 60 * 24 * 180, // ~180 days; token is baked at build time and re-signed on each deploy
-      // no `origin` claim: intentionally unrestricted for this demo/test branch
+      origin: "*.benjaminchait.net", // locks reuse to benjaminchait.net and its subdomains
     };
 
     const signingInput = `${b64url(JSON.stringify(header))}.${b64url(JSON.stringify(payload))}`;
