@@ -7,9 +7,9 @@ location: Chicago, Illinois, United States of America
 permalink: /archives/torres-del-paine
 ogimage: "/assets/img/posts/2025-03-31-torres-del-paine/IMG_9734%20149%20Edited.jpeg"
 map:
-  lat: -51.0
-  lng: -73.0
-  name: "Torres del Paine National Park, Chile"
+  lat: -50.942233
+  lng: -72.948783
+  name: "Mirador Las Torres, Torres del Paine"
 ---
 We visited southern Chile for a small getaway and trek in Torres del Paine National Park!
 

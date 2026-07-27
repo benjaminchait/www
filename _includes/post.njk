@@ -22,7 +22,7 @@ layout: default.njk
     const mapInstance = new mapkit.Map("post-map");
     mapInstance.region = new mapkit.CoordinateRegion(
       coordinate,
-      new mapkit.CoordinateSpan({{ map.span | default(0.2) }}, {{ map.span | default(0.2) }})
+      new mapkit.CoordinateSpan({{ map.span | default(0.5) }}, {{ map.span | default(0.5) }})
     );
     const marker = new mapkit.MarkerAnnotation(coordinate, { title: {{ map.name | dump | safe }} });
     mapInstance.showItems([marker]);
