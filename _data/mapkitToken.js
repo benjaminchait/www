@@ -14,11 +14,20 @@ module.exports = (() => {
 
     const header = { alg: "ES256", kid: MAPKIT_KEY_ID, typ: "JWT" };
     const now = Math.floor(Date.now() / 1000);
+    // Workers Builds injects WORKERS_CI_BRANCH automatically. Production
+    // builds (on `main`) get locked to the real custom domain; every other
+    // branch build (including this one, and local dev) gets the
+    // *.benjaminchait.workers.dev wildcard, which covers both the
+    // production workers.dev URL and all per-branch preview URLs.
+    const origin =
+      process.env.WORKERS_CI_BRANCH === "main"
+        ? "*.benjaminchait.net"
+        : "*.benjaminchait.workers.dev";
     const payload = {
       iss: MAPKIT_TEAM_ID,
       iat: now,
       exp: now + 60 * 60 * 24 * 180, // ~180 days; token is baked at build time and re-signed on each deploy
-      origin: "*.benjaminchait.net", // locks reuse to benjaminchait.net and its subdomains
+      origin,
     };
 
     const signingInput = `${b64url(JSON.stringify(header))}.${b64url(JSON.stringify(payload))}`;
