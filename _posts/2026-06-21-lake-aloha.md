@@ -10,6 +10,8 @@ map:
   lat: 38.859378
   lng: -120.128608
   name: "Lake Aloha, Desolation Wilderness"
+  latSpan: 0.0617
+  lngSpan: 0.1691
 ---
 We spent a night in Desolation Wilderness for Luna’s first backpacking trip (and my first return [since May 2020](/archives/seven-years-west)). Luna was a champ, and seemed to love the outdoors! So many people commented on her orange backpack (so she could carry her own food, snacks, and camping gear 😅) and the pup made many friends (both dogs and human) while on the trail. Since we drove from Berkeley, we rode a water taxi to the far end of Echo Lake to make our hike in a bit shorter -- and got to saw a small black bear along the shoreline! Once we made camp at Lake Aloha, we had plenty of time for some day hiking. We made it to Lake of the Woods, played in some snowdrifts, and the pup even waded into the water to play with Cara. Camping meant we all slept in the same tent and on the ground, which the pup loved. After breakfast the next morning, we hiked out and made our way back home.
 

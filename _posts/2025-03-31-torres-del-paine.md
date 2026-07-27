@@ -10,6 +10,8 @@ map:
   lat: -50.942233
   lng: -72.948783
   name: "Mirador Las Torres, Torres del Paine"
+  latSpan: 0.2934
+  lngSpan: 0.9932
 ---
 We visited southern Chile for a small getaway and trek in Torres del Paine National Park!
 
