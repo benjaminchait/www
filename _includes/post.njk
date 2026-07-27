@@ -20,6 +20,7 @@ layout: default.njk
     await setupMapKitJs();
     const coordinate = new mapkit.Coordinate({{ map.lat }}, {{ map.lng }});
     const mapInstance = new mapkit.Map("post-map");
+    window.postMap = mapInstance; // temporary debug hook, remove after tuning zoom
     mapInstance.region = new mapkit.CoordinateRegion(
       coordinate,
       new mapkit.CoordinateSpan({{ map.span | default(0.5) }}, {{ map.span | default(0.5) }})
