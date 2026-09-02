@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
+const site = require("./_data/site.json");
 
 module.exports = function (eleventyConfig) {
   // Markdown: use markdown-it with attrs plugin for kramdown-style {:style="..."} syntax
@@ -95,6 +96,37 @@ module.exports = function (eleventyConfig) {
       }
       return data.permalink;
     },
+  });
+
+  // --- Outbound link referrer tagging ---
+  // Appends ref=<hostname> to external links (à la birchtree.me) so referrers show where traffic came from.
+  const siteHostname = new URL(site.url).hostname;
+
+  eleventyConfig.addTransform("outboundRefParam", function (content, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) return content;
+
+    return content.replace(/(<a\s[^>]*\bhref=")([^"]*)(")/gi, (match, pre, rawHref, post) => {
+      const href = rawHref
+        .replace(/&amp;/g, "&")
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&lt;/g, "<")
+        .replace(/&gt;/g, ">");
+
+      let url;
+      try {
+        url = new URL(href);
+      } catch {
+        return match; // relative or non-absolute href (internal links, anchors, etc.)
+      }
+
+      if (url.protocol !== "http:" && url.protocol !== "https:") return match;
+      if (url.hostname === siteHostname) return match;
+      if (url.searchParams.has("ref")) return match;
+
+      url.searchParams.set("ref", siteHostname);
+      return pre + url.toString().replace(/&/g, "&amp;") + post;
+    });
   });
 
   // --- Sitemap: exclude pages with sitemap: false ---
