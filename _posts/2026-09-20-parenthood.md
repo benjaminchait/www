@@ -1,5 +1,5 @@
 ---
-title: Two months
+title: Parenthood
 description: The first few weeks of parenthood, leave, and welcoming a little one
 published: true
 date: 2026-09-20T11:30:00-07:00
