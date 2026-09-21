@@ -4,8 +4,8 @@ description: The first few weeks of parenthood, leave, and welcoming a little on
 published: true
 date: 2026-09-20T11:30:00-07:00
 location: Berkeley, California, United States of America
-permalink: /archives/two-months
-ogimage: /assets/img/posts/2026-09-20-two-months/IMG_2254.jpeg
+permalink: /archives/parenthood
+ogimage: /assets/img/posts/2026-09-20-parenthood/IMG_2254.jpeg
 ---
 I’ve learned a lot in the past two months.
 
@@ -35,7 +35,7 @@ Two months goes fast. We’ve gone on lots of walks. Saw our families and friend
 
 ![Benjamin, Cara, Aspen, and Luna in Yosemite][4]
 
-[1]: /assets/img/posts/2026-09-20-two-months/IMG_0255.jpeg
-[2]: /assets/img/posts/2026-09-20-two-months/IMG_0835.jpeg
-[3]: /assets/img/posts/2026-09-20-two-months/IMG_1307.jpeg
-[4]: /assets/img/posts/2026-09-20-two-months/IMG_2254.jpeg
+[1]: /assets/img/posts/2026-09-20-parenthood/IMG_0255.jpeg
+[2]: /assets/img/posts/2026-09-20-parenthood/IMG_0835.jpeg
+[3]: /assets/img/posts/2026-09-20-parenthood/IMG_1307.jpeg
+[4]: /assets/img/posts/2026-09-20-parenthood/IMG_2254.jpeg
