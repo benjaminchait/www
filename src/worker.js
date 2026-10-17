@@ -24,10 +24,62 @@ const PROXY_ROUTES = [
   },
 ];
 
+const VIDEO_PREFIX = "/assets/video/";
+
+// Serve a video from the R2 "www-video" bucket, with Range support so browsers can
+// seek and iOS can play. Keys under "originals/" are archive copies and stay private.
+async function serveVideo(request, env, key) {
+  if (!key || key.startsWith("originals/") || key.includes("..")) {
+    return new Response("Not found", { status: 404 });
+  }
+  if (request.method !== "GET" && request.method !== "HEAD") {
+    return new Response("Method not allowed", { status: 405, headers: { Allow: "GET, HEAD" } });
+  }
+
+  const object = request.method === "HEAD"
+    ? await env.VIDEO.head(key)
+    : await env.VIDEO.get(key, { range: request.headers, onlyIf: request.headers });
+  if (!object) return new Response("Not found", { status: 404 });
+
+  const headers = new Headers();
+  object.writeHttpMetadata(headers);
+  headers.set("ETag", object.httpEtag);
+  headers.set("Accept-Ranges", "bytes");
+  headers.set("Cache-Control", "public, max-age=31536000, immutable");
+  if (!headers.has("Content-Type")) headers.set("Content-Type", "application/octet-stream");
+
+  // Conditional request that didn't match: R2 returns metadata only, no body.
+  if (request.method === "GET" && !("body" in object)) {
+    return new Response(null, { status: 304, headers });
+  }
+
+  let status = 200;
+  if (object.range && request.headers.has("Range")) {
+    const { offset = 0, length = object.size - offset } = object.range;
+    headers.set("Content-Range", `bytes ${offset}-${offset + length - 1}/${object.size}`);
+    headers.set("Content-Length", String(length));
+    status = 206;
+  } else {
+    headers.set("Content-Length", String(object.size));
+  }
+
+  return new Response(request.method === "HEAD" ? null : object.body, { status, headers });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     const path = url.pathname;
+
+    if (path.startsWith(VIDEO_PREFIX)) {
+      let key;
+      try {
+        key = decodeURIComponent(path.slice(VIDEO_PREFIX.length));
+      } catch {
+        return new Response("Bad request", { status: 400 });
+      }
+      return serveVideo(request, env, key);
+    }
 
     for (const route of PROXY_ROUTES) {
       const match = path.match(route.pattern);
