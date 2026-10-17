@@ -26,7 +26,7 @@ const PROXY_ROUTES = [
 
 const VIDEO_PREFIX = "/assets/video/";
 
-// Serve a video from the R2 "video" bucket, with Range support so browsers can
+// Serve a video from the R2 "www-video" bucket, with Range support so browsers can
 // seek and iOS can play. Keys under "originals/" are archive copies and stay private.
 async function serveVideo(request, env, key) {
   if (!key || key.startsWith("originals/") || key.includes("..")) {

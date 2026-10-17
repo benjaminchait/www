@@ -14,7 +14,7 @@
   "r2_buckets": [
     {
       "binding": "VIDEO",
-      "bucket_name": "video"
+      "bucket_name": "www-video"
     }
   ],
   "compatibility_flags": [
