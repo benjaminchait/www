@@ -9,13 +9,9 @@ ogimage: /assets/img/posts/2026-09-20-parenthood/IMG_2254.jpeg
 ---
 I’ve learned a lot in the past two months.
 
-I’ll start with what they don’t tell you: It’s important to take water breaks. The past few months have been both a delight and nonstop. You’ll never be ready, the list of todos is constantly growing. Cara and I are often dividing tasks to take care of Aspen (or Luna and Veela) that we hardly have time for each other. We’ve had such fun hosting family and friends, but sometimes go hours without actually talking.
+I’ll start with what they don’t tell you: It’s important to take water breaks. The past few months have been both a delight and nonstop. You’ll never be ready, the list of todos is constantly growing. Cara and I are often dividing tasks to take care of Aspen (or Luna and Veela) just to get everything done. We’ve had such fun hosting family and friends, but some days are long.
 
-Two months ago on Sunday morning, Cara and I decided we’d put off setting up the car seat long enough. We got it sorted after a few minutes, and thought about taking it back out until we needed it. I think we decided to leave it in for a few days, mostly because we were thinking about other stuff. And a few hours later, Cara’s water broke.
-
-We had a plan for the pup. But when we realized the little one might be coming, it was 5:10 pm—and our boarding spot’s front desk closed 10 minutes before. We were fortunate to have family and friends ready to help.
-
-We got to the hospital, then waited. Aspen arrived quickly! I feel like our time was a bit of a blur—mostly from the stress/excitement, but we also arrived in the evening and had a little one before the sun rose. We spent another evening post-delivery. They gave Aspen a few hats, and then they let us bring her home.
+Two months ago, Cara and I decided we’d put off setting up the car seat long enough. That turned out to be good timing, as Aspen decided she wanted to arrive a little earlier than her expected due date. We got to the hospital in the evening, and by morning we were holding our daughter. We spent another evening in the hospital post-delivery. They gave Aspen a few hats, and then they let us bring her home.
 
 And suddenly, our lives are totally different.
 
