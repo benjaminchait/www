@@ -27,7 +27,7 @@ The puppy loves her baby sister. Previously, Luna would follow Benjamin everywhe
 
 ![Cara and Aspen][3]
 
-Two months goes fast. We’ve gone on lots of walks. Saw our families and friends quite a lot. Enjoyed a few mid-week wine tastings. But more important, we’ve been able to spend time with the little one. Watching her react to her puppy, her grandparents, and the world around her.
+Time goes fast. We’ve gone on lots of walks. Saw our families and friends quite a lot. Enjoyed a few mid-week wine tastings. But more important, we’ve been able to spend time with the little one. Watching her react to her puppy, her grandparents, and the world around her.
 
 ![Benjamin, Cara, Aspen, and Luna in Yosemite][4]
 
