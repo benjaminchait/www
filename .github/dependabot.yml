@@ -6,6 +6,9 @@ updates:
       interval: weekly
       day: monday
       timezone: America/Los_Angeles
+    # Wait a few days after a release before proposing it; security updates ignore this.
+    cooldown:
+      default-days: 3
     groups:
       minor-and-patch:
         update-types: [minor, patch]
@@ -21,3 +24,6 @@ updates:
       interval: weekly
       day: monday
       timezone: America/Los_Angeles
+    groups:
+      actions:
+        patterns: ["*"]
