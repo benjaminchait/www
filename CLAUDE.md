@@ -168,10 +168,11 @@ Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https:
 
 ### Clean up extra pages
 
-Some pages (e.g. `uses`) may be stale or no longer worth maintaining.
+Removed unpublished/stale pages (`2024-pdx-visit`, `about/lyra`, `about/uses`; `/about/uses` now redirects to `/about`).
 
-- [ ] Review all static pages under `about/` and root
-- [ ] Decide which pages to keep, archive, or remove (e.g. `uses`)
+- [x] Review all static pages under `about/` and root
+- [x] Decide which pages to keep, archive, or remove
+- [ ] Refresh `about/now.md` (last updated 28 June 2025)
 
 ### Revisit "favorites" / recommendations page
 
