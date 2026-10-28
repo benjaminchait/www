@@ -9,10 +9,10 @@
     "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy": "^3.1.7",
     "luxon": "^3.5.0",
     "markdown-it": "^14.3.3",
-    "markdown-it-attrs": "^4.2.0"
+    "markdown-it-attrs": "^4.5.0"
   },
   "devDependencies": {
     "wrangler": "^4.154.0"
