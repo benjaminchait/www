@@ -104,7 +104,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 - **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
 - **PR checks:** `.github/workflows/build.yml` runs `npm ci && npx @11ty/eleventy` on every pull request and push to `main`. Build check only; it does not deploy.
-- **Dependency updates:** `.github/dependabot.yml` opens weekly (Monday, Pacific Time) PRs for `npm` and `github-actions`, with minor/patch updates grouped. Major bumps of `markdown-it` and `markdown-it-attrs` are ignored and should be upgraded together by hand. Dependabot security alerts still open PRs outside this schedule.
+- **Dependency updates:** `.github/dependabot.yml` opens weekly (Monday, Pacific Time) PRs for `npm` and `github-actions`, with minor/patch updates grouped. Major `markdown-it` / `markdown-it-attrs` bumps arrive as separate PRs; upgrade them together and check `{:style=...}` rendering. Dependabot security alerts still open PRs outside this schedule.
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
@@ -157,7 +157,7 @@ Build workflow added (see Deployment). Possible follow-ups:
 
 - [x] Auto-merge Dependabot npm patch/minor PRs once the build check passes (`.github/workflows/dependabot-auto-merge.yml`; requires repo auto-merge on and `build` as a required check on `main`)
 - [ ] Add linting/validation (e.g. link or HTML checks) to the workflow if useful
-- [ ] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (ignored by Dependabot; test `{:style=...}` syntax in posts)
+- [x] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (done 2026-10-28)
 
 ### Newsletter assets
 
