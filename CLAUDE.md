@@ -136,6 +136,7 @@ From the project README:
 - `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
 - `.github/dependabot.yml` - Dependabot version-update schedule and grouping
 - `.github/workflows/build.yml` - PR/`main` build check
+- `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs
 - `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
@@ -154,7 +155,7 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 Build workflow added (see Deployment). Possible follow-ups:
 
-- [ ] Auto-merge Dependabot patch/minor PRs once the build check passes
+- [x] Auto-merge Dependabot npm patch/minor PRs once the build check passes (`.github/workflows/dependabot-auto-merge.yml`; requires repo auto-merge on and `build` as a required check on `main`)
 - [ ] Add linting/validation (e.g. link or HTML checks) to the workflow if useful
 - [ ] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (ignored by Dependabot; test `{:style=...}` syntax in posts)
 
