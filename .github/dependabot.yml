@@ -1,0 +1,23 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      timezone: America/Los_Angeles
+    groups:
+      minor-and-patch:
+        update-types: [minor, patch]
+    # markdown-it-attrs is tied to the markdown-it version; update the pair by hand.
+    ignore:
+      - dependency-name: markdown-it
+        update-types: [version-update:semver-major]
+      - dependency-name: markdown-it-attrs
+        update-types: [version-update:semver-major]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      timezone: America/Los_Angeles
