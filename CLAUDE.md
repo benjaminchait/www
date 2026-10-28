@@ -30,6 +30,7 @@ npx @11ty/eleventy
 ```
 eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
 wrangler.jsonc       # Cloudflare Workers configuration
+.github/             # dependabot.yml + workflows/build.yml (GitHub-only; Cloudflare ignores these)
 src/worker.js        # Cloudflare Worker: proxy/rewrite rules + static asset serving
 _data/site.json      # Site-level variables (title, URL, description)
 _includes/           # Nunjucks templates and partials
@@ -102,6 +103,8 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 ## Deployment
 
 - **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
+- **PR checks:** `.github/workflows/build.yml` runs `npm ci && npx @11ty/eleventy` on every pull request and push to `main`. Build check only; it does not deploy.
+- **Dependency updates:** `.github/dependabot.yml` opens weekly (Monday, Pacific Time) PRs for `npm` and `github-actions`, with minor/patch updates grouped. Major bumps of `markdown-it` and `markdown-it-attrs` are ignored and should be upgraded together by hand. Dependabot security alerts still open PRs outside this schedule.
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
@@ -131,6 +134,8 @@ From the project README:
 
 - `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
 - `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
+- `.github/dependabot.yml` - Dependabot version-update schedule and grouping
+- `.github/workflows/build.yml` - PR/`main` build check
 - `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
@@ -147,7 +152,11 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 
 ### GitHub Actions
 
-- [ ] Decide whether to add a GitHub Actions workflow (e.g. for linting/validation)
+Build workflow added (see Deployment). Possible follow-ups:
+
+- [ ] Auto-merge Dependabot patch/minor PRs once the build check passes
+- [ ] Add linting/validation (e.g. link or HTML checks) to the workflow if useful
+- [ ] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (ignored by Dependabot; test `{:style=...}` syntax in posts)
 
 ### Newsletter assets
 
