@@ -1,0 +1,14 @@
+# Link checker config (https://lychee.cli.rs). Used by .github/workflows/links.yml,
+# which builds the site and checks _site/. Run locally the same way:
+#   npx @11ty/eleventy && lychee --offline --include-fragments --root-dir "$PWD/_site" './_site/**/*.html'
+
+no_progress = true
+
+# Clean URLs: /archives/foo is served from archives/foo.html.
+fallback_extensions = ["html"]
+
+# Resolved at the edge, not present as files in _site/:
+exclude = [
+  'file://.*/_site/newsletter$',    # redirect in _redirects
+  'file://.*/_site/assets/video/',  # served from R2 by src/worker.js
+]
