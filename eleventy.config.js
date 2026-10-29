@@ -122,6 +122,8 @@ module.exports = function (eleventyConfig) {
 
       if (url.protocol !== "http:" && url.protocol !== "https:") return match;
       if (url.hostname === siteHostname) return match;
+      // Wayback URLs embed the archived address; an added query string would point at an uncaptured page.
+      if (url.hostname === "web.archive.org") return match;
       if (url.searchParams.has("ref")) return match;
 
       url.searchParams.set("ref", siteHostname);

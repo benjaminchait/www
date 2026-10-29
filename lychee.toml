@@ -11,4 +11,8 @@ fallback_extensions = ["html"]
 exclude = [
   'file://.*/_site/newsletter$',    # redirect in _redirects
   'file://.*/_site/assets/video/',  # served from R2 by src/worker.js
+
+  # Work in a browser but not for a checker:
+  'https://signal\.me/',            # #eu/... fragment is read client-side
+  'https://(www\.)?chime\.com/',   # 403 to automated requests
 ]
