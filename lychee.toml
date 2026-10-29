@@ -13,6 +13,6 @@ exclude = [
   'file://.*/_site/assets/video/',  # served from R2 by src/worker.js
 
   # Work in a browser but not for a checker:
-  'https://signal\.me/',            # #eu/... fragment is read client-side
-  'https://(www\.)?chime\.com/',   # 403 to automated requests
+  'https://signal\.me/',            # mobile deep link; the #eu/... fragment is handled client-side
+  'https://(www\.)?chime\.com/',   # blocks bots (403 to automated requests)
 ]
