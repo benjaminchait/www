@@ -1,0 +1,66 @@
+name: Links
+
+on:
+  pull_request:
+  schedule:
+    - cron: "23 16 * * 1" # Mondays, ~9am Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  internal-links:
+    # Fast and deterministic: links between pages, images, and #anchors only.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - run: npx @11ty/eleventy
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: --offline --include-fragments --root-dir ${{ github.workspace }}/_site './_site/**/*.html'
+          fail: true
+
+  external-links:
+    # Other people's sites flake, so this never blocks a merge. It opens (or
+    # updates) one issue when something is broken and closes it when clean.
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - run: npx @11ty/eleventy
+      - id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --include-fragments --max-retries 2 --timeout 20 --accept '200..=299,429' --root-dir ${{ github.workspace }}/_site './_site/**/*.html'
+          fail: false
+      - name: Open, update, or close the report issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXIT_CODE: ${{ steps.lychee.outputs.exit_code }}
+        run: |
+          title="Broken links report"
+          num=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number // empty')
+          if [ "$EXIT_CODE" != "0" ]; then
+            if [ -n "$num" ]; then
+              gh issue edit "$num" --body-file lychee/out.md
+            else
+              gh issue create --title "$title" --body-file lychee/out.md
+            fi
+          elif [ -n "$num" ]; then
+            gh issue close "$num" --comment "No broken links in the latest run."
+          fi

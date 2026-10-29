@@ -30,7 +30,8 @@ npx @11ty/eleventy
 ```
 eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
 wrangler.jsonc       # Cloudflare Workers configuration
-.github/             # dependabot.yml + workflows/build.yml (GitHub-only; Cloudflare ignores these)
+.github/             # dependabot.yml + workflows/ (GitHub-only; Cloudflare ignores these)
+lychee.toml          # Link checker config (used by .github/workflows/links.yml)
 src/worker.js        # Cloudflare Worker: proxy/rewrite rules + static asset serving
 _data/site.json      # Site-level variables (title, URL, description)
 _includes/           # Nunjucks templates and partials
@@ -104,6 +105,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 
 - **CI/Deploy:** Cloudflare Workers CI/CD (auto-builds and deploys on push)
 - **PR checks:** `.github/workflows/build.yml` runs `npm ci && npx @11ty/eleventy` on every pull request and push to `main`. Build check only; it does not deploy.
+- **Link checking:** `.github/workflows/links.yml` builds the site and runs [lychee](https://lychee.cli.rs) on `_site/`. On pull requests it checks internal links, images, and anchors only (offline, fast; not a required check). Every Monday it also checks external links and opens or updates a single "Broken links report" issue (closed automatically when clean). Config and exclusions (redirect-only and R2-served paths) are in `lychee.toml`. Run locally: `npx @11ty/eleventy && lychee --offline --include-fragments --root-dir "$PWD/_site" './_site/**/*.html'`.
 - **Dependency updates:** `.github/dependabot.yml` opens weekly (Monday, Pacific Time) PRs for `npm` and `github-actions`, with minor/patch updates grouped. Major `markdown-it` / `markdown-it-attrs` bumps arrive as separate PRs; upgrade them together and check `{:style=...}` rendering. Dependabot security alerts still open PRs outside this schedule.
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
@@ -136,6 +138,8 @@ From the project README:
 - `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
 - `.github/dependabot.yml` - Dependabot version-update schedule and grouping
 - `.github/workflows/build.yml` - PR/`main` build check
+- `.github/workflows/links.yml` - Internal link check on PRs; weekly external link report
+- `lychee.toml` - Link checker settings and exclusions
 - `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs
 - `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
@@ -156,7 +160,7 @@ Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Pos
 Build workflow added (see Deployment). Possible follow-ups:
 
 - [x] Auto-merge Dependabot npm patch/minor PRs once the build check passes (`.github/workflows/dependabot-auto-merge.yml`; requires repo auto-merge on and `build` as a required check on `main`)
-- [ ] Add linting/validation (e.g. link or HTML checks) to the workflow if useful
+- [x] Add link checking (`links.yml`; lychee). HTML validation and accessibility checks intentionally skipped.
 - [x] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (done 2026-10-28)
 
 ### Newsletter assets
