@@ -4,7 +4,7 @@
 
 ### Basics
 
-**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed on [Cloudflare Workers](https://workers.cloudflare.com/).
+**www** is an [Eleventy](https://www.11ty.dev/)-generated static site. My [production](https://benjaminchait.net) instance is deployed on [Cloudflare Workers](https://www.cloudflare.com/products/workers/).
 
 ##### Newsletter
 
