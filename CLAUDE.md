@@ -9,6 +9,8 @@ This is **benjaminchait.net**, a personal homepage and blog built with [Eleventy
 **Repository:** https://github.com/benjaminchait/www
 **Live site:** https://benjaminchait.net
 
+**Infrastructure lives in [benjaminchait/www-infra](https://github.com/benjaminchait/www-infra).** This file covers the site itself: content, templates, build, and the Worker code in this repo. Anything that crosses repos or lives outside this one starts in `www-infra`: the Cloudflare account and dashboard settings, domains and DNS, redirect rules, Email Routing, R2, the newsletter Worker, Plausible, other Workers. Start with its `current-state.md`, and record cross-repo decisions in its `decisions.md`.
+
 ## Build & Development Commands
 
 ```bash
@@ -22,17 +24,17 @@ npx @11ty/eleventy --serve
 npx @11ty/eleventy
 ```
 
-**Node version:** 22 (specified in `.node-version`)
+**Node version:** 24 (specified in `.node-version`)
 **Eleventy version:** 3.x (pinned in `package.json`)
 
 ## Project Structure
 
 ```
 eleventy.config.js   # Eleventy configuration (filters, collections, passthrough)
-wrangler.jsonc       # Cloudflare Workers configuration
+wrangler.jsonc       # Cloudflare Workers configuration (ASSETS + R2 VIDEO bindings)
 .github/             # dependabot.yml + workflows/ (GitHub-only; Cloudflare ignores these)
 lychee.toml          # Link checker config (used by .github/workflows/links.yml)
-src/worker.js        # Cloudflare Worker: proxy/rewrite rules + static asset serving
+src/worker.js        # Cloudflare Worker: R2 video, proxy rules, then static assets
 _data/site.json      # Site-level variables (title, URL, description)
 _includes/           # Nunjucks templates and partials
 _posts/              # Blog posts (YYYY-MM-DD-slug.md format)
@@ -110,6 +112,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
+- **Video:** `/assets/video/*` is served by `src/worker.js` from the R2 bucket `www-video` (binding `VIDEO`), with Range support. Keys under `originals/` are never served. Responses are cached as immutable, so upload changed files under a new key. Videos are not committed to this repo.
 - **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
 - **DNS:** Cloudflare (custom domain routed to the Worker)
 
@@ -135,13 +138,13 @@ From the project README:
 ## Important Files
 
 - `eleventy.config.js` - Filters, collections, passthrough copies, markdown config
-- `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS binding)
+- `wrangler.jsonc` - Cloudflare Workers configuration (entry point, ASSETS and R2 `VIDEO` bindings)
 - `.github/dependabot.yml` - Dependabot version-update schedule and grouping
 - `.github/workflows/build.yml` - PR/`main` build check
 - `.github/workflows/links.yml` - Internal link check on PRs; weekly external link report
 - `lychee.toml` - Link checker settings and exclusions
 - `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs
-- `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
+- `src/worker.js` - Cloudflare Worker: R2 video, proxy rules (Plausible, newsletter), then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
 - `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects; honored by ASSETS binding)
@@ -165,7 +168,7 @@ Build workflow added (see Deployment). Possible follow-ups:
 
 ### Newsletter assets
 
-Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served via a Cloudflare Worker at `newsletter.benjaminchait.workers.dev`. The `src/worker.js` proxies `/assets/newsletter/*` and `/assets/buttondown/*` (legacy) to this Worker.
+Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served at `benjaminchait.net/assets/newsletter/*` (and legacy `/assets/buttondown/*`) by that repo's own Worker. How requests reach it is documented in `www-infra` (`sites/newsletter.md`). A dashboard Worker route most likely sends them straight there, which would make the newsletter entries in `PROXY_ROUTES` here unused. Confirm that before removing them; see `www-infra/TODO.md`.
 
 - [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
 - [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
@@ -207,10 +210,9 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 
 ### Cloudflare migration notes
 
-Migrated from Netlify to Cloudflare Workers in March 2026. Key details:
-- Proxy/rewrite rules are handled by `src/worker.js` before falling through to static assets
-- Simple redirects remain in `_redirects` (honored by the ASSETS binding, 301/302 only)
-- DNS is managed in Cloudflare; custom domain routes to the Worker
+Migrated from Netlify to Cloudflare Workers in March 2026. Proxy rules are in `src/worker.js`, and simple redirects stay in `_redirects` (301/302 only; lines without a code return 302). The hosting history, DNS, the Custom Domain and other dashboard settings are recorded in `www-infra` (`decisions.md`, `sites/www.md`).
+
+- [ ] Unknown URLs return an empty 404: `not_found_handling` is `"none"`, so `404.html` (and its Plausible `404` event) is never served. The fix and its gotcha are in `www-infra/TODO.md`.
 
 ### Improve image pipeline (build-time processing)
 
