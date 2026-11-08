@@ -2,7 +2,8 @@
 //
 // Handles proxy routes before falling through to static assets.
 // Static assets (in _site/) are served via the ASSETS binding,
-// which also honors _redirects (301/302 only).
+// which also honors _redirects (301/302 only). Unknown paths get the
+// site's 404 page (404.md) with status 404.
 
 const PROXY_ROUTES = [
   {
@@ -66,6 +67,19 @@ async function serveVideo(request, env, key) {
   return new Response(request.method === "HEAD" ? null : object.body, { status, headers });
 }
 
+// ASSETS returns an empty 404 for paths with no file ("not_found_handling": "none"
+// in wrangler.jsonc, which keeps navigation requests to /assets/video/* and /pio/*
+// running this Worker). Swap in the built 404 page so visitors see it and its
+// Plausible "404" event fires. Fetch "/404": "/404.html" redirects there. A fresh
+// request carries no conditional headers, so the page never comes back as a 304.
+async function serveNotFound(request, env, emptyNotFound) {
+  const page = await env.ASSETS.fetch(new URL("/404", request.url), {
+    method: request.method === "HEAD" ? "HEAD" : "GET",
+  });
+  if (!page.ok) return emptyNotFound;
+  return new Response(page.body, { status: 404, headers: page.headers });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -121,6 +135,8 @@ export default {
     }
 
     // No proxy match — serve static assets (honors _redirects automatically)
-    return env.ASSETS.fetch(request);
+    const response = await env.ASSETS.fetch(request);
+    if (response.status === 404) return serveNotFound(request, env, response);
+    return response;
   },
 };

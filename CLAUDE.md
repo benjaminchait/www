@@ -111,6 +111,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
 - **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
+- **404s:** `src/worker.js` serves the built `404.html` (from `404.md`, which sends a Plausible `404` event) with status 404 for unknown paths. Keep `"not_found_handling": "none"` in `wrangler.jsonc`: with `"404-page"`, navigation requests to `/assets/video/*` and `/pio/*` would get the 404 page without running the Worker (unless `run_worker_first` lists them).
 - **DNS:** Cloudflare (custom domain routed to the Worker)
 
 ## Key Design Principles
@@ -141,7 +142,7 @@ From the project README:
 - `.github/workflows/links.yml` - Internal link check on PRs; weekly external link report
 - `lychee.toml` - Link checker settings and exclusions
 - `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs
-- `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS
+- `src/worker.js` - Cloudflare Worker: proxy/rewrite rules, then falls through to ASSETS (and serves `404.html` with status 404 when ASSETS has no match)
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
 - `_redirects` - 70+ redirect rules (legacy URLs, simple 301/302 redirects; honored by ASSETS binding)
