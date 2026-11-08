@@ -121,6 +121,24 @@ export default {
     }
 
     // No proxy match — serve static assets (honors _redirects automatically)
-    return env.ASSETS.fetch(request);
+    const response = await env.ASSETS.fetch(request);
+    if (response.status !== 404) return response;
+    return notFoundPage(request, env);
   },
 };
+
+// The ASSETS binding returns an empty 404 for unknown paths (not_found_handling
+// is "none", which keeps navigation requests to /assets/video/* and /pio/*
+// reaching this Worker). Serve the built 404 page instead, with a 404 status.
+// "/404" rather than "/404.html": html_handling redirects the .html form.
+async function notFoundPage(request, env) {
+  const page = await env.ASSETS.fetch(new URL("/404", request.url));
+  if (!page.ok) return new Response("Not found", { status: 404 });
+
+  const headers = new Headers(page.headers);
+  headers.delete("ETag");
+  return new Response(request.method === "HEAD" ? null : page.body, {
+    status: 404,
+    headers,
+  });
+}

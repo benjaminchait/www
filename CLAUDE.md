@@ -212,7 +212,7 @@ Images are inconsistently sized: some are 1200px wide, others are 600px wide (or
 
 Migrated from Netlify to Cloudflare Workers in March 2026. Proxy rules are in `src/worker.js`, and simple redirects stay in `_redirects` (301/302 only; lines without a code return 302). The hosting history, DNS, the Custom Domain and other dashboard settings are recorded in `www-infra` (`decisions.md`, `sites/www.md`).
 
-- [ ] Unknown URLs return an empty 404: `not_found_handling` is `"none"`, so `404.html` (and its Plausible `404` event) is never served. The fix and its gotcha are in `www-infra/TODO.md`.
+- Unknown URLs: the ASSETS binding returns an empty 404 (`not_found_handling` is `"none"`), so `src/worker.js` swaps in the built 404 page (`/404`) with status 404, which also fires its Plausible `404` event. Keep `not_found_handling` at `"none"`: with `"404-page"`, navigation requests that match no file get `404.html` without running the Worker, which breaks opening `/assets/video/*` directly.
 
 ### Improve image pipeline (build-time processing)
 
