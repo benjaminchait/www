@@ -94,6 +94,13 @@ Pages use `layout: page.njk` and include a `permalink` in front matter.
 - Use lowercase filenames with `.jpeg` extension
 - Reference images in markdown with inline styles: `![alt text](/path){:style="..."}`
 
+### Newsletter assets
+
+Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served at `benjaminchait.net/assets/newsletter/*` (and legacy `/assets/buttondown/*`) by that repo's own Worker. How requests reach it is documented in `www-infra` (`sites/newsletter.md`). A dashboard Worker route most likely sends them straight there, which would make the newsletter entries in `PROXY_ROUTES` here unused. Don't remove them until that's confirmed.
+
+- Use `/assets/newsletter/` paths in new post content (no existing posts reference `/assets/buttondown/`).
+- If the newsletter provider changes, update the `/newsletter` redirect in `_redirects`.
+
 ## Styling
 
 The site uses a single, minimal CSS file (`assets/style.css`):
@@ -113,8 +120,10 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
 - **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
 - **Video:** `/assets/video/*` is served by `src/worker.js` from the R2 bucket `www-video` (binding `VIDEO`), with Range support. Keys under `originals/` are never served. Responses are cached as immutable, so upload changed files under a new key. Videos are not committed to this repo.
-- **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only); proxy/rewrite rules in `src/worker.js`
+- **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only; lines without a code return 302); proxy/rewrite rules in `src/worker.js`
 - **DNS:** Cloudflare (custom domain routed to the Worker)
+- **History:** Migrated from Netlify to Cloudflare Workers in March 2026. The hosting history, DNS, the Custom Domain and other dashboard settings are recorded in `www-infra` (`decisions.md`, `sites/www.md`).
+- **Unknown URLs:** the ASSETS binding returns an empty 404 (`not_found_handling` is `"none"`), so `src/worker.js` swaps in the built 404 page (`/404`) with status 404, which also fires its Plausible `404` event. Keep `not_found_handling` at `"none"`: with `"404-page"`, navigation requests that match no file get `404.html` without running the Worker, which breaks opening `/assets/video/*` directly.
 
 ## Key Design Principles
 
@@ -143,7 +152,7 @@ From the project README:
 - `.github/workflows/build.yml` - PR/`main` build check
 - `.github/workflows/links.yml` - Internal link check on PRs; weekly external link report
 - `lychee.toml` - Link checker settings and exclusions
-- `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs
+- `.github/workflows/dependabot-auto-merge.yml` - Enables auto-merge on Dependabot npm patch/minor PRs (needs repo auto-merge on and `build` as a required check on `main`)
 - `src/worker.js` - Cloudflare Worker: R2 video, proxy rules (Plausible, newsletter), then falls through to ASSETS
 - `_data/site.json` - Site title, URL, description, social usernames
 - `_posts/_posts.json` - Default layout and tags for all blog posts
@@ -156,75 +165,6 @@ From the project README:
 
 Always use Pacific Time (`America/Los_Angeles`) for any dates or timestamps. Post dates use ISO 8601 format with timezone offset (e.g., `2024-01-15T12:00:00-07:00`).
 
-## Active Projects / TODOs
-
-### GitHub Actions
-
-Build workflow added (see Deployment). Possible follow-ups:
-
-- [x] Auto-merge Dependabot npm patch/minor PRs once the build check passes (`.github/workflows/dependabot-auto-merge.yml`; requires repo auto-merge on and `build` as a required check on `main`)
-- [x] Add link checking (`links.yml`; lychee). HTML validation and accessibility checks intentionally skipped.
-- [x] Upgrade `markdown-it` 15 and `markdown-it-attrs` 5 together (done 2026-10-28)
-
-### Newsletter assets
-
-Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https://github.com/benjaminchait/newsletter) and served at `benjaminchait.net/assets/newsletter/*` (and legacy `/assets/buttondown/*`) by that repo's own Worker. How requests reach it is documented in `www-infra` (`sites/newsletter.md`). A dashboard Worker route most likely sends them straight there, which would make the newsletter entries in `PROXY_ROUTES` here unused. Confirm that before removing them; see `www-infra/TODO.md`.
-
-- [ ] Use `/assets/newsletter/` paths for any new post content going forward (no existing posts reference `/assets/buttondown/`)
-- [ ] If the newsletter provider changes, update the `/newsletter` redirect on line 14 of `_redirects`
-
-### Clean up extra pages
-
-Removed unpublished/stale pages (`2024-pdx-visit`, `about/lyra`, `about/uses`).
-
-- [x] Review all static pages under `about/` and root
-- [x] Decide which pages to keep, archive, or remove
-- [ ] Refresh `about/now.md` (last updated 28 June 2025)
-
-### Revisit "favorites" / recommendations page
-
-The current favorites page may not be the right format. Options to consider:
-
-- [ ] Evaluate whether a structured data approach (e.g. JSON/YAML data file rendered via template) makes sense
-- [ ] Consider whether written-style posts or longform content would be more appropriate
-- [ ] Decide on format and update or replace the current page accordingly
-
-### Revisit dark mode
-
-- [ ] Review current dark mode implementation in `assets/style.css`
-- [ ] Identify any colors, images, or elements that don't adapt well
-- [ ] Make targeted improvements
-
-### Revisit CSS styling
-
-- [ ] Audit `assets/style.css` for any improvements or simplifications
-- [ ] Ensure styling is consistent across all page types (home, page, post)
-
-### Normalize image sizes
-
-Images are inconsistently sized: some are 1200px wide, others are 600px wide (originally tall portrait images at 1200px height).
-
-- [ ] Audit existing images in `assets/img/` for size inconsistencies
-- [ ] Establish and document a consistent sizing convention (current target: 1280px width)
-- [ ] Resize or re-export any non-conforming images
-
-### Cloudflare migration notes
-
-Migrated from Netlify to Cloudflare Workers in March 2026. Proxy rules are in `src/worker.js`, and simple redirects stay in `_redirects` (301/302 only; lines without a code return 302). The hosting history, DNS, the Custom Domain and other dashboard settings are recorded in `www-infra` (`decisions.md`, `sites/www.md`).
-
-- Unknown URLs: the ASSETS binding returns an empty 404 (`not_found_handling` is `"none"`), so `src/worker.js` swaps in the built 404 page (`/404`) with status 404, which also fires its Plausible `404` event. Keep `not_found_handling` at `"none"`: with `"404-page"`, navigation requests that match no file get `404.html` without running the Worker, which breaks opening `/assets/video/*` directly.
-
-### Improve image pipeline (build-time processing)
-
-Currently images are manually resized before committing. Consider storing originals and processing at build time.
-
-- [ ] Evaluate storing raw/original exports from Apple Photos (resized but otherwise unprocessed)
-- [ ] Research build-time image resizing options compatible with Eleventy and Cloudflare Workers (e.g. `@11ty/eleventy-img`)
-- [ ] Decide whether to adopt a build-time pipeline and document the approach
-
-## Potential Future Projects
-
-
 ## Things to Avoid
 
 - Do not add JavaScript beyond the existing Plausible analytics snippet
@@ -232,3 +172,4 @@ Currently images are manually resized before committing. Consider storing origin
 - Do not change the permalink structure for existing posts (many redirects depend on `/archives/slug`)
 - Do not commit large unoptimized images; resize to 1280px width first
 - Do not add npm packages without strong justification; simplicity is a core principle
+- Do not add TODO lists, plans, or decision logs; this repo is public. Open work is tracked in `www-infra` (`TODO.md`) and decisions in its `decisions.md`.
