@@ -49,7 +49,7 @@ async function serveVideo(request, env, key) {
   if (!headers.has("Content-Type")) headers.set("Content-Type", "application/octet-stream");
 
   // Conditional request that didn't match: R2 returns metadata only, no body.
-  if (request.method === "GET" && !("body" in object)) {
+  if (request.method === "GET" && !object.body) {
     return new Response(null, { status: 304, headers });
   }
 

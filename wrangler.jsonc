@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "www",
   "main": "src/worker.js",
-  "compatibility_date": "2025-09-27",
+  "compatibility_date": "2026-11-01",
   "observability": {
     "enabled": true
   },
@@ -16,8 +16,5 @@
       "binding": "VIDEO",
       "bucket_name": "www-video"
     }
-  ],
-  "compatibility_flags": [
-    "nodejs_compat"
   ]
 }
