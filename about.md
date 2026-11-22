@@ -13,6 +13,8 @@ ogimage: /assets/img/about/IMG_2713.jpeg
 
 💻 I love to help teams build delightful experiences, and I’m grateful to have worked with some amazing humans: 📱 [Apple](https://apple.com/), 💳 [Simple](https://en.wikipedia.org/wiki/Simple_(bank)), 🟡 [One](https://one.app/), 💚 [Chime](https://www.chime.com/), 🇺🇸 [Technology Transformation Services](https://tts.gsa.gov).<br />
 
+🏘️ I’m proud of celebrating my local communities through events like [Ignite Boulder](https://igniteboulder.com), [TEDxBoulder](https://tedxboulder.com), and [TEDxPortland](https://tedxportland.com).
+
 🏡 I’ve lived all over and have my “favorite” spots in 🏔 [Boulder](/about/favorites/boulder), 🏛 [DC](/about/favorites/washington-dc), 🌲 [PDX](/about/favorites/portland), 🌁 [SF](/about/favorites/san-francisco), 🍕 [Chicago](/about/favorites/chicago); as well as some memorable spots from places I have visited frequently like 🏞️ [Yosemite](/about/favorites/yosemite).<br />
 
 💬 Say hi via email (or iMessages) using: <a href="mailto:hello@benjaminchait.net">hello@benjaminchait.net</a>. If using iMessages, you can rely on <a href="https://support.apple.com/en-us/118246">Contact Key Verification</a> with <a href="/about/imessage-contact-key-verification.txt">my public verification code</a>.<br />
