@@ -1,66 +1,68 @@
-# Redirects — honored by the Cloudflare Workers ASSETS binding (301/302 only)
+# Redirects — honored by the Cloudflare Workers ASSETS binding (301/302 only).
+# A line without a status code returns 302 (temporary), so permanent redirects say 301.
+# Paths are case-sensitive: redirect destinations must match the real filename's case.
 #
 # Proxy/rewrite rules are handled by src/worker.js before falling through to
 # static assets. Proxied routes: /assets/newsletter/*, /assets/buttondown/*, /pio/*
 
 # Redirects from what the browser requests to what we serve
-/feed /feed.xml
+/feed /feed.xml 301
 
 # Redirect from a canonical URL to an email service
 /newsletter https://buttondown.com/benjaminchait
 
 # Redirect for Luna dog tag QR code
-/luna-dogtag /about/luna?utm_source=lunatagqr
+/luna-dogtag /about/luna?utm_source=lunatagqr 301
 
 # redirect lyra.dog to separate site
-/lyra /archives/lyra
-/about/lyra /archives/lyra
+/lyra /archives/lyra 301
+/about/lyra /archives/lyra 301
 
 # redirects due to 404 logs
 /about.html /about 301
-/favicon.ico /assets/img/favicon_io/favicon.ico
-/img/favicon_io/android-chrome-512x512.png /assets/img/favicon_io/android-chrome-512x512.png
-/index.php /
-/now /about/now
-/sitemap /sitemap.xml
-/sitemap.txt /sitemap.xml
-/archives/favorites/chicago /about/favorites/chicago
-/photos/2008/spring/ /
+/favicon.ico /assets/img/favicon_io/favicon.ico 301
+/img/favicon_io/android-chrome-512x512.png /assets/img/favicon_io/android-chrome-512x512.png 301
+/index.php / 301
+/now /about/now 301
+/sitemap /sitemap.xml 301
+/sitemap.txt /sitemap.xml 301
+/archives/favorites/chicago /about/favorites/chicago 301
+/photos/2008/spring/ / 301
 
 # redirects due to 404 logs, blog posts
-/2012/09/two-weeks /archives/two-weeks
-/2013/01/melbourne /archives/melbourne
-/2013/03/australia-round-ii /archives/australia-round-ii
-/2013/04/siem-reap /archives/siem-reap
-/2013/06/florence /archives/florence
-/2013/06/rome /archives/rome
-/2013/06/naples /archives/naples
-/2016/01/delayed-packing /archives/delayed-packing
-/page/* /archives
-/wp-content/uploads/2015/12/1451610886.jpg /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg
-/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg /assets/img/posts/2012-12-14-ha-long-bay/dsc01120.jpeg
-/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg /assets/img/posts/2012-12-14-ha-long-bay/dsc01265.jpeg
-/wp-content/uploads/media/img/2012/12/hong-kong/DSC01518.jpg /assets/img/posts/2012-12-23-hong-kong/dsc01518.jpeg
-/wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg /assets/img/posts/2013-01-07-hiroshima/dsc02030.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03208.jpg /assets/img/posts/2013-03-04-south-island/dsc03208.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03510.jpg /assets/img/posts/2013-03-04-south-island/dsc03510.jpeg
-/wp-content/uploads/media/img/2013/03/south-island/DSC03353.jpg /assets/img/posts/2013-03-04-south-island/dsc03353.jpeg
-/wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03799.jpg /assets/img/posts/2013-03-23-kuala-lumpur/dsc03799.jpeg
-/wp-content/uploads/media/img/2013/03/southern-thailand/DSC04068.jpg /assets/img/posts/2013-04-11-southern-thailand/dsc04068.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130520-221532.jpg /assets/img/posts/2013-05-18-annapurna/img_0289.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130525-000001.jpg /assets/img/posts/2013-05-24-istanbul/img_0298.jpeg
-/wp-content/uploads/media/img/2013/05-wp/20130528-230133.jpg /assets/img/posts/2013-05-28-budapest/img_0322.jpeg
-/wp-content/uploads/media/img/2013/06/prague/DSC04858.jpg /assets/img/posts/2013-06-01-prague/dsc04858.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130614-220236.jpg /assets/img/posts/2013-06-09-florence/dsc04971.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130618-002653.jpg /assets/img/posts/2013-06-14-rome/dsc05194.jpeg
-/wp-content/uploads/media/img/2013/06-wp/20130624-003943.jpg /assets/img/posts/2013-06-20-venice/img_0343.jpeg
-/wp-content/uploads/media/img/2013/07/london/IMG_0385.JPG /assets/img/posts/2013-07-09-london/img_0385.jpeg
+/2012/09/two-weeks /archives/two-weeks 301
+/2013/01/melbourne /archives/melbourne 301
+/2013/03/australia-round-ii /archives/australia-round-ii 301
+/2013/04/siem-reap /archives/siem-reap 301
+/2013/06/florence /archives/florence 301
+/2013/06/rome /archives/rome 301
+/2013/06/naples /archives/naples 301
+/2016/01/delayed-packing /archives/delayed-packing 301
+/page/* /archives 301
+/wp-content/uploads/2015/12/1451610886.jpg /assets/img/posts/2015-12-31-two-years-west/IMG_0074.jpeg 301
+/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01120.jpg /assets/img/posts/2012-12-14-ha-long-bay/DSC01120.jpeg 301
+/wp-content/uploads/media/img/2012/12/ha-long-bay/DSC01265.jpg /assets/img/posts/2012-12-14-ha-long-bay/DSC01265.jpeg 301
+/wp-content/uploads/media/img/2012/12/hong-kong/DSC01518.jpg /assets/img/posts/2012-12-23-hong-kong/DSC01518.jpeg 301
+/wp-content/uploads/media/img/2013/01/hiroshima/DSC02030.jpg /assets/img/posts/2013-01-07-hiroshima/DSC02030.jpeg 301
+/wp-content/uploads/media/img/2013/03/south-island/DSC03208.jpg /assets/img/posts/2013-03-04-south-island/DSC03208.jpeg 301
+/wp-content/uploads/media/img/2013/03/south-island/DSC03510.jpg /assets/img/posts/2013-03-04-south-island/DSC03510.jpeg 301
+/wp-content/uploads/media/img/2013/03/south-island/DSC03353.jpg /assets/img/posts/2013-03-04-south-island/DSC03353.jpeg 301
+/wp-content/uploads/media/img/2013/03/kuala-lumpur/DSC03799.jpg /assets/img/posts/2013-03-23-kuala-lumpur/DSC03799.jpeg 301
+/wp-content/uploads/media/img/2013/03/southern-thailand/DSC04068.jpg /assets/img/posts/2013-04-11-southern-thailand/DSC04068.jpeg 301
+/wp-content/uploads/media/img/2013/05-wp/20130520-221532.jpg /assets/img/posts/2013-05-18-annapurna/IMG_0289.jpeg 301
+/wp-content/uploads/media/img/2013/05-wp/20130525-000001.jpg /assets/img/posts/2013-05-24-istanbul/IMG_0298.jpeg 301
+/wp-content/uploads/media/img/2013/05-wp/20130528-230133.jpg /assets/img/posts/2013-05-28-budapest/IMG_0322.jpeg 301
+/wp-content/uploads/media/img/2013/06/prague/DSC04858.jpg /assets/img/posts/2013-06-01-prague/DSC04858.jpeg 301
+/wp-content/uploads/media/img/2013/06-wp/20130614-220236.jpg /assets/img/posts/2013-06-09-florence/DSC04971.jpeg 301
+/wp-content/uploads/media/img/2013/06-wp/20130618-002653.jpg /assets/img/posts/2013-06-14-rome/DSC05194.jpeg 301
+/wp-content/uploads/media/img/2013/06-wp/20130624-003943.jpg /assets/img/posts/2013-06-20-venice/IMG_0343.jpeg 301
+/wp-content/uploads/media/img/2013/07/london/IMG_0385.JPG /assets/img/posts/2013-07-09-london/IMG_0385.jpeg 301
 
 # Redirects from old email newsletters (as of 1 January 2022 these are on Substack, but the "Letters from PDX" bits)
-/2017/09/kippa /archives/kippa
-/2017/12/four-years-west /archives/four-years-west
-/2017/06/thirty /archives/thirty
+/2017/09/kippa /archives/kippa 301
+/2017/12/four-years-west /archives/four-years-west 301
+/2017/06/thirty /archives/thirty 301
 
 # redirects due to Google Webmaster Tools
-/2012/10/leaving-apple /archives/leaving-apple
-/2013/04/southern-thailand /archives/southern-thailand
+/2012/10/leaving-apple /archives/leaving-apple 301
+/2013/04/southern-thailand /archives/southern-thailand 301
