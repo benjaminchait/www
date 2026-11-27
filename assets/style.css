@@ -271,6 +271,10 @@ hr {
   content: "–";
 }
 
+.rows details:nth-child(4n + 2) { background: var(--c2); }
+.rows details:nth-child(4n + 3) { background: var(--c3); }
+.rows details:nth-child(4n + 4) { background: var(--c4); }
+
 .rows details p {
   margin: 0;
   padding: 0 1rem 0.9rem;
