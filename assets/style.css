@@ -114,7 +114,7 @@ li {
 hr {
   border: 0;
   border-top: 1px solid var(--rule);
-  margin: 2.5rem 0;
+  margin: 1.5rem 0;
 }
 
 .muted, .not-muted {
@@ -236,7 +236,7 @@ ul.more-space li:last-child {
 }
 
 footer {
-  margin-top: 3rem;
+  margin-top: 2rem;
   padding-top: 1rem;
   border-top: 1px solid var(--rule);
 }
