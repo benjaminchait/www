@@ -1,7 +1,7 @@
 {
   "communities": [
     { "name": "Ignite Boulder", "place": "Boulder", "url": "https://igniteboulder.com", "post": "/archives/ignite-boulder-29", "postTitle": "Ignite Boulder 29" },
-    { "name": "TEDxBoulder", "place": "Boulder", "url": "https://tedxboulder.com", "post": "/archives/tedxboulder", "postTitle": "TEDxBoulder" },
+    { "name": "TEDxBoulder", "place": "Boulder", "url": "https://tedxboulder.com" },
     { "name": "TEDxPortland", "place": "Portland", "url": "https://tedxportland.com" }
   ],
   "places": [
