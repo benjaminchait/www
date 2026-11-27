@@ -1,0 +1,20 @@
+{
+  "communities": [
+    { "name": "Ignite Boulder", "place": "Boulder", "url": "https://igniteboulder.com", "post": "/archives/ignite-boulder-29", "postTitle": "Ignite Boulder 29" },
+    { "name": "TEDxBoulder", "place": "Boulder", "url": "https://tedxboulder.com", "post": "/archives/tedxboulder", "postTitle": "TEDxBoulder" },
+    { "name": "TEDxPortland", "place": "Portland", "url": "https://tedxportland.com" }
+  ],
+  "places": [
+    { "emoji": "🏔", "name": "Boulder", "url": "/about/favorites/boulder" },
+    { "emoji": "🏛", "name": "DC", "url": "/about/favorites/washington-dc" },
+    { "emoji": "🌲", "name": "PDX", "url": "/about/favorites/portland" },
+    { "emoji": "🌁", "name": "SF", "url": "/about/favorites/san-francisco" },
+    { "emoji": "🍕", "name": "Chicago", "url": "/about/favorites/chicago" },
+    { "emoji": "🏞️", "name": "Yosemite", "url": "/about/favorites/yosemite" }
+  ],
+  "pups": [
+    { "name": "Luna", "note": "here to remind us to stop and smell the flowers", "url": "/archives/meet-luna" },
+    { "name": "Kippa", "note": "dearly missed", "url": "/archives/kippa" },
+    { "name": "Lyra", "note": "my bff", "url": "/archives/lyra" }
+  ]
+}

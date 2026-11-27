@@ -14,6 +14,12 @@ module.exports = function (eleventyConfig) {
 
   // --- Filters ---
 
+  // City from a "City, State, Country" location, and the Pacific Time year of a date
+  eleventyConfig.addFilter("placeName", (location) => String(location).split(",")[0].trim());
+  eleventyConfig.addFilter("year", (date) => {
+    return DateTime.fromJSDate(new Date(date), { zone: "America/Los_Angeles" }).year;
+  });
+
   // Date formatting: "1 January 2024"
   eleventyConfig.addFilter("dateFormat", (date) => {
     return DateTime.fromJSDate(new Date(date), { zone: "America/Los_Angeles" }).toFormat("d MMMM yyyy");
