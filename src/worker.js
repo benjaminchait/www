@@ -17,12 +17,30 @@ const PROXY_ROUTES = [
   {
     pattern: /^\/pio\/js\/(pa-APRvGagy0VA6BeYF-WUim\.js)$/,
     target: "https://plausible.io/js/$1",
+    analytics: true,
   },
   {
     pattern: /^\/pio\/api\/event$/,
     target: "https://plausible.io/api/event",
+    analytics: true,
   },
 ];
+
+// Only the real site counts toward analytics. Every other hostname that serves these
+// pages (branch and commit previews and the plain workers.dev URL, plus local dev)
+// gets an inert response instead of a call to Plausible.
+const ANALYTICS_HOST = "benjaminchait.net";
+
+// An empty script for the snippet, and the 202 "ok" Plausible itself sends for an
+// accepted event, so nothing errors in the page.
+function analyticsOff(request) {
+  if (request.method === "POST") {
+    return new Response("ok", { status: 202, headers: { "Cache-Control": "no-store" } });
+  }
+  return new Response("/* analytics off on this host */", {
+    headers: { "Content-Type": "application/javascript", "Cache-Control": "no-store" },
+  });
+}
 
 const VIDEO_PREFIX = "/assets/video/";
 
@@ -84,6 +102,8 @@ export default {
     for (const route of PROXY_ROUTES) {
       const match = path.match(route.pattern);
       if (match) {
+        if (route.analytics && url.hostname !== ANALYTICS_HOST) return analyticsOff(request);
+
         // Build the upstream URL by replacing capture groups
         let upstream = route.target;
         for (let i = 1; i < match.length; i++) {

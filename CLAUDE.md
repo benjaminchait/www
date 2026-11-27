@@ -118,7 +118,7 @@ The site uses a single, minimal CSS file (`assets/style.css`):
 - **Dependency updates:** `.github/dependabot.yml` opens weekly (Monday, Pacific Time) PRs for `npm` and `github-actions`, with minor/patch updates grouped. Major `markdown-it` / `markdown-it-attrs` bumps arrive as separate PRs; upgrade them together and check `{:style=...}` rendering. Dependabot security alerts still open PRs outside this schedule.
 - **Build:** `npm ci && npx @11ty/eleventy` (output dir `_site`)
 - **Hosting:** Cloudflare Workers (static assets via ASSETS binding; worker entry: `src/worker.js`)
-- **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`
+- **Analytics:** Plausible Analytics (privacy-focused), proxied through `src/worker.js`. The proxy only forwards for `benjaminchait.net`; branch and commit previews, the plain `workers.dev` URL and local dev get an inert response, so they don't count as traffic.
 - **Video:** `/assets/video/*` is served by `src/worker.js` from the R2 bucket `www-video` (binding `VIDEO`), with Range support. Keys under `originals/` are never served. Responses are cached as immutable, so upload changed files under a new key. Videos are not committed to this repo.
 - **Redirects:** Simple redirects in `_redirects` (honored by ASSETS binding, 301/302 only; lines without a code return 302); proxy/rewrite rules in `src/worker.js`
 - **DNS:** Cloudflare (custom domain routed to the Worker)
