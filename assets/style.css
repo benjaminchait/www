@@ -1,3 +1,10 @@
+/* C-lite: small changes on top of the original stylesheet; fonts unchanged. */
+
+:root {
+  color-scheme: light dark;
+  --rule: #eee;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
@@ -20,7 +27,12 @@ img[style*="width"] {
 }
 
 a {
-  color: #0074D9;
+  color: #0068c4;
+}
+
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
 }
 
 h1, h2, strong {
@@ -29,10 +41,12 @@ h1, h2, strong {
 
 h1 {
   font-size: 1.6em;
+  letter-spacing: -0.02em;
 }
 
 h2 {
   font-size: 1.3em;
+  letter-spacing: -0.015em;
   margin-top: 1.3em;
   margin-bottom: 0.2em;
 }
@@ -56,11 +70,11 @@ li {
 
 hr {
   border: 0px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid var(--rule);
 }
 
 .muted {
-  color: #aaa;
+  color: #666;
   text-decoration: none;
 }
 
@@ -73,7 +87,58 @@ hr {
   font-size: .8em;
 }
 
+ul.more-space, .posts {
+  list-style: none;
+  padding: 0;
+}
+
+ul.more-space li, .posts li {
+  margin: 0;
+  padding: .6em 0;
+  border-top: 1px solid var(--rule);
+}
+
+ul.more-space li:last-child, .posts li:last-child {
+  border-bottom: 1px solid var(--rule);
+}
+
+.posts li {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  gap: 1.5em;
+}
+
+.posts .date {
+  flex: 0 0 9.5em;
+  font-size: .85em;
+  color: #666;
+}
+
+@media (max-width: 34rem) {
+  .posts li {
+    flex-direction: column-reverse;
+    gap: 0;
+  }
+
+  .posts .date {
+    flex: 0 0 auto;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
+  :root {
+    --rule: #383838;
+  }
+
+  a {
+    color: #66b0ff;
+  }
+
+  .muted, .posts .date {
+    color: #aaa;
+  }
+
   body {
     color: #fafafa;
     background: #222;
