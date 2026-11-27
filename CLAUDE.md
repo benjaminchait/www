@@ -42,7 +42,7 @@ _posts/_posts.json   # Directory data file (default layout + tags for posts)
 _redirects           # Redirect rules (honored by ASSETS binding; simple 301/302 only)
 about/               # About section pages and favorites/
 assets/
-  style.css          # Main stylesheet (single file, ~90 lines)
+  style.css          # Main stylesheet (single file, ~250 lines)
   img/               # All images (organized by section)
     posts/           # Blog post images (matched by date)
     about/           # About section images
@@ -103,12 +103,13 @@ Newsletter assets (images, etc.) are stored in [benjaminchait/newsletter](https:
 
 ## Styling
 
-The site uses a single, minimal CSS file (`assets/style.css`):
-- System font stack (`-apple-system, BlinkMacSystemFont, ...`)
-- Max width: `40rem` with `2rem` padding
-- Dark mode support via `@media (prefers-color-scheme: dark)`
-- Link color: `#0074D9`
-- Minimal class system: `.muted`, `.small`, `.not-muted`
+The site uses a single, minimal CSS file (`assets/style.css`), the "quiet modern" look:
+- Fonts are the system fonts: `system-ui` for text, and `ui-monospace` for dates, footer links and small labels (SF Pro and SF Mono on Apple devices). No web fonts.
+- Max width: `42rem`, with fluid padding and a fluid base font size
+- Colors are variables on `:root` (`--bg`, `--ink`, `--muted`, `--rule`, `--accent`), redefined in `@media (prefers-color-scheme: dark)`. All text and link colors meet 4.5:1 contrast in light and dark; keep that when changing them.
+- Link color is the accent: `#2145cf` in light mode, `#93b2ff` in dark mode
+- Photos get 6px rounded corners and a hairline outline; the memoji (inline `border-radius`) is exempt from the dark-mode dimming
+- Classes: `.muted`, `.small`, `.not-muted`, plus list styles for `ul.more-space` (home) and `.posts` (archives, date on the left)
 
 ## Deployment
 
