@@ -229,6 +229,10 @@ ul.more-space li:last-child {
     flex-direction: column-reverse;
     gap: 0;
   }
+
+  .posts .date {
+    flex: 0 0 auto;
+  }
 }
 
 footer {
